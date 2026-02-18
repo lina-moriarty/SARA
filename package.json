@@ -1,0 +1,12 @@
+{
+  "name": "sara",
+  "version": "0.1.0",
+  "description": "SARA - Sistema de Autoevaluación y Repaso para oposiciones de examinAdor de tráfico",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "author": "lina-moriarty",
+  "license": "MIT"
+}
