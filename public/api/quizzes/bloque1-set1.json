@@ -1,0 +1,457 @@
+{
+  "title": "Bloque 1: Organización del Estado (Set 1)",
+  "description": "Temas 1-8: Constitución, Corona, Cortes, Gobierno, Poder Judicial, Organización territorial, TC, UE",
+  "bloque": 1,
+  "questions": [
+    {
+      "pregunta": "Según el artículo 1 de la Constitución Española, España se constituye en un Estado social y democrático de Derecho que propugna como valores superiores de su ordenamiento jurídico:",
+      "opciones": [
+        "La libertad, la justicia, la igualdad y el pluralismo político",
+        "La libertad, la justicia, la solidaridad y el pluralismo político",
+        "La libertad, la seguridad, la igualdad y el pluralismo político",
+        "La libertad, la justicia, la igualdad y la democracia"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 1.1 CE establece expresamente que los valores superiores son la libertad, la justicia, la igualdad y el pluralismo político. Las opciones incorrectas sustituyen alguno de estos valores por otros conceptos que, aunque relevantes, no son los enumerados en este artículo.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 1.1",
+        "texto": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 3 de la Constitución Española, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "El castellano es la lengua española oficial del Estado",
+        "Todos los españoles tienen el deber de conocer el castellano y el derecho a usarlo",
+        "Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos",
+        "La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección"
+      ],
+      "correcta": 1,
+      "explicacion": "La respuesta B es incorrecta porque el artículo 3.1 CE establece que todos los españoles tienen el deber de conocerla (el castellano) y el derecho a usarla. No existe un deber constitucional de conocer las demás lenguas cooficiales.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 3.1",
+        "texto": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 17 de la Constitución Española, la detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de:",
+      "opciones": [
+        "Veinticuatro horas",
+        "Cuarenta y ocho horas",
+        "Setenta y dos horas",
+        "Noventa y seis horas"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 17.2 CE establece claramente que el plazo máximo de detención preventiva es de setenta y dos horas, tras el cual el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 17.2",
+        "texto": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 9.3 de la Constitución Española, ésta garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas y:",
+      "opciones": [
+        "La retroactividad de las disposiciones sancionadoras favorables, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+        "La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+        "La irretroactividad de todas las disposiciones sancionadoras, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos",
+        "La irretroactividad de las disposiciones sancionadoras no favorables, la certeza jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 9.3 CE garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales (no de todas las disposiciones sancionadoras), la seguridad jurídica (no certeza jurídica), la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 9.3",
+        "texto": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 56 de la Constitución Española, el Rey es:",
+      "opciones": [
+        "El Jefe del Estado, símbolo de su unidad y permanencia, y ejerce el poder ejecutivo",
+        "El Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones",
+        "El Jefe del Gobierno, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones",
+        "El Jefe del Estado, garante de la Constitución, arbitra y modera el funcionamiento regular de las instituciones"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 56.1 CE define al Rey como Jefe del Estado (no del Gobierno), símbolo de su unidad y permanencia, que arbitra y modera el funcionamiento regular de las instituciones. No ejerce el poder ejecutivo (que corresponde al Gobierno) ni es definido como garante de la Constitución.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 56.1",
+        "texto": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 57 de la Constitución Española, en la sucesión al trono, en el mismo grado:",
+      "opciones": [
+        "Será preferida la persona de mayor edad a la de menor",
+        "Será preferido el varón a la mujer",
+        "Será preferida la línea anterior a las posteriores",
+        "No existe preferencia alguna"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 57.1 CE establece que la sucesión seguirá el orden regular de primogenitura y representación, siendo preferida la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer; y en el mismo sexo, la persona de más edad a la de menos.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 57.1",
+        "texto": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 64 de la Constitución Española, los actos del Rey serán refrendados por:",
+      "opciones": [
+        "El Presidente del Gobierno exclusivamente",
+        "El Presidente del Gobierno y, en su caso, por los Ministros competentes",
+        "El Presidente del Congreso exclusivamente",
+        "El Presidente del Gobierno, el Presidente del Congreso y el Presidente del Senado"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 64.1 CE establece que los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 64.1",
+        "texto": "Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 62 de la Constitución Española, señale cuál de las siguientes funciones NO corresponde al Rey:",
+      "opciones": [
+        "Sancionar y promulgar las leyes",
+        "Convocar y disolver las Cortes Generales",
+        "Aprobar los Presupuestos Generales del Estado",
+        "Ejercer el derecho de gracia con arreglo a la ley"
+      ],
+      "correcta": 2,
+      "explicacion": "La aprobación de los Presupuestos Generales del Estado corresponde a las Cortes Generales, según el artículo 66.2 CE. Las otras tres opciones sí son funciones del Rey enumeradas en el artículo 62 CE.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 62",
+        "texto": "Corresponde al Rey: a) Sancionar y promulgar las leyes. b) Convocar y disolver las Cortes Generales y convocar elecciones... i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 68 de la Constitución Española, el Congreso de los Diputados se compone de:",
+      "opciones": [
+        "Un mínimo de 300 y un máximo de 350 Diputados",
+        "Un mínimo de 350 y un máximo de 400 Diputados",
+        "Un mínimo de 300 y un máximo de 400 Diputados",
+        "Exactamente 350 Diputados"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 68.1 CE establece que el Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 68.1",
+        "texto": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 81 de la Constitución Española, la aprobación, modificación o derogación de las leyes orgánicas exigirá:",
+      "opciones": [
+        "Mayoría simple del Congreso",
+        "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto",
+        "Mayoría de tres quintos del Congreso y del Senado",
+        "Mayoría absoluta del Congreso y del Senado"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 81.2 CE establece que la aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto. No se requiere la misma mayoría en el Senado.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 81.2",
+        "texto": "La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 71 de la Constitución Española, los Diputados y Senadores gozarán de inviolabilidad por:",
+      "opciones": [
+        "Cualquier acto realizado en el ejercicio de sus funciones",
+        "Las opiniones manifestadas en el ejercicio de sus funciones",
+        "Los votos emitidos en las Cámaras",
+        "Las opiniones manifestadas dentro del recinto de las Cámaras"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 71.1 CE establece que los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones. Esta inviolabilidad es específica para las opiniones, no para cualquier acto.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 71.1",
+        "texto": "Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 86 de la Constitución Española, los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo máximo de:",
+      "opciones": [
+        "Quince días siguientes a su promulgación",
+        "Veinte días siguientes a su promulgación",
+        "Treinta días siguientes a su promulgación",
+        "Cuarenta y cinco días siguientes a su promulgación"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 86.2 CE establece que los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados en el plazo de los treinta días siguientes a su promulgación.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 86.2",
+        "texto": "Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 97 de la Constitución Española, el Gobierno dirige:",
+      "opciones": [
+        "La política interior, la Administración civil y la defensa del Estado",
+        "La política interior y exterior, la Administración civil y militar y la defensa del Estado",
+        "La política interior y exterior, la Administración civil y la seguridad pública",
+        "La política interior y exterior, la Administración Pública y las relaciones internacionales"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 97 CE establece literalmente que el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 97",
+        "texto": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 1 de la Ley 50/1997, del Gobierno, éste se compone de:",
+      "opciones": [
+        "El Presidente, los Vicepresidentes, los Ministros y los Secretarios de Estado",
+        "El Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros",
+        "El Presidente, los Ministros y los Secretarios de Estado",
+        "El Presidente del Gobierno y los Ministros exclusivamente"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 1.2 de la Ley 50/1997 establece que el Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros. Los Secretarios de Estado no son miembros del Gobierno, sino órganos de colaboración y apoyo.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley 50/1997, del Gobierno",
+        "referencia": "Artículo 1.2",
+        "texto": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 113 de la Constitución Española, la moción de censura deberá ser propuesta al menos por:",
+      "opciones": [
+        "La quinta parte de los Diputados",
+        "La décima parte de los Diputados",
+        "Cincuenta Diputados",
+        "La cuarta parte de los Diputados"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 113.2 CE establece que la moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 113.2",
+        "texto": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 117 de la Constitución Española, los Jueces y Magistrados integrantes del poder judicial son:",
+      "opciones": [
+        "Independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley",
+        "Independientes, inamovibles e irresponsables, sometidos únicamente al imperio de la ley",
+        "Independientes, amovibles, responsables y sometidos únicamente al imperio de la ley",
+        "Independientes, inamovibles, responsables y sometidos a las instrucciones del Consejo General del Poder Judicial"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 117.1 CE establece que los Jueces y Magistrados son independientes, inamovibles, responsables (no irresponsables) y sometidos únicamente al imperio de la ley (no a instrucciones del CGPJ).",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 117.1",
+        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 122 de la Constitución Española, el Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo y por:",
+      "opciones": [
+        "Doce miembros nombrados por el Rey por un período de cinco años",
+        "Veinte miembros nombrados por el Rey por un período de cinco años",
+        "Veinte miembros nombrados por el Rey por un período de cuatro años",
+        "Veintiún miembros nombrados por el Rey por un período de cinco años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 122.3 CE establece que el CGPJ estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años.",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 122.3",
+        "texto": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 1 de la Ley Orgánica 6/1985, del Poder Judicial, la justicia se administra en nombre del Rey por Jueces y Magistrados sometidos únicamente:",
+      "opciones": [
+        "A la Constitución y al imperio de la ley",
+        "Al imperio de la ley",
+        "A la Constitución, al imperio de la ley y a la jurisprudencia del Tribunal Supremo",
+        "A la Constitución y a las directrices del Consejo General del Poder Judicial"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 1 LOPJ establece que la justicia se administra por Jueces y Magistrados sometidos únicamente a la Constitución y al imperio de la ley. La LOPJ añade la Constitución respecto a la CE, pero no incluye la jurisprudencia del TS ni directrices del CGPJ.",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley Orgánica 6/1985, del Poder Judicial",
+        "referencia": "Artículo 1",
+        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 137 de la Constitución Española, el Estado se organiza territorialmente en:",
+      "opciones": [
+        "Provincias y en las Comunidades Autónomas que se constituyan",
+        "Municipios, en provincias y en las Comunidades Autónomas que se constituyan",
+        "Municipios, en comarcas, en provincias y en las Comunidades Autónomas",
+        "Municipios, en provincias, en regiones y en las Comunidades Autónomas"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 137 CE establece literalmente que el Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. No menciona comarcas ni regiones como entidades de organización territorial del Estado.",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 137",
+        "texto": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 141 de la Constitución Española, cualquier alteración de los límites provinciales habrá de ser aprobada por:",
+      "opciones": [
+        "Las Cortes Generales mediante ley ordinaria",
+        "Las Cortes Generales mediante ley orgánica",
+        "El Gobierno mediante Real Decreto",
+        "La Comunidad Autónoma afectada mediante ley autonómica"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 141.1 CE establece que cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica, dada la importancia de la división provincial.",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 141.1",
+        "texto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 145 de la Constitución Española, en ningún caso se admitirá:",
+      "opciones": [
+        "La unión de Comunidades Autónomas",
+        "La federación de Comunidades Autónomas",
+        "Los convenios entre Comunidades Autónomas",
+        "La cooperación entre Comunidades Autónomas"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 145.1 CE establece que en ningún caso se admitirá la federación de Comunidades Autónomas. Sin embargo, sí se permiten convenios entre ellas para la gestión y prestación de servicios propios, así como acuerdos de cooperación (estos últimos con autorización de las Cortes).",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 145.1",
+        "texto": "En ningún caso se admitirá la federación de Comunidades Autónomas."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de:",
+      "opciones": [
+        "9 miembros nombrados por el Rey",
+        "12 miembros nombrados por el Rey",
+        "15 miembros nombrados por el Rey",
+        "21 miembros nombrados por el Rey"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 159.1 CE establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey: 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ.",
+      "tema": 7,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 159.1",
+        "texto": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+      }
+    },
+    {
+      "pregunta": "Según el artículo 159 de la Constitución Española, los miembros del Tribunal Constitucional serán designados por un período de:",
+      "opciones": [
+        "Seis años y se renovarán por mitades cada tres años",
+        "Nueve años y se renovarán por terceras partes cada tres años",
+        "Doce años y se renovarán por cuartas partes cada tres años",
+        "Nueve años sin renovación parcial"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 159.3 CE establece que los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres años.",
+      "tema": 7,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 159.3",
+        "texto": "Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres."
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 93 de la Constitución Española, mediante qué tipo de ley se podrá autorizar la celebración de tratados por los que se atribuya a una organización internacional el ejercicio de competencias derivadas de la Constitución:",
+      "opciones": [
+        "Ley ordinaria",
+        "Ley orgánica",
+        "Real Decreto-ley",
+        "Decreto legislativo"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 93 CE establece que mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución. Este artículo fue la base para la adhesión de España a las Comunidades Europeas.",
+      "tema": 8,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 93",
+        "texto": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución."
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 4 bis de la Ley Orgánica del Poder Judicial, los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con:",
+      "opciones": [
+        "La jurisprudencia del Tribunal Supremo",
+        "La jurisprudencia del Tribunal Constitucional",
+        "La jurisprudencia del Tribunal de Justicia de la Unión Europea",
+        "Las instrucciones del Consejo General del Poder Judicial"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 4 bis.1 LOPJ establece expresamente que los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea.",
+      "tema": 8,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley Orgánica 6/1985, del Poder Judicial",
+        "referencia": "Artículo 4 bis.1",
+        "texto": "Los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea."
+      }
+    }
+  ]
+}

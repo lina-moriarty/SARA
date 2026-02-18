@@ -1,5 +1,11 @@
 [
   {
+    "id": "bloque1-set1",
+    "title": "Bloque 1: Organización del Estado (Set 1)",
+    "description": "Temas 1-8: Constitución, Corona, Cortes, Gobierno, Poder Judicial, Organización territorial, TC, UE",
+    "questionCount": 25
+  },
+  {
     "id": "demo-bloque1",
     "title": "Demo — Bloque 1: Organización del Estado",
     "description": "10 preguntas de prueba (Temas 1-8)",
