@@ -1,0 +1,1438 @@
+                                     LEGISLACIÓN CONSOLIDADA
+        Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el
+         Reglamento regulador de las escuelas particulares de conductores.
+                                               Ministerio del Interior
+                                      «BOE» núm. 258, de 28 de octubre de 2003
+                                          Referencia: BOE-A-2003-19801
+                                                              ÍNDICE
+
+Preámbulo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+
+Artículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+
+   Artículo único. Aprobación del Reglamento regulador de las escuelas particulares de conductores. . . . . . . . . .                               5
+
+Disposiciones adicionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         5
+
+   Disposición adicional única. Competencias transferidas a las comunidades autónomas. . . . . . . . . . . . . . . . .                              5
+
+Disposiciones derogatorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          5
+
+   Disposición derogatoria única. Derogación normativa.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  5
+
+Disposiciones finales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       5
+
+   Disposición final primera. Ejecución y desarrollo del reglamento que se aprueba. . . . . . . . . . . . . . . . . . . . .                         5
+
+   Disposición final segunda. Habilitación específica al Ministro del Interior.. . . . . . . . . . . . . . . . . . . . . . . . . .                  6
+
+   Disposición final tercera. Entrada en vigor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           6
+
+REGLAMENTO REGULADOR DE LAS ESCUELAS PARTICULARES DE CONDUCTORES. . . . . . . . . . . . . . .                                                       6
+
+   CAPÍTULO I. Actividades de las escuelas particulares de conductores . . . . . . . . . . . . . . . . . . . . . . . . . . .                        6
+
+      Artículo 1. Actividades.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+
+      Artículo 2. Principio de unidad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        6
+
+   CAPÍTULO II. Elementos de las escuelas particulares de conductores . . . . . . . . . . . . . . . . . . . . . . . . . . .                         6
+
+      Artículo 3. Elementos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        6
+
+      Sección 1.ª Elementos personales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              7
+                                                                Página 1
+                                     BOLETÍN OFICIAL DEL ESTADO
+                                           LEGISLACIÓN CONSOLIDADA
+
+      Artículo 4. Titular.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    7
+
+      Artículo 5. Obligaciones del titular. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        7
+
+      Artículo 6. Personal directivo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        7
+
+      Artículo 7. Obligaciones del personal directivo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             7
+
+      Artículo 8. Personal docente. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          8
+
+      Artículo 9. Obligaciones de los profesores. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              8
+
+      Artículo 10. Personal administrativo y otros. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            9
+
+   Sección 2.ª Elementos personales mínimos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  9
+
+      Artículo 11. Elementos personales mínimos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 9
+
+      Artículo 12. Prohibiciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        9
+
+   Sección 3.ª Elementos materiales mínimos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               10
+
+      Artículo 13. Locales.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      10
+
+      Artículo 14. Terrenos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      10
+
+      Artículo 15. Vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       10
+
+      Artículo 16. Requisitos de los vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           10
+
+      Artículo 17. Agrupaciones para la utilización compartida de vehículos. . . . . . . . . . . . . . . . . . . . . . . . .                    11
+
+      Artículo 18. Vehículos aportados por los interesados. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               11
+
+      Artículo 19. Material didáctico. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        11
+
+CAPÍTULO III. De la autorización de apertura . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              12
+
+   Sección 1.ª Normas generales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           12
+
+      Artículo 20. Necesidad de obtener autorización administrativa previa. . . . . . . . . . . . . . . . . . . . . . . . .                     12
+
+   Sección 2.ª Autorización de apertura . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           12
+
+      Artículo 21. Solicitud de la autorización de apertura y documentación a presentar con la misma. . . . . . . .                             12
+
+      Artículo 22. Expedición de la autorización de apertura. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               13
+
+      Artículo 23. Alcance de la autorización de apertura. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              14
+
+      Artículo 24. Modificación de la autorización de apertura. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               14
+
+      Artículo 25. Suspensión voluntaria de actividades.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               14
+
+      Artículo 26. Extinción. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     15
+
+      Artículo 27. Presentación de alumnos a la realización de las pruebas en distinta provincia. . . . . . . . . . . .                         15
+
+   Sección 3.ª Autorizaciones de ejercicio del personal directivo y docente . . . . . . . . . . . . . . . . . . . . . . . .                     16
+
+      Artículo 28. Solicitud de la autorización y documentos a presentar con la misma. . . . . . . . . . . . . . . . . .                        16
+                                                            Página 2
+                                    BOLETÍN OFICIAL DEL ESTADO
+                                           LEGISLACIÓN CONSOLIDADA
+
+      Artículo 29. Concesión de las autorizaciones de ejercicio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              16
+
+      Artículo 30. Alcance de las autorizaciones de ejercicio.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             16
+
+      Artículo 31. Suspensión de las autorizaciones de ejercicio. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               17
+
+      Artículo 32. Modificación de la autorización de ejercicio de profesor. . . . . . . . . . . . . . . . . . . . . . . . . .                17
+
+   Sección 4.ª Nulidad o lesividad, pérdida de vigencia, suspensión cautelar e intervención de las
+     autorizaciones de apertura y de ejercicio del personal directivo y docente . . . . . . . . . . . . . . . . . . . . . .                   17
+
+      Artículo 33. Declaración de nulidad o lesividad. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            17
+
+      Artículo 34. Procedimiento para la declaración de nulidad o lesividad. . . . . . . . . . . . . . . . . . . . . . . . .                  17
+
+      Artículo 35. Pérdida de vigencia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       17
+
+      Artículo 36. Procedimiento para la declaración de la pérdida de vigencia. . . . . . . . . . . . . . . . . . . . . . .                   17
+
+      Artículo 37. Suspensión cautelar e intervención inmediata de las autorizaciones. . . . . . . . . . . . . . . . . .                      18
+
+CAPÍTULO IV. Régimen de enseñanza . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               18
+
+   Artículo 38. Programación de la enseñanza. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             18
+
+CAPÍTULO V. Documentación y distintivos obligatorios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                18
+
+   Artículo 39. Registro de alumnos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        18
+
+   Artículo 40. Fichas del alumno. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        19
+
+   Artículo 41. Distintivos.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   19
+
+   Artículo 42. Contrato de enseñanza. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          19
+
+CAPÍTULO VI. Actividades de control: Inspecciones y auditorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  19
+
+   Artículo 43. Actividades de control: Inspecciones y auditorías. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              19
+
+CAPÍTULO VII. Sanciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         20
+
+   Artículo 44. Sanciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      20
+
+CAPÍTULO VIII. Cualificación del personal docente y directivo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 20
+
+   Artículo 45. Cualificación del personal docente y directivo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             20
+
+   Artículo 46. Obtención del certificado de aptitud de profesor de formación vial. . . . . . . . . . . . . . . . . . . . .                   20
+
+   Artículo 47. Obtención del Certificado de Aptitud de Director de Escuelas de Conductores. . . . . . . . . . . . .                          21
+
+   Artículo 48. Profesores de formación vial en prácticas.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             22
+
+   Artículo 48 bis. Profesorado especialista en el título de Técnico Superior en Formación para la movilidad
+      segura y sostenible. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    22
+
+   Artículo 48 ter. Autorización de ejercicio del profesorado especialista del título de Técnico Superior en
+      Formación para la movilidad segura y sostenible. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              22
+
+CAPÍTULO IX. Los registros de centros de formación de conductores y de profesionales de la enseñanza de la
+  conducción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    23
+                                                            Página 3
+                                        BOLETÍN OFICIAL DEL ESTADO
+                                              LEGISLACIÓN CONSOLIDADA
+
+      Artículo 49. Órgano competente para llevar y gestionar los registros. . . . . . . . . . . . . . . . . . . . . . . . . . .                  23
+
+      Artículo 50. Finalidad de los Registros. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         23
+
+      Artículos 51 a 56. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   24
+
+Disposiciones adicionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      24
+
+   Disposición adicional primera. Tratamientos de datos personales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  24
+
+   Disposición adicional segunda. Jefaturas Locales de Tráfico de Ceuta y Melilla. . . . . . . . . . . . . . . . . . . . . .                     24
+
+   Disposición adicional tercera. Aplicación supletoria. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           24
+
+   Disposición adicional cuarta. Condiciones para la libre prestación de la actividad de Director o de Profesor de
+     Formación Vial o de Profesor de Escuelas Particulares de Conductores. . . . . . . . . . . . . . . . . . . . . . . . .                       24
+
+   Disposición adicional quinta. Comunicación entre Registros. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 24
+
+   Disposición adicional sexta. Condiciones para la prestación de la actividad de profesor de formación vial. . . . .                            25
+
+Disposiciones transitorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     26
+
+   Disposición transitoria primera. Adaptación a los requisitos sobre documentación y elementos personales y
+     materiales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   26
+
+   Disposición transitoria segunda. Titulaciones académicas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               26
+
+   Disposición transitoria tercera. Cursos y pruebas para la obtención de los certificados de aptitud de profesor de
+     formación vial y de director de escuelas particulares de conductores. . . . . . . . . . . . . . . . . . . . . . . . . . .                   26
+                                                               Página 4
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                        TEXTO CONSOLIDADO
+               Última modificación: 26 de diciembre de 2025
+
+     La disposición final segunda de la Ley 19/2001, de 19 de diciembre, de reforma del texto
+articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial,
+aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo, encomienda al Gobierno
+la modificación del Reglamento regulador de las escuelas particulares de conductores de
+vehículos a motor, aprobado por el Real Decreto 1753/1984, de 30 de agosto, en ejercicio de
+la competencia atribuida por el apartado 2 del artículo 60 del mencionado texto articulado.
+     La modificación reglamentaria a la que se refiere el párrafo anterior viene impuesta por la
+necesidad de actualizar la regulación de las escuelas particulares de conductores,
+acomodándola a las modificaciones normativas producidas desde la entrada en vigor del
+anterior reglamento, especialmente las llevadas a cabo por el Reglamento General de
+Conductores.
+     Por otra parte, se hace necesario continuar en la línea del reglamento anterior, en el
+sentido de favorecer el principio de libertad de empresa, flexibilizando tanto los requisitos
+como el régimen de funcionamiento de las escuelas particulares de conductores, sin
+perjuicio de ejercer el necesario control sobre éstas.
+     Por último, con objeto de agilizar el procedimiento de selección de los profesores y
+directores, se prevé la posibilidad de sustituir los cursos por pruebas de selección.
+     En su virtud, a propuesta del Ministro del Interior, previa aprobación de la Ministra de
+Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del
+Consejo de Ministros en su reunión del día 17 de octubre de 2003,
+
+                                      DISPONGO:
+
+Artículo único.    Aprobación del Reglamento regulador de las escuelas particulares de
+conductores.
+    Se aprueba el Reglamento regulador de las escuelas particulares de conductores, que
+se inserta a continuación.
+
+Disposición adicional única. Competencias transferidas a las comunidades autónomas.
+    En virtud de lo dispuesto en el Real Decreto 3256/1982, de 15 de octubre, sobre
+traspaso de servicios del Estado a la Comunidad Autónoma del País Vasco en materia de
+ejecución de la legislación estatal sobre tráfico y circulación de vehículos, y en el Real
+Decreto 391/1998, de 13 de marzo, sobre traspaso de servicios y funciones de la
+Administración del Estado a la Generalidad de Cataluña en materia de tráfico y circulación
+de vehículos a motor, por las respectivas comunidades autónomas se ejercerán las
+funciones de ejecución que se detallan en el reglamento que aprueba este real decreto,
+velando por su estricto cumplimiento.
+
+Disposición derogatoria única. Derogación normativa.
+    Queda derogado el Reglamento regulador de las escuelas particulares de conductores
+de vehículos a motor, aprobado por el Real Decreto 1753/1984, de 30 de agosto, y cuantas
+disposiciones de igual o inferior rango se oponga a lo dispuesto en este real decreto y en el
+reglamento que éste aprueba.
+
+Disposición final primera. Ejecución y desarrollo del reglamento que se aprueba.
+    Se faculta al Ministro del Interior, previo informe de los ministros competentes por razón
+de la materia, para dictar las disposiciones que requiera el desarrollo, ejecución, aclaración e
+interpretación del reglamento aprobado por este real decreto.
+                                           Página 5
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Disposición final segunda. Habilitación específica al Ministro del Interior.
+    Se autoriza al Ministro del Interior para que, de acuerdo con las innovaciones
+tecnológicas que se vayan produciendo, pueda sustituir y modificar todas las exigencias que
+respecto al material didáctico se contienen en el artículo 20 del reglamento que se aprueba.
+
+Disposición final tercera. Entrada en vigor.
+    El presente real decreto y el reglamento que por él se aprueba entrarán en vigor a los
+tres meses de su publicación en el "Boletín Oficial del Estado".
+   Dado en Madrid, a 17 de octubre de 2003.
+
+                                                                           JUAN CARLOS R.
+                                     El Ministro del Interior,
+                                   ÁNGEL ACEBES PANIAGUA
+
+   REGLAMENTO         REGULADOR        DE LAS ESCUELAS             PARTICULARES       DE
+                                      CONDUCTORES
+
+                                         CAPÍTULO I
+                Actividades de las escuelas particulares de conductores
+
+Artículo 1. Actividades.
+    1. Como centros docentes, las Escuelas Particulares de Conductores están facultadas
+para impartir, de forma profesional, la enseñanza de los conocimientos, habilidades,
+aptitudes o comportamientos esenciales para la seguridad de la circulación, a los aspirantes
+a la obtención de alguno de los permisos o licencias de conducción previstos en el
+Reglamento General de Conductores, aprobado por el Real Decreto 818/2009, de 8 de
+mayo.
+    2. Las Escuelas Particulares de Conductores, además, podrán realizar otras actividades,
+siempre que cumplan con los requisitos exigidos en la normativa específica que, en su caso,
+las regule.
+    3. Previa autorización de los alumnos e información a los mismos del coste asociado a
+este servicio, podrán gestionar en los centros oficiales, en el nombre de aquéllos, el
+despacho de cuantos documentos les interesen a aquéllos y estén directamente
+relacionados con la obtención del permiso o licencia de conducción.
+
+Artículo 2. Principio de unidad.
+    1. Cada Escuela Particular de Conductores, disponga o no de Secciones, constituye una
+unidad.
+    2. Se entiende por Sección toda sucursal de la Escuela matriz con la misma titularidad y
+denominación.
+
+                                        CAPÍTULO II
+                 Elementos de las escuelas particulares de conductores
+
+Artículo 3. Elementos.
+    1. Toda Escuela deberá disponer de unos elementos personales y materiales mínimos
+para poder desarrollar sus funciones. Cada Sección o Sucursal de la Escuela deberá
+disponer a su vez de los elementos personas y materiales mínimos.
+    2. Los elementos personales mínimos son el titular, el director y el personal docente. Los
+elementos materiales mínimos están constituidos por los locales, los terrenos o zonas de
+prácticas, los vehículos y el material didáctico.
+                                           Página 6
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                             Sección 1.ª Elementos personales
+
+Artículo 4. Titular.
+    1. Es titular de una escuela quien figure inscrito como tal en el Registro de Centros de
+Formación de Conductores a que se refiere el párrafo h) del artículo 5, del texto refundido de
+la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, existente en el
+organismo autónomo Jefatura Central de Tráfico.
+    2. Puede ser titular de una Escuela cualquier persona natural o jurídica que haya
+obtenido la autorización de apertura de la misma. También pueden serlo, provisionalmente,
+las comunidades hereditarias mientras se produce la adjudicación de la herencia.
+    3. El titular es responsable de que la Escuela y, en su caso, sus Secciones o Sucursales,
+cumpla en todo momento con la normativa que regula esta actividad y reúnan todos los
+elementos personales y materiales mínimos exigidos para su funcionamiento.
+
+Artículo 5. Obligaciones del titular.
+    Son obligaciones del titular de la Escuela:
+    a) Controlar y comprobar, de forma constante, que el Centro y, en su caso, sus
+Secciones o Sucursales, cuenten, en todo momento, con los elementos personales y
+materiales mínimos, estando obligado a dar cuenta a la Jefatura Provincial de Tráfico de las
+incidencias que se produzcan en relación con los mismos.
+    b) Dar cuenta a la Jefatura Provincial de Tráfico de cualquier alteración o modificación de
+los datos que se comunicaron o sirvieron de base para la autorización de apertura.
+    c) Estar presente, cuando sea requerido para ello con antelación suficiente, en las
+inspecciones y colaborar en la realización de las mismas con los funcionarios del Organismo
+Autónomo Jefatura Central de Tráfico que las practiquen.
+
+Artículo 6. Personal directivo.
+    1. El personal directivo es el encargado de planificar, programar, ordenar, dirigir y
+controlar de forma asidua y continuada la enseñanza y el desarrollo de la actividad docente
+del centro.
+    2. Para ejercer funciones directivas en una escuela o sección es necesario:
+    a) Haber obtenido el correspondiente certificado de aptitud de director de escuelas
+particulares de conductores o estar en posesión del Título de Técnico Superior en Formación
+para la movilidad segura y sostenible.
+    b) Disponer de autorización de ejercicio como director.
+
+Artículo 7. Obligaciones del personal directivo.
+    Son obligaciones del personal directivo:
+    a) Planificar y programar los contenidos temporizados, sistemas de evaluación y, en su
+caso, de recuperación, y dirigir, ordenar, controlar y comprobar, de forma asidua y
+continuada, el desarrollo de la actividad docente y la observancia de los preceptos de este
+reglamento en lo concerniente al régimen de enseñanza y actuación del personal docente,
+responsabilizándose de su cumplimiento y de que la enseñanza se imparta en forma eficaz,
+sin perjuicio de la responsabilidad en que pueda incurrir directamente dicho personal.
+    b) Estar presente, cuando sea requerido para ello con suficiente antelación, en las
+actividades de control de las que sea objeto la escuela o sección que dirija y colaborar en su
+realización con el personal del organismo autónomo Jefatura Central de Tráfico, de los
+órganos administrativos de las Comunidades Autónomas que tuvieran transferidas las
+competencias ejecutivas en materia de tráfico y circulación de vehículos a motor, o con el de
+las entidades acreditadas por dichas administraciones que las practiquen.
+                                           Página 7
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+       Téngase en cuenta que se declara la nulidad del inciso destacado de la letra b), en la
+   redacción dada por el art. 1.3 Real Decreto 1010/2023, de 5 de diciembre, Ref. BOE-
+   A-2023-24843, por Sentencia del TS de 11 de diciembre de 2025. Ref. BOE-A-2025-26608
+
+     c) Estar presente en la zona donde se desarrollen las pruebas de aptitud de los alumnos
+de la escuela o sección en la que preste sus servicios cuando, por existir causa justificada,
+fuera requerido para ello con la suficiente antelación.
+     d) Llevar consigo cuando ejerza sus funciones o presencie el desarrollo de las pruebas la
+autorización de ejercicio y el distintivo que le identifique y exhibir tales documentos siempre
+que algún funcionario de la Jefatura Provincial de Tráfico o los agentes de vigilancia del
+tráfico en el ejercicio de sus funciones los requiera.
+
+Artículo 8. Personal docente.
+   1. El personal docente está constituido por los profesores dedicados a impartir la
+enseñanza de los conocimientos y las técnicas de la conducción teóricos y prácticos
+necesarios para la formación y adiestramiento de los aspirantes a la obtención de un
+permiso o licencia de conducción.
+   2. Para ejercer funciones docentes como profesor en una escuela o sección es
+necesario:
+    a) Estar en posesión del certificado de aptitud de profesor de formación vial, de profesor
+de escuelas particulares de conductores o del Título de Técnico Superior en Formación para
+la movilidad segura y sostenible.
+    b) Disponer de autorización de ejercicio como profesor.
+
+Artículo 9. Obligaciones de los profesores.
+   Son obligaciones de los profesores:
+    a) Impartir eficazmente la enseñanza, dentro del ámbito de su autorización, de acuerdo
+con las normas y los programas establecidos y las disposiciones que se dicten para su
+desarrollo.
+    b) Atender de forma continuada la enseñanza práctica sin abandonar, en su caso, los
+dobles mandos del vehículo.
+    Cuando la enseñanza de las maniobras se realice en circuito cerrado a la circulación a
+que se refiere el artículo 14 de este reglamento, si las circunstancias lo permiten, no existe
+peligro y los alumnos están ya en condiciones adecuadas para ello, podrá, sin desatender la
+enseñanza, abandonar los dobles mandos. No podrá seguir simultáneamente las
+evoluciones de varios vehículos.
+    c) Acompañar durante las pruebas prácticas, responsabilizándose en la prueba de
+control de aptitudes y comportamientos en circulación en vías abiertas al tráfico del doble
+mando del vehículo y de la seguridad de la circulación, a los alumnos a los que haya
+impartido enseñanza práctica en la Escuela, Sección o Sucursal en que figure dado de alta y
+colaborar con los funcionarios de la Jefatura Provincial de Tráfico en lo que afecte a la
+realización de las pruebas de aptitud. Excepcionalmente podrá ser sustituido por el director
+si está en posesión del certificado que le autorice para ejercer como profesor o por otro
+profesor.
+    d) Estar presente, cuando por ser necesario sea requerido para ello con antelación
+suficiente, en las actividades de control de las que sea objeto la escuela, sección o sucursal
+en la que figure dado de alta, y colaborar en la realización de las mismas con el personal del
+organismo autónomo Jefatura Central de Tráfico, de los órganos administrativos de las
+Comunidades Autónomas que tuvieran transferidas las competencias ejecutivas en materia
+de tráfico y circulación de vehículos a motor, o con el de las entidades acreditadas por
+dichas administraciones que las practiquen.
+                                           Página 8
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+       Téngase en cuenta que se declara la nulidad del inciso destacado de la letra d), en la
+   redacción dada por el art. 1.5 Real Decreto 1010/2023, de 5 de diciembre, Ref. BOE-
+   A-2023-24843, por Sentencia del TS de 11 de diciembre de 2025. Ref. BOE-A-2025-26608
+
+    e) Llevar consigo cuando imparta la enseñanza, presencie el desarrollo de las pruebas o
+acompañe a los alumnos durante el examen, el distintivo que le identifique y exhibirlo
+siempre que algún funcionario de la Jefatura Provincial de Tráfico o los Agentes de vigilancia
+de tráfico en el ejercicio de sus funciones los requiera.
+
+Artículo 10. Personal administrativo y otros.
+    1. Las Escuelas podrán contar con el personal administrativo o de otra categoría que
+consideren oportuno.
+    2. Cuando dicho personal comparezca ante la Jefatura Provincial de Tráfico con la
+finalidad de gestionar asuntos de mero trámite relacionados con la actividad de la Escuela,
+Sección o Sucursal, deberán hacerlo provistos de un documento expedido por el titular de la
+Escuela el cual se responsabilizará de su actuación, que acredite que dicha actividad la
+realizan en nombre de esa Escuela, Sección o Sucursal.
+    3. Este personal está obligado, en su caso, a colaborar en la realización de las
+actividades de control de las que sea objeto la escuela, sección o sucursal con el personal
+del organismo autónomo Jefatura Central de Tráfico, de los órganos administrativos de las
+Comunidades Autónomas que tuvieran transferidas las competencias ejecutivas en materia
+de tráfico y circulación de vehículos a motor, o con el de las entidades acreditadas por
+dichas administraciones que las practique.
+       Téngase en cuenta que se declara la nulidad del inciso destacado del apartado 3, en la
+   redacción dada por el art. 1.6 Real Decreto 1010/2023, de 5 de diciembre, Ref. BOE-
+   A-2023-24843, por Sentencia del TS de 11 de diciembre de 2025. Ref. BOE-A-2025-26608
+                       Sección 2.ª Elementos personales mínimos
+
+Artículo 11. Elementos personales mínimos.
+    Toda escuela, sección o sucursal deberá disponer de los siguientes elementos
+personales mínimos:
+    a) Un titular que cuente con la debida autorización de apertura de la escuela.
+    b) Un director que cumpla con los requisitos establecidos en el artículo 6 del presente
+reglamento.
+    c) Un profesor que cumpla con los requisitos establecidos en el artículo 8 del presente
+reglamento.
+   Todo ello sin perjuicio de que la misma persona pueda realizar más de una función en la
+misma escuela, sección o sucursal.
+
+Artículo 12. Prohibiciones.
+    1. Mientras se encuentren en activo, el personal al servicio del organismo autónomo
+Jefatura Central de Tráfico, el personal de la Agrupación de Tráfico de la Guardia Civil, los
+miembros de las Policías Locales y el personal docente de las Escuelas Oficiales de
+Conductores no podrán prestar servicio alguno en las escuelas particulares de conductores o
+sus secciones o sucursales, ser titulares de las mismas, ni formar parte de la entidad o
+persona jurídica a cuyo nombre figure la autorización de apertura.
+                                           Página 9
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    2. La prohibición a que se refiere el apartado anterior afecta también al personal en
+activo de los servicios equivalentes de las comunidades autónomas que, en su caso, ejerzan
+funciones en materia de tráfico y circulación de vehículos a motor.
+
+                         Sección 3.ª Elementos materiales mínimos
+
+Artículo 13. Locales.
+    Toda Escuela, Sección o Sucursal deberá contar con un local en el que pueda desarrollar
+sus actividades y que cumpla con los requisitos exigidos por la normativa vigente.
+
+Artículo 14. Terrenos.
+    1. Toda Escuela autorizada para impartir la enseñanza para la obtención de la licencia o
+del permiso de conducción de las clases AM, A1, A2, A, B, B+E, C1, C1+E, C, C+E, D1,
+D1+E, D o D+E deberá acreditar la facultad de utilizar un terreno que permita realizar las
+prácticas de maniobras o destreza en circuito cerrado, con carácter exclusivo o de forma
+compartida.
+    2. La Escuela autorizada para impartir la enseñanza para la obtención de la licencia o del
+permiso de conducción de las clases AM, A1, A2, A o B, de no contar con los terrenos a que
+se refiere el apartado anterior, deberá disponer de autorización del municipio en que radique
+o, si se acreditase la imposibilidad de obtenerla, de otro municipio de la provincia, que le
+permita realizar las prácticas de maniobras o destreza en zonas urbanas que reúnan
+condiciones idóneas para la enseñanza de las mismas.
+    3. Los terrenos deberán contar con las instalaciones adecuadas, estar debidamente
+acondicionados para la realización de las maniobras y reunir las características necesarias
+para que si el aprendizaje se realiza simultáneamente por varios alumnos, no se origine
+peligro entre ellos.
+    4. Las Secciones o Sucursales de dicha Escuela deberán contar con los terrenos y en
+las condiciones que se indica en los apartados anteriores.
+
+Artículo 15. Vehículos.
+   1. Toda Escuela deberá disponer, en propiedad, o por otro título, de al menos un vehículo
+de la categoría adecuada a cada clase de permiso o licencia de conducción para cuya
+enseñanza esté autorizada.
+   2. Las Secciones o Sucursales de dicha Escuela deberán contar con el número de
+vehículos y en las mismas condiciones exigidas para la Escuela.
+
+Artículo 16. Requisitos de los vehículos.
+   Los vehículos de toda Escuela deberán:
+     a) Estar a nombre del titular de la Escuela.
+     b) Figurar dados de alta en la Escuela, constando así en el Registro de Centros de
+Formación de Conductores.
+     c) Ajustarse a las condiciones generales y requisitos que se establecen en el
+Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de
+diciembre.
+     d) Los destinados a las prácticas correspondientes a la prueba de control de aptitudes y
+comportamientos en vías abiertas al tráfico general, excepto las motocicletas, estarán
+dotados de dobles mandos de freno, acelerador y, en su caso, embrague, eficaces.
+     e) Reunir los requisitos exigidos en los artículos 59, 60 y 61 del Reglamento General de
+Conductores para la realización de las pruebas de aptitud, si estuvieran destinados a las
+mismas.
+     f) Los turismos deberán llevar inscrito de manera visible en su parte superior un cartel en
+el que figure la denominación completa de la Escuela a la que están adscritos y, en su caso,
+el logotipo correspondiente. Las dimensiones mínimas de este cartel serán de 0,70 metros
+de longitud por 0,20 metros de altura, debiendo ser colocado en forma vertical o ligeramente
+inclinado y estar sujeto de manera eficaz al vehículo para evitar su caída.
+
+                                            Página 10
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    El cartel, que deberá ser visible en todo momento, podrá ser sustituido o complementado
+por inscripciones, de análogas dimensiones a las citadas en el párrafo anterior, colocadas en
+ambos laterales delanteros del vehículo, en las que únicamente figuren los datos antes
+mencionados.
+    El color, tamaño y forma de las letras del cartel y de las inscripciones deberán permitir
+identificar con claridad la denominación de la Escuela a la que está adscrito el vehículo.
+    En los camiones, autobuses, remolques y semirremolques, el cartel será sustituido por
+inscripciones sobre la parte posterior y ambos laterales del vehículo en las que figuren los
+datos que se indican en el párrafo anterior.
+    g) Los camiones, los autobuses y los tractocamiones deberán estar dotados de tacógrafo
+en correcto estado de funcionamiento y en condiciones de ser utilizado, tanto en la
+enseñanza como en las pruebas de control de aptitudes y comportamientos en circulación en
+vías abiertas al tráfico general.
+
+Artículo 17. Agrupaciones para la utilización compartida de vehículos.
+    1. Los vehículos necesarios para el aprendizaje de la conducción de permiso de las
+clases B+E, C1, C1+E, C, C+E, D1, D1+E, D o D+E podrán figurar dados de alta en más de
+una Escuela de la misma titularidad o estar adscritos a una agrupación o sociedad formada
+por los titulares de las Escuelas agrupadas o asociadas.
+    2. La Agrupación para la utilización compartida de los vehículos a que se refiere el
+apartado anterior deberá constar y acreditarse documentalmente ante la Jefatura Provincial
+de Tráfico, que le asignará un número de inscripción en el Registro de Centros de Formación
+de Conductores. Su denominación no podrá coincidir ni prestarse a confusión con la de otra
+Agrupación o Sociedad constituida o Escuela autorizada en la o las mismas provincias.
+    3. Los vehículos utilizados de forma compartida por una Agrupación o Sociedad de
+Escuelas podrán ir identificados en ambos laterales y en su parte posterior con la
+denominación de todas las Escuelas agrupadas o la de la Agrupación o Sociedad.
+
+Artículo 18. Vehículos aportados por los interesados.
+   Los coches de minusválido, los vehículos adaptados a las deficiencias de la persona que
+haya de conducirlos y los tractores agrícolas necesarios para obtener licencia para la
+conducción de tractores y maquinaria agrícola automotriz podrán:
+    a) Estar dados de alta en la escuela, aun cuando no se computarán para determinar los
+elementos materiales mínimos de que debe disponer, a no ser que, por sus características,
+puedan ser utilizados en la enseñanza general.
+    b) Ser aportados por los propios alumnos. En este caso, la placa de identificación del
+vehículo prevista en el artículo 16.f) no precisará llevar troquelada ninguna inscripción y el
+fondo del recuadro sobre el que va inscrita la letra "L" será de color rojo.
+
+Artículo 19. Material didáctico.
+     1. La Escuela, Sección o Sucursal deberá contar como mínimo con el material didáctico
+necesario y adecuado para impartir la formación teórica conforme a los conocimientos y
+aptitudes exigidos por la normativa vigente.
+     2. La Escuela autorizada para impartir la enseñanza para la obtención de permiso de las
+clases A1, A2 o A, deberá disponer al menos de un sistema de comunicación manos libres
+que permita al profesor durante el aprendizaje de la conducción y circulación, y al funcionario
+examinador durante la realización de la prueba de control de aptitudes y comportamientos en
+circulación en vías abiertas al tráfico general, transmitir eficazmente, desde un vehículo
+turismo o, en su caso, para las prácticas de circulación, una motocicleta que circule detrás
+de la conducida por el aspirante, las instrucciones necesarias y a aquél comunicar al
+profesor o examinador su recepción.
+     El turismo o la motocicleta de seguimiento deberán figurar dados de alta en el Centro
+donde el aspirante haya recibido enseñanza.
+     3. Las Secciones o Sucursales deberán disponer del sistema de comunicación manos
+libres en las mismas circunstancias que se exigen a la Escuela conforme a lo dispuesto en el
+apartado anterior.
+                                          Página 11
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                                         CAPÍTULO III
+                               De la autorización de apertura
+
+                               Sección 1.ª Normas generales
+
+Artículo 20. Necesidad de obtener autorización administrativa previa.
+    1. Toda Escuela que vayan a impartir la formación para la obtención del permiso o de la
+licencia de conducción necesitarán de una autorización de apertura previa para desarrollar
+su actividad, que se expedirá por la Jefatura Provincial de Tráfico en cuyo territorio radique la
+Escuela. Para ello deberán contar con los elementos personales y materiales mínimos
+regulados en este reglamento.
+    2. Esta autorización tendrá validez en todo el territorio español y habilitará a su titular
+para abrir Secciones o Sucursales que llevarán la misma denominación que la Escuela.
+    3. Igualmente el personal directivo o docente de toda Escuela, Sección o Sucursal
+necesitará de autorización administrativa previa para ejercer sus funciones.
+
+                            Sección 2.ª Autorización de apertura
+
+Artículo 21. Solicitud de la autorización de apertura y documentación a presentar con la
+misma.
+    1. La autorización de apertura deberá interesarse de la Jefatura Provincial de Tráfico
+donde este ubicada la Escuela, utilizando para ello la solicitud que, a tales efectos,
+proporcionará dicho Organismo o que podrá descargarse a través de la siguiente página
+web: www.dgt.es
+    2. A dicha solicitud, suscrita por el titular o su representante legal y en la que se
+indicarán la denominación del Centro y sus elementos personales y materiales, la ubicación
+de los locales y terrenos o zonas de prácticas y las clases de permiso y licencia para cuya
+enseñanza se solicita autorización, se acompañarán los siguientes documentos:
+    a) Si el titular de la Escuela es una persona física deberá indicar el número del
+Documento Nacional de Identidad o del Número de Identidad de Extranjero, en su caso, así
+como el consentimiento para que sus datos de identidad personal puedan ser consultados
+mediante el Sistema de Verificación de Datos, en los términos establecidos por el Real
+Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de
+documentos de identidad en los procedimientos administrativos de la Administración General
+del Estado y de sus organismos públicos.
+    De no constar su consentimiento en la solicitud, deberá acompañarse fotocopia del
+Documento Nacional de Identidad o, en su caso, del documento acreditativo de la identidad
+o tarjeta equivalente, acompañado de su Número de Identidad de Extranjero, documentos
+todos ellos que deberán estar en vigor.
+    Si el titular de la Escuela es una persona jurídica deberá presentar fotocopia de los
+documentos que acrediten la constitución de la sociedad en unión de los originales que
+serán devueltos una vez cotejados.
+    b) Acreditación de que los locales cumplen los requisitos exigidos por la normativa
+municipal para ejercer la actividad propia de la Escuela.
+    c) En el caso de disponer de terrenos destinados a clases prácticas en circuito cerrado,
+documento que lo acredite y autorización municipal para impartir dichas clases en los
+mismos o certificación acreditativa de que no necesita dicha autorización, en su caso.
+    De no disponer de terrenos, deberá acompañar autorización municipal para realizar
+dichas prácticas en zonas que reúnan las condiciones idóneas para la enseñanza de la
+conducción.
+    d) Relación del personal docente
+    e) Relación del material didáctico
+    f) Relación de los vehículos de que va a disponer el Centro, especificando sus
+características y condiciones de utilización, como enseñanza o acompañamiento.
+                                           Página 12
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   g) Declaración por escrito de que el solicitante, o si es persona jurídica cada uno de sus
+asociados, así como el personal directivo y docente, no está incurso en ninguna de las
+prohibiciones a que se refiere el artículo 12 de este reglamento.
+    3. La Jefatura Provincial de Tráfico, previo examen de la solicitud y documentación
+aportada y comprobación de que a la solicitud se han acompañado todos los documentos
+que se indican en el apartado 2 y de la veracidad del contenido de la documentación, dictará
+resolución concediendo o denegando la autorización de apertura solicitada.
+    4. No podrá concederse autorización de apertura a ningún titular si la denominación de la
+Escuela coincide o se presta a confusión con la de otra Escuela ya autorizada en esa misma
+provincia.
+    5. Si fuera necesario subsanar algún defecto o error en los datos o en la documentación
+aportada o, en el caso de que coincidiera su denominación o se prestara a confusión, se
+requerirá al interesado para que en el plazo de diez días hábiles lo subsane y, en caso de
+que no lo haga, se le tendrá por desistido en su petición, previa resolución dictada en esos
+términos.
+    6. La Jefatura Provincial de Tráfico notificará la resolución que proceda al titular o a su
+representante legal en el plazo máximo de tres meses. Una vez haya transcurrido ese plazo
+máximo sin haberse notificado la resolución expresa, la solicitud de la autorización de
+apertura se entenderá desestimada por silencio administrativo.
+
+Artículo 22. Expedición de la autorización de apertura.
+     1. La expedición de la autorización de apertura determinará la inscripción de oficio de la
+Escuela en el Registro de Centros de Formación de Conductores y el otorgamiento de un
+número de registro provincial que estará formado por dos grupos de caracteres constituidos
+por la contraseña de la provincia y un número provincial correlativo.
+     2. En la autorización de apertura se hará constar la denominación de la Escuela, su
+domicilio y su número de inscripción en el registro, así como el titular y los profesores de la
+Escuela, clases de permisos para la que esté autorizada a impartir enseñanza y vehículos
+adscritos.
+     3. En el caso de la apertura de una Sección o Sucursal, el titular de la Escuela matriz
+deberá comunicará al Registro de Centros de Formación de Conductores con carácter previo
+a su funcionamiento, la apertura de la Sección o Sucursal, en el modelo que a tales efectos
+proporcionará el citado Registro o que podrá descargarse a través de la siguiente página
+web: www.dgt.es
+     En dicha comunicación se hará constar el número de registro de la Escuela matriz, el
+domicilio de la Sección o Sucursal, la relación de personal docente, de material didáctico y
+de vehículos, así como los terrenos para realizar las prácticas, incluyendo una declaración
+responsable suscrita por el titular de que se cumplen todo los requisitos exigidos en el
+artículo 21.
+     La apertura de la Sección o Sucursal se inscribirá de oficio en el Registro con el mismo
+número de registro que la Escuela matriz, añadiendo a dicho número el que corresponda a
+cada Sección o Sucursal.
+     La denominación de la Sección o Sucursal será la misma que la de su Escuela matriz
+pero siempre irá precedida de la palabra en mayúsculas «SECCIÓN» o «SUCURSAL» y, a
+continuación, la denominación completa de la Escuela matriz y la provincia donde dicha
+Escuela haya sido autorizada.
+     4. Una vez inscrita se expedirá una copia de la autorización de apertura de la Escuela
+matriz en la que se hará constar además el domicilio, el número de inscripción y los
+profesores de la Sección o Sucursal, clases de permisos para la que esté autorizada a
+impartir enseñanza y vehículos adscritos.
+     Una copia de la citada autorización deberá estar expuesta al público en un lugar
+fácilmente accesible y visible. Será sustituida, previa su entrega por el titular en la Jefatura
+Provincial de Tráfico, cuando se produzca alguna modificación que afecte a los datos que
+constan en la misma, en el plazo establecido en el apartado 1 del artículo 24.
+                                           Página 13
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Artículo 23. Alcance de la autorización de apertura.
+    1. La autorización de apertura permite a la Escuela y a sus Secciones o Sucursales,
+desarrollar su actividad en la formación de los alumnos que aspiren a la obtención del
+permiso o de la licencia de conducción de las clases para cuya enseñanza esté autorizada y
+disponga de los elementos personales y materiales mínimos exigidos.
+    2. Las clases teóricas únicamente se podrán impartir en los locales que cuenten con la
+correspondiente acreditación municipal para ello y cumplan con los requisitos exigidos por la
+normativa vigente.
+    Las clases prácticas de maniobras o destreza en circuito cerrado únicamente se podrán
+realizar en los terrenos o zonas autorizadas al efecto. Para las clases prácticas de
+conducción y circulación en vías abiertas al tráfico general se podrá utilizar cualquier vía
+urbana o interurbana en la que no esté expresamente prohibido.
+    3. A efectos de lo dispuesto en el apartado anterior, los ayuntamientos designarán, y
+comunicarán a la respectiva Jefatura Provincial de Tráfico, los lugares adecuados en los que,
+dentro de sus respectivos núcleos urbanos, podrán efectuarse, en o entre horas fijas también
+adecuadas, las prácticas de conducción y circulación, entendiéndose que pueden realizarse
+en cualquier vía del núcleo urbano si aquella designación no llega a efectuarse.
+    4. Los profesores y los vehículos, una vez dados de alta en la Escuela Sección o
+Sucursal, podrán ser comunes, siempre que tanto en la Escuela como en cada Sección o
+Sucursal, se mantengan los elementos personales y materiales mínimos exigidos.
+    5. La autorización permite presentar a los alumnos a realizar las pruebas de aptitud en el
+Centro de exámenes que, atendidas las circunstancias concurrentes, determine la Jefatura
+Provincial de Tráfico dentro de los existentes en la provincia donde radique la Escuela o la
+Sección o la Sucursal.
+
+Artículo 24. Modificación de la autorización de apertura.
+    1. El titular de la Escuela deberá solicitar de la Jefatura Provincial de Tráfico en el plazo
+de diez días hábiles, contado desde la fecha en que el cambio se produjo, la modificación de
+la autorización de apertura, utilizando para ello la solicitud que a tales efectos proporcionará
+dicho Organismo o que se podrá descargar en la siguiente página web: www.dgt.es.
+    2. La modificación de la autorización de apertura deberá solicitarse por las siguientes
+causas:
+    a) Cambio de denominación de la Escuela.
+    b) Cambio de locales.
+    c) Cambio de los terrenos o zonas donde se realicen las prácticas de enseñanza.
+    d) Alta o baja del personal directivo o docente o cualquier modificación que afecte a las
+autorizaciones de ejercicio de dicho personal.
+    e) Alta, baja o reforma de los vehículos.
+    f) Cualquier otra variación de los datos que figuran en la autorización.
+    3. A la solicitud se acompañarán copia o fotocopia de los documentos justificativos que
+en cada caso procedan, acompañados de los originales que serán devueltos una vez
+cotejados.
+    4. Cuando la modificación afecte a elementos personales o a los vehículos, el titular
+deberá entregar en la Jefatura Provincial de Tráfico la correspondiente autorización de
+ejercicio y los distintivos del personal docente afectado y las placas de los vehículos a que
+se refiere el artículo 16 de este reglamento, para su archivo o destrucción según los casos.
+    Cuando la modificación afecte a los vehículos, la Jefatura Provincial de Tráfico podrá
+ordenar el precintado de los vehículos dados de baja hasta su transferencia o cambio de
+destino o resolución del arrendamiento.
+    5. El Jefe Provincial de Tráfico comunicará de oficio al Registro de Centros de Formación
+de Conductores las modificaciones habidas para que proceda a su inscripción.
+
+Artículo 25. Suspensión voluntaria de actividades.
+    1. La Escuela, sus Secciones o Sucursales podrán suspender voluntariamente el
+ejercicio de sus actividades hasta un plazo máximo de un año.
+
+                                           Página 14
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     2. El titular de deberá comunicar la fecha de inicio de la suspensión a la Jefatura
+Provincial de Tráfico correspondiente, como mínimo diez días antes de su inicio utilizando
+para ello la solicitud que a tales efectos proporcionará dicho Organismo o que se podrá
+descargar en la siguiente página web: www.dgt.es.
+     3. El Jefe Provincial de Tráfico comunicará al Registro de Centros de Formación de
+Conductores, la suspensión de la Escuela, Sección o Sucursal para que se proceda a su
+inscripción.
+     4. Durante el tiempo que dure la suspensión, el titular deberá entregar, en calidad de
+depósito, las placas de identificación de los vehículos en la Jefatura Provincial de Tráfico de
+la Escuela, Sección o Sucursal que vaya a cesar, la cual podrá ordenar el precintado de los
+mismos, salvo en los supuestos de agrupaciones de Escuelas para la utilización compartida
+de vehículos a que se refiere el artículo 17 de este reglamento.
+     5. La suspensión de actividades cesará previa comunicación del titular en los mismos
+términos que se establece en el apartado 2, cancelándose de oficio la inscripción en el
+Registro de Centros de Formación de Conductores.
+     6. La suspensión de actividades durante más de un año de una Sección o Sucursal
+supondrá el cese definitivo de sus actividades. Para poder volver a iniciar su actividad el
+titular de la Escuela deberá cumplir los requisitos exigidos en el artículo 22.
+     7. La suspensión de actividades durante más de una año de la Escuela dará lugar a la
+extinción de la autorización conforme se establece en el artículo 26.
+
+Artículo 26. Extinción.
+    1. La autorización de apertura tiene carácter personal y se extinguen por disolución de la
+sociedad, muerte, renuncia expresa de su titular, transmisión de la empresa o suspensión de
+actividades durante más de un año.
+    2. Extinguida la autorización de la Escuela carecerán de la habilitación para seguir
+funcionando sus Sucursales o Secciones.
+    3. En las transmisiones «mortis causa» se admitirá una titularidad provisional a favor de
+la comunidad de herederos, siempre que la persona que la represente lo solicite en el plazo
+de noventa días naturales, contados desde la muerte del causante, durando hasta el
+momento en que se produzca la adjudicación de la herencia, lo que se deberá justificar
+documentalmente en la Jefatura Provincial de Tráfico.
+    4. En las transmisiones por actos «inter vivos», la Jefatura Provincial de Tráfico podrá
+expedir, por un período de seis meses prorrogables hasta un máximo de otros tres meses,
+una autorización provisional a favor del adquirente siempre que lo solicite en el plazo de diez
+días hábiles, contados desde la fecha en que se produjo la transmisión, y acredite la
+imposibilidad de presentar con la solicitud la documentación requerida sobre locales o
+terrenos.
+    5. La disolución de la sociedad, la renuncia del titular o la transmisión de la empresa,
+deberá ser comunicada por escrito a la Jefatura Provincial de Tráfico por el titular o su
+representante legal en el plazo de diez días, contado a partir de la fecha en que el hecho se
+produjo, utilizando para ello el modelo que a tales efectos proporcionará dicho Organismo o
+que se podrá descargar en la siguiente página web: www.dgt.es.
+    6. El Jefe Provincial de Tráfico comunicará al Registro de Centros de Formación de
+Conductores la extinción de la autorización para que proceda a su inscripción de oficio.
+
+Artículo 27. Presentación de alumnos a la realización de las pruebas en distinta provincia.
+    Excepcionalmente, el titular podrá solicitar de la Dirección General de Tráfico
+autorización para presentar a los alumnos a realizar las pruebas de aptitud en un centro de
+exámenes a cargo de Jefatura Provincial de Tráfico distinta de aquella en cuyo territorio
+radica la escuela, acreditando las dificultades de transporte o circunstancias que lo
+aconsejen.
+    La Dirección General de Tráfico, previa instrucción del correspondiente expediente,
+adoptará la resolución que proceda teniendo en cuenta, además, especialmente los
+elementos personales de que disponga la Jefatura Provincial de Tráfico de la que dependa el
+centro en el que se pretenden realizar las pruebas para absorber el incremento de éstas que
+el cambio suponga.
+                                          Página 15
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    La autorización que, en su caso, se otorgue tendrá una validez de un año y podrá ser
+prorrogada por períodos iguales si se acredita que persisten las razones que motivaron su
+concesión y se solicita la prórroga al menos dos meses antes de la fecha de caducidad de
+aquélla.
+
+        Sección 3.ª Autorizaciones de ejercicio del personal directivo y docente
+
+Artículo 28. Solicitud de la autorización y documentos a presentar con la misma.
+    1. La autorización de ejercicio del personal directivo y docente deberá interesarse de la
+Jefatura Provincial de Tráfico utilizando para ello la solicitud que, a tales efectos,
+proporcionará dicho Organismo o que podrá descargarse a través de la siguiente página
+web: www.dgt.es.
+    A dicha solicitud, suscrita por el titular o su representante legal se acompañarán los
+siguientes documentos:
+     a) Número del documento nacional de identidad o del número de identidad de extranjero,
+en su caso, así como el consentimiento para que sus datos de identidad personal puedan
+ser consultados mediante el Sistema de Verificación de Datos, en los términos establecidos
+por el Real Decreto 522/2006, de 28 de abril.
+     De no constar su consentimiento en la solicitud, deberá acompañarse fotocopia del
+documento nacional de identidad o, en su caso, del documento acreditativo de la identidad o
+tarjeta equivalente, acompañado de su Número de Identidad de extranjero, documentos
+todos ellos que deberán estar en vigor.
+     b) Declaración por escrito del director o del profesor de no estar cumpliendo condena o
+sanción de privación o suspensión del permiso de conducción acordada en vía judicial o
+administrativa o haber perdido el crédito total de sus puntos y de no estar incurso en ninguna
+de las prohibiciones para el ejercicio de las actividades docentes a que se refiere el artículo
+12 de este reglamento.
+     c) Dos fotografías actualizadas de la persona para la que se solicita la autorización.
+     d) Copia del certificado de aptitud de director de escuelas particulares de conductores o
+de profesor de formación vial o de profesor de escuelas particulares de conductores o título
+de Técnico Superior en Formación para la movilidad segura y sostenible o, sustituyendo a
+aquellos, consentimiento expreso para que la Administración pueda consultar y, en su caso,
+recabar dichos documentos.
+    2. La Jefatura Provincial de Tráfico notificará la resolución que proceda al titular o a su
+representante legal en el plazo máximo de un mes.
+
+Artículo 29. Concesión de las autorizaciones de ejercicio.
+    1. La Jefatura Provincial de Tráfico, previo examen de la solicitud y documentación
+aportada, subsanación, en su caso, de las deficiencias observadas, consulta del Registro de
+conductores e infractores y valoración, en su caso, de los antecedentes obrantes en el
+mismo, otorgará o denegará motivadamente la autorización de ejercicio solicitada.
+    2. En la autorización de ejercicio figurarán, al menos, los datos de identidad y domicilio
+del interesado, las clases de permiso de conducción para las que está autorizado a impartir
+enseñanza y su firma, así como los de la escuela o sección en la que ejerza sus funciones.
+
+Artículo 30. Alcance de las autorizaciones de ejercicio.
+    1. Las autorizaciones de ejercicio son los únicos documentos que habilitan para la
+dirección docente y para la enseñanza profesional en una Escuela o en sus Secciones o
+Sucursales.
+    2. La autorización de ejercicio de profesor habilita para impartir las clases teóricas
+necesarias para la obtención de cualquier permiso o licencia de conducción y
+exclusivamente las clases prácticas para la obtención del permiso de la clase o clases de
+que el profesor sea titular con más de un año de antigüedad.
+    3. La vacante del director podrá ser suplida, provisionalmente y por el tiempo máximo de
+un mes, por cualquiera de los profesores de la escuela.
+
+                                          Página 16
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Artículo 31. Suspensión de las autorizaciones de ejercicio.
+    1. Con independencia de cuando lo sean por motivo de sanción, los Jefes Provinciales
+de Tráfico deberán acordar la suspensión de las autorizaciones de ejercicio del personal
+directivo o docente cuando:
+     a) Una sentencia firme así lo determine.
+     b) Por sentencia o resolución administrativa firmes se haya privado o suspendido a su
+titular el permiso de conducción, en cuyo caso la autorización de ejercicio se suspenderá por
+el plazo establecido en la sentencia o resolución.
+     c) Se padezca enfermedad que incapacite temporalmente para el ejercicio de las
+funciones.
+     2. En todos los supuestos a que se refieren los párrafos a) y b) del apartado 1, así como
+el párrafo c) cuando la enfermedad impidiese el ejercicio de toda actividad docente, el titular
+de la autorización deberá hacer entrega de ella y del distintivo en la Jefatura Provincial de
+Tráfico, en calidad de depósito, hasta que finalice la suspensión.
+    3. Si la incapacidad fuera temporal y limitada a la aptitud para impartir determinados
+tipos de enseñanza, la suspensión de la autorización de ejercicio se limitará a esas
+funciones, y podrá su titular solicitar una nueva autorización que sustituya a la inicial,
+mientras ésta se encuentre temporalmente suspendida, limitada a las funciones para las que
+aquél continúe estando capacitado.
+
+Artículo 32. Modificación de la autorización de ejercicio de profesor.
+    Los Jefes Provinciales de Tráfico podrán sustituir, a petición de sus titulares o del titular
+del centro, la autorización para ejercer funciones docentes por otra en la que se amplíe el
+alcance de la autorización cuando el profesor obtenga un nuevo permiso de conducción.
+    Dicha modificación, previa solicitud del titular de la escuela, no podrá autorizarse por la
+Jefatura Provincial de Tráfico hasta que haya transcurrido, como mínimo, un año desde la
+obtención del nuevo permiso.
+
+   Sección 4.ª Nulidad o lesividad, pérdida de vigencia, suspensión cautelar e
+   intervención de las autorizaciones de apertura y de ejercicio del personal
+                                directivo y docente
+
+Artículo 33. Declaración de nulidad o lesividad.
+     Las autorizaciones administrativas reguladas en este capítulo, podrán ser objeto de
+declaración de nulidad o lesividad cuando concurra alguno de los supuestos previstos en los
+artículos 47 y 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas.
+
+Artículo 34. Procedimiento para la declaración de nulidad o lesividad.
+    El procedimiento para la declaración de nulidad o lesividad se ajustará a lo establecido
+en el capítulo I del título V de la Ley 39/2015, de 1 de octubre.
+
+Artículo 35. Pérdida de vigencia.
+    Con independencia de lo dispuesto en el artículo anterior, la vigencia de las
+autorizaciones administrativas reguladas en este capítulo estará condicionada a que se
+mantengan los requisitos exigidos para su otorgamiento. Las Jefaturas Provinciales de
+Tráfico podrán declarar la pérdida de vigencia de las mencionadas autorizaciones cuando,
+después de otorgadas, se acredite que ha desaparecido cualquiera de los requisitos que se
+exigían para ello.
+
+Artículo 36. Procedimiento para la declaración de la pérdida de vigencia.
+    1. La Jefatura Provincial de Tráfico que haya otorgado las autorizaciones reguladas en
+este capítulo tan pronto tenga conocimiento de la presunta carencia o pérdida de alguno de
+                                           Página 17
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+los requisitos exigidos para su otorgamiento, previos los informes y asesoramientos que
+estime oportunos, iniciará procedimiento de pérdida de vigencia de éstas.
+     2. En el acuerdo de incoación, que contendrá una relación detallada de los hechos y
+circunstancias que induzcan a apreciar, racional y fundadamente, que la escuela o el titular
+de la autorización carece o ha perdido algunos de los requisitos que se indican en el
+apartado anterior, se adoptarán, de proceder, las medidas cautelares a que se refiere el
+artículo 40.
+     3. En la resolución que acuerde la incoación, la Jefatura Provincial de Tráfico notificará al
+interesado que, de no acreditar documentalmente en el plazo de un mes haber repuesto el
+elemento de que carece, la inexistencia de la prohibición o reunir los requisitos exigidos,
+acordará la pérdida de vigencia de la autorización, a no ser que, en el supuesto de la
+autorización de funcionamiento, el titular solicite su suspensión de acuerdo con lo dispuesto
+en el artículo 27.
+     4. En el supuesto de autorización de ejercicio del personal docente, la pérdida de su
+vigencia no impedirá a su titular obtener una autorización restringida para impartir
+determinados tipos de enseñanza cuando, habiendo perdido alguno de los requisitos,
+conocimientos o condiciones físicas exigidos para el ejercicio de la actividad docente,
+conserve los precisos para dichas enseñanzas concretas.
+
+Artículo 37. Suspensión cautelar e intervención inmediata de las autorizaciones.
+    1. En el curso de los procedimientos de declaración de nulidad o lesividad y pérdida de
+vigencia de la autorización de apertura y las de ejercicio del personal directivo y docente,
+podrá acordarse la suspensión cautelar de la autorización cuando su mantenimiento entrañe
+un grave peligro para la seguridad vial o perjudique notoriamente el interés público, en cuyo
+caso el Jefe Provincial de Tráfico que conozca del expediente ordenará, mediante resolución
+fundada, la intervención inmediata de la autorización y la práctica de cuantas medidas crea
+necesarias para impedir el efectivo ejercicio de la misma.
+    2. Durante la suspensión cautelar e intervención inmediata de la autorización de apertura
+no se admitirán nuevas solicitudes para la práctica de las pruebas de obtención de permiso y
+licencia de conducción hasta que se subsane la deficiencia y la Jefatura Provincial de Tráfico
+exigirá la entrega de la autorización correspondiente.
+    3. Cuando la suspensión cautelar e intervención inmediata afecte a las autorizaciones de
+ejercicio del personal directivo o docente, el titular de la autorización no podrá desempeñar
+sus funciones directivas o docentes.
+    4. En los casos a que se refieren los apartados 2 y 3 anteriores, la Jefatura Provincial de
+Tráfico exigirá la entrega de la autorización correspondiente.
+
+                                         CAPÍTULO IV
+                                   Régimen de enseñanza
+
+Artículo 38. Programación de la enseñanza.
+    Toda Escuela programará las enseñanzas ajustándose a las normas del Reglamento
+General de Conductores y a los objetivos, contenidos mínimos y directrices que al efecto
+establezca el Ministro del Interior, a propuesta del Organismo Autónomo Jefatura Central de
+Tráfico, previo informe de las asociaciones más representativas del sector de la enseñanza
+de la conducción.
+
+                                         CAPÍTULO V
+                         Documentación y distintivos obligatorios
+
+Artículo 39. Registro de alumnos.
+    Toda Escuela, Sección o Sucursal deberá llevar un libro de alumnos matriculados con
+hojas numeradas, diligenciadas y selladas por la Jefatura Provincial de Tráfico.
+    Este libro, que podrá estar informatizado, será cumplimentado diariamente por orden de
+inscripción y constarán todos los alumnos matriculados con expresión de los datos de cada
+                                            Página 18
+                            BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+uno relativos al número y fecha de inscripción, nombre, apellidos, Documento Nacional de
+Identidad, documento acreditativo de identidad o tarjeta equivalente en la que conste el
+Número de Identidad de Extranjero, fecha de nacimiento, clase o clases de permiso o de
+licencia de conducción que posee y a que aspira, fechas en que inicia y termina la
+enseñanza y el resultado final obtenido.
+     El titular de la Escuela o la persona en quien delegue, será el responsable de dicho libro,
+que deberá conservarse en el Centro durante un plazo de cuatro años contado a partir de la
+última inscripción realizada en el mismo.
+
+Artículo 40. Fichas del alumno.
+    Toda escuela o sección deberá cumplimentar, por cada alumno, las fichas de clases
+teóricas y prácticas y de actitudes que sean precisas. En estas fichas, que se ajustarán al
+modelo oficial que determine el organismo autónomo Jefatura Central de Tráfico, figurarán
+los datos del centro, del alumno, del profesor, las clases recibidas y espacios adecuados
+para que el profesor pueda hacer constar sus observaciones en relación con el aprendizaje,
+los riesgos detectados en el alumno al inicio del proceso formativo y el instrumento utilizado
+en esta evaluación, certificar si el alumno ha recibido la formación necesaria para ser
+presentado a la realización de las pruebas y obtener el permiso o licencia de que se trate y
+consignar las fechas y los resultados de las pruebas realizadas.
+    En la ficha de clases teóricas, que cumplimentará el profesor que las imparta, figurarán,
+además, las fechas de inicio y finalización del ciclo de enseñanza y las faltas de asistencia a
+clase del alumno.
+    La ficha de clases prácticas, que cumplimentará el profesor que las imparta, dispondrá,
+además, de espacios adecuados para consignar la fecha y hora de cada clase y, en las
+clases de circulación en vías abiertas al tráfico, el kilometraje del vehículo al comienzo y al
+final.
+    Igualmente dispondrá de un espacio para que, tanto el alumno como el profesor, puedan
+firmar al finalizarla. Esta ficha deberá llevarla consigo el profesor durante las clases prácticas
+y con ocasión de las pruebas de control de aptitudes y comportamientos, tanto en circuito
+cerrado como en circulación en vías abiertas al tráfico general, y estará obligado a exhibirla
+siempre que algún funcionario del organismo autónomo Jefatura Central de Tráfico o los
+agentes encargados de la vigilancia del tráfico, en el ejercicio de sus funciones, lo requieran.
+    Las fichas de los alumnos se deberán custodiar y conservar en el centro a disposición de
+la Jefatura Provincial de Tráfico durante, al menos, dos años contados a partir de la fecha en
+que el alumno dejó de serlo.
+
+Artículo 41. Distintivos.
+    El personal directivo y docente deberá llevar, en los casos que se indican en los artículos
+7 y 9, un distintivo personal ajustado a modelo oficial y sellado por la Jefatura Provincial de
+Tráfico, en el que consten los datos del director o profesor, con sus respectivas fotografías, y
+los de la escuela o sección en que ejerce sus funciones.
+
+Artículo 42. Contrato de enseñanza.
+    Toda escuela deberá suscribir con cada uno de sus alumnos un contrato de enseñanza
+en el que se especifiquen los derechos y obligaciones que, como consecuencia de aquél, se
+deriven para cada una de las partes contratantes. Un ejemplar se entregará al alumno y el
+otro quedará archivado en la escuela.
+
+                                         CAPÍTULO VI
+                     Actividades de control: Inspecciones y auditorias
+
+Artículo 43. Actividades de control: Inspecciones y auditorías.
+    1. El personal del organismo autónomo Jefatura Central de Tráfico, o de los órganos
+administrativos de las Comunidades Autónomas que tuvieran transferidas las competencias
+ejecutivas en materia de tráfico y circulación de vehículos a motor, o el de las entidades
+                                            Página 19
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+acreditadas por dichas administraciones, podrá realizar las actividades de control,
+inspecciones y/o auditorías, a que estuvieran autorizados.
+    En todo caso, se realizará una actividad de control que será previa a la concesión de la
+autorización de apertura, o cuando se modifique, si el cambio afecta a los terrenos o a los
+vehículos, o cuando se tenga conocimiento de la apertura de una sección o sucursal o de la
+variación de alguno de los datos a que se refiere el artículo 24.
+       Téngase en cuenta que se declara la nulidad del inciso destacado del apartado 1, en la
+   redacción dada por el art. 1.13 Real Decreto 1010/2023, de 5 de diciembre, Ref. BOE-
+   A-2023-24843, por Sentencia del TS de 11 de diciembre de 2025. Ref. BOE-A-2025-26608
+
+    2. Para efectuar cualquiera de las actividades de control a que se refiere el apartado
+primero, el personal acreditado tendrá acceso a los locales, terrenos o, en su caso, zonas de
+enseñanza práctica, a los vehículos y a toda la documentación reglamentaria de la escuela,
+sección o sucursal, así como la relativa a sus elementos personales y materiales, pudiendo
+presenciar el desarrollo de las clases cuando lo estimen oportuno y analizar, con la
+colaboración de los profesores, las fichas de los alumnos.
+    3. De cada actividad de control se levantará acta, de la que se entregará copia a la
+escuela, sección o sucursal inspeccionada o auditada.
+
+                                        CAPÍTULO VII
+                                          Sanciones
+
+Artículo 44. Sanciones.
+    Las infracciones a las normas contenidas en este reglamento serán sancionadas dentro
+del marco legal establecido en la Ley sobre Tráfico, Circulación de Vehículos a Motor y
+Seguridad Vial.
+
+                                        CAPÍTULO VIII
+                      Cualificación del personal docente y directivo
+
+Artículo 45. Cualificación del personal docente y directivo.
+    El ejercicio de las actividades directivas y docentes en las escuelas particulares de
+conductores exigirá, estar en posesión del título de Técnico Superior en Formación para la
+movilidad segura y sostenible, o bien, de los certificados de aptitud de director de escuelas
+de conductores y de profesor de formación vial, o de profesor de escuelas particulares de
+conductores, de conformidad con el modelo oficial, requeridos en cada caso.
+    La acreditación de la posesión del título de Técnico Superior en Formación para la
+movilidad segura y sostenible, o de los certificados de aptitud de director de escuelas de
+conductores y/o de profesor de formación vial, o de profesor de escuelas particulares de
+conductores, dará derecho a la exención de las pruebas de control de conocimientos para la
+obtención del permiso de conducción.
+
+Artículo 46. Obtención del certificado de aptitud de profesor de formación vial.
+    1. La Dirección General de Tráfico o el órgano autonómico competente convocará cursos
+y pruebas para la obtención del certificado de aptitud de profesor de formación vial, con el fin
+de garantizar la disponibilidad de profesionales suficientes para la correcta prestación del
+servicio, al menos con una periodicidad anual.
+    La resolución que convoque los cursos o pruebas establecerá el régimen, el contenido,
+la duración y el lugar de celebración de los cursos, el sistema de selección, las pruebas y
+evaluaciones a realizar, el número de preguntas a plantear y el máximo de errores
+permitidos, así como los sistemas y criterios de calificación de las pruebas y evaluaciones,
+                                           Página 20
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+los recursos contra las decisiones sobre la calificación de las pruebas y cuantas cuestiones
+sean de interés para su desarrollo.
+    2. Para tomar parte en los cursos o pruebas será necesario:
+     a) Estar en posesión, como mínimo, del título de Educación Secundaria Obligatoria o del
+título de Técnico (Formación Profesional de Grado Medio).
+     b) Ser titular del permiso de conducción ordinario de la clase B, al menos, con una
+antigüedad mínima de dos años.
+     c) Poseer las aptitudes psicofísicas que se determinen por el Ministerio del Interior a
+propuesta de la Dirección General de Tráfico.
+     No obstante, quienes, sin poseerlas, estén en posesión de un permiso de conducción de
+la clase B o un permiso extraordinario de la clase B, al menos, sujeto a condiciones
+restrictivas, con una antigüedad mínima de dos años, obtenido al amparo de lo dispuesto en
+el apartado 2 del artículo 7 del Reglamento General de Conductores, podrá obtener un
+certificado de aptitud limitado a enseñanzas de carácter teórico.
+    3. Las pruebas serán de carácter objetivo y en ellas se valorarán los conocimientos, la
+aptitud pedagógica y la experiencia práctica.
+    4. La parte teórica de los cursos o pruebas comprenderá, al menos, las materias
+siguientes:
+    a) Normas y señales reguladoras de la circulación.
+    b) Cuestiones de seguridad vial, técnica de conducción y circulación, conducción
+económica, medio ambiente y contaminación, accidentes de circulación, causas y factores
+que intervienen en los mismos.
+    c) Reglamentación general de vehículos y en especial de los vehículos pesados, de
+transporte de personas y mercancías, prioritarios y especiales.
+    d) Seguro de automóviles.
+    e) Normativa por la que se regulan los permisos de conducción, sus clases y las pruebas
+de aptitud a realizar para su obtención.
+    f) Normativa por la que se regulan el aprendizaje de la conducción y los centros de
+formación de conductores.
+    g) Pedagogía y Psicología aplicadas a la conducción.
+    h) Mecánica y entretenimiento simple de los automóviles.
+    i) Comportamiento y primeros auxilios en caso de accidente de circulación.
+    Será necesario haber superado todas las materias que integran esta parte teórica para
+pasar a realizar la parte práctica de los cursos o pruebas.
+    5. La parte práctica de los cursos o pruebas consistirá en el desarrollo de clases teóricas
+y prácticas relacionadas con las materias establecidas en el apartado 4 anterior.
+    Finalizados los cursos o las pruebas, se expedirá el Certificado de Aptitud de Profesor de
+Formación Vial a quienes los hubieran superado, los cuales serán inscritos en el Registro de
+profesionales de la enseñanza de la conducción a que se refiere el párrafo h) del artículo 5
+del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad
+Vial, quedando exentos de las pruebas de control de conocimientos para la obtención del
+permiso de conducción.
+    6. No será necesario que realicen la parte práctica de los cursos o pruebas quienes
+vayan a obtener un certificado de aptitud limitado a enseñanzas de carácter teórico.
+
+Artículo 47. Obtención del Certificado de Aptitud de Director de Escuelas de Conductores.
+    1. La Dirección General de Tráfico o el órgano autonómico competente, cuando sea
+necesario, podrá convocar cursos para la obtención del certificado de aptitud de director de
+escuelas de conductores, con el fin de garantizar la disponibilidad de profesionales
+suficientes para la correcta prestación del servicio.
+    Para obtener el certificado de aptitud de director de escuelas de conductores será
+necesario estar en posesión del certificado de aptitud de profesor de formación vial o de
+profesor de escuelas particulares de conductores y superar los cursos o pruebas que al
+efecto se convoquen.
+                                          Página 21
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    2. Los cursos o pruebas versarán sobre la normativa que regula las escuelas particulares
+de conductores, tramitación administrativa y conocimientos generales de gestión de
+empresas aplicada a la gestión y dirección de dichas escuelas, estadísticas, organización y
+dirección de centros docentes y psicología de las organizaciones.
+    3. Finalizados los cursos o las pruebas, a quienes las hayan superado les será expedido
+el certificado de aptitud de director de escuelas de conductores, circunstancia que se hará
+constar en el Registro de profesionales de la enseñanza de la conducción, a que se refiere el
+párrafo h) del artículo 5 de la Ley sobre Tráfico, Circulación de Vehículos a Motor y
+Seguridad Vial.
+
+Artículo 48. Profesores de formación vial en prácticas.
+    Aquellas personas que estuvieran cursando el módulo «formación en centro de trabajo»,
+o contenidos prácticos equivalentes, dentro de los previstos en el plan de formación para la
+obtención del título de Técnico Superior en Formación para la movilidad segura y sostenible
+en una escuela particular de conductores, podrán atender la enseñanza práctica de los
+alumnos, solamente en aquellos vehículos que estén habilitados a conducir, asumiendo la
+responsabilidad de los dobles mandos del vehículo, siempre que dichas labores se realicen
+estando acompañados en todo momento durante esa enseñanza por un profesor de
+formación vial de la escuela.
+
+Artículo 48 bis. Profesorado especialista en el título de Técnico Superior en Formación
+para la movilidad segura y sostenible.
+    Con el objetivo de ejercer como profesor especialista en los módulos profesionales de
+Técnicas de conducción y de Didáctica de la enseñanza práctica de la conducción, referidos
+en el Real Decreto 174/2021, de 23 de marzo, será necesario, además del cumplimiento de
+los requisitos establecidos en el citado real decreto, ser titular del certificado de aptitud de
+profesor de formación vial o de profesor de escuelas particulares de conductores o estar en
+posesión del título de Técnico Superior en Formación para la movilidad segura y sostenible
+y, ser titular de una autorización de ejercicio.
+    El profesor especialista que imparta cualquiera de los módulos señalados en el párrafo
+anterior, podrá acompañar durante las pruebas prácticas de obtención del permiso de
+conducción, a los alumnos a los que haya impartido el módulo profesional de Técnicas de
+conducción y lo hayan superado, responsabilizándose en la prueba de control de aptitudes y
+comportamientos en circulación en vías abiertas al tráfico, del doble mando del vehículo y de
+la seguridad de la circulación, y deberá colaborar con el personal de la Jefatura Provincial de
+Tráfico en lo que afecte a la realización de las pruebas de aptitud, para la obtención de un
+permiso de conducción.
+
+Artículo 48 ter. Autorización de ejercicio del profesorado especialista del título de Técnico
+Superior en Formación para la movilidad segura y sostenible.
+    1. La autorización de ejercicio del profesorado especialista del título de Técnico Superior
+en Formación para la movilidad segura y sostenible, se solicitará a través de las sedes
+electrónicas de las administraciones con competencia en materia de tráfico y circulación de
+vehículos a motor, o utilizando los modelos de solicitud proporcionados al efecto por dichas
+administraciones, y se someterá, en lo no previsto expresamente en el presente reglamento,
+al procedimiento contenido en la Ley 39/2015 de 1 de octubre.
+    En dicha solicitud suscrita por el interesado, se acompañarán los siguientes documentos:
+    a) Número del documento nacional de identidad o del número de identidad de extranjero,
+en su caso.
+    b) Declaración por escrito de no estar cumpliendo condena o sanción de privación o
+suspensión del permiso de conducción acordada en vía judicial o administrativa o haber
+perdido el crédito total de sus puntos y de no estar incurso en ninguna de las prohibiciones
+para el ejercicio de las actividades docentes a que se refiere el artículo 12 de este
+reglamento.
+    c) Certificado del centro de formación profesional donde vaya a prestar servicios, en el
+que se indique el periodo de tiempo en el que va a desarrollar la formación, y que
+                                           Página 22
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+especifique, a su vez, que va a impartir los módulos profesionales de Técnicas de
+conducción y Didáctica de la enseñanza práctica de la conducción.
+   2. En caso de oposición expresa del interesado a la consulta u obtención de
+documentación que obrase en poder de la Administración, en los términos previstos en la
+Ley 39/2015 de 1 de octubre, deberán acompañar a la solicitud, además, los siguientes
+documentos:
+    a) Fotocopia del documento nacional de identidad o, en su caso, del documento
+acreditativo de la identidad o tarjeta equivalente, acompañado de su Número de Identidad de
+Extranjero, documentos todos ellos que deberán estar en vigor.
+    b) Copia del certificado de aptitud de Profesor de Formación Vial o de Profesor de
+Escuelas Particulares de Conductores o título de Técnico Superior en Formación para la
+movilidad segura y sostenible.
+    3. Una vez examinadas la solicitud y la documentación aportada, previa subsanación, en
+su caso, de las deficiencias observadas, consultado el Registro de conductores e infractores
+y la valoración, en su caso, de los antecedentes obrantes en el mismo, se notificará la
+resolución al interesado o a su representante, otorgando o denegando la autorización de
+ejercicio.
+    4. La autorización de ejercicio de profesor, habilita para impartir los módulos
+profesionales de Técnicas de conducción y Didáctica de la enseñanza práctica de la
+conducción, en el ciclo formativo de Técnico Superior en formación para la movilidad segura
+y sostenible. La validez de la autorización se extinguirá con el fin de la formación en el centro
+de formación profesional y estará condicionada al mantenimiento de los requisitos que
+motivaron su otorgamiento. Esta autorización de ejercicio, debe ir acompañada en todo
+momento de un documento que acredite la identidad de su titular.
+    5. Los procedimientos de nulidad, lesividad, pérdida de vigencia o suspensión de esta
+autorización de ejercicio, se regirá por lo establecido en el presente reglamento para la
+autorización de ejercicio del personal directivo y docente de las escuelas particulares de
+conductores.
+
+                                         CAPÍTULO IX
+   Los registros de centros de formación de conductores y de profesionales de la
+                            enseñanza de la conducción
+
+Artículo 49. Órgano competente para llevar y gestionar los registros.
+    1. Los registros de los centros de formación de conductores y de profesionales de la
+enseñanza de la conducción, a los que se refiere el apartado h) del artículo 5 de la Ley sobre
+Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, serán llevados y gestionados por
+la Dirección General de Tráfico.
+    2. El titular del órgano responsable de los registros o ficheros automatizados adoptará
+las medidas de gestión y organización que sean necesarias para asegurar, en todo caso, la
+confidencialidad, seguridad e integridad de los datos automatizados de carácter personal
+existentes en los registros y el uso de éstos para la finalidad para los que fueron recogidos,
+así como las conducentes a hacer efectivas las garantías, obligaciones y derechos
+reconocidos que en su caso procedan.
+
+Artículo 50. Finalidad de los Registros.
+    1. El Registro de Centros de Formación de Conductores tendrá como finalidad recoger y
+gestionar de forma automatizada los datos de los Centros de Formación a los que se haya
+concedido la autorización de apertura, así como los relativos a la nulidad y lesividad de las
+mismas y a la modificación, las medidas cautelares, y en su caso la intervención de la
+autorización de apertura.
+    2. El Registro de Profesionales de la Enseñanza de la Conducción tendrá como finalidad
+recoger y gestionar de forma automatizada los datos de carácter personal de los titulares del
+certificado de aptitud de Directores y Profesores de Escuelas Particulares de Conductores y
+                                           Página 23
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+de Profesores de Formación Vial, así como los relativos a la modificación, nulidad, lesividad,
+pérdida de vigencia, medidas cautelares y, en su caso, la intervención de sus autorizaciones
+de ejercicio.
+
+Artículos 51 a 56.
+   (Sin contenido)
+
+Disposición adicional primera. Tratamientos de datos personales.
+    Los tratamientos de datos personales que resulten de las disposiciones contenidas en
+este reglamento se regirán por lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento
+Europeo y del Consejo, de 27 de abril de 2016, y en la Ley Orgánica 3/2018, de 5 de
+diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Disposición adicional segunda. Jefaturas Locales de Tráfico de Ceuta y Melilla.
+    Las referencias contenidas a lo largo de este reglamento a las Jefaturas Provinciales de
+Tráfico se entenderán hechas también a las Jefaturas Locales de Tráfico de Ceuta y Melilla.
+
+Disposición adicional tercera. Aplicación supletoria.
+    En todo lo no regulado expresamente en este reglamento será de aplicación supletoria lo
+dispuesto en el Real Decreto 1778/1994, de 5 de agosto, por el que se adecuan a la Ley
+30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del
+Procedimiento Administrativo Común, las normas reguladoras de los procedimientos de
+otorgamiento, modificación y extinción de autorizaciones.
+
+Disposición adicional cuarta. Condiciones para la libre prestación de la actividad de
+Director o de Profesor de Formación Vial o de Profesor de Escuelas Particulares de
+Conductores.
+     1. Los Directores y Profesores de Formación Vial o Profesores de Escuelas Particulares
+de Conductores que estén establecidos en cualquier otro Estado miembro, podrán prestar
+sus servicios en territorio español en régimen de libre prestación siempre que comuniquen a
+la Jefatura Provincial de Tráfico donde vaya a prestar sus servicios, con carácter previo, el
+inicio de su actividad, utilizando para ello el modelo que, a tales efectos, proporcionará dicho
+organismo o que podrán descargarse en la siguiente página web:www.dgt.es.
+     2. Con la comunicación deberá acompañarse:
+    a) Fotocopia del documento acreditativo de identidad en vigor.
+    Si está en posesión de un número de identidad de extranjero, podrá dar consentimiento
+para que sus datos de identidad personal puedan ser consultados mediante el Sistema de
+Verificación de Datos, en los términos establecidos por el Real Decreto 522/2006, de 28 de
+abril, en cuyo caso no será necesario aportar la fotocopia a que se hace referencia en el
+párrafo anterior.
+    b) Fotocopia de la titulación que en su país le permita ejercer como Director o Profesor
+de Formación Vial.
+    c) Fotocopia del permiso de conducción en vigor del que es titular.
+    3. Transcurrido el plazo de un mes contado desde el día siguiente en que se presentó la
+comunicación o desde el día siguiente en que se subsanaron los errores o deficiencias,
+podrá iniciar su actividad. No obstante, sólo podrá impartir clases prácticas para la obtención
+del permiso de conducción de la clase o de las clases de que sea titular.
+    4. En el caso de que no cumpla con los requisitos exigidos para ello, se dictará la
+correspondiente resolución denegando la prestación de sus servicios como director o
+profesor de formación vial en nuestro país.
+
+Disposición adicional quinta. Comunicación entre Registros.
+   El Registro de Centros de Formación de Conductores y los correspondientes Registros
+de aquellas comunidades autónomas que tengan transferidas competencias ejecutivas en
+                                           Página 24
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+materia de tráfico y circulación de vehículos a motor, podrán tener acceso a sus respectivas
+bases de datos al objeto de realizar las comprobaciones oportunas antes de proceder a la
+inscripción de las Escuelas, Secciones o Sucursales en sus respectivos Registros.
+     Hasta que esté operativa la interconexión entre las bases de datos de dicho Registros se
+facilitarán recíprocamente, previa solicitud y por los medios oportunos, los datos necesarios
+para realizar las citadas inscripciones.
+
+Disposición adicional sexta. Condiciones para la prestación de la actividad de profesor de
+formación vial.
+    1. Aquellos que estuvieran en posesión del título de Profesor-Director de Escuela de
+Conductores, expedido por los órganos u organismos competentes del Ministerio de
+Defensa, podrán ejercer como directores de una escuela particular de conductores y como
+profesores de formación vial. Así mismo, aquellos que dispusieran del título de Instructor de
+Escuelas de Conductores o Monitor de Escuela de Conductores, expedido por los órganos u
+organismos competentes del Ministerio de Defensa, podrán ejercer como profesor de
+formación vial en territorio español, una vez obtenida la autorización a la que se refiere el
+apartado 4, y de acuerdo con la normativa vigente.
+    2. La obtención de la autorización de ejercicio de dicha habilitación exigirá, en todo caso,
+el cumplimiento de los siguientes requisitos:
+    a) Ser titulares de un permiso de conducción civil válido y en vigor.
+    b) Poseer una experiencia mínima de 3 años en el ámbito de la formación para la
+obtención de los permisos de conducción.
+    c) Cumplimentar el modelo de solicitud que, a tal efecto, proporcionará la Dirección
+General de Tráfico, dirigida a la Jefatura Provincial de Tráfico de la provincia donde vaya a
+prestar sus servicios por cualquiera de los medios admitidos en derecho, acompañando, en
+todo caso, de la siguiente documentación:
+    1.º Fotocopia del documento nacional de identidad o del número de identidad de
+extranjero, en su caso.
+    2.º Fotocopia de la titulación militar que le habilite a ejercer como Profesor-Director de
+Escuela de Conductores, Instructor de Escuelas de Conductores o monitor de escuela de
+conductores.
+    3.º Certificado del órgano u organismo competente del Ministerio de Defensa en el que
+se acredite la fecha de obtención del título y el tiempo de experiencia en el ámbito de la
+formación.
+    4.º Certificado de la Dirección o Jefatura de Personal correspondiente del Ministerio de
+Defensa en el que se acredite el tiempo de experiencia en el ámbito de formación.
+    5.º Informe de aptitud psicofísica del grupo 2.
+    No obstante, no se deberá presentar la documentación que obre en poder de la
+Administración, en los términos previstos en la Ley 39/2015, de 1 de octubre, salvo oposición
+expresa del interesado a su consulta u obtención.
+    3. Una vez verificada la documentación presentada, y de conformidad al procedimiento
+contenido en la Ley 39/2015, de 1 de octubre, en lo no previsto expresamente en el presente
+reglamento, el organismo autónomo Jefatura Central de Tráfico, dictará la correspondiente
+resolución, reconociendo la habilitación solicitada o denegando ésta en caso de
+incumplimiento de los requisitos exigidos. La resolución estimatoria asignará un número de
+inscripción en el Registro de Profesionales de la Enseñanza de la Conducción a efectos de
+que pueda solicitarse el alta en una escuela de conductores.
+    4. En todo caso, la autorización de ejercicio de profesor que se obtenga mediante la
+referida resolución, habilitará para impartir las clases teóricas necesarias para la obtención
+de cualquiera de los permisos o licencias de conducción vigentes y, exclusivamente, la
+formación práctica para la obtención de el/los permiso/s de conducción de la clase/s de los
+que el interesado fuera titular con más de un año de antigüedad.
+                                           Página 25
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+Disposición transitoria primera.      Adaptación a los requisitos sobre documentación y
+elementos personales y materiales.
+    Las escuelas dadas de alta con anterioridad a la entrada en vigor de este reglamento
+deberán adaptarse a los requisitos exigidos en él en cuanto a la documentación y los
+elementos personales y materiales en el plazo de un año, contados a partir de la publicación
+en el "Boletín Oficial del Estado" de este reglamento.
+
+Disposición transitoria segunda. Titulaciones académicas.
+    Los profesores y directores que a la entrada en vigor de este reglamento estuvieran
+autorizados para ejercer de acuerdo con las titulaciones académicas exigidas por la
+normativa anterior, podrán continuar ejerciendo sus funciones mientras sigan autorizados
+para ejercer como tales.
+
+Disposición transitoria tercera. Cursos y pruebas para la obtención de los certificados de
+aptitud de profesor de formación vial y de director de escuelas particulares de conductores.
+    Hasta que por orden del Ministro del Interior se regulen los cursos y pruebas para la
+obtención de los certificados de aptitud de profesor de formación vial y de director de
+escuelas particulares de conductores, dichos cursos y pruebas continuarán rigiéndose por
+las disposiciones vigentes a la entrada en vigor de este reglamento.
+
+   Este documento es de carácter informativo y no tiene valor jurídico.
+                                          Página 26
+

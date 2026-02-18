@@ -1,0 +1,206 @@
+{
+  "title": "Demo — Bloque 1: Organización del Estado",
+  "description": "10 preguntas de prueba (Temas 1-8)",
+  "questions": [
+    {
+      "tema": 1,
+      "bloque": 1,
+      "pregunta": "¿Cuál es el Título de la Constitución Española que regula los derechos y deberes fundamentales?",
+      "opciones": [
+        "Título Preliminar",
+        "Título I",
+        "Título II",
+        "Título III"
+      ],
+      "correcta": 1,
+      "explicacion": "El Título I de la Constitución Española de 1978 se denomina 'De los derechos y deberes fundamentales' y comprende los artículos 10 a 55.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Título I, Arts. 10-55",
+        "seccionId": "titulo-i",
+        "texto": "Título I. De los derechos y deberes fundamentales. Artículo 10. 1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social."
+      }
+    },
+    {
+      "tema": 1,
+      "bloque": 1,
+      "pregunta": "Según la Constitución Española, ¿quién tiene la competencia para declarar el estado de excepción?",
+      "opciones": [
+        "El Rey, a propuesta del Presidente del Gobierno",
+        "El Gobierno, mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados",
+        "Las Cortes Generales por mayoría absoluta",
+        "El Tribunal Constitucional"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el artículo 116.3 de la CE, el estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 116.3",
+        "seccionId": "titulo-v",
+        "texto": "Artículo 116. 3. El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados. La autorización y proclamación del estado de excepción deberá determinar expresamente los efectos del mismo, el ámbito territorial a que se extiende y su duración, que no podrá exceder de treinta días, prorrogables por otro plazo igual, con los mismos requisitos."
+      }
+    },
+    {
+      "tema": 1,
+      "bloque": 1,
+      "pregunta": "¿Cuántos miembros componen el Tribunal Constitucional según la Constitución Española?",
+      "opciones": [
+        "9 miembros",
+        "12 miembros",
+        "15 miembros",
+        "21 miembros"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 159.1 de la CE establece que el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey: 4 a propuesta del Congreso, 4 del Senado, 2 del Gobierno y 2 del CGPJ.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 159.1",
+        "seccionId": "titulo-ix",
+        "texto": "Artículo 159. 1. El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+      }
+    },
+    {
+      "tema": 2,
+      "bloque": 1,
+      "pregunta": "¿Cuántos diputados componen el Congreso de los Diputados?",
+      "opciones": [
+        "Entre 300 y 400",
+        "Entre 350 y 400",
+        "Entre 300 y 350",
+        "Exactamente 350"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 68.1 de la CE establece que el Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados. Actualmente son 350, pero la Constitución permite un rango.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 68.1",
+        "seccionId": "titulo-iii",
+        "texto": "Artículo 68. 1. El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley."
+      }
+    },
+    {
+      "tema": 2,
+      "bloque": 1,
+      "pregunta": "¿Quién nombra al Defensor del Pueblo?",
+      "opciones": [
+        "El Rey, a propuesta del Gobierno",
+        "Las Cortes Generales",
+        "El Congreso de los Diputados por mayoría simple",
+        "El Consejo General del Poder Judicial"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el artículo 54 de la CE, el Defensor del Pueblo es designado por las Cortes Generales como alto comisionado de las mismas para la defensa de los derechos del Título I.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 54",
+        "seccionId": "titulo-i",
+        "texto": "Artículo 54. Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales."
+      }
+    },
+    {
+      "tema": 3,
+      "bloque": 1,
+      "pregunta": "¿Mediante qué instrumento jurídico se nombra al Presidente del Gobierno?",
+      "opciones": [
+        "Real Decreto del Rey, con el refrendo del Presidente del Congreso",
+        "Decreto del Consejo de Ministros",
+        "Resolución de las Cortes Generales",
+        "Auto del Tribunal Constitucional"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el artículo 99 de la CE, tras obtener la confianza del Congreso, el Rey nombra al Presidente del Gobierno con el refrendo del Presidente del Congreso de los Diputados.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 99.3",
+        "seccionId": "titulo-iv",
+        "texto": "Artículo 99. 3. Si el Congreso de los Diputados, por el voto de la mayoría absoluta de sus miembros, otorgare su confianza a dicho candidato, el Rey le nombrará Presidente."
+      }
+    },
+    {
+      "tema": 4,
+      "bloque": 1,
+      "pregunta": "¿Cuál de las siguientes NO es una institución de la Unión Europea?",
+      "opciones": [
+        "El Consejo de Europa",
+        "El Consejo Europeo",
+        "El Tribunal de Cuentas Europeo",
+        "El Banco Central Europeo"
+      ],
+      "correcta": 0,
+      "explicacion": "El Consejo de Europa es una organización internacional independiente con sede en Estrasburgo, no es una institución de la UE. No debe confundirse con el Consejo Europeo ni con el Consejo de la UE.",
+      "fuente": {
+        "documentoId": "constitucion-1978",
+        "documento": "Temario — Tema 4",
+        "referencia": "Instituciones de la UE",
+        "seccionId": "tema-4",
+        "texto": "Las principales instituciones de la Unión Europea son: el Consejo Europeo, el Parlamento Europeo, el Consejo de la Unión Europea, la Comisión Europea, el Tribunal de Justicia de la UE, el Tribunal de Cuentas Europeo y el Banco Central Europeo."
+      }
+    },
+    {
+      "tema": 7,
+      "bloque": 1,
+      "pregunta": "¿Qué ley orgánica regula las medidas de protección integral contra la violencia de género en España?",
+      "opciones": [
+        "Ley Orgánica 3/2007",
+        "Ley Orgánica 1/2004",
+        "Ley Orgánica 2/2010",
+        "Ley Orgánica 10/1995"
+      ],
+      "correcta": 1,
+      "explicacion": "La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, es la norma que regula esta materia. La LO 3/2007 es de igualdad efectiva entre mujeres y hombres.",
+      "fuente": {
+        "documentoId": "tema-7",
+        "documento": "LO 1/2004",
+        "referencia": "Exposición de motivos y Art. 1",
+        "seccionId": "lo-1-2004",
+        "texto": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. Artículo 1. Objeto de la Ley. 1. La presente Ley tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia."
+      }
+    },
+    {
+      "tema": 8,
+      "bloque": 1,
+      "pregunta": "Según el EBEP (Estatuto Básico del Empleado Público), ¿cuál de las siguientes NO es una situación administrativa de los funcionarios?",
+      "opciones": [
+        "Servicio activo",
+        "Excedencia",
+        "Suspensión de funciones",
+        "Disponibilidad voluntaria"
+      ],
+      "correcta": 3,
+      "explicacion": "Las situaciones administrativas reguladas en el EBEP (art. 85) son: servicio activo, servicios especiales, servicio en otras Administraciones, excedencia y suspensión de funciones. No existe la 'disponibilidad voluntaria'.",
+      "fuente": {
+        "documentoId": "ebep",
+        "documento": "RDL 5/2015 (EBEP)",
+        "referencia": "Art. 85",
+        "seccionId": "titulo-vi",
+        "texto": "Artículo 85. Situaciones administrativas de los funcionarios de carrera. 1. Los funcionarios de carrera se hallarán en alguna de las siguientes situaciones: a) Servicio activo. b) Servicios especiales. c) Servicio en otras Administraciones Públicas. d) Excedencia. e) Suspensión de funciones."
+      }
+    },
+    {
+      "tema": 5,
+      "bloque": 1,
+      "pregunta": "Según la Ley 39/2015, ¿qué sujetos están OBLIGADOS a relacionarse electrónicamente con las Administraciones Públicas?",
+      "opciones": [
+        "Todos los ciudadanos sin excepción",
+        "Solo las personas jurídicas, entidades sin personalidad jurídica, profesionales colegiados y empleados públicos",
+        "Solo las empresas con más de 50 trabajadores",
+        "Solo los funcionarios públicos"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 14.2 de la Ley 39/2015 establece la obligación de relacionarse electrónicamente para las personas jurídicas, entidades sin personalidad jurídica, quienes ejerzan una actividad profesional colegiada, quienes representen a un interesado obligado, y los empleados de las AAPP.",
+      "fuente": {
+        "documentoId": "ley-39-2015",
+        "documento": "Ley 39/2015 (LPAC)",
+        "referencia": "Art. 14.2",
+        "seccionId": "titulo-preliminar",
+        "texto": "Artículo 14. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas. 2. En todo caso, estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo, al menos, los siguientes sujetos: a) Las personas jurídicas. b) Las entidades sin personalidad jurídica. c) Quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria. d) Quienes representen a un interesado que esté obligado a relacionarse electrónicamente con la Administración. e) Los empleados de las Administraciones Públicas."
+      }
+    }
+  ]
+}

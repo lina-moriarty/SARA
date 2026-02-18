@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SARA — Test Examinador de Tráfico</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- ONBOARDING SPLASH -->
+  <div id="onboarding" class="screen">
+    <div class="onboarding-container">
+      <h1>SARA</h1>
+      <p class="subtitle">Sistema de Autoevaluación y Repaso<br>Examinador de Tráfico (DGT)</p>
+      <h2 class="onboarding-heading">Elige tu tema visual</h2>
+      <div class="theme-grid" id="onboarding-theme-grid"></div>
+      <button class="btn btn-primary" id="onboarding-start">Continuar</button>
+    </div>
+  </div>
+
+  <!-- SETTINGS MODAL -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-backdrop"></div>
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3>Ajustes</h3>
+        <button class="btn-icon" onclick="App.closeSettings()">&#x2715;</button>
+      </div>
+      <div class="modal-body">
+        <h4>Tema visual</h4>
+        <div class="theme-grid" id="theme-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- START SCREEN -->
+  <div id="start-screen" class="screen active">
+    <div class="container">
+      <div class="title-bar">
+        <div></div>
+        <button class="btn-icon settings-btn" onclick="App.openSettings()" title="Ajustes">&#x2699;</button>
+      </div>
+      <h1>SARA</h1>
+      <p class="subtitle">Sistema de Autoevaluación y Repaso<br>Examinador de Tráfico (DGT)</p>
+      
+      <div class="quiz-selector">
+        <h2>Selecciona un test</h2>
+        <div id="quiz-list" class="quiz-list">
+          <p class="loading">Cargando tests disponibles...</p>
+        </div>
+      </div>
+
+      <div class="mode-selector">
+        <h2>Modo de estudio</h2>
+        <div class="mode-options">
+          <label class="mode-option selected" data-mode="learning">
+            <input type="radio" name="mode" value="learning" checked>
+            <div class="mode-card">
+              <span class="mode-title">Aprendizaje</span>
+              <span class="mode-desc">Feedback después de cada pregunta</span>
+            </div>
+          </label>
+          <label class="mode-option" data-mode="exam">
+            <input type="radio" name="mode" value="exam">
+            <div class="mode-card">
+              <span class="mode-title">Examen</span>
+              <span class="mode-desc">Resultados al final</span>
+            </div>
+          </label>
+        </div>
+      </div>
+
+      <button id="start-btn" class="btn btn-primary" disabled>Comenzar Test</button>
+    </div>
+  </div>
+
+  <!-- QUIZ SCREEN -->
+  <div id="quiz-screen" class="screen">
+    <div class="quiz-header">
+      <div class="progress-bar">
+        <div id="progress-fill" class="progress-fill"></div>
+      </div>
+      <div class="quiz-info">
+        <a href="#" class="back-link" onclick="App.backToMenu(); return false;">SARA</a>
+        <div class="quiz-info-right">
+          <span id="question-counter">1 / 100</span>
+          <span id="score-display" class="score-display hidden"></span>
+          <span id="timer" class="timer">00:00</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="quiz-body">
+      <div class="question-panel">
+        <div class="question-meta">
+          <span id="tema-badge" class="tema-badge">Tema 1</span>
+          <span id="bloque-badge" class="bloque-badge">Bloque 1</span>
+        </div>
+        <h2 id="question-text" class="question-text"></h2>
+        <div id="options" class="options"></div>
+        
+        <!-- Feedback panel (learning mode) -->
+        <div id="feedback-panel" class="feedback-panel hidden">
+          <div id="feedback-result" class="feedback-result"></div>
+          <div id="feedback-explanation" class="feedback-explanation"></div>
+          <button id="next-btn" class="btn btn-secondary">Siguiente</button>
+        </div>
+      </div>
+
+      <!-- Source material panel -->
+      <div id="source-panel" class="source-panel hidden">
+        <div class="source-header">
+          <h3>Material de referencia</h3>
+          <button id="close-source" class="btn-icon">&#x2715;</button>
+        </div>
+        <div id="source-ref" class="source-ref"></div>
+        <div id="source-content" class="source-content"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RESULTS SCREEN -->
+  <div id="results-screen" class="screen">
+    <div class="container">
+      <div class="title-bar">
+        <a href="#" class="back-link" onclick="App.backToMenu(); return false;">&#8592; Volver</a>
+        <div></div>
+      </div>
+      <h1>Resultados</h1>
+      <div class="results-summary">
+        <div class="result-card correct">
+          <span class="result-number" id="total-correct">0</span>
+          <span class="result-label">Correctas</span>
+        </div>
+        <div class="result-card incorrect">
+          <span class="result-number" id="total-incorrect">0</span>
+          <span class="result-label">Incorrectas</span>
+        </div>
+        <div class="result-card unanswered">
+          <span class="result-number" id="total-unanswered">0</span>
+          <span class="result-label">Sin contestar</span>
+        </div>
+        <div class="result-card score">
+          <span class="result-number" id="final-score">0</span>
+          <span class="result-label">Puntuación</span>
+        </div>
+      </div>
+      <p id="pass-fail" class="pass-fail"></p>
+      <p id="time-taken" class="time-taken"></p>
+
+      <h2>Revisión de respuestas</h2>
+      <div id="review-list" class="review-list"></div>
+
+      <div class="results-actions">
+        <button id="restart-btn" class="btn btn-primary">Volver al inicio</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
