@@ -71,7 +71,7 @@ const App = {
   // === QUIZ LIST ===
   async loadQuizList() {
     try {
-      const res = await fetch('/api/quizzes');
+      const res = await fetch('/api/quizzes.json');
       this.quizzes = await res.json();
       this.renderQuizList();
     } catch (e) {
@@ -113,7 +113,7 @@ const App = {
     const quizMeta = this.quizzes[parseInt(selectedRadio.value)];
     
     try {
-      const res = await fetch(`/api/quizzes/${quizMeta.id}`);
+      const res = await fetch(`/api/quizzes/${quizMeta.id}.json`);
       this.currentQuiz = await res.json();
     } catch (e) {
       alert('Error cargando el test.');
