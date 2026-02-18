@@ -5,6 +5,7 @@ const THEMES = [
   { id: 'midnight', name: 'Medianoche', bg: '#09090b', fg: '#a78bfa', text: '#fafafa' },
   { id: 'forest', name: 'Bosque', bg: '#0c1a0e', fg: '#86efac', text: '#dcfce7' },
   { id: 'dgt', name: 'DGT', bg: '#111827', fg: '#f59e0b', text: '#f9fafb' },
+  { id: 'mallorca', name: 'Mallorca', bg: '#fef9ef', fg: '#2563eb', text: '#1c1917' },
   { id: 'light', name: 'Claro', bg: '#f8fafc', fg: '#2563eb', text: '#0f172a' },
 ];
 
@@ -62,6 +63,39 @@ const App = {
     this.renderThemeGrid();
     this.bindEvents();
     await this.loadQuizList();
+
+    // Show onboarding on first visit
+    const hasVisited = localStorage.getItem('sara-onboarded');
+    if (!hasVisited) {
+      this.showOnboarding();
+    }
+  },
+
+  showOnboarding() {
+    const onboarding = document.getElementById('onboarding');
+    const grid = document.getElementById('onboarding-theme-grid');
+    const startBtn = document.getElementById('onboarding-start');
+
+    // Hide start screen, show onboarding
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    onboarding.classList.add('active');
+
+    // Render theme swatches in onboarding grid
+    grid.innerHTML = THEMES.map(t => `
+      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}" 
+           data-theme="${t.id}"
+           style="background: ${t.bg}; color: ${t.fg}; border-color: ${t.fg};"
+           onclick="App.applyTheme('${t.id}'); document.querySelectorAll('#onboarding-theme-grid .theme-swatch').forEach(s => s.classList.toggle('active', s.dataset.theme === '${t.id}'));">
+        <span class="theme-swatch-name" style="color: ${t.text}">${t.name}</span>
+        <span class="theme-swatch-preview" style="color: ${t.fg}">Aa</span>
+      </div>
+    `).join('');
+
+    startBtn.addEventListener('click', () => {
+      localStorage.setItem('sara-onboarded', '1');
+      onboarding.classList.remove('active');
+      this.showScreen('start');
+    });
   },
 
   bindEvents() {
