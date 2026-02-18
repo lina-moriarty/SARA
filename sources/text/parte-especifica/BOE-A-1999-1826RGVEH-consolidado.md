@@ -1,0 +1,9787 @@
+                                     LEGISLACIÓN CONSOLIDADA
+        Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba
+                       el Reglamento General de Vehículos.
+                                             Ministerio de la Presidencia
+                                        «BOE» núm. 22, de 26 de enero de 1999
+                                            Referencia: BOE-A-1999-1826
+                                                              ÍNDICE
+
+Preámbulo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      8
+
+Artículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   10
+
+   Artículo único. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    10
+
+Disposiciones adicionales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         10
+
+   Disposición adicional primera. Circulación con incumplimiento de las condiciones técnicas. . . . . . . . . . . . . . .                           10
+
+   Disposición adicional segunda. Competencias de las Comunidades Autónomas. . . . . . . . . . . . . . . . . . . . .                                11
+
+   Disposición adicional tercera. Contrato de seguro en la circulación de vehículos a motor. . . . . . . . . . . . . . . .                          11
+
+Disposiciones transitorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        11
+
+   Disposición transitoria primera. Régimen de vehículos sometidos a la normativa anterior. . . . . . . . . . . . . . . .                           11
+
+   Disposición transitoria segunda. Fecha de aplicación de las condiciones técnicas.. . . . . . . . . . . . . . . . . . . .                         11
+
+   Disposición transitoria tercera. Dispositivos de retención. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                11
+
+   Disposición transitoria cuarta. Plazos para la matriculación ordinaria de ciclomotores. . . . . . . . . . . . . . . . . .                        11
+
+   Disposición transitoria quinta. Reposición de placas de matrícula. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   12
+
+   Disposición transitoria sexta. Matrícula especial. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             12
+
+Disposiciones derogatorias . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          12
+
+   Disposición derogatoria primera. Código de la Circulación.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  12
+
+   Disposición derogatoria segunda. Otra normativa específica. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    12
+
+   Disposición derogatoria tercera. General.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             13
+                                                                Página 1
+                                        BOLETÍN OFICIAL DEL ESTADO
+                                              LEGISLACIÓN CONSOLIDADA
+
+Disposiciones finales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+
+   Disposición final primera. Ejecución y desarrollo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          13
+
+   Disposición final segunda. Vehículos de las Fuerzas Armadas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  14
+
+   Disposición final tercera. Habilitación para la modificación de los anexos del Reglamento General de Vehículos.                               14
+
+   Disposición final cuarta. Modificación del anexo del texto articulado de la Ley sobre Tráfico, Circulación de
+     Vehículos a Motor y Seguridad Vial. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           14
+
+   Disposición final quinta. Modificación del Real Decreto 2042/1994, de 14 de octubre, por el que se regula la
+     inspección técnica de vehículos.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         14
+
+   Disposición final sexta. Entrada en vigor. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        15
+
+REGLAMENTO GENERAL DE VEHÍCULOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        15
+
+   TÍTULO I. Normas generales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          15
+
+      CAPÍTULO ÚNICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         15
+
+         Artículo 1. Autorizaciones y sus efectos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         15
+
+         Artículo 2. Registro Nacional de Vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           15
+
+         Artículo 3. Conceptos básicos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        16
+
+         Artículo 4. Clasificación de los vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         17
+
+   TÍTULO II. Homologación, inspección y condiciones técnicas de los vehículos de motor, remolques y
+     semirremolques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      17
+
+      CAPÍTULO I. Homologación e inspección técnica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                17
+
+         Artículo 5. Homologación de tipo de vehículos de motor, remolques y semirremolques y exenciones. . . . .                                17
+
+         Artículo 6. Requisitos de los componentes y unidades técnicas independientes. . . . . . . . . . . . . . . . . . .                       18
+
+         Artículo 7. Reformas de importancia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          18
+
+         Artículo 8. Marcas.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    18
+
+         Artículo 9. Conjuntos de vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         18
+
+         Artículo 10. Inspecciones técnicas de vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            19
+
+      CAPÍTULO II. Condiciones técnicas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            19
+
+         Artículo 11. Generalidades. Condiciones técnicas.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              19
+
+         Artículo 12. Otras condiciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       20
+
+         Artículo 13. Condiciones técnicas de los dispositivos de acoplamiento y otros elementos de los
+            remolques. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   22
+
+         Artículo 14. Masas y dimensiones.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          22
+
+         Artículo 15. Condiciones técnicas de los dispositivos de alumbrado y señalización óptica. . . . . . . . . . . .                         22
+
+         Artículo 16. Dispositivos obligatorios de alumbrado y señalización óptica. . . . . . . . . . . . . . . . . . . . . . .                  23
+                                                               Página 2
+                                   BOLETÍN OFICIAL DEL ESTADO
+                                         LEGISLACIÓN CONSOLIDADA
+
+     Artículo 17. Dispositivos facultativos de alumbrado y señalización óptica. . . . . . . . . . . . . . . . . . . . . . .                  25
+
+     Artículo 18. Señales en los vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          27
+
+     Artículo 19. Accesorios, repuestos y herramientas de los vehículos en circulación. . . . . . . . . . . . . . . . .                      28
+
+     Artículo 20. Condicionamiento de los dispositivos en función del progreso técnico. . . . . . . . . . . . . . . . .                      28
+
+TÍTULO III. Ciclomotores, ciclos, vehículos de tracción animal y tranvías. . . . . . . . . . . . . . . . . . . . . . . . . .                 28
+
+  CAPÍTULO I. Ciclomotores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         28
+
+     Artículo 21. Homologación y características técnicas.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              28
+
+  CAPÍTULO II. Ciclos, vehículos de tracción animal y tranvías . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 29
+
+     Artículo 22. Ciclos y bicicletas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     29
+
+     Artículo 22 bis. Vehículos de movilidad personal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             29
+
+     Artículo 23. Vehículos de tracción animal. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          29
+
+     Artículo 24. Tranvías. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    30
+
+TÍTULO IV. Autorizaciones de circulación de los vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              30
+
+  CAPÍTULO I. Matriculación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        30
+
+     Artículo 25. Normas generales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        30
+
+     Artículo 26. Documentación de los vehículos.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             31
+
+  CAPÍTULO II. Matriculación ordinaria . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           31
+
+     Artículo 27. Matriculación única. Excepciones. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            31
+
+     Artículo 28. Matriculación de los vehículos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          31
+
+     Artículo 29. Modelos de permiso de circulación y de licencia de circulación. . . . . . . . . . . . . . . . . . . . .                    33
+
+     Artículo 30. Duplicados y renovaciones del permiso o licencia de circulación. . . . . . . . . . . . . . . . . . . .                     33
+
+  CAPÍTULO III. Cambios de titularidad de los vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                33
+
+     Artículo 31. Renovación del permiso o licencia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             33
+
+     Sección 1.ª Transmisiones entre personas que no se dedican a la compraventa de vehículos . . . . . . . . .                              33
+
+        Artículo 32. Tramitación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      33
+
+     Sección 2.ª Transmisiones en las que intervienen personas que se dedican a la compraventa de
+       vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   35
+
+        Artículo 33. Tramitación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      35
+
+  CAPÍTULO IV. Bajas y rehabilitación de los vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               36
+
+     Artículo 34. Pérdida de vigencia del permiso o licencia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              36
+
+     Artículo 35. Bajas definitivas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     37
+
+     Artículo 36. Bajas temporales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        37
+                                                           Página 3
+                                    BOLETÍN OFICIAL DEL ESTADO
+                                          LEGISLACIÓN CONSOLIDADA
+
+     Artículo 37. Tramitación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      38
+
+     Artículo 38. Rehabilitación de los vehículos que han causado baja definitiva. . . . . . . . . . . . . . . . . . . . .                    39
+
+  CAPÍTULO V. Matriculación especial . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            39
+
+     Artículo 39. Vehículos en régimen de matrícula diplomática. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  39
+
+     Artículo 40. Vehículos en régimen de matrícula turística. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              40
+
+     Artículo 41. Vehículos históricos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       41
+
+  CAPÍTULO VI. Autorizaciones temporales de circulación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                   41
+
+     Artículo 42. Normas generales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         41
+
+     Sección 1.ª Permisos temporales para particulares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                41
+
+        Artículo 43. Supuestos y requisitos para su concesión. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                41
+
+     Sección 2.ª Permisos temporales para uso de empresas o entidades relacionadas con el vehículo . . . . . .                                42
+
+        Subsección 1.ª Permisos temporales para vehículos no matriculados en España . . . . . . . . . . . . . . .                             42
+
+           Artículo 44. Supuestos y requisitos para su concesión. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 42
+
+           Artículo 45. Boletines de circulación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         42
+
+           Artículo 46. Condiciones para circular con estos permisos. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 43
+
+           Artículo 47. Pruebas o ensayos de investigación extraordinarios realizados por fabricantes,
+              carroceros y laboratorios oficiales. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        43
+
+        Subsección 2.ª Permisos temporales para vehículos matriculados en España . . . . . . . . . . . . . . . . .                            44
+
+           Artículo 48. Supuestos y requisitos para su concesión. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 44
+
+        Subsección 3.ª Permisos temporales para vehículos de museos y de colecciones museográficas . . . . .                                  45
+
+           Artículo 48 bis. Supuestos y requisitos para su concesión. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 45
+
+  CAPÍTULO VII. Placas de matrícula . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             45
+
+     Artículo 49. Caracteres, dimensiones y otros requisitos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               45
+
+  CAPÍTULO VIII. Circulación internacional de los vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 46
+
+     Artículo 50. Placas de matrícula, distintivos y documentación. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 46
+
+  CAPÍTULO IX. Nulidad, anulación, pérdida de vigencia y suspensión cautelar de las autorizaciones de
+    circulación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   47
+
+     Artículo 51. Procedimientos y recursos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            47
+
+ANEXO I. REGLAMENTACIÓN VIGENTE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     48
+
+ANEXO II. DEFINICIONES Y CATEGORÍAS DE LOS VEHÍCULOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                53
+
+  A. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   53
+
+  B. Clasificación por criterios de construcción . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          56
+                                                           Página 4
+                                     BOLETÍN OFICIAL DEL ESTADO
+                                           LEGISLACIÓN CONSOLIDADA
+
+   C. Clasificación por criterios de utilización. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        58
+
+   D. Servicio al que se destinan los vehículos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            61
+
+   E. Clasificación de los vehículos por su potencial contaminante . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 62
+
+ANEXO III. ESPEJOS RETROVISORES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    62
+
+   1. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   62
+
+   2. Retrovisores para vehículos de categorías M y N . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                63
+
+   3. Retrovisores para vehículos ciclomotores, ciclomotores con tres ruedas, motocicletas, motocicletas con
+      sidecar, vehículos de tres ruedas o cuatriciclos. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            64
+
+   4. Retrovisores para los vehículos especiales, incluidos los agrícolas . . . . . . . . . . . . . . . . . . . . . . . . . .                  64
+
+ANEXO IV. PROTECCIÓN TRASERA. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    65
+
+ANEXO V. CÁLCULO DE LA POTENCIA FISCAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         65
+
+ANEXO VI. DISPOSITIVOS DE RETENCIÓN Y ASEGURAMIENTO DE LA CARGA EN VEHÍCULOS QUE
+  PUEDAN TRANSPORTAR SIMULTÁNEAMENTE PERSONAS Y CARGA EN UN MISMO HABITÁCULO . . .                                                             66
+
+   1. Objeto y campo de aplicación . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         66
+
+   2. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   66
+
+   3. Requisitos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   66
+
+   4. Descripción de los ensayos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         68
+
+ANEXO VII. NEUMÁTICOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              72
+
+ANEXO VIII. FRENADO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            73
+
+   1. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   73
+
+   2. Categorías de vehículos y tipo de función de frenado que deben llevar. . . . . . . . . . . . . . . . . . . . . . . .                     74
+
+ANEXO IX. MASAS Y DIMENSIONES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    75
+
+   1. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   75
+
+   2. Masas máximas permitidas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           77
+
+   3. Dimensiones máximas autorizadas a los vehículos para poder circular, incluida la carga . . . . . . . . . . . .                           79
+
+   4. Masas remolcables para vehículos no agrícolas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                81
+
+   5. Masas remolcables para vehículos agrícolas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               82
+
+   6. Condiciones de circulación de los conjuntos en configuración euro-modular . . . . . . . . . . . . . . . . . . . .                        83
+
+   7. Longitud máxima de vehículos o conjuntos de vehículos con mejoras aerodinámicas. . . . . . . . . . . . . . .                             84
+
+ANEXO X. DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN ÓPTICA . . . . . . . . . . . . . . . . . . . . . . . .                                       84
+
+   1. Definiciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   84
+
+   2. Dispositivos de alumbrado y señalización óptica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              85
+                                                            Página 5
+                                    BOLETÍN OFICIAL DEL ESTADO
+                                          LEGISLACIÓN CONSOLIDADA
+
+ANEXO XI. SEÑALES EN LOS VEHÍCULOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       92
+
+  1. Materiales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    92
+
+  2. Especificaciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      93
+
+  3. Muestras de prueba a presentar en el laboratorio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                93
+
+  4. Especificaciones de láminas reflectantes para las señales V-3 a V-15, V-20 y V-24.. . . . . . . . . . . . . . . .                        93
+
+  5. Especificaciones de color para las láminas fluorescentes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  95
+
+  6. Ensayos de homologación para las placas correspondientes a las señales V-3 a V-15, V-20 y V-24. . . . . .                                95
+
+  V-1. VEHÍCULO PRIORITARIO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                96
+
+  V-2. VEHÍCULO-OBSTÁCULO EN LA VÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      96
+
+  V-3. VEHÍCULO DE POLICÍA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               97
+
+  V-4. LIMITACIÓN DE VELOCIDAD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 98
+
+  V-5. VEHÍCULO LENTO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            99
+
+  V-6. VEHÍCULO LARGO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              99
+
+  V-7. DISTINTIVO DE NACIONALIDAD ESPAÑOLA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                          100
+
+  V-8. DISTINTIVO DE NACIONALIDAD EXTRANJERA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            101
+
+  V-9. SERVICIO PÚBLICO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           104
+
+  V-10. TRANSPORTE ESCOLAR . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  105
+
+  V-11. TRANSPORTE DE MERCANCÍAS PELIGROSAS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               109
+
+  V-12. PLACA DE ENSAYO O INVESTIGACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       110
+
+  V-13. CONDUCTOR NOVEL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               111
+
+  V-14. APRENDIZAJE DE LA CONDUCCIÓN. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                       112
+
+  V-15. MINUSVÁLIDO. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          113
+
+  V-16. DISPOSITIVO DE PRESEÑALIZACIÓN DE PELIGRO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               114
+
+  V-17. ALUMBRADO INDICADOR DE «LIBRE» . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        115
+
+  V-18. ALUMBRADO DE TAXÍMETRO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    116
+
+  V-19. DISTINTIVO DE INSPECCIÓN TÉCNICA PERIÓDICA DEL VEHÍCULO . . . . . . . . . . . . . . . . . . . .                                       116
+
+  V-20. PANEL PARA CARGAS QUE SOBRESALEN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            117
+
+  V-21 CARTEL AVISADOR DE ACOMPAÑAMIENTO DE VEHÍCULO ESPECIAL O DE VEHÍCULOS EN
+    RÉGIMEN DE TRANSPORTE ESPECIAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                        118
+
+  V-22 CARTEL AVISADOR DE ACOMPAÑAMIENTO DE CICLISTA . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    119
+
+  V-23 DISTINTIVO DE VEHÍCULOS DE TRANSPORTE DE MERCANCÍAS . . . . . . . . . . . . . . . . . . . . . .                                        121
+
+  V-24 VEHÍCULO DE SERVICIO DE AUXILIO EN VÍAS PÚBLICAS . . . . . . . . . . . . . . . . . . . . . . . . . . .                                 123
+                                                           Página 6
+                                    BOLETÍN OFICIAL DEL ESTADO
+                                          LEGISLACIÓN CONSOLIDADA
+
+  V-25 DISTINTIVO AMBIENTAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               124
+
+  V-26 DISTINTIVO DE USO COMPARTIDO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     125
+
+  V-27 TRIÁNGULO VIRTUAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              126
+
+ANEXO XII. ACCESORIOS, REPUESTOS Y HERRAMIENTAS DE LOS VEHÍCULOS . . . . . . . . . . . . . . . . .                                            126
+
+ANEXO XIII. MATRICULACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             127
+
+ANEXO XIV. CAMBIO DE TITULARIDAD DE LOS VEHÍCULOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               131
+
+ANEXO XV. BAJAS Y REHABILITACIÓN DE LOS VEHÍCULOS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                               135
+
+ANEXO XVI. MATRICULACIÓN ESPECIAL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     136
+
+  I. Vehículos en régimen de matrícula diplomática . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              136
+
+  II. Vehículos en régimen de matrícula turística . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           138
+
+ANEXO XVII. AUTORIZACIONES TEMPORALES DE CIRCULACIÓN . . . . . . . . . . . . . . . . . . . . . . . . . . .                                    139
+
+  I. Permisos temporales para particulares . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .            139
+
+  II. Permisos temporales para uso de empresas o entidades relacionadas con el vehículo . . . . . . . . . . . . .                             141
+
+  III. Pruebas o ensayos de investigación extraordinarios realizados por fabricantes/representantes legales,
+      carroceros y Laboratorios Oficiales . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         142
+
+  IV. Permisos temporales para vehículos de museos y de colecciones museográficas . . . . . . . . . . . . . . . .                             143
+
+ANEXO XVIII. PLACAS DE MATRÍCULA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  144
+
+  I. Colores e inscripciones . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      144
+
+  II. Contraseñas de las placas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       147
+
+  III. Número y ubicación de las placas. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          148
+
+  IV. Dimensiones y especificaciones de las placas y sus caracteres. . . . . . . . . . . . . . . . . . . . . . . . . . . .                    150
+
+     Cuadro 1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   150
+
+     Cuadro 2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   151
+
+     Cuadro 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   161
+
+     Cuadro 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   163
+
+     Cuadro 5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   166
+
+ANEXO XIX. Certificación de vehículos de movilidad personal y otros no homologados . . . . . . . . . . . . . . . .                            166
+
+ANEXO XX. Registro de Vehículos Personales Ligeros . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  173
+
+ANEXO XXI. Características y requisitos técnicos de los vehículos de movilidad personal . . . . . . . . . . . . . . .                         177
+                                                           Página 7
+                                BOLETÍN OFICIAL DEL ESTADO
+                                     LEGISLACIÓN CONSOLIDADA
+
+                             TEXTO CONSOLIDADO
+                     Última modificación: 30 de enero de 2026
+  Téngase en cuenta que todas las referencias al Registro General de Vehículos y al Registro de Vehículos
+  contenidas en la normativa sobre tráfico, circulación de vehículos a motor y seguridad vial deberán entenderse
+  realizadas al Registro Nacional de Vehículos y, en su caso, a sus secciones auxiliares u otros registros
+  especiales relacionados con los vehículos dependientes del primero, según establece la disposición adicional
+  única del Real Decreto 52/2026, de 28 de enero. Ref. BOE-A-2026-2140
+     El título competencial del Estado para regular la materia contenida en el Reglamento
+General de Vehículos se encuentra, sin duda, en el artículo 149.1.21.ª de la Constitución
+Española de 27 de diciembre de 1978, que atribuye al Estado la competencia exclusiva
+sobre el tráfico y circulación de vehículos a motor, ya que, según declara la sentencia del
+Tribunal Constitucional, 59/1985, de 6 de mayo, «en el concepto de tráfico y circulación de
+vehículos a motor no se encuentran englobadas solamente las condiciones atinentes a la
+circulación sino también las condiciones que deban llevar los vehículos que circulan».
+     La Ley 18/1989, de 25 de julio, de Bases sobre Tráfico, Circulación de Vehículos a Motor
+y Seguridad Vial, permitió al Gobierno abordar la indiscutible complejidad técnica que la
+regulación de la materia relativa a los vehículos comporta a través del desarrollo de las
+correspondientes bases, mediante el Real Decreto legislativo 339/1990, de 2 de marzo, por
+el que se aprueba el texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a
+Motor y Seguridad Vial.
+     Las frecuentes remisiones reglamentarias contenidas en los preceptos del Real Decreto
+legislativo, relativas a los vehículos y su propia disposición final, exigen que el Reglamento
+General de Vehículos tenga por objeto la ejecución y desarrollo de dichos preceptos y que
+ello, en gran parte, se logre manteniendo o modificando, en su caso, la normativa contenida
+en el Código de la Circulación, aprobado por Decreto de 25 de septiembre de 1934, y sus
+disposiciones complementarias, según lo aconseje la experiencia o lo requiera la
+extensísima reglamentación técnica de la materia, recogida en las Directivas de la Unión
+Europea –y en los anexos derivados del Acuerdo relativo al cumplimiento de condiciones
+uniformes de homologación y reconocimiento recíproco de la homologación de equipos y
+piezas de vehículos de motor hecho en Ginebra el 20 de marzo de 1958–, que persiguen
+como uno de los objetivos prioritarios la armonización de las legislaciones de los Estados
+miembros de la Unión Europea relativas a la fabricación y uso de vehículos y de sus
+componentes y piezas, con el fin de lograr su aceptación recíproca entre todos los Estados
+miembros.
+     Para tratar tan extensa y detallada normativa y facilitar su adecuación a las condiciones
+o prescripciones técnicas de los vehículos para que sea admitida su circulación, en continua
+evolución por el incesante progreso técnico, el Reglamento se sirve de una técnica similar a
+la utilizada en el Real Decreto 2028/1986, de 6 de junio, por el que se dictan normas para la
+aplicación de determinadas Directivas de la CEE, relativas a la homologación de tipos de
+vehículos automóviles, remolques y semirremolques, así como partes y piezas de dichos
+vehículos («Boletín Oficial del Estado» número 236, de 2 de octubre), aceptada e incluso
+utilizada por la Unión Europea en alguna de sus Directivas, que permite, además, modificar
+sus anexos por Orden ministerial, recogiendo exclusivamente a lo largo de su articulado
+aquellos preceptos que, en principio, se prevé van a tener el carácter de normas
+permanentes y que por su generalidad afectan a todos los conductores o titulares de
+vehículos, mientras que los anexos recogen fundamentalmente normas de carácter técnico.
+     El Reglamento General de Vehículos es, en definitiva, un Reglamento ejecutivo, que
+desarrolla, complementa y pormenoriza el texto articulado de la Ley de Seguridad Vial,
+aunque no se trata de un desarrollo general o completo de dicho texto, sino de un desarrollo
+o ejecución parcial, pues se limita a desarrollar y complementar parte del Título I y el Título
+IV del texto articulado de la Ley.
+                                                    Página 8
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     Entre las disposiciones del Título I destaca el artículo 2, que exige la inscripción de los
+vehículos en el Registro de la Jefatura Central de Tráfico.
+     Los vehículos son bienes muebles fácilmente identificables a través de sus placas de
+matrícula y el número del bastidor o de la estructura autoportante (artículos 8, 49 y anexo 18
+del Reglamento) y, por tanto, susceptibles de determinada publicidad registral, si bien el
+Registro de Vehículos regulado en el artículo 2 del Reglamento, lo mismo que los Registros
+del derogado artículo 244 del Código de la Circulación, tiene carácter puramente
+administrativo, a diferencia del Registro de Hipoteca Mobiliaria y de Prenda sin
+Desplazamiento de la Posesión, establecido por la Ley de 16 de diciembre de 1954, y del
+Registro de Reserva de Dominio y Prohibición de Disponer, creado por la Ley 50/1965, de 17
+de julio, sobre Venta de Bienes Muebles a Plazos, en los que se inscriben los actos por los
+que se crean, modifican o extinguen aquellas garantías o gravámenes, a los efectos de
+dotarles de la adecuada publicidad y consiguiente oponibilidad frente a terceros.
+     Los datos que figuran en el Registro de Vehículos carecen pues de efectos sustantivos
+civiles, según se desprende además de una abundantísima jurisprudencia de nuestro
+Tribunal Supremo, entre otras, de la sentencia de 6 de marzo de 1984, en la que se declara
+que el derecho de la propiedad «está desvinculado en términos generales –Sentencias de 19
+de diciembre de 1966, 16 de noviembre de 1967 y 14 de diciembre de 1983– de lo que se
+halla dispuesto en el Código de la Circulación (artículos 241 y siguientes, principalmente)
+sobre matriculación, permiso de circulación, registro-archivo de la Jefatura Provincial y
+Registro General de la Jefatura Central de Tráfico, y transferencias, como ya entendieron las
+sentencias de esta Sala de 22 de diciembre de 1954, 20 de diciembre de 1956, 5 de
+noviembre de 1965 y 17 de enero de 1967».
+     Pero junto a este carácter o naturaleza estrictamente administrativa, tradicional del
+Registro de Vehículos, presenta también importantes innovaciones como la de adoptar para
+su funcionamiento medios informáticos, de acuerdo con lo dispuesto en el artículo 38 de la
+Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y
+del Procedimiento Administrativo Común, la de tener una función coadyuvante de las
+distintas Administraciones Públicas, órganos judiciales y Registros con los que se relaciona y
+la de comprobación de la existencia del seguro obligatorio de automóviles, previéndose
+además la posibilidad de organizar Registros especiales o auxiliares.
+     Del Título IV, y por lo que respecta a la matriculación de vehículos, merecen especial
+mención los artículos 25 que establece la obligación de matriculación de los ciclomotores por
+las Jefaturas de Tráfico; 27, que prevé los supuestos en los que se puede conceder una
+nueva matrícula a un vehículo que ya haya estado matriculado en nuestro país; el 28, que
+admite que el vehículo se matricule no sólo a nombre del propietario, como exigía el Código
+de la Circulación en el artículo 242, sino también a nombre del arrendatario, bien con opción
+de compra, como el supuesto de arrendamiento financiero o «leasing», o bien bajo otras
+modalidades de arrendamiento con arraigo en el mercado, como los arrendamientos a largo
+plazo («renting»); se establece asimismo en dicho artículo las autorizaciones y condiciones
+de los denominados trenes turísticos para que les sea permitida su circulación por las vías
+públicas.
+     Por lo que respecta a los «cambios de titularidad del vehículo», los artículos 32 y 33
+regulan los procedimientos a seguir para las transferencias de vehículos, distinguiendo las
+transmisiones entre personas que no se dedican a la compraventa de vehículos de aquéllas
+en las que intervienen vendedores de vehículos, con lo que se modifica sustancialmente el
+procedimiento regulado en el artículo 247 del Código de la Circulación.
+     En las transmisiones entre particulares, el titular deberá entregar el permiso de
+circulación del vehículo no al adquirente, sino a la Jefatura de Tráfico, acompañado del
+contrato de compraventa o arrendamiento, no pudiendo circular el adquirente con el vehículo
+mientras no renueve el permiso de circulación a su nombre, para lo que dispone de un plazo
+de treinta días, transcurrido el cual se procederá a la inmovilización del vehículo.
+     En las transmisiones en las que intervienen vendedores de vehículos, el titular deberá
+entregar el permiso de circulación en la Jefatura de Tráfico junto a un documento acreditativo
+de la entrega del vehículo al compraventa, tras lo cual se anotará en el Registro la baja
+temporal del mismo, que sólo podrá circular amparado por un permiso temporal de empresa
+concedido al compraventa para que pueda realizar pruebas con personas interesadas en su
+adquisición.
+                                           Página 9
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     El incumplimiento de la obligación de notificación del transmitente sólo tiene
+transcendencia «a los efectos de la legislación sobre tráfico, circulación de vehículos a motor
+y seguridad vial», como expresamente señalan los artículos 32.1 y 33.1, y, por lo tanto, en el
+orden puramente administrativo, ya que según resulta de los propios términos de los
+artículos 32 y 33, la compraventa se perfecciona y la transmisión de la propiedad se efectúa
+antes de la notificación e inscripción en el Registro de Vehículos, con sólo cumplir las
+normas del Código Civil, doctrina confirmada, entre otras, por la sentencia del Tribunal
+Supremo de 20 de septiembre de 1965, en la que se declara que «la comunicación de la
+transferencia de un automóvil a la Jefatura de Obras Públicas correspondiente, para
+conseguir su cambio si bien constituye una exigencia administrativa o fiscal impuesta por el
+párrafo 3 del artículo 249 (actual 247) del Código de la Circulación de 25 de septiembre de
+1934, no afecta a la validez y eficacia del contrato concertado, como lo demuestran los
+términos en que está redactado el artículo 1.279 del Código sustantivo».
+     En cuanto a las «placas de matrícula», se destacan como novedades más significativas
+la supresión de las siglas de la provincia en todas las placas de matrícula, a excepción de las
+ordinarias de los vehículos automóviles; en las placas ordinarias de los vehículos especiales,
+remolques y semirremolques y ciclomotores, en las de matrícula turística y de vehículo
+histórico, y en las temporales figurará una letra identificativa del tipo de vehículo o de
+permiso de que se trata, y dos grupos de caracteres, constituidos por un número de cuatro
+cifras y por tres letras; y se autoriza un marco ajeno a la placa que puede ir grabado con
+publicidad en su parte inferior.
+     Por lo que respecta a los anexos, tiene una especial importancia el anexo I que actúa
+como una auténtica tabla de vigencias.
+     Bajo el número 1 se establece la relación entre los artículos del Reglamento de
+Vehículos y las disposiciones aplicables, a través de cuatro columnas: la primera, recoge el
+artículo del Reglamento; la segunda, el apartado del artículo; la tercera, la materia de que se
+trata, y la cuarta, la legislación aplicable.
+     Bajo el número 2 se establece la relación entre las disposiciones aplicables y los
+artículos del Reglamento, a través de dos columnas y cuatro «cuadros», según que las
+disposiciones aplicables sean Leyes, Reales Decretos, Reglamentos CEE u otra
+reglamentación internacional y Órdenes ministeriales, respectivamente, con la indicación de
+la fecha de su publicación en el «Boletín Oficial del Estado» o en el «Diario Oficial de las
+Comunidades Europeas».
+     De esta forma se facilita el estudio y aplicación de las disposiciones vigentes, ya que la
+materia regulada con carácter general en los artículos del Reglamento se complementa, en
+su caso, con la técnica o específica recogida en los anexos a que cada uno de los artículos
+se remite.
+     La presente disposición ha sido sometida al procedimiento de información en materia de
+normas y reglamentaciones técnicas previsto en la Directiva 83/189/CEE, del Consejo, de 28
+de marzo y sus modificaciones, así como en el Real Decreto 1168/1995, de 7 de julio, por el
+que se regula la remisión de información en materia de normas y reglamentaciones técnicas.
+     En su virtud, a propuesta de los Ministros del Interior y de Industria y Energía, previa
+aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado
+y previa deliberación del Consejo de Ministros en su reunión del día 23 de diciembre de
+1998,
+
+                                      D I S P O N G O:
+
+Artículo único.
+   Se aprueba el Reglamento General de Vehículos cuyo texto se inserta a continuación.
+
+Disposición adicional primera.        Circulación con incumplimiento de las condiciones
+técnicas.
+    La circulación de un vehículo incumpliendo las condiciones técnicas contempladas en
+este Reglamento, cuando suponga un riesgo grave para la circulación, las personas o los
+bienes, dará lugar a la inmovilización del vehículo y a la iniciación del correspondiente
+expediente sancionador.
+                                          Página 10
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+Disposición adicional segunda. Competencias de las Comunidades Autónomas.
+     Lo dispuesto en el presente Reglamento, de conformidad con lo establecido en el
+artículo 4 de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, se
+entenderá sin perjuicio de las competencias que tengan asumidas las Comunidades
+Autónomas a través de sus propios Estatutos.
+
+Disposición adicional tercera. Contrato de seguro en la circulación de vehículos a motor.
+    Dentro del ámbito de sus competencias las autoridades encargadas de la vigilancia del
+Tráfico prestarán especial colaboración para el cumplimiento de lo dispuesto en la normativa
+sobre Responsabilidad Civil y Seguro en la Circulación de Vehículos a Motor.
+
+Disposición transitoria primera. Régimen de vehículos sometidos a la normativa anterior.
+    Los vehículos matriculados o puestos en circulación con anterioridad a la entrada en
+vigor del presente Reglamento podrán seguir circulando bajo las mismas condiciones
+técnicas con que fueron admitidos para su matriculación o puesta en circulación.
+
+Disposición transitoria segunda. Fecha de aplicación de las condiciones técnicas.
+   Las condiciones técnicas contempladas en este Reglamento se exigirán en las fechas
+que se indican en la reglamentación que se recoge en el anexo I a los vehículos
+matriculados o puestos en circulación desde el momento que la misma lo establezca.
+
+Disposición transitoria tercera. Dispositivos de retención.
+    El cumplimiento de las condiciones establecidas en el anexo VI de este Reglamento para
+los dispositivos de retención y aseguramiento de la carga, en los vehículos que puedan
+transportar simultáneamente personas y carga en un mismo habitáculo, será exigible a los
+vehículos que se matriculen a partir de un año desde la publicación en el «Boletín Oficial del
+Estado» del presente Reglamento.
+
+Disposición transitoria cuarta. Plazos para la matriculación ordinaria de ciclomotores.
+    1. Los titulares de los ciclomotores inscritos en los Registros de los Ayuntamientos
+deberán solicitar su matriculación ordinaria de la Jefatura de Tráfico de la provincia de su
+domicilio legal, sin devengo de tasa alguna, presentando los documentos que se indican en
+el anexo XIII de este Reglamento, en los plazos que se señalan a continuación:
+    a) Placa de inscripción terminada en 0: durante los tres meses siguientes a partir de la
+fecha de entrada en vigor del presente Reglamento.
+    b) Placa de inscripción terminada en 1: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    c) Placa de inscripción terminada en 2: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    d) Placa de inscripción terminada en 3: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    e) Placa de inscripción terminada en 4: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    f) Placa de inscripción terminada en 5: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    g) Placa de inscripción terminada en 6: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    h) Placa de inscripción terminada en 7: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    i) Placa de inscripción terminada en 8: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+    j) Placa de inscripción terminada en 9: durante los tres meses siguientes a partir de la
+terminación del plazo anterior.
+                                          Página 11
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    2. Los ciclomotores adquiridos con anterioridad a la entrada en vigor de este Reglamento
+que no estén inscritos en los Registros de los Ayuntamientos deberán ser objeto de
+matriculación ordinaria en la Jefatura de Tráfico de la provincia del domicilio legal de su
+propietario, de su arrendatario con opción de compra o de su arrendatario a largo plazo,
+aportando los documentos que se indican en el anexo XIII del presente Reglamento, en el
+plazo de seis meses, a contar desde su entrada en vigor.
+    3. El propietario, arrendatario con opción de compra o arrendatario a largo plazo de más
+de un ciclomotor podrá solicitar la matriculación de la totalidad de los mismos en el período
+que corresponda al primero de ellos.
+
+Disposición transitoria quinta. Reposición de placas de matrícula.
+    Los titulares de vehículos matriculados con anterioridad a la entrada en vigor de este
+Reglamento, que se vean obligados a sustituir las placas de matrícula por pérdida,
+sustracción o deterioro, deberán necesariamente ajustar las dimensiones de las nuevas
+placas a las del modelo reglamentario contenido en el anexo XVIII, si bien conservarán el
+número de matrícula que tuvieran asignado.
+
+Disposición transitoria sexta. Matrícula especial.
+   Misiones Diplomáticas y Organizaciones internacionales.
+     1. En los seis meses siguientes a la fecha de entrada en vigor del presente Reglamento,
+las Organizaciones internacionales y los miembros de su personal con estatuto diplomático,
+titulares de vehículos matriculados con arreglo a lo previsto en la Orden del Ministerio de la
+Presidencia de 6 de marzo de 1985, solicitarán el permiso de circulación y la placa de
+matrícula regulados en el artículo 39, apartado 1.b) y apartado B), a), 2.º , del anexo XVIII de
+este Reglamento.
+     2. Asimismo, en dicho plazo, las Oficinas Consulares y los funcionarios consulares de
+carrera de nacionalidad extranjera, titulares de vehículos matriculados con arreglo a lo
+previsto en la Orden del Ministerio de la Presidencia de 31 de mayo de 1977, solicitarán la
+placa de matrícula especial regulada en el apartado B), a), 3.º , del anexo XVIII del presente
+Reglamento.
+     3. El personal técnico-administrativo de las Misiones Diplomáticas y de las
+Organizaciones Internacionales, así como los empleados consulares de las Oficinas
+Consulares, cuyos vehículos tengan concedida a la entrada en vigor de este Reglamento
+matrícula turística, seguirán circulando con este permiso y placas hasta que finalice su plazo
+de validez.
+
+Disposición derogatoria primera. Código de la Circulación.
+    Quedan derogados los artículos del Código de la Circulación que se citan a continuación:
+10; del 12 al 15; del 55 al 58, ambos inclusive; del 61 al 64, ambos inclusive; del 78 al 84,
+ambos inclusive; del 105 al 107, ambos inclusive; 132; 134; del 137 al 141, ambos inclusive;
+del 143 al 148, ambos inclusive; del 154 al 166, ambos inclusive; del 175 al 194, ambos
+inclusive; del 201 al 260, ambos inclusive; del 305 al 308, ambos inclusive; 310 y 311.
+
+Disposición derogatoria segunda. Otra normativa específica.
+   Igualmente quedan derogadas las siguientes disposiciones:
+     a) Párrafos c), d), e) y f) del artículo 17 del Real Decreto 1571/1993, de 10 de
+septiembre, por el que se adapta la reglamentación de la matrícula turística a las
+consecuencias de la armonización fiscal del mercado interior.
+     b) Real Decreto 490/1997, de 14 de abril, por el que se modifica el Código de la
+Circulación y se determinan los pesos y dimensiones máximos de los vehículos.
+     c) Orden del Ministerio de Obras Públicas de 6 de abril de 1951, por la que se regula la
+utilización de los tractores agrícolas en el transporte de productos y su circulación por
+carretera.
+     d) Orden del Ministerio de Obras Públicas de 23 de marzo de 1955, relativa a las
+instrucciones complementarias a la Orden ministerial de 6 de abril de 1951, que regula la
+                                           Página 12
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+utilización de los tractores agrícolas en el transporte de productos y su circulación por
+carretera.
+     e) Orden del Ministerio de la Gobernación de 30 de julio de 1970, por la que se dictan
+normas para la aplicación del apartado B), 6, del artículo 144 del Código de la Circulación.
+     f) Orden del Ministerio de la Gobernación de 24 de septiembre de 1971, por la que se
+desarrolla lo dispuesto en el capítulo X del Código de la Circulación, denominado «De la
+circulación en prueba, en transporte y con permiso temporal».
+     g) Orden del Ministerio de la Presidencia de 7 de octubre de 1971, por la que se
+desarrolla lo dispuesto en los artículos 242 y 243 del Código de la Circulación sobre
+matriculación de vehículos.
+     h) Orden del Ministerio de Industria de 5 de noviembre de 1973, por la que se establece
+el modelo de relación de vehículos reformados previa autorización.
+     i) Orden del Ministerio de la Presidencia de 8 de noviembre de 1974, que modifica la
+Orden de 7 de octubre de 1971.
+     j) Orden del Ministerio de la Presidencia de 27 de abril de 1977, por la que se desarrolla
+lo dispuesto en el capítulo XX del Código de la Circulación sobre matriculación de vehículos
+especiales.
+     k) Orden del Ministerio de la Presidencia de 31 de mayo de 1977, por la que se
+establece la normativa sobre matriculación de vehículos automóviles con placa CD y CC.
+     l) Orden del Ministerio de Industria y Energía de 21 de octubre de 1977, sobre
+homologación de paneles de señalización para vehículos que transportan materias
+peligrosas.
+     m) Orden del Ministerio de la Presidencia de 26 de junio de 1978, que modifica la Orden
+de 27 de abril de 1977.
+     n) Orden del Ministerio del Interior de 20 de junio de 1979, por la que se establecen
+determinadas restricciones a la circulación por las vías públicas.
+     ñ) Orden del Ministerio del Interior de 10 de octubre de 1980, que modifica la Orden de
+24 de septiembre de 1971.
+     o) Orden del Ministerio de la Presidencia de 16 de julio de 1984, por la que se aprueba la
+clasificación de vehículos y sus definiciones a efectos estadísticos, así como las normas
+sobre la fijación de las claves numéricas.
+     p) Orden del Ministerio de la Presidencia de 6 de marzo de 1985, sobre placas de
+matrícula para los automóviles que disfrutan de franquicia diplomática, propiedad de
+Organismos internacionales y de sus funcionarios con «status» diplomático.
+     q) Orden del Ministerio de Industria y Energía de 26 de junio de 1986, por la que se
+aprueban las prescripciones técnicas relativas a la homologación de los vehículos en lo que
+se refiere a su compatibilidad para formar parte de conjuntos de vehículos y a la
+homologación de las partes mecánicas del acoplamiento.
+     r) Orden del Ministerio del Interior de 22 de abril de 1987, que modifica la Orden de 24 de
+septiembre de 1971.
+     s) Orden del Ministerio del Interior de 9 de septiembre de 1993, por la que se regula la
+señalización luminosa de los tractores, maquinaria agrícola y demás vehículos especiales o
+de transportes especiales.
+     t) Orden del Ministerio de la Presidencia de 28 de noviembre de 1996, por la que se
+desarrolla lo dispuesto en el Real Decreto 1539/1996, de 21 de junio, que permite el cambio
+de matrícula de los vehículos a motor, modificando el artículo 209 del Código de la
+Circulación.
+
+Disposición derogatoria tercera. General.
+    Se derogan, asimismo, cuantos artículos del Código de la Circulación y disposiciones de
+igual o inferior rango se opongan a lo establecido en el presente Reglamento.
+
+Disposición final primera. Ejecución y desarrollo.
+    Se faculta a los Ministros del Interior y de Industria y Energía para dictar o promover, por
+sí o conjuntamente con los titulares de los restantes Departamentos ministeriales afectados
+por razón de la materia, las disposiciones oportunas para la aplicación e interpretación de lo
+establecido en el presente Reglamento.
+                                           Página 13
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Disposición final segunda. Vehículos de las Fuerzas Armadas.
+    Se faculta a los Ministros de Defensa, del Interior y de Industria y Energía y, en su caso,
+a los demás Ministros competentes, para regular las peculiaridades del régimen de
+autorizaciones de circulación y características técnicas de los vehículos pertenecientes a las
+Fuerzas Armadas, así como de sus partes y piezas y placas de matrícula.
+
+Disposición final tercera. Habilitación para la modificación de los anexos del Reglamento
+General de Vehículos.
+    Se faculta a las personas titulares de los Ministerios del Interior, de Industria y Turismo y
+para la Transición Ecológica y el Reto Demográfico para modificar mediante orden los
+anexos de este Reglamento. La modificación del anexo IX requerirá, además, la conformidad
+de la persona titular del Ministerio de Transportes y Movilidad Sostenible.
+    No obstante lo dispuesto en el párrafo anterior, el anexo XX se modificará mediante real
+decreto del Consejo de Ministros.
+    La actualización, modificación o derogación de las normas relacionadas en el anexo I
+habrá de hacerse o promoverse por los organismos competentes y a través de los
+procedimientos que correspondan, de acuerdo con la naturaleza y el rango de cada una de
+ellas.
+
+Disposición final cuarta. Modificación del anexo del texto articulado de la Ley sobre
+Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
+     Quedan modificados, de acuerdo con lo dispuesto en los anexos II, IX y X de este
+Reglamento, los conceptos básicos contenidos en los puntos 4 a 51 del anexo del texto
+articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial,
+aprobado por Real Decreto Legislativo 339/1990, de 2 de marzo.
+
+Disposición final quinta. Modificación del Real Decreto 2042/1994, de 14 de octubre, por
+el que se regula la inspección técnica de vehículos.
+   1. El artículo 6, apartado 5, del Real Decreto 2042/1994, de 14 de octubre, por el que se
+regula la inspección técnica de vehículos, queda redactado del modo siguiente:
+
+           «Todo vehículo que haya sufrido, como consecuencia de un accidente u otra
+       causa un daño importante que pueda afectar a algún elemento de seguridad de los
+       sistemas de dirección, suspensión, transmisión o frenado, o al bastidor o estructura
+       autoportante en los puntos de anclaje de alguno de estos órganos, deberá ser
+       presentado a inspección antes de su nueva puesta en circulación, en la que se
+       dictamine sobre la aptitud del vehículo para circular por las vías públicas.
+           El agente de la autoridad encargado de la vigilancia del tráfico que realice el
+       informe y atestado será quien proponga la inspección del vehículo antes de su
+       puesta en servicio después de la reparación. A estos efectos intervendrá el permiso
+       de circulación del vehículo, remitiéndolo a la Jefatura de Tráfico de la provincia
+       donde se haya producido el accidente. Dicha Jefatura o aquélla en la que el
+       interesado haya manifestado expresamente que desea recoger su permiso de
+       circulación, si procede, comunicará a éste la necesidad de presentar el vehículo a
+       inspección técnica y también se lo comunicará al órgano competente de la
+       Comunidad Autónoma donde el interesado haya declarado al agente de la autoridad
+       que el vehículo va a ser inspeccionado.
+           Cuando el interesado haya realizado las oportunas reparaciones, deberá llevar el
+       vehículo hasta la estación ITV para pasar la inspección técnica amparado en la
+       autorización de circulación que le haya facilitado la Jefatura de Tráfico y, si la
+       inspección es favorable, previa presentación del informe, le será devuelto el permiso
+       de circulación.
+           Si el resultado de la inspección fuera desfavorable, la estación ITV lo hará
+       constar en el informe de inspección, procediendo conforme a lo previsto en el artículo
+       11, apartado 2.»
+                                           Página 14
+                           BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+    2. El artículo 11, apartado 2, primer párrafo, del Real Decreto 2042/1994, de 14 de
+octubre, por el que se regula la inspección técnica de vehículos, queda redactado del modo
+siguiente:
+
+           «Si el resultado de una inspección técnica fuese desfavorable, la estación ITV
+       concederá a su titular, para subsanar los defectos observados, un plazo inferior a dos
+       meses, cuya extensión concreta se determinará teniendo en cuenta la naturaleza de
+       tales defectos. La estación retendrá la tarjeta ITV y el titular deberá proceder a la
+       reparación del vehículo, que quedará inhabilitado para circular por las vías públicas,
+       excepto para su traslado al taller o para la regularización de su situación y vuelta a la
+       estación ITV para nueva inspección.»
+
+Disposición final sexta. Entrada en vigor.
+    El presente Real Decreto y el Reglamento que por el mismo se aprueba entrarán en
+vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+   Dado en Madrid a 23 de diciembre de 1998.
+
+                                                                                          JUAN CARLOS R.
+                   El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+                             FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+                        REGLAMENTO GENERAL DE VEHÍCULOS
+                                               TÍTULO I
+                                        Normas generales
+
+                                        CAPÍTULO ÚNICO
+
+Artículo 1. Autorizaciones y sus efectos.
+    1. La circulación de vehículos exigirá que éstos obtengan previamente la
+correspondiente autorización administrativa, dirigida a verificar que estén en perfecto estado
+de funcionamiento y se ajusten en sus características, equipos, repuestos y accesorios a las
+prescripciones técnicas que se fijan en este Reglamento. Se prohíbe la circulación de
+vehículos que no estén dotados de la citada autorización.
+    El Ministerio de Industria y Energía podrá establecer excepciones al cumplimiento de
+alguna de las condiciones técnicas previstas en este Reglamento a determinados vehículos,
+equipos, repuestos y accesorios.
+    2. La circulación de un vehículo sin autorización, bien por no haberla obtenido o porque
+haya sido objeto de anulación o declarada su pérdida de vigencia, dará lugar a la
+inmovilización del mismo hasta que se disponga de dicha autorización, de acuerdo con lo
+que se establece en el presente Reglamento.
+    Asimismo, la circulación de un vehículo durante el plazo de suspensión cautelar de la
+autorización de circulación que se haya acordado en el curso de los procedimientos de
+nulidad, anulación y pérdida de vigencia de dicha autorización dará lugar a la inmovilización
+del vehículo.
+
+Artículo 2. Registro Nacional de Vehículos.
+    1. Todos los vehículos matriculados deberán figurar inscritos en el Registro Nacional de
+Vehículos. Dicho Registro tendrá naturaleza administrativa, dependiente del organismo
+autónomo Jefatura Central de Tráfico y gestionado por este, y en él se identificarán y
+describirán los vehículos o medios de transporte que deban ser inscritos o matriculados, sus
+características técnicas y sus sistemas de seguridad y de conducción.
+    2. El Registro Nacional de Vehículos estará destinado preferentemente a:
+                                               Página 15
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    a) Identificar a las personas titulares administrativas y usuarias de los vehículos o de sus
+sistemas de conducción, en sus diferentes regímenes jurídicos.
+    b) Incluir datos relativos a sus características técnicas, sistemas de seguridad, sistemas
+de conducción, revisiones, reformas y accesorios, así como cualquier otro dato técnico
+incluido en su certificado de conformidad u homologación de tipo.
+    c) Actualizar datos relativos a cambios físicos y digitales en los sistemas y componentes
+de seguridad, de conducción y medioambientales.
+    d) Anotar los resultados de las inspecciones técnicas de vehículos realizadas y los
+defectos detectados, así como las intervenciones efectuadas por los talleres de reparación
+de vehículos automóviles, de sus equipos y componentes.
+    e) Inscribir las diferentes incidencias técnicas y aquellas relativas a la seguridad del
+vehículo, en particular, las llamadas a revisión por fabricantes y el resultado de su
+declaración como siniestro total, en su caso.
+    f) Verificar la vigencia del seguro obligatorio de responsabilidad civil, así como de
+cualesquiera obligaciones legales o reglamentarias que se establezcan sobre el vehículo.
+    g) Proveer información a las personas consumidoras y usuarias, personas con interés
+legítimo y administraciones públicas para el ejercicio de sus competencias, teniendo en
+cuenta las necesidades derivadas de la sociedad de la información y la digitalización.
+    h) Facilitar información para fines estadísticos y permitir la reutilización de datos que se
+establezca, de acuerdo con la normativa vigente.
+    i) Registrar las diferentes situaciones administrativas y jurídicas, y regímenes de uso que
+se ocasionen a lo largo de la vida útil del vehículo. También podrá incluir autorizaciones de
+uso emitidas por otras administraciones que sean precisas para el servicio que presten los
+vehículos.
+    j) Constituir el punto de acceso nacional para el intercambio de información de vehículos
+con otros Estados Miembros de la Unión Europea, conforme se establezca en el Derecho de
+la Unión Europea, y sin perjuicio de la condición de punto de contacto nacional del
+organismo autónomo Jefatura Central de Tráfico.
+    3. El Registro Nacional de Vehículos será público para las personas interesadas y
+terceras que tengan interés legítimo y directo, mediante notas simples informativas o
+certificaciones. Los datos que figuren en él no prejuzgarán las cuestiones de propiedad,
+cumplimientos de contratos y, en general, cuantas de naturaleza civil o mercantil puedan
+suscitarse respecto a los vehículos.
+    4. Podrán organizarse secciones auxiliares u otros registros especiales relacionados con
+vehículos.
+    5. Todos los vehículos que cuenten con un certificado de circulación deberán inscribirse
+en el Registro Nacional de Vehículos, sin perjuicio de lo dispuesto en el artículo 1.
+    6. El funcionamiento del Registro, la forma y efectos de sus anotaciones, así como el
+alcance de su publicidad se ajustará, además, a la normativa vigente en materia de
+protección de datos personales.
+    7. El Registro de Vehículos Personales Ligeros se incardina como sección dentro del
+Registro Nacional de Vehículos. En él se consignarán los datos que se indican en el anexo
+XX de este reglamento.
+    8. El organismo autónomo Jefatura Central de Tráfico será responsable de la gestión y
+gobernanza del Registro en relación con los datos, formato y especificaciones para la
+provisión o intercambio de información.
+
+Artículo 3. Conceptos básicos.
+   A efectos de este Reglamento, se entiende por:
+    a) Homologación de tipo CE: el acto por el cual un Estado miembro de la Unión Europea
+hace constar que un tipo de vehículo se ajusta a las prescripciones técnicas establecidas en
+las Directivas específicas y ha pasado los controles y comprobaciones previstos en los
+correspondientes certificados de homologación de tipo CE.
+    b) Homologación nacional de tipo: el acto por el cual la Administración General del
+Estado español hace constar que un vehículo satisface las prescripciones técnicas
+
+                                           Página 16
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+establecidas en la legislación vigente y reflejadas en la ficha de características, definidas
+para cada categoría de vehículos.
+    c) Homologación parcial: el acto mediante el cual la Administración General del Estado
+español o las Administraciones de otros Estados hacen constar que determinados sistemas,
+componentes o unidades técnicas de los vehículos, o relacionados con ellos, satisfacen las
+prescripciones técnicas establecidas en las correspondientes Directivas comunitarias o
+Reglamentos derivados del Acuerdo de Naciones Unidas relativo al reconocimiento
+recíproco de homologación de vehículos, sus partes y piezas, y en los Reglamentos técnicos
+de ámbito nacional. Esta misma denominación es, asimismo, aplicable a la comprobación del
+vehículo en lo que se refiere a aspectos parciales de su comportamiento.
+    d) Sistema: cualquier conjunto de elementos o de componentes del vehículo que está
+sujeto a los requisitos de alguna de las reglamentaciones particulares.
+    e) Componente: el dispositivo sujeto a las disposiciones de una reglamentación particular
+cuyo fin sea formar parte de un vehículo y que pueda ser homologado de tipo
+independientemente del vehículo cuando la reglamentación particular así lo disponga
+expresamente.
+    f) Unidad técnica independiente: el dispositivo sujeto a disposiciones de
+reglamentaciones particulares cuyo fin sea formar parte de un vehículo y que pueda ser
+homologado de tipo separadamente, pero únicamente para uno o varios tipos de vehículos,
+siempre que así lo disponga expresamente la reglamentación particular correspondiente.
+    g) Tarjeta ITV: documento que consta de:
+    Por el anverso: registro de las inspecciones periódicas.
+    Por el reverso: certificado de características del vehículo en el que se acredita que éste
+corresponde a un tipo homologado o que ha pasado inspección técnica unitaria.
+    h) Certificado de características de un ciclomotor: Documento expedido por el fabricante
+nacional, su representante legal en el caso de extranjeros o el órgano competente en
+materia de Industria de la Comunidad Autónoma en los casos previstos en la legislación
+vigente, en el que se hace constar las características técnicas de un ciclomotor
+correspondiente a un tipo homologado.
+    i) Certificado de conformidad CE: documento que expide el titular de la homologación de
+tipo de vehículo, acreditativo de que es conforme con esa homologación CE.
+    j) Certificado para la circulación. Documento expedido por un tercero competente
+designado por el organismo autónomo Jefatura Central de Tráfico en el que se acredita que
+el vehículo sometido a ensayo cumple con los requisitos técnicos de aplicación conforme a la
+normativa técnica nacional e internacional. Los vehículos de movilidad personal deberán
+obtener dicho certificado y la solicitud del mismo será realizada por los fabricantes,
+importadores o sus representantes respectivos en España.
+
+Artículo 4. Clasificación de los vehículos.
+   Las definiciones, clasificación y categorías de los vehículos a efectos de homologación y
+de cumplimentación de las tarjetas de inspección técnica o de la documentación necesaria
+para la matriculación se ajustarán a la reglamentación recogida en los anexos I y II.
+                                          TÍTULO II
+   Homologación, inspección y condiciones técnicas de los vehículos de motor,
+                          remolques y semirremolques
+
+                                         CAPÍTULO I
+                           Homologación e inspección técnica
+
+Artículo 5. Homologación de tipo de vehículos de motor, remolques y semirremolques y
+exenciones.
+    1. Todos los vehículos de motor, sus remolques y semirremolques, como condición
+indispensable para su matriculación ordinaria o turística, deberán corresponder a tipos
+                                          Página 17
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+previamente homologados según la reglamentación que se recoge en el anexo I. En
+particular, deberán estar homologados en España de acuerdo con el Real Decreto
+2140/1985, de 9 de octubre, o en la Unión Europea conforme a las Directivas 70/156/CEE,
+74/150/CEE o 92/61/CEE, o en el Espacio Económico Europeo cuando éstas les sean de
+aplicación.
+    2. No obstante lo anterior, quedan eximidos de la homologación de tipo nacional y/o de
+algunas de las homologaciones parciales, antes de su matriculación ordinaria o turística, los
+vehículos que se especifican en la reglamentación que se recoge en el anexo I.
+    3. El procedimiento para obtener la homologación de tipo y, en su caso, para someterse
+a la inspección técnica unitaria, se fijará por el Ministerio de Industria y Energía, según se
+recoge en el citado anexo, teniendo en cuenta, en su caso, los Acuerdos o Tratados
+Internacionales.
+
+Artículo 6. Requisitos de los componentes y unidades técnicas independientes.
+    Se prohíbe la puesta en servicio o venta para este fin de los componentes y unidades
+técnicas independientes que no cumplan con los requisitos de la legislación que les sea de
+aplicación, cuando vayan a ser montados en vehículos destinados a circular por las vías
+públicas.
+
+Artículo 7. Reformas de importancia.
+    1. Como reformas de importancia se entenderán las que se relacionan en la
+reglamentación que se recoge en el anexo I.
+    2. El titular de un vehículo de motor, remolque o semirremolque en el que se haya
+efectuado una reforma de importancia deberá regularizarla ante el órgano de la
+Administración competente en materia de industria.
+    La tramitación y regularización de las reformas de importancia se ajustarán a la
+reglamentación que se recoge en el anexo I.
+    3. No se podrán sustituir, añadir o suprimir piezas, elementos o conjuntos sujetos al
+cumplimiento de algún Reglamento técnico por otros que no cumplan dicha reglamentación o
+bien no correspondan al vehículo, salvo en los casos contemplados en la reglamentación
+que se recoge en el anexo I.
+
+Artículo 8. Marcas.
+    1. A efectos de identificación, todo vehículo matriculado o puesto en circulación deberá
+llevar, de acuerdo con lo que se determine en la reglamentación que se recoge en el anexo I,
+en forma fácilmente legible, y de manera que sea difícil su modificación, además de las
+placas e inscripciones reglamentarias:
+    a) Un número de identificación, grabado, troquelado o inscrito de forma indeleble en el
+bastidor o estructura autoportante.
+    b) Una placa del fabricante.
+    c) En los vehículos de motor, las marcas o siglas que identifiquen el tipo de motor,
+situadas sobre el mismo.
+    2. Queda prohibido efectuar cambios o retoques en los números de identificación del
+bastidor, así como en las placas e inscripciones reglamentarias.
+    No se podrá realizar la sustitución total o parcial del bastidor o de la estructura
+autoportante que afecte a su número de identificación, salvo en las condiciones establecidas
+en la reglamentación que se recoge en el anexo I, bajo el control del órgano competente en
+materia de industria.
+
+Artículo 9. Conjuntos de vehículos.
+    1. Los vehículos, en lo que respecta a su compatibilidad para formar conjuntos, deben
+cumplir la reglamentación que se recoge, a estos efectos, en el anexo I.
+    2. Como norma general y salvo las excepciones reglamentariamente establecidas,
+ningún vehículo tractor podrá arrastrar a la vez más de un remolque o semirremolque.
+
+                                          Página 18
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+    3. Las caravanas y remolques ligeros estarán dotados de una tarjeta de inspección
+técnica, expedida de acuerdo con lo dispuesto en la reglamentación vigente que se recoge
+en el anexo I.
+
+Artículo 10. Inspecciones técnicas de vehículos.
+    1. Los vehículos matriculados o puestos en circulación deberán someterse a inspección
+técnica en una de las Estaciones de Inspección Técnica de Vehículos al efecto autorizadas
+por el órgano competente en materia de Industria en los casos y con la periodicidad,
+requisitos y excepciones que se establecen en la reglamentación que se recoge en el anexo
+I.
+    La inspección técnica, una vez comprobada la identificación del vehículo, versará sobre
+las condiciones del vehículo relativas a seguridad vial, protección del medio ambiente,
+inscripciones reglamentarias, reformas y, en su caso, vigencia de los certificados para el
+transporte de mercancías peligrosas y perecederas.
+    2. En lo no previsto en el presente artículo se estará a lo dispuesto en la reglamentación
+que se recoge en el anexo I.
+
+                                        CAPÍTULO II
+                                   Condiciones técnicas
+
+Artículo 11. Generalidades. Condiciones técnicas.
+    Las condiciones técnicas que deben cumplir los vehículos de motor, sus partes y sus
+piezas, para que puedan ser matriculados o puestos en circulación, con las limitaciones,
+excepciones y especificaciones que se establecen en la reglamentación que se recoge en el
+anexo I, son las que se indican en los puntos siguientes:
+    1. Deben estar construidos y mantenidos de forma que el campo de visión del conductor
+hacia delante, hacia la derecha y hacia la izquierda le permita una visibilidad diáfana sobre
+toda la vía por la que circule.
+    2. Deben estar provistos de uno o varios retrovisores, según la categoría del vehículo.
+    El número, las dimensiones y la disposición de los espejos retrovisores deberán reunir
+los requisitos que se establecen en el anexo III y en la reglamentación que se recoge en el
+anexo I y permitir al conductor ver la circulación por detrás del vehículo.
+    3. Los elementos transparentes del habitáculo que afecten al campo de visión del
+conductor no deben deformar de modo apreciable los objetos vistos a su través, ni producir
+confusión entre los colores utilizados en la señalización vial.
+    4. Si el vehículo está provisto de un parabrisas de dimensiones y forma tales que el
+conductor, desde su puesto de conducción, no pueda ver normalmente la vía hacia delante
+más que a través de los elementos transparentes de dicho parabrisas, deberá estar provisto
+de dispositivos limpiaparabrisas y lavaparabrisas, de acuerdo con la reglamentación
+recogida en el anexo I.
+    Dispondrán, además, de dispositivos antihielo y antivaho si así lo exige la
+reglamentación que se recoge en el anexo I.
+    5. Deben estar provistos de un mecanismo adecuado que permita al conductor mantener
+la dirección del vehículo y modificarla con facilidad, rapidez y seguridad.
+    6. Todo vehículo de motor, con excepción de las motocicletas, de los motocultores
+conducidos a pie y de los vehículos de tres ruedas simétricas con respecto al plano
+longitudinal medio del vehículo, deberá estar provisto de un dispositivo que, manejado desde
+el puesto de conducción y accionado por el motor, permita la marcha atrás del vehículo.
+    7. Todo vehículo de motor, excepto los motocultores conducidos a pie, estará provisto de
+un aparato productor de señales acústicas que emita un sonido continuo, uniforme y de
+suficiente intensidad. Sólo en los vehículos que tengan el carácter de prioritarios se
+instalarán aparatos emisores de señales acústicas especiales, siempre que estén
+debidamente autorizados por el órgano competente en materia de industria.
+    8. Los órganos de mando y maniobra, indicadores y testigos deben estar construidos y
+montados de tal manera que puedan ser fácilmente identificados, consultados y accionados
+
+                                          Página 19
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+de forma instantánea por el conductor durante la marcha teniendo su cuerpo en posición
+normal y sin desatender la conducción.
+    9. Los órganos mecánicos y su equipo complementario deben estar construidos y
+protegidos de manera que durante su funcionamiento y utilización no constituyan peligro
+para los usuarios de la vía pública, aun cuando el vehículo esté detenido.
+    10. Los órganos motores y, en particular, los depósitos, tubos y piezas que hayan de
+contener materias inflamables, deben estar construidos, instalados y protegidos de manera
+que no constituyan causa de peligro y se reduzca al máximo el riesgo de incendio o de
+explosión. La boca o tapón del depósito de combustible debe situarse exteriormente a los
+recintos destinados para los viajeros, al conductor y al compartimento motor.
+    11. Todo vehículo de motor capaz de alcanzar en llano una velocidad superior a los 40
+kilómetros por hora deberá estar provisto de un indicador de velocidad en kilómetros por
+hora.
+    12. Todo vehículo de motor llevará instalado tacógrafo y limitador de velocidad, si así lo
+dispone la reglamentación que se recoge en el anexo I.
+    13. Los automóviles deberán llevar instalados cinturones de seguridad u otros sistemas
+de retención homologados, si así lo dispone la reglamentación que se recoge en el anexo I,
+todo ello según su categoría y de acuerdo con lo dispuesto en la citada reglamentación.
+    Los dispositivos de protección o retención para niños se ajustarán a lo dispuesto en la
+reglamentación que se recoge en el anexo I.
+    14. Si el vehículo dispone de apoyacabezas, éstos deben cumplir las prescripciones
+establecidas en la reglamentación que se recoge en el anexo I.
+    15. Los automóviles, si así lo dispone la reglamentación que se recoge en el anexo I,
+deberán estar provistos de un dispositivo contra su utilización no autorizada que permita
+poner fuera de servicio o bloquear un órgano esencial del vehículo a partir del momento en
+que éste quede estacionado, debiendo cumplir las prescripciones establecidas en la
+reglamentación que se recoge en el anexo anteriormente indicado.
+    Además de lo anterior, podrán ir provistos de un sistema de alarma, independiente o no
+de dicho dispositivo.
+    16. Los vehículos, incluidos los remolques y semirremolques, deberán estar construidos
+de manera que ofrezcan en su parte posterior una protección eficaz al empotramiento de
+vehículos que pudieran chocar por su parte trasera; bien sea mediante un dispositivo
+antiempotramiento o por la propia forma y características de la parte trasera del vehículo, y
+todo ello cumpliendo con las prescripciones establecidas en el anexo IV y con la
+reglamentación recogida en el anexo I.
+    17. Los vehículos, incluidos los remolques y semirremolques, destinados al transporte de
+mercancías, deberán disponer de un dispositivo de protección lateral, si así lo exige la
+reglamentación que se recoge en el anexo I.
+    18. Los vehículos destinados al transporte de mercancías deberán disponer de un
+dispositivo antiencastramiento delantero, si así lo exige la reglamentación que se recoge en
+el anexo I.
+    19. Los vehículos de motor deberán cumplir lo establecido en las correspondientes
+disposiciones sobre emisión de humos, gases contaminantes, ruidos y compatibilidad
+electromagnética, de acuerdo con lo dispuesto en la reglamentación que se recoge en el
+anexo I.
+    20. La potencia fiscal de los motores de los vehículos se calculará según lo dispuesto en
+el anexo V.
+
+Artículo 12. Otras condiciones.
+    Los vehículos de motor, remolques, semirremolques y las máquinas remolcadas se
+ajustarán a lo dispuesto en la reglamentación que se recoge en el anexo I y, en particular:
+    1. Deben estar construidos y equipados de forma que no tengan, ni en el interior ni en el
+exterior, adornos u otros objetos con aristas salientes que presenten peligro para sus
+ocupantes o para los demás usuarios de la vía pública.
+    2. Deben tener los asientos anclados a la estructura del vehículo de forma resistente.
+    3. Las puertas deben tener cerraduras y órganos de fijación de manera que impidan su
+apertura no deseada.
+                                          Página 20
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+     4.1 Los materiales transparentes que constituyan elementos de pared exterior del
+vehículo o de una pared interior de separación deberán ser de una calidad que permita
+reducir al máximo los riesgos de las lesiones corporales en caso de rotura o de impacto
+contra ellos.
+     Deben ofrecer una resistencia y elasticidad suficientes, según se determina en la
+reglamentación que se recoge en el anexo I.
+     4.2 Los vehículos autorizados a transportar simultáneamente personas y carga deberán
+estar provistos de una protección adecuada a la carga que transporten.
+     Dichas protecciones se ajustarán a las condiciones establecidas en el anexo VI y en la
+reglamentación recogida en el anexo I.
+     5.1 Deben tener sus ruedas provistas de neumáticos o de elementos de elasticidad
+similar que presenten dibujo en las ranuras principales de la banda de rodamiento y su
+estado reúna las condiciones mínimas de utilización, según lo dispuesto en el anexo VII y en
+la reglamentación que se recoge en el anexo I.
+     Los vehículos cuyo sistema de rodadura tenga superficies metálicas, estriadas o con
+salientes no podrán circular por las vías públicas sin colocar sobre aquéllas otras bandas
+elásticas de contacto exterior con el pavimento.
+     5.2 Cuando sea obligatorio o recomendado el uso de cadenas u otros dispositivos
+antideslizantes autorizados se deberá, bien colocar sobre, al menos, una rueda motriz a
+cada lado del vehículo dichas cadenas o dispositivos antideslizantes, bien utilizar neumáticos
+especiales, según lo dispuesto en el anexo VII y en la reglamentación recogida en el anexo I.
+     6. La carrocería del vehículo estará diseñada de forma que se eviten en lo posible las
+salpicaduras de las ruedas o, en caso contrario, los vehículos deberán estar equipados con
+protecciones adecuadas a tal efecto. Se exceptúan de esta obligación los vehículos
+especiales cuando las protecciones sean incompatibles con su utilización.
+     7. Deben disponer de un sistema de suspensión elástica que facilite la adherencia y la
+estabilidad durante la marcha.
+     8.1 Deben estar provistos de un sistema de frenado, de acuerdo con lo dispuesto en el
+anexo VIII y en la reglamentación que se recoge en el anexo I, que, en su caso, asegure las
+que le correspondan, según la categoría del vehículo, de entre las siguientes funciones:
+     Frenado de servicio, capaz de disminuir la velocidad y detener el vehículo de manera
+rápida, segura y eficaz.
+     Frenado de socorro, con la misma función que el frenado de servicio en el caso de fallo
+de éste.
+     Frenado de estacionamiento, utilizado para mantener inmóvil el vehículo o, en su caso,
+el remolque o semirremolque cuando esté desenganchado.
+    8.2 La función de frenado de servicio en los remolques podrá efectuarse, en su caso, con
+un sistema de frenado de inercia.
+    8.3 Los dispositivos que aseguren las funciones de frenado automático en los remolques
+o semirremolques deberán ser tales que su detención quede asegurada automáticamente en
+caso de desacoplamiento o de rotura del acoplamiento durante la marcha.
+    8.4 Toda motocicleta debe estar provista de dos dispositivos de frenado, que actúen,
+uno, por lo menos, sobre la rueda trasera, y el otro, sobre la rueda delantera. Si la
+motocicleta estuviera dotada de sidecar, no se exige el frenado de la rueda de éste.
+    8.5 Los vehículos de tres ruedas simétricas con respecto al plano longitudinal del
+vehículo deben estar equipados:
+    Bien con dos dispositivos independientes de frenado de servicio que, simultáneamente,
+accionen los frenos sobre todas las ruedas.
+    Bien con un dispositivo de frenado de servicio que accione los frenos sobre todas las
+ruedas y un dispositivo de frenado de socorro, que puede ser el freno de estacionamiento.
+    Tanto en un caso como en otro deberán estar dotados de un freno de estacionamiento.
+    9. Los vehículos de transporte de viajeros, de transporte escolar y de menores, de
+mercancías peligrosas, de mercancías perecederas o cualquier otro sometido a normas
+especiales deberán cumplir, además de su reglamentación específica recogida en el anexo I,
+las exigencias establecidas en este capítulo.
+
+                                          Página 21
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Artículo 13. Condiciones técnicas de los dispositivos de acoplamiento y otros elementos de
+los remolques.
+     1. Los elementos mecánicos, neumáticos y eléctricos de conexión entre un vehículo
+tractor y su remolque deben ser compatibles y cumplir las exigencias que se determinen en
+la reglamentación que se recoge en el anexo I.
+     2. Los remolques estarán dotados de un dispositivo que obligue a sus ruedas a seguir
+una trayectoria análoga a la del vehículo tractor, según la reglamentación recogida en dicho
+anexo.
+     3. El dispositivo de acoplamiento del remolque con el vehículo tractor estará dotado de
+un elemento que impida el desacoplamiento del mismo, de acuerdo con la reglamentación
+del repetido anexo.
+     4. Los remolques cuya masa máxima autorizada sea menor o igual a 1.500 kilogramos,
+que no estén provistos de un sistema que asegure el frenado del remolque en caso de rotura
+del dispositivo de acoplamiento, deberán estar provistos, además del enganche principal, de
+un dispositivo de acoplamiento secundario (cadena, cable, etcétera) que, en caso de
+separación del enganche principal, pueda impedir que la barra del dispositivo de
+acoplamiento toque el suelo y que asegure, además, una cierta conducción residual del
+remolque.
+
+Artículo 14. Masas y dimensiones.
+    1. No se permitirá la circulación de vehículos cuyas masas, dimensiones y presión sobre
+el pavimento superen a los establecidos en las disposiciones que se determinan en el anexo
+IX y en la reglamentación que se recoge en el anexo I.
+    2. El órgano competente en materia de tráfico podrá conceder autorizaciones especiales
+y por un número limitado de circulaciones o por un plazo determinado, previo informe
+vinculante del titular de la vía, para los vehículos que, por sus características técnicas o por
+la carga indivisible que transportan, superen las masas y dimensiones máximas establecidas
+en las disposiciones que se determinan en el anexo IX y en la reglamentación que se recoge
+en el anexo I, previa comprobación de que se encuentran amparados por la autorización de
+transporte legalmente procedente
+    A estos efectos, se entiende por carga indivisible aquella que para su transporte por
+carretera no puede dividirse en dos o más cargas sin coste o riesgo innecesario de daños y
+que, debido a sus dimensiones o masas, no pueda ser transportada por un vehículo de
+motor, remolque, tren de carretera o vehículo articulado que se ajuste en todos los sentidos a
+las masas y dimensiones máximas autorizadas.
+
+Artículo 15. Condiciones técnicas de los dispositivos de alumbrado y señalización óptica.
+     1. Las luces y dispositivos reflectantes que, siendo dobles, tengan la misma finalidad, se
+corresponderán en color e intensidad y estarán situadas simétricamente, a ser posible, a la
+misma distancia de los bordes del vehículo.
+     2. Ninguna luz instalada en un vehículo será intermitente o de intensidad variable, a
+excepción de las indicadas en la reglamentación que se recoge en el anexo I.
+     3. Las luces posteriores de posición deberán encenderse automáticamente siempre que
+el vehículo tenga encendidas cualquiera de las de carretera, cruce, delanteras de posición,
+placa posterior de matrícula o las antiniebla.
+     Las luces antiniebla traseras sólo podrán encenderse cuando lo estén también las de
+carretera, las de cruce o las antiniebla delanteras.
+     Las luces de posición delanteras deben estar encendidas siempre que lo estén las de
+cruce, las de carretera o las antiniebla delanteras.
+     Estas condiciones no se imponen para las luces de cruce o las de carretera cuando se
+utilizan para dar avisos luminosos.
+     4. Todos los dispositivos de alumbrado y de señalización óptica de los vehículos de
+motor y remolcados deberán cumplir las exigencias especificadas en la reglamentación que
+se recoge en el anexo I.
+     5. No se instalarán en los vehículos más luces que las autorizadas en el presente
+Reglamento, prohibiéndose expresamente el uso de pinturas o dispositivos luminosos o
+
+                                           Página 22
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+reflectantes no autorizados, salvo en los supuestos y condiciones previstos en la
+reglamentación que se recoge en los anexos I y XI.
+     La Jefatura Central de Tráfico podrá autorizar temporalmente, para la circulación dentro
+del territorio nacional y previo informe del órgano competente en materia de homologación
+de vehículos, la instalación de dispositivos o materiales retrorreflectantes en los vehículos ya
+matriculados con la finalidad de experimentar mejoras en la seguridad vial. Dicho informe
+tendrá por objeto comprobar su adecuación a la normativa nacional e internacional en la
+materia y amparará todas las autorizaciones que se concedan sobre dispositivos o
+materiasles retrorreflectantes que posean las mismas condiciones técnicas.
+
+Artículo 16. Dispositivos obligatorios de alumbrado y señalización óptica.
+    Los dispositivos obligatorios de alumbrado y señalización óptica que se regulan en la
+reglamentación que se recoge en los anexos I y X para los vehículos de motor y remolcados
+son los que se especifican a continuación:
+   1. Todo automóvil, con excepción de los que se reseñan en los apartados siguientes,
+deberá estar provisto de:
+   Luz de cruce.
+   Luz de carretera.
+   Luz de marcha atrás.
+   Luces indicadoras de dirección con señal de emergencia.
+   Luz de frenado.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Luz antiniebla trasera.
+   Luz de gálibo para vehículos de más de 2,10 metros de anchura.
+   Catadióptricos traseros no triangulares.
+   Catadióptricos laterales no triangulares para vehículos de más de 6 metros de longitud.
+   Luz de posición lateral en vehículos cuya longitud supere los 6 metros, excepto en las
+cabinas con bastidor.
+   Además, los destinados al servicio público de viajeros y los de alquiler con conductor,
+deberán estar dotados de alumbrado interior del habitáculo.
+   2. Toda motocicleta deberá estar provista de:
+   Luz de cruce.
+   Luz de carretera.
+   Luz de frenado.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Catadióptrico trasero no triangular.
+   3. Toda motocicleta con sidecar deberá estar provista de:
+   Luz de cruce.
+   Luz de carretera.
+   Luz de frenado.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Catadióptricos traseros no triangulares.
+   4. Todo vehículo de tres ruedas y cuatriciclo no ligero deberá estar provisto de:
+   Luz de cruce.
+   Luz de carretera.
+   Luces indicadoras de dirección, con señal de emergencia.
+   Luz de frenado.
+                                             Página 23
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+    Luz de la placa posterior de matrícula.
+    Luz de posición delantera.
+    Luz de posición trasera.
+    Un catadióptrico trasero no triangular en los vehículos con anchura hasta 1.000
+milímetros, a partir de la cual deberán equipar dos.
+      5. Todo remolque y semirremolque, con excepción de los agrícolas, deberá estar provisto
+de:
+      Luces indicadoras de dirección con señal de emergencia.
+      Luz de frenado.
+      Luz de la placa posterior de matrícula.
+      Luz de posición delantera para remolques de más de 1,60 metros de anchura.
+      Luz de posición trasera.
+      Luz antiniebla trasera.
+      Luz de gálibo, si su anchura es superior a 2,10 metros.
+      Catadióptricos traseros triangulares.
+      Catadióptricos delanteros no triangulares.
+      Catadióptricos laterales no triangulares.
+      Luz de posición lateral en vehículos cuya longitud supere los 6 metros.
+   6. Todo portador, todo tractor, agrícola, de obras o de servicios, todo tractocarro y toda
+máquina automotriz de servicios deberán estar provistos de:
+    Luz de cruce.
+    Luces indicadoras de dirección con señal de emergencia.
+    Luz de la placa posterior de matrícula.
+    Luz de posición delantera.
+    Luz de posición trasera.
+    Catadióptricos traseros no triangulares.
+    Luz de frenado, para vehículos cuya velocidad máxima autorizada supere los 25
+kilómetros por hora.
+    7. Toda máquina automotriz, agrícola o para obras, apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorólogicas o ambientales que disminuyan sensiblemente la visibilidad, deberán estar
+provistos de los mismos dispositivos de alumbrado y señalización óptica relacionados en el
+apartado anterior.
+    8. Toda máquina automotriz, agrícola o para obras, no apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberán estar
+provistos de:
+    Catadióptricos traseros no triangulares.
+    Luz de frenado, para vehículos cuya velocidad máxima autorizada supere los 25
+kilómetros por hora.
+    9. Todo motocultor apto para circular de noche, por tramos de vías señalizados con la
+señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que
+disminuyan sensiblemente la visibilidad, deberá estar provisto de:
+      Luz de cruce.
+      Luz de posición delantera.
+      Luz de posición trasera.
+      Luces indicadoras de dirección con señal de emergencia.
+      Catadióptricos traseros no triangulares.
+      Luz de la placa posterior de matrícula.
+     10. Todo mocultor no apto para circular de noche, por tramos de vías señalizados con la
+señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que
+disminuyan sensiblemente la visibilidad deberá estar provisto de: catadióptricos traseros no
+triangulares.
+                                           Página 24
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    Además, siempre que esté dotado de equipo eléctrico, deberá estar dotado de: luces
+indicadoras de dirección, con señal de emergencia.
+    11. Todo remolque agrícola y toda máquina remolcada de servicios deberán estar
+provistos de:
+   Luz de posición delantera, cuando su anchura exceda de 20 centímetros por el lado más
+desfavorable de la anchura del vehículo tractor.
+   Catadióptricos delanteros no triangulares.
+   Luz de posición trasera.
+   Luz de la placa posterior de matrícula.
+   Luces indicadoras de dirección posteriores.
+   Luces de gálibo anteriores y posteriores, si el vehículo tiene más de 2,10 metros de
+anchura.
+   Catadióptricos traseros triangulares con un vértice hacia arriba.
+   Catadióptricos laterales no triangulares.
+    12. Toda máquina remolcada, agrícola o de obras, apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberá estar
+provista de los mismos dispositivos de alumbrado y señalización óptica relacionados en el
+apartado anterior.
+    13. Toda máquina remolcada, agrícola o de obras, no apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, deberá estar
+provista de:
+    Luces indicadoras de dirección posteriores. Se exceptúa a las máquinas que por su
+construcción permitan la visibilidad de las luces indicadoras de dirección posteriores del
+tractor.
+    Catadióptricos no triangulares delanteros.
+    Catadióptricos traseros triangulares con un vértice hacia arriba.
+
+Artículo 17. Dispositivos facultativos de alumbrado y señalización óptica.
+    Con las excepciones que se señalan en el artículo 18, los únicos dispositivos facultativos
+de alumbrado y señalización óptica que se regulan en la reglamentación que se recoge en
+los anexos I y X para los distintos tipos de vehículos de motor y remolcados, son los que se
+especifican a continuación:
+   1. Todo automóvil, con excepción de los que se reseñan en los apartados siguientes,
+puede llevar:
+    Luz antiniebla delantera.
+    Luz de estacionamiento, si la longitud del vehículo no es mayor de 6 metros y su anchura
+no es mayor de 2 metros. En los de vehículos que no reúnan ambas condiciones estará
+prohibida.
+    Luz de alumbrado interior del habitáculo.
+    Catadióptricos no triangulares o luces de posición laterales, si la longitud del vehículo no
+es mayor de 6 metros.
+    Dispositivos luminosos o reflectantes de señalización de apertura de puerta, sólo visible
+en esta circunstancia.
+    Luz de gálibo para vehículos comprendidos entre 1,80 y 2,10 metros de anchura.
+    Luz de gálibo trasera en las cabinas con bastidor.
+    Catadióptricos delanteros no triangulares.
+    Tercera luz de freno.
+   2. Toda motocicleta puede llevar:
+   Luz antiniebla delantera.
+   Luz antiniebla trasera.
+   Catadióptricos laterales no triangulares.
+   Luces indicadoras de dirección con señal de emergencia.
+                                           Página 25
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   3. Toda motocicleta con sidecar puede llevar:
+    Luz antiniebla delantera.
+    Luz antiniebla trasera.
+    Catadióptricos laterales no triangulares.
+    Luces indicadoras de dirección con señal de emergencia.
+    Todos los dispositivos autorizados para los vehículos automóviles de cuatro ruedas a que
+se refiere el apartado 1.
+   4. Todo vehículo de tres ruedas y cuatriciclo no ligero puede llevar:
+    Luz antiniebla delantera.
+    Luz antiniebla trasera.
+    Luz de marcha atrás.
+    Catadióptricos laterales no triangulares.
+    Todos los dispositivos autorizados para los vehículos automóviles de cuatro ruedas a que
+se refiere el apartado 1.
+   5. Todo remolque y semirremolque, con excepción de los agrícolas, puede llevar:
+    Luz de marcha atrás.
+    Luz de posición delantera, si su anchura total es igual o inferior a 1,60 metros.
+    Catadióptricos traseros no triangulares si están agrupados a otros dispositivos traseros
+de señalización.
+   6. Todo portador, todo tractor, agrícola, de obras o de servicios, todo tractocarro y toda
+máquina automotriz de servicios pueden llevar:
+   Luz de carretera.
+   Luz de marcha atrás.
+   Catadióptricos laterales no triangulares.
+   Luz de alumbrado interior del habitáculo.
+   Luz antiniebla delantera.
+   Luz antiniebla trasera.
+   Luz de trabajo.
+   Luz de gálibo, si su ancho es mayor de 2,10 metros.
+   Está prohibido en el resto.
+   Luz de estacionamiento.
+    7. Toda máquina automotriz, agrícola o para obras, apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, puede llevar:
+   Luz de carretera.
+   Luz de marcha atrás.
+   Catadióptricos laterales no triangulares.
+   Luz de alumbrado interior del habitáculo.
+   Luz antiniebla delantera.
+   Luz antiniebla trasera.
+   Luz de trabajo.
+   Luz de gálibo, si su ancho es mayor de 2,10 metros.
+   Está prohibido en el resto.
+    8. Toda máquina automotriz, agrícola o para obras, no apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, puede llevar:
+   Luz de cruce.
+   Luz de carretera.
+   Luz de marcha atrás.
+   Luces indicadoras de dirección con señal de emergencia.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+                                          Página 26
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   Luz de posición trasera.
+   Catadióptricos laterales no triangulares.
+   Luz de alumbrado interior del habitáculo.
+   Luz antiniebla delantera.
+   Luz antiniebla trasera.
+   Luz de trabajo.
+   Luz de gálibo, si su ancho es mayor de 2,10 metros.
+   Está prohibido en el resto.
+    9. Todo motocultor apto para circular de noche, por tramos de vías señalizados con la
+señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que
+disminuyan sensiblemente la visibilidad puede llevar: Luz de frenado.
+    10. Todo motocultor no apto para circular de noche, por tramos de vías señalizados con
+la señal de «túnel» o cuando existan condiciones meteorológicas o ambientales que
+disminuyan sensiblemente la visibilidad puede llevar:
+   Luces indicadoras de dirección con señal de emergencia.
+   Luz de cruce.
+   Luz de frenado.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+   Luz de posición trasera.
+   11. Todo remolque agrícola y toda máquina remolcada de servicios pueden llevar:
+    Luz de marcha atrás.
+    Luz de frenado.
+    Luz antiniebla trasera.
+    Luz de posición delantera, cuando por la anchura del vehículo no sean de instalación
+obligatoria.
+    Luz de iluminación interior del habitáculo (en las máquinas de servicios remolcadas).
+    12. Toda máquina remolcada, agrícola o para obras, apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, puede llevar los
+mismos dispositivos de alumbrado y señalización óptica relacionados en el apartado anterior.
+    13. Toda máquina remolcada, agrícola o para obras, no apta para circular de noche, por
+tramos de vías señalizados con la señal de «túnel» o cuando existan condiciones
+meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, puede llevar:
+   Luz de marcha atrás.
+   Luz de frenado.
+   Luz de la placa posterior de matrícula.
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Luz de trabajo.
+   Catadióptricos delanteros no triangulares.
+   Catadióptricos laterales no triangulares.
+   Luz de alumbrado interior del habitáculo.
+   Luz antiniebla trasera.
+   Luz de gálibo, si su ancho es mayor de 2,10 metros.
+
+Artículo 18. Señales en los vehículos.
+    1. Las señales en los vehículos que tengan por objeto dar a conocer a los usuarios de la
+vía determinadas circunstancias o características del vehículo en que están colocadas, del
+servicio que presta, de la carga que transporta o de su propio conductor, se ajustarán en
+cuanto a sus características y colocación a lo dispuesto en el anexo XI.
+    2. No obstante lo anterior, las señales en los vehículos exigidas en otras
+reglamentaciones específicas se ajustarán a lo dispuesto en el anexo I.
+                                         Página 27
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+Artículo 19. Accesorios, repuestos y herramientas de los vehículos en circulación.
+   Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar, como
+mínimo, la dotación que se indica en el anexo XII.
+
+Artículo 20. Condicionamiento de los dispositivos en función del progreso técnico.
+   Los dispositivos facultativos podrán pasar a ser considerados obligatorios en función del
+desarrollo del progreso técnico y de que la reglamentación así lo exija.
+                                         TÍTULO III
+             Ciclomotores, ciclos, vehículos de tracción animal y tranvías
+
+                                        CAPÍTULO I
+                                       Ciclomotores
+
+Artículo 21. Homologación y características técnicas.
+     1. Los ciclomotores, como condición indispensable para su matriculación ordinaria o
+turística, deberán corresponder a tipos previamente homologados, según la reglamentación
+que se recoge en el anexo I. En particular, deberán estar homologados en España de
+acuerdo con el Real Decreto 2140/1985, de 9 de octubre, o en la Unión Europea conforme a
+la Directiva 92/61/CEE, o en el Espacio Económico Europeo cuando ésta le sea de
+aplicación.
+     Los ciclomotores deberán cumplir lo dispuesto para las motocicletas y vehículos de tres
+ruedas en los artículos 5, 6, 7, 8, 11 (apartados 1 al 11, 19 y 20), 15 y 20 de este
+Reglamento.
+     Del artículo 12 les será de aplicación lo dispuesto para las motocicletas, salvo la
+exigencia de freno de estacionamiento del apartado 8.5.
+     2. Los dispositivos de alumbrado y señalización óptica deberán cumplir lo dispuesto en
+los siguientes apartados y en la reglamentación que se recoge en los anexos I y X.
+   2.1 Todo ciclomotor de dos ruedas deberá estar provisto de:
+   Luz de cruce.
+   Luz de posición trasera.
+   Luz de frenado.
+   Catadióptrico trasero no triangular.
+   Catadióptricos en los pedales cuando éstos existan y no sean retráctiles.
+   Catadióptricos laterales no triangulares.
+   2.2 Todo ciclomotor de tres ruedas y cuatriciclo ligero deberá estar provisto de:
+    Luz de cruce.
+    Luz de posición delantera.
+    Luz de posición trasera.
+    Luz de frenado.
+    Un catadióptrico trasero no triangular en los vehículos con anchura hasta 1.000
+milímetros, a partir de la cual deberán estar equipados de dos.
+    Catadióptricos en los pedales cuando éstos existan y no sean retráctiles.
+    Luces indicadoras de dirección para vehículos de carrocería cerrada.
+   2.3 Todo ciclomotor de dos ruedas puede llevar:
+   Luz de carretera.
+   Luces indicadoras de dirección.
+   Luz de posición delantera.
+   Catadióptricos delanteros no triangulares.
+   Luz de la placa trasera de matrícula.
+   2.4 Todo ciclomotor de tres ruedas y cuatriciclo ligero puede llevar:
+                                          Página 28
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   Luz de carretera.
+   Luces indicadoras de dirección para vehículos sin carrocería cerrada.
+   Catadióptricos laterales no triangulares.
+   Luz de la placa trasera de matrícula.
+   3. Los ciclomotores no podrán arrastrar remolque o semirremolque alguno.
+
+                                        CAPÍTULO II
+                      Ciclos, vehículos de tracción animal y tranvías
+
+Artículo 22. Ciclos y bicicletas.
+   1. Los ciclos, para poder circular, deberán disponer de:
+   Un sistema adecuado de frenado que actúe sobre las ruedas delanteras y traseras.
+   Un timbre, prohibiéndose el empleo de otro aparato acústico distinto de aquél.
+    2. Además, para circular de noche, por tramos de vías señalizados con la señal de
+«túnel» o cuando existan condiciones meteorológicas o ambientales que disminuyan
+sensiblemente la visibilidad, los ciclos, exceptuando las bicicletas, deberán disponer de:
+   Luz de posición delantera y trasera.
+   Catadióptricos traseros y laterales no triangulares.
+   Catadióptricos en los pedales.
+     3. Los ciclos y las bicicletas de pedales con pedaleo asistido quedan exceptuados de
+obtener la autorización administrativa a la que se hace referencia en el apartado 1 del
+artículo 1.
+     4. Las bicicletas, para circular de noche, por tramos de vías señalizados con la señal de
+«túnel» o cuando existan condiciones meteorológicas o ambientales que disminuyan
+sensiblemente la visibilidad, deberán disponer de los siguientes dispositivos: Luz de posición
+delantera y trasera, catadióptrico trasero, y podrán disponer de: catadióptricos en los radios
+de las ruedas y en los pedales.
+
+Artículo 22 bis. Vehículos de movilidad personal.
+   1. Los vehículos de movilidad personal quedan exceptuados de obtener la autorización
+administrativa a la que hace referencia el apartado 1 del artículo 1.
+   2. Para poder circular, los vehículos de movilidad personal deberán:
+    a) Disponer del certificado de circulación que garantice el cumplimiento de los requisitos
+técnicos exigibles por la normativa nacional e internacional y, específicamente, de los
+requisitos técnicos regulados en el anexo XXI.
+    b) Inscribirse en el Registro Nacional de Vehículos, en su sección de Registro de
+Vehículos Personales Ligeros, de acuerdo con lo previsto en el anexo XX
+    c) Disponer y exhibir reglamentariamente la etiqueta identificativa prevista en el anexo
+XX y la placa de marcaje de fabricante contemplada en el anexo XXI.
+
+Artículo 23. Vehículos de tracción animal.
+    1. Los vehículos de tracción animal, cualquiera que sea el uso a que se destinen, sólo
+podrán circular por las vías públicas cuando vayan provistos de ruedas neumáticas o de
+elasticidad similar.
+    2. Los vehículos de tracción animal que lleven galgas tendrán éstas dispuestas de tal
+manera que en ningún caso sobresalgan más de 10 centímetros de la parte más saliente del
+vehículo.
+    3. Las cadenas y demás accesorios movibles o colgantes deben ir sujetos al vehículo en
+forma que en sus oscilaciones no puedan salir del contorno del mismo ni arrastrar por el
+suelo.
+    4. Los vehículos de tracción animal de dos ruedas deben llevar tentemozos adecuados.
+
+                                          Página 29
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    5. Los dispositivos obligatorios de alumbrado y señalización óptica, que se regulan en la
+reglamentación que se recoge en los anexos I y X, para los vehículos de tracción animal
+cuando circulen de noche, por tramos de vías señalizados con la señal de «túnel» o con
+condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad, son
+los especificados a continuación:
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Catadióptricos traseros no triangulares.
+     Si el vehículo de tracción animal llevase luces a ambos lados, serán iguales y simétricas,
+y si las tuviese en un solo lado, irán situadas en el izquierdo del sentido de la marcha.
+     Los catadióptricos estarán situados lo más cerca que sea posible a los extremos del
+vehículo.
+
+Artículo 24. Tranvías.
+    Los dispositivos obligatorios de alumbrado, que se regulan en la reglamentación que se
+recoge en los anexos I y X, para los tranvías son los especificados a continuación:
+   Luz de posición delantera.
+   Luz de posición trasera.
+   Dispositivo luminoso delantero indicador del servicio.
+   Dispositivo luminoso trasero indicador del servicio.
+    Si el tranvía llevase solamente una luz de posición delantera y una luz de posición
+trasera, estarán situadas en el plano longitudinal de simetría del vehículo.
+    Si el tranvía llevase dos luces de posición delanteras y dos traseras, serán iguales y
+simétricas respecto al plano longitudinal de simetría del vehículo.
+
+                                          TÍTULO IV
+                     Autorizaciones de circulación de los vehículos
+
+                                         CAPÍTULO I
+                                        Matriculación
+
+Artículo 25. Normas generales.
+    1. Para poner en circulación vehículos de motor, así como remolques y semirremolques
+de masa máxima autorizada superior a 750 kilogramos, será preciso matricularlos y que
+lleven las placas de matrícula con los caracteres que se les asigne, del modo que se
+establece en el anexo XVIII. Esta obligación será exigida a los ciclomotores y ciclos de motor
+de acuerdo con lo que se determina en el artículo 28 del presente Reglamento.
+    2. Previamente a su matriculación, los vehículos citados en el apartado anterior deben
+estar dotados del correspondiente certificado oficial que acredite sus características técnicas
+esenciales y su aptitud para circular por las vías públicas, que se expedirá:
+    a) Por los órganos competentes de la Administración o entidades delegadas, si se trata
+de vehículos que corresponden a tipos homologados incompletos, no homologados,
+matriculados anteriormente en otro país, vehículos usados procedentes de subastas oficiales
+realizadas en España o vehículos nuevos adquiridos directamente en otro país y que posean
+un certificado de conformidad CE.
+    b) Por un fabricante de la Unión Europea o por un importador o por sus representantes
+respectivos, si se trata de vehículo nuevo que corresponde a tipo homologado según la
+legislación nacional u homologación CE.
+    3. No obstante lo dispuesto en los apartados anteriores, podrá autorizarse la puesta en
+circulación de determinados vehículos sin que sea preciso matricularlos, en los supuestos y
+condiciones contemplados en el capítulo VI de este Título.
+
+                                          Página 30
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Artículo 26. Documentación de los vehículos.
+   1. El conductor de un vehículo queda obligado a estar en posesión y llevar consigo, así
+como a exhibir ante los agentes de la autoridad que se lo soliciten, los siguientes
+documentos:
+     a) El permiso de circulación o licencia de circulación en el caso de ciclomotores. El
+permiso de circulación podrá ser sustituido por una autorización provisional expedida por la
+Jefatura de Tráfico, que surtirá los mismos efectos.
+     b) La tarjeta de inspección técnica o el certificado de características técnicas en el
+supuesto de ciclomotores.
+     c) En los conjuntos de vehículos formados por automóviles que arrastran remolques o
+semirremolques cuya masa máxima autorizada sea inferior o igual a 750 kilogramos, la
+tarjeta de inspección técnica del remolque o semirremolque y en el reverso de la tarjeta de
+inspección técnica del automóvil figurará que lleva instalado un sistema de acoplamiento
+compatible con el del remolque, de acuerdo con la legislación vigente.
+   2. Los documentos a que se refiere el apartado 1 de este artículo serán originales,
+pudiendo ser sustituidos por fotocopias si están debidamente cotejadas.
+
+                                         CAPÍTULO II
+                                   Matriculación ordinaria
+
+Artículo 27. Matriculación única. Excepciones.
+    1. La matriculación ordinaria es única para cada vehículo.
+    2. No obstante lo dispuesto en el apartado anterior, y en las condiciones fijadas en este
+Reglamento, podrá concederse una nueva matrícula ordinaria distinta a la inicialmente
+asignada en los casos siguientes:
+     a) Cuando se solicite simultáneamente una nueva matrícula y el cambio de titularidad por
+el adquirente de un vehículo en cuya matrícula figuren las siglas de la provincia donde se
+matriculó, siempre que tenga su domicilio en provincia distinta de aquélla. A la solicitud se
+acompañarán los documentos que se indican en el anexo XIV.
+     b) En el caso de que el titular de un vehículo en cuya matrícula figuren siglas provinciales
+cambie su domicilio a provincia distinta de aquéllas, debiendo presentar la documentación
+que se establece en el anexo XIII.
+     c) Cuando se pretenda legalizar en nuestro país la situación de un vehículo matriculado
+en el extranjero, pero que anteriormente ha estado matriculado en España y en cuya
+matrícula figuren siglas provinciales. La solicitud únicamente podrá hacerla el nuevo
+propietario siempre que sea distinto del último titular que figure inscrito en el Registro de
+Vehículos y acompañe los documentos que se indican en el anexo XIII.
+     3. Asimismo, podrá concederse una nueva matrícula distinta de la que figure inicial o
+posteriormente asignada cuando así lo solicite el titular del vehículo por razones de
+seguridad personal debidamente acreditadas, con sujeción a las prescripciones que se
+indican en el anexo XIII. Este cambio de matrícula no estará sujeto al abono de la tasa de
+matriculación.
+     4. Los vehículos pertenecientes al Estado, que deberán tener una matrícula oficial,
+podrán ser objeto además de matriculación ordinaria.
+     5. Los vehículos adscritos al Cuerpo de Policía de una Comunidad Autónoma podrán
+utilizar, en el ámbito de la misma, placas de matrícula con una contraseña y numeración
+propias, sin perjuicio de su matriculación ordinaria en la Jefatura de Tráfico correspondiente.
+
+Artículo 28. Matriculación de los vehículos.
+    1. La matriculación y expedición del permiso de circulación de los automóviles y de los
+vehículos especiales autopropulsados, cualquiera que sea su masa, así como de los
+remolques, semirremolques y máquinas remolcadas especiales cuya masa máxima
+autorizada exceda de 750 kilogramos, se solicitará por el propietario, el arrendatario con
+
+                                           Página 31
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+opción de compra o el arrendatario a largo plazo de la Jefatura de Tráfico de la provincia en
+que tenga su domicilio legal o en la que se vaya a residenciar el vehículo especial agrícola.
+     La matriculación y expedición de la licencia de circulación de los ciclomotores y ciclos de
+motor se efectuará en la Jefatura de Tráfico del domicilio legal del propietario, del
+arrendatario con opción de compra o del arrendatario a largo plazo.
+     2. La solicitud se formulará en el modelo oficial que a tales efectos proporcionará la
+Jefatura de Tráfico correspondiente o que se podrá descargar en la siguiente página web:
+www.dgt.es.
+     A la solicitud se acompañarán los documentos que se indican en el anexo XIII, los cuales
+acreditan los requisitos técnicos del vehículo, el cumplimiento de las obligaciones tributarias,
+de la importación legal, en su caso, o de que cumple con los requisitos para obtener o que
+cuenta con el título habilitante para obtener o realizar alguna actividad de transporte o de
+arrendamiento sin conductor, así como aquellos otros documentos en que el interesado
+funde su derecho a la matriculación del vehículo y que acrediten su personalidad y domicilio.
+     En el caso de tratarse de un vehículo especial agrícola deberá haberse inscrito
+previamente en el Registro Oficial de Maquinaria Agrícola correspondiente. Dicho Registro
+comunicará los datos de inscripción al Registro de Vehículos de la Dirección General de
+Tráfico, conforme a lo dispuesto en el Real Decreto 1013/2009, de 19 de junio, sobre
+caracterización y registro de la maquinaria agrícola.
+     3. La anotación en el Registro de Vehículos de las limitaciones de disposición u otras
+cargas o derechos que impiden la transmisión de los vehículos deberá solicitarse aportando
+los documentos que se recogen en los números 12.º ó 13.º del apartado A del anexo XIII.
+     4. A la vista del expediente, la Jefatura de Tráfico autorizará, si procede, la matriculación
+del vehículo, en cuyo caso expedirá el permiso circulación, que se entregará al interesado
+junto con la tarjeta de inspección técnica o certificado de características y comunicará la
+matrícula a los órganos competentes de la Administración Tributaria, de Industria, de
+Agricultura si se tratara de un vehículo especial agrícola, así como al ayuntamiento del
+domicilio legal del titular del vehículo.
+     En el caso de que el Registro Oficial de Maquinaria Agrícola no hubiera transmitido los
+datos de inscripción a que se hace referencia en el apartado 2, la Jefatura de Tráfico
+solicitará al citado Registro el documento acreditativo de la inscripción antes de decidir sobre
+la autorización.
+     Además del permiso de circulación, la Jefatura de Tráfico podrá expedir otro documento,
+si así se establece en el anexo XIII, de acuerdo con las condiciones y conforme al modelo
+que se indiquen en el mismo.
+     5. Cuando se conceda una nueva matrícula en los casos previstos en el artículo 27,
+apartado 2, a), b) y c), de este Reglamento, se anotará en el Registro de Vehículos la baja
+definitiva de la matrícula anterior y en el permiso de circulación que se expida se harán
+constar las mismas fechas que figurasen en el permiso de circulación anterior. La tarjeta de
+inspección técnica correspondiente a la matrícula anterior se remitirá al órgano competente
+en materia de Industria de la provincia donde el vehículo estuvo matriculado.
+     6. Los trenes turísticos, sin perjuicio de la matriculación de cada elemento del mismo
+como vehículo especial, para circular por las vías públicas deberán obtener una autorización
+complementaria del órgano competente en materia de Tráfico que, en el supuesto de vías
+urbanas, será el Ayuntamiento. Esta autorización se expedirá previo informe vinculante del
+titular de la vía y en la misma deberá figurar, en todo caso, el recorrido a realizar, horario y
+cuantas limitaciones se consideren necesarias para garantizar la seguridad.
+     7. La matriculación y expedición del permiso o autorización para circular de los vehículos
+a que se refiere el apartado 1 de este artículo pertenecientes al Estado se llevará a cabo por
+los propios Organismos encargados de su conservación y empleo, con arreglo a las
+prescripciones y trámites que se determinen por el Ministerio de Economía y Hacienda.
+Estos vehículos podrán, además, ser matriculados en las Jefaturas de Tráfico presentando
+los mismos documentos exigidos en el apartado 2 del presente artículo.
+     8. Se admitirán para su matriculación los vehículos reconstruidos siempre que pasen una
+inspección técnica de sus características esenciales para su homologación a título individual.
+                                            Página 32
+                            BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+Artículo 29. Modelos de permiso de circulación y de licencia de circulación.
+    El permiso de circulación y la licencia de circulación se ajustarán, en cuanto a su modelo
+y contenido, a lo que se indica en el anexo XIII.
+
+Artículo 30. Duplicados y renovaciones del permiso o licencia de circulación.
+    1. El titular de un vehículo cuyo permiso o licencia de circulación hubiese sido objeto de
+sustracción, deterioro o extravío, podrá solicitar un duplicado. Su expedición determinará por
+sí sola la anulación del original. En consecuencia, y en caso de recuperación posterior del
+original, se procederá a su inmediata destrucción.
+    2. El titular de un vehículo que hubiera sufrido variación en cualquiera de los datos que
+consten en el Registro de Vehículos dispondrá de un plazo de 15 días desde que se
+produjera para comunicarla. En todo caso, se expedirá un nuevo permiso o licencia de
+circulación si la variación de datos comunicada afectase a los que deban ser consignados en
+dicho documento.
+    3. Los trámites previstos en los apartados anteriores se practicarán ante la sede
+electrónica de la Dirección General de Tráfico, o en su defecto, en cualquier Jefatura
+Provincial u Oficina Local de Tráfico en los términos establecidos en el anexo XIII.
+
+                                        CAPÍTULO III
+                         Cambios de titularidad de los vehículos
+
+Artículo 31. Renovación del permiso o licencia.
+    El permiso o licencia de circulación habrán de renovarse cuando varíe la titularidad
+registral del vehículo.
+
+   Sección 1.ª Transmisiones entre personas que no se dedican a la compraventa
+                                   de vehículos
+
+Artículo 32. Tramitación.
+    1. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y
+que lo transmita a otra, aun cuando lo haga con reserva de dominio o de cualquier otro
+derecho sobre el vehículo, deberá notificarlo a la Jefatura de Tráfico de la provincia en que
+tenga su domicilio legal o a aquélla en que fue matriculado el vehículo, en el plazo de diez
+días desde la transmisión, por medio de una declaración en la que se haga constar la
+identificación y domicilio del transmitente y adquirente, así como la fecha y título de la
+transmisión.
+    Junto a la notificación de la transmisión se acompañará el permiso o licencia de
+circulación, que quedará archivado en la Jefatura, así como el documento acreditativo de la
+transmisión, el del cumplimiento de las correspondientes obligaciones tributarias y demás
+documentación que se indica en el anexo XIV.
+    Si el transmitente incumpliera la obligación de notificación señalada anteriormente, sin
+perjuicio de que se instruya el correspondiente procedimiento sancionador, seguirá siendo
+considerado titular del vehículo transmitido a los efectos de la legislación sobre tráfico,
+circulación de vehículos a motor y seguridad vial, en tanto no se inscriba el mismo a nombre
+de otra persona a solicitud de ésta, acompañando documento probatorio de la adquisición y
+demás documentación que se indica en el apartado 3.
+    La anotación de cualquiera de las limitaciones de disposición a que se refiere el apartado
+7 de este artículo, que se constituya sobre un vehículo en el momento de su transmisión,
+deberá solicitarse presentando los documentos que se recogen en el apartado III del anexo
+XIV.
+    2. La Jefatura de Tráfico a la que se dirija la notificación de transmisión con los
+documentos que se mencionan en el apartado anterior anotará en el Registro de Vehículos
+al adquirente como nuevo titular, a no ser que el vehículo esté afectado por alguno de los
+impedimentos que se recogen en el apartado 7 de este artículo, extremo que comunicará al
+transmitente y al adquirente, en cuyo caso, una vez cancelado o solventado el impedimento,
+                                          Página 33
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+se anotará la nueva titularidad, notificándola a los Ayuntamientos de los domicilios legales de
+aquéllos.
+     3. El adquirente deberá solicitar de la Jefatura de Tráfico de la provincia de su domicilio
+legal o de aquélla en que se matriculó el vehículo, dentro del plazo de treinta días desde la
+adquisición, la renovación del permiso o licencia de circulación, haciendo constar su
+identidad y domicilio, así como los del transmitente y el título de dicha transmisión. El
+vehículo no podrá circular salvo que disponga del nuevo permiso o licencia de circulación.
+     Junto a la solicitud deberá acompañar los documentos acreditativos del cumplimiento de
+las correspondientes obligaciones tributarias, en su caso, el justificativo de que el vehículo
+cumple los requisitos para obtener o que cuenta con el correspondiente título habilitante para
+la realización de alguna actividad de transporte o de arrendamiento sin conductor, y cuantos
+se determinan en el anexo XIV.
+     Transcurrido el plazo de treinta días indicado sin que el adquirente haya solicitado la
+renovación del permiso o licencia de circulación, se ordenará la inmovilización del vehículo y
+se iniciará el correspondiente procedimiento sancionador, sin perjuicio de las
+responsabilidades que le correspondan como titular del vehículo.
+     4. La Jefatura de Tráfico a la que se haya dirigido la solicitud del adquirente, junto a la
+documentación exigida en el anexo XIV, efectuará el cambio de titularidad en el Registro de
+Vehículos si antes no se hubiera realizado a instancia del vendedor, y expedirá un nuevo
+permiso o licencia de circulación a su nombre, comunicándolo a los Ayuntamientos de los
+domicilios legales del transmitente y del adquirente en el supuesto de que no se haya podido
+efectuar esta notificación con anterioridad.
+     5. En el caso de que el vendedor y el comprador dirijan sus solicitudes de forma conjunta
+a la Jefatura de Tráfico de la provincia del domicilio legal de cualquiera de ellos o de aquélla
+en que se matriculó el vehículo, acompañada de la documentación preceptiva indicada en
+los apartados anteriores, dicha Jefatura procederá, simultáneamente, a efectuar el cambio
+de titularidad en el Registro de Vehículos y a expedir un nuevo permiso o licencia de
+circulación a nombre del adquirente, comunicándolo a los Ayuntamientos de los domicilios
+legales del vendedor y del comprador.
+     6. En el supuesto de transmisión motivada por el fallecimiento del titular del vehículo, la
+persona que tenga a su cargo la custodia y, en su caso, el uso del mismo mientras se
+adjudica a uno de los herederos deberá notificarlo a la Jefatura de Tráfico de su domicilio
+legal antes de transcurrir los noventa días siguientes a la defunción del causante.
+     Dicha Jefatura, previa presentación del permiso o licencia de circulación y demás
+documentos que se determinan en el anexo XIV, practicará en el citado permiso o licencia,
+así como en el Registro de Vehículos la anotación de: «En poder hasta su adjudicación
+hereditaria de...», indicando la identificación y domicilio del depositario y la fecha del
+fallecimiento del titular, considerándose a la persona anotada como sujeto de cuantas
+obligaciones correspondan al titular del vehículo.
+     El que resulte adjudicatario definitivo del vehículo quedará obligado a solicitar, en el
+plazo de noventa días, contados desde la fecha indicada en el documento que le acredite
+como tal, la expedición a su nombre del nuevo permiso o licencia de circulación.
+     7. En el caso de que conste en el Registro de Vehículos la constitución sobre el vehículo
+de una hipoteca inscrita en el Registro de Hipoteca Mobiliaria o la existencia de un pacto de
+prohibición de disponer o de reserva de dominio inscrito en el Registro de Venta a Plazos de
+Bienes Muebles, solamente se practicará el cambio de titularidad en el Registro de Vehículos
+cuando se acredite la cancelación de la inscripción en los Registros mencionados,
+presentando los documentos que se recogen en el apartado IV del anexo XIV, o conste el
+consentimiento del acreedor o de la persona favorecida por tal inscripción, si bien en este
+último supuesto continuará haciéndose constar dicha inscripción en el Registro de Vehículos.
+     Surtirá los mismos efectos la anotación en el permiso o licencia de circulación de la
+constitución sobre el vehículo de una hipoteca inscrita en el Registro de Hipoteca Mobiliaria,
+aun cuando no conste en el Registro de Vehículos.
+     Cuando figure en el Registro de Vehículos una anotación de arrendamiento con opción
+de compra o de arrendamiento a largo plazo, tan sólo se practicará el cambio de titularidad
+en el Registro de Vehículos cuando conste el consentimiento del arrendador.
+     Constituye un impedimento para el cambio de titularidad el impago de las sanciones
+impuestas por infracciones a la Ley 16/1987, de 30 de julio, de Ordenación de los
+                                           Página 34
+                            BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+Transportes Terrestres, respecto de los vehículos con los que aquéllas se hubiesen
+cometido, siempre que figuren anotadas en el Registro de Vehículos.
+    Cualquier impedimento para el cambio de titularidad se comunicará por la Jefatura de
+Tráfico al adquirente.
+    En el caso de que el vehículo no esté al corriente de las inspecciones técnicas
+periódicas, la Jefatura de Tráfico anotará el cambio de titularidad del vehículo en el Registro,
+pero no renovará el permiso o licencia de circulación hasta tanto se acredite la revisión
+favorable.
+    8. Cuando la transmisión afecte a un vehículo sobre el que previamente se haya trabado
+embargo por una autoridad judicial o administrativa inscrito en el Registro de Vehículos, la
+Jefatura de Tráfico efectuará el cambio de titularidad y renovará el permiso o licencia de
+circulación, debiendo notificar la existencia del embargo al adquirente, y la identificación y
+domicilio de este a la autoridad que lo acordó.
+    Si la transmisión afecta a un vehículo sobre el que previamente se haya acordado el
+precinto por una autoridad judicial o administrativa inscrito en el Registro de Vehículos, la
+Jefatura de Tráfico efectuará el cambio de titularidad, sin expedir un nuevo permiso o licencia
+de circulación, debiendo notificar la existencia de dicha traba al adquirente, y la identificación
+y domicilio de este a la autoridad que lo acordó.
+    Si la transmisión afecta a un vehículo que ha sido previamente declarado como siniestro
+total por una entidad aseguradora, tras un accidente u otra causa, cuando el vehículo haya
+sufrido un daño importante que pueda afectar a algún elemento de seguridad, solamente se
+practicará el cambio de titularidad si se acredita haber superado favorablemente una
+inspección ITV con fecha posterior a la declaración de siniestro total.
+
+    Sección 2.ª Transmisiones en las que intervienen personas que se dedican a la
+                             compraventa de vehículos
+
+Artículo 33. Tramitación.
+     1. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y
+lo entregue, para su posterior transmisión, a un vendedor de vehículos con establecimiento
+abierto en España para esta actividad deberá solicitar, en el plazo de diez días desde la
+entrega, la baja temporal del mismo, de acuerdo con lo previsto en el artículo 36, apartado 2,
+a), de este Reglamento.
+     A la solicitud de baja temporal, que se dirigirá a la Jefatura de Tráfico de la provincia del
+domicilio legal del peticionario o a aquélla en que fue matriculado el vehículo, y en la que se
+deberá hacer constar la identidad y domicilio del titular del vehículo y del compraventa, así
+como la fecha de la entrega de aquél, se acompañará el documento acreditativo de la
+misma, el permiso o licencia de circulación, que quedará archivado en la Jefatura, el del
+cumplimiento de las correspondientes obligaciones tributarias y demás documentación que
+se indica en el anexo XIV.
+     Si el transmitente incumpliera la obligación señalada anteriormente, sin perjuicio de que
+se instruya el correspondiente procedimiento sancionador, seguirá siendo considerado titular
+del vehículo transmitido a los efectos de la legislación sobre tráfico, circulación de vehículos
+a motor y seguridad vial, en tanto no se inscriba el mismo a nombre de otra persona a
+solicitud de ésta, acompañando documento probatorio de la adquisición y demás
+documentación establecida en el apartado 3.
+     2. La Jefatura de Tráfico a la que se dirija la anterior solicitud, con los documentos
+preceptivos, anotará en el Registro de Vehículos la baja temporal por transmisión, así como
+la identidad y domicilio del compraventa, que aparecerá como poseedor del vehículo, salvo
+que conste la existencia de alguno de los impedimentos que se recogen en el apartado 7 del
+artículo 32 de este Reglamento, en cuyo caso no se procederá a efectuar las citadas
+anotaciones hasta que se haya cancelado o solventado dicho impedimento, mediante la
+presentación de los documentos que se recogen en el apartado IV del anexo XIV. La baja
+temporal por transmisión será comunicada por la Jefatura de Tráfico al Ayuntamiento del
+domicilio legal del transmitente.
+     El vehículo dado de baja temporal por transmisión sólo podrá circular, salvo que se haya
+acordado su precinto por una autoridad judicial o administrativa, amparado por un permiso y
+
+                                            Página 35
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+placas temporales de empresa regulados en el artículo 48 de este Reglamento y en las
+condiciones que se determinan en el mismo.
+     3. En el caso de consumarse la venta del vehículo, el adquirente deberá solicitar de la
+Jefatura de Tráfico de la provincia de su domicilio legal o de aquélla en que se matriculó el
+vehículo, dentro del plazo de treinta días desde la adquisición, la inscripción de dicho
+vehículo a su nombre y la consecuente renovación del permiso o licencia de circulación,
+haciendo constar su identidad y domicilio, así como los del transmitente y compraventa, y el
+título de dicha transmisión. El vehículo no podrá circular salvo que disponga del nuevo
+permiso o licencia de circulación.
+     Junto a la solicitud deberá presentar los documentos acreditativos del cumplimiento de
+las correspondientes obligaciones tributarias, el de la adquisición y, en su caso, el
+justificativo de que el vehículo cumple los requisitos para obtener o que cuenta con el
+correspondiente título habilitante para la realización de alguna actividad de transporte o de
+arrendamiento sin conductor, así como los que se determinan en el anexo XIV.
+     4. La Jefatura de Tráfico a la que se haya dirigido la solicitud del adquirente, junto a la
+documentación exigida en el anexo XIV, efectuará el cambio de titularidad en el Registro de
+Vehículos si antes no se hubiera realizado a instancia del compraventa, y expedirá un nuevo
+permiso o licencia de circulación a su nombre, comunicándolo al Ayuntamiento del domicilio
+legal del adquirente.
+     La anotación de cualquiera de las limitaciones de disposición a que se refiere el apartado
+7 del artículo 32 de este Reglamento, que se constituya sobre el vehículo en el momento de
+la adquisición, deberá solicitarse presentando los documentos que se recogen en el
+apartado III del anexo XIV.
+     Transcurrido el plazo de treinta días desde la adquisición del vehículo sin que el
+adquirente haya cumplido la obligación prevista en el párrafo primero de este apartado, se
+ordenará la inmovilización del vehículo, se iniciará el correspondiente procedimiento
+sancionador y se anotará en el Registro de Vehículos al adquirente como nuevo titular, sin
+perjuicio de exigirle las responsabilidades que como tal le correspondan.
+     5. Cuando la transmisión afecte a un vehículo sobre el que previamente se haya trabado
+embargo por una autoridad judicial o administrativa inscrito en el Registro de Vehículos, la
+Jefatura de Tráfico efectuará el cambio de titularidad y renovará el permiso o licencia de
+circulación, debiendo notificar la existencia del embargo al adquirente, y la identificación y
+domicilio de este a la autoridad que lo acordó.
+     Si la transmisión afecta a un vehículo sobre el que previamente se haya acordado el
+precinto por una autoridad judicial o administrativa inscrito en el Registro de Vehículos, la
+Jefatura de Tráfico efectuará el cambio de titularidad sin expedir un nuevo permiso o licencia
+de circulación, debiendo notificar la existencia de dicha traba al adquirente y la identificación
+y domicilio de este a la autoridad que lo acordó.
+     Si la transmisión afecta a un vehículo que ha sido previamente declarado como siniestro
+total por una entidad aseguradora, tras un accidente u otra causa, cuando el vehículo haya
+sufrido un daño importante que pueda afectar a algún elemento de seguridad, solamente se
+practicará el cambio de titularidad si se acredita haber superado favorablemente una
+inspección ITV con fecha posterior a la declaración de siniestro total.
+     6. Si el compraventa solicita figurar como titular del vehículo en el Registro, se seguirá la
+tramitación establecida en el artículo 32 del presente Reglamento.
+     En todo caso, deberá solicitar el cambio de titularidad a su nombre cuando haya
+transcurrido más de un año desde que se haya producido la baja temporal del vehículo sin
+haberse transmitido a un tercero.
+
+                                         CAPÍTULO IV
+                           Bajas y rehabilitación de los vehículos
+
+Artículo 34. Pérdida de vigencia del permiso o licencia.
+    El permiso o la licencia de circulación perderá su vigencia cuando el vehículo se dé de
+baja en el correspondiente Registro, a instancia de parte o por comprobarse que no es apto
+para la circulación, en la forma que se determina en este Reglamento.
+
+                                            Página 36
+                           BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+
+Artículo 35. Bajas definitivas.
+   Los vehículos matriculados causarán baja definitiva en el Registro de Vehículos en los
+casos siguientes:
+     1. Cuando sus titulares o terceras personas que acrediten suficientemente su propiedad
+manifiesten expresamente la voluntad de retirarlos permanentemente de la circulación.
+     La solicitud de baja se dirigirá a cualquier Jefatura Provincial de Tráfico, acompañada de
+los documentos que se indican en el anexo XV.
+     2. En el caso de que cualquier Jefatura de Tráfico acuerde de oficio mediante la oportuna
+resolución su retirada definitiva de la circulación, previo informe del órgano competente en
+materia de Industria acreditativo de que el estado del vehículo constituye, por desgaste o
+deterioro de sus elementos mecánicos, un evidente peligro para sus ocupantes o para la
+seguridad de la circulación en general.
+     3. Cuando cualquier Jefatura de Tráfico acuerde de oficio, mediante la oportuna
+resolución, la retirada definitiva de la circulación respecto de los vehículos que hayan sido
+retirados de las vías públicas por los agentes encargados de la vigilancia y regulación del
+tráfico, una vez comprobado que han sido abandonados por sus titulares, de acuerdo con la
+normativa prevista en el anexo I, supuesto en que podrá procederse a su desguace.
+     4. A petición del titular o de tercera persona que acredite su propiedad, por traslado del
+vehículo a otro país donde vaya a ser matriculado, debiendo acompañarse los documentos
+que se establecen en el anexo XV.
+     Una vez tramitada la baja por traslado a otro país, el traslado efectivo del vehículo
+deberá llevarse a cabo en los siguientes 3 meses. En caso de que, pasados 3 meses, exista
+constancia de que el vehículo continúa circulando en España, se procederá de oficio a la
+rehabilitación del vehículo.
+     5. En el caso de que cualquier Jefatura de Tráfico acuerde la baja definitiva de oficio,
+mediante la oportuna resolución, por existir la presunción de que el vehículo no existe o no
+circula al no haberse cumplido las exigencias en materia de inspección ITV obligatoria y de
+seguro de responsabilidad civil de suscripción obligatoria en los últimos diez años. Esta baja
+definitiva de oficio, en cualquier caso, no impide que si el vehículo cumple a posteriori las
+condiciones para poder volver a obtener la autorización administrativa para circular, pueda
+ser rehabilitado.
+
+Artículo 36. Bajas temporales.
+   1. Los vehículos matriculados causarán baja temporal en el Registro de Vehículos en los
+casos siguientes:
+     a) Cuando su titular manifieste expresamente la voluntad de retirarlos temporalmente de
+la circulación.
+     Las bajas temporales de los vehículos cuyo titular manifieste su voluntad de retirarlos
+temporalmente de la circulación tendrán una duración máxima de un año desde la fecha de
+solicitud de baja temporal, excepto en los vehículos agrícolas cuya duración será hasta que
+el titular cambie su situación a baja definitiva, alta, o se produzca un cambio de titularidad.
+Pasado ese plazo sin que previamente la persona interesada solicite la prórroga de la
+situación de baja temporal, finalizará la baja temporal y el vehículo volverá a estar en
+situación activa.
+     Las prórrogas del plazo de baja temporal se podrán solicitar a la Jefatura de Tráfico
+como máximo dos meses antes de la fecha de finalización de la baja temporal.
+     b) Por sustracción del vehículo y a petición de su titular, el cual debe acreditar haber
+formulado la denuncia correspondiente.
+   A la solicitud de baja temporal, que se dirigirá a la Jefatura de Tráfico de la provincia del
+domicilio legal del peticionario o a aquella en que fue matriculado el vehículo, se
+acompañarán los documentos que se indican en el anexo XV.
+   2. Los vehículos matriculados también causarán baja temporal en el Registro de
+Vehículos, en los casos siguientes:
+    a) Cuando se entreguen, para su posterior transmisión, a un vendedor de vehículos con
+establecimiento abierto en España para esta actividad, a petición de su titular.
+                                           Página 37
+                            BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+    A la solicitud, que se dirigirá a la Jefatura de Tráfico de la provincia del domicilio legal del
+peticionario o a aquella en que fue matriculado el vehículo, se acompañarán los documentos
+que se indican en el anexo XIV.
+    b) Cuando lo solicite el arrendador de un vehículo una vez finalizado el contrato de
+arrendamiento con opción de compra o de arrendamiento a largo plazo, de mutuo acuerdo o
+por resolución judicial, y el vehículo pase a poder de éste, para su posterior transmisión o
+arrendamiento. Estos vehículos no podrán circular mientras se mantenga la situación de baja
+temporal.
+    A la solicitud, que se dirigirá a la Jefatura de Tráfico de la provincia del domicilio legal del
+peticionario o a aquella en que fue matriculado el vehículo, en el plazo de diez días desde su
+recuperación por el arrendador, se acompañarán los documentos que se indican en el anexo
+XV.
+    Una vez que el arrendador haya transmitido o arrendado el vehículo deberá solicitarse,
+en el plazo de treinta días, por el adquirente o el arrendatario, el cambio de titularidad de la
+Jefatura de Tráfico de la provincia de su domicilio legal o de aquella en que fue matriculado
+el vehículo, presentando los documentos que se establecen en el anexo XIV.
+
+Artículo 37. Tramitación.
+    La tramitación de las bajas definitivas y de las bajas temporales previstas en el artículo
+36, apartado 1, del presente Reglamento, se ajustará a lo dispuesto a continuación:
+     1. La Jefatura de Tráfico ante la que se interese la baja definitiva de un vehículo para
+retirarlo permanentemente de la circulación, a la vista de la solicitud formulada y de los
+documentos justificativos que se aporten acordará, si procede, la baja definitiva, en cuyo
+caso anulará el permiso o licencia de circulación.
+     En el caso de que la baja definitiva se acordase de oficio por la Jefatura de Tráfico y el
+titular del vehículo se negase a entregar el permiso o licencia de circulación, se ordenará el
+precinto del vehículo.
+     Si se solicita la baja definitiva por traslado del vehículo a otro país donde vaya a ser
+matriculado, la Jefatura de Tráfico devolverá al interesado el permiso o licencia de
+circulación y la tarjeta de inspección técnica o certificado de características anotando en el
+primero que queda anulado.
+     2. En los supuestos de baja temporal se acordará la retención del permiso o licencia de
+circulación y de la tarjeta de inspección técnica o certificado de características hasta que,
+finalizada la retirada temporal, se solicite la devolución de los citados documentos.
+     3. La Jefatura de Tráfico que anote una baja en el Registro de Vehículos lo notificará al
+Ayuntamiento del domicilio del titular y al órgano competente en materia de Industria
+correspondiente a la provincia en que se matriculó el vehículo, acompañando la tarjeta de
+inspección técnica o certificado de características en el caso de baja definitiva.
+     Si se trata de la baja de oficio de un vehículo especial agrícola, la Jefatura de Tráfico lo
+notificará además al Registro Oficial de Maquinaria Agrícola.
+     4. Cuando en el Registro de Vehículos conste la constitución sobre el vehículo de una
+hipoteca inscrita en el Registro de Hipoteca Mobiliaria, o de la existencia de un pacto de
+prohibición de disponer o de reserva de dominio inscrito en el Registro de Venta a Plazos de
+Bienes Muebles, o una anotación de arrendamiento con opción de compra o de
+arrendamiento a largo plazo, la Jefatura de Tráfico que acuerde la baja lo comunicará al
+acreedor o a la persona favorecida por tal inscripción.
+     No obstante lo dispuesto en el párrafo anterior, en el caso de baja del vehículo por
+traslado a otro país donde vaya a ser matriculado, sólo se acordará la baja cuando se
+acredite la cancelación del impedimento o conste el consentimiento del acreedor o de la
+persona favorecida por la inscripción.
+     Cuando la baja afecte a un vehículo sobre el que previamente se haya trabado embargo
+por una autoridad judicial o administrativa, y que figure anotado en el Registro de Vehículos,
+la Jefatura de Tráfico, sin perjuicio de efectuar aquélla, lo comunicará a la autoridad que
+acordó el embargo.
+     En el caso de que exista una orden de precinto inscrita en el Registro de Vehículos, la
+Jefatura de Tráfico lo comunicará al solicitante al objeto de que cancele el impedimento, y
+una vez acreditada la cancelación, anotará la baja.
+                                             Página 38
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Artículo 38. Rehabilitación de los vehículos que han causado baja definitiva.
+    El titular o tercera persona que acredite suficientemente la propiedad de un vehículo que
+haya causado baja definitiva en el Registro podrá obtener de nuevo el permiso o licencia de
+circulación cuando lo solicite de la Jefatura de Tráfico de la provincia de su domicilio legal o
+de aquella en que fue matriculado el vehículo, acompañando los documentos que se indican
+en el anexo XV y siempre que el vehículo sea declarado apto para circular por el órgano
+competente en materia de Industria, previo reconocimiento del mismo dirigido a verificar que
+reúne las condiciones técnicas previstas en el presente Reglamento. La Jefatura de Tráfico
+que expida el permiso o licencia de circulación lo comunicará al Ayuntamiento del domicilio
+legal del titular del vehículo.
+
+                                         CAPÍTULO V
+                                   Matriculación especial
+
+Artículo 39. Vehículos en régimen de matrícula diplomática.
+   1. Podrán obtener permiso de circulación y placas de matrícula especiales los vehículos
+propiedad de:
+    a) Las Misiones Diplomáticas acreditadas en España y con sede permanente en la
+capital del Reino, y los Agentes diplomáticos.
+    b) Las Organizaciones internacionales o supranacionales que hayan suscrito un Acuerdo
+de Sede con el Estado español y los funcionarios de las mismas con estatuto diplomático.
+    c) Las Oficinas Consulares y los funcionarios consulares de carrera de nacionalidad
+extranjera.
+    d) El personal técnico-administrativo de las Misiones Diplomáticas y de las
+Organizaciones internacionales, así como los empleados consulares de las Oficinas
+Consulares.
+     2. Estos permisos de circulación se expedirán por la Jefatura Provincial de Tráfico de
+Madrid, a instancia del Ministerio de Asuntos Exteriores, que cursará la petición a través de
+la Dirección General de Protocolo, Cancillería y Órdenes y los mismos se ajustarán en
+cuanto a su contenido a lo que se indica en el anexo XVI. Dichos permisos, al igual que las
+matrículas, serán objeto de una revisión anual que será efectuada por el Ministerio de
+Asuntos Exteriores.
+     3. Cada matrícula concedida, conforme a las disposiciones anteriores, podrá ser
+asignada a otra persona distinta del anterior titular si éste cesa en el cargo, tanto si se trata
+del mismo vehículo como de otro diferente, así como al mismo titular cuando cambie de
+vehículo.
+     Para la concesión de los permisos de circulación a que se refiere este artículo no se
+precisará acreditar que el vehículo corresponde a un tipo aprobado ni efectuar la inspección
+técnica previa del mismo, siempre que exista trato de reciprocidad. No obstante, con la
+solicitud del permiso deberá presentarse una relación de las características que figuran en el
+modelo oficial de tarjeta de inspección técnica.
+     4. Al tiempo de concederlas, la Jefatura Provincial de Tráfico de Madrid asignará a estos
+vehículos la matrícula ordinaria que en ese momento les corresponda, para uso exclusivo de
+la Administración Española, y que ostentarán si cesa el régimen de matrícula diplomática, en
+cuyo caso, deberá solicitarse su matriculación ordinaria presentando la tarjeta de inspección
+técnica y demás documentación que se indica en el apartado A) del anexo XIII, previa
+cumplimentación de las normas que se recogen en el anexo I.
+     No obstante lo dispuesto en el párrafo anterior, la Jefatura Provincial de Tráfico de
+Madrid también podrá conceder matrícula diplomática a vehículos ya matriculados en
+España, en cuyo caso no se le asignará una nueva matrícula ordinaria, siendo preciso que
+previamente se entregue la tarjeta de inspección técnica y el permiso de circulación en dicha
+Jefatura, que los devolverá cuando cese el régimen de matrícula diplomática.
+     5. Cuando por causas legalmente establecidas se produzca alguna variación en la
+titularidad de estos vehículos, la Misión Diplomática, la Organización internacional interesada
+o, en su caso, la Oficina Consular que no dependa de una Misión Diplomática, lo notificará
+                                           Página 39
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+por escrito al Ministerio de Asuntos Exteriores, devolviendo las placas y el permiso de
+circulación correspondientes, y dicho Departamento ministerial remitirá a la Jefatura
+Provincial de Tráfico de Madrid un acta con la relación de esas matrículas, si subsiste el
+régimen de matrícula diplomática. En caso de que no subsista dicho régimen se comunicará
+su terminación a la Jefatura de Tráfico del domicilio del titular o del adquirente.
+    6. Además de lo dispuesto en los apartados anteriores, se aplicará la reglamentación
+que se recoge en el anexo I.
+
+Artículo 40. Vehículos en régimen de matrícula turística.
+     1. Podrán obtener de cualquier Jefatura de Tráfico una matrícula especial denominada
+turística para amparar la circulación de los automóviles de turismo, caravanas y remolques,
+motocicletas y otros que puedan declararse equiparables:
+    a) Las personas físicas con residencia en el extranjero.
+    b) Las personas físicas establecidas en el territorio aduanero de la Unión Europea que
+vayan a trasladar su residencia habitual fuera del mismo.
+    c) Con sometimiento al principio de reciprocidad, los corresponsales de prensa de
+Estados no miembros de la Unión Europea acreditados en España y los profesores de liceos
+o institutos establecidos por Gobiernos de Estados no miembros de la Unión Europea,
+siempre que no sean nacionales de los Estados miembros ni tengan residencia habitual en la
+Unión Europea.
+    d) Con sometimiento al principio de reciprocidad, los corresponsales de prensa
+extranjera de Estados miembros de la Unión Europea acreditados en España y los
+profesores de liceos o institutos establecidos en España por Gobiernos de otros Estados
+miembros de la Unión Europea, siempre que no sean españoles ni tengan residencia
+habitual en España.
+     2. Las personas físicas con derecho a la matrícula turística solicitarán el permiso de
+circulación mediante impreso oficial al que se acompañará la tarjeta de inspección técnica
+del vehículo, documento acreditativo de que el interesado tiene derecho al régimen de
+matrícula turística expedido por el órgano competente de la Administración tributaria, en el
+que conste como mínimo la marca y el número de bastidor del vehículo, así como el resto de
+la documentación que se indica en el anexo XVI.
+     La Jefatura de Tráfico, una vez comprobada la documentación presentada con la
+solicitud, devolverá aquélla al interesado haciéndole a la vez entrega, si procede, del
+permiso especial de circulación, cuyo modelo y contenido está especificado en el anexo XVI,
+y comunicará la matrícula turística que haya concedido al Ayuntamiento del domicilio del
+titular del vehículo.
+     3. El período de tiempo de validez de la matrícula turística concedida será el que
+determine el órgano competente de la Administración tributaria, la cual podrá prorrogar ese
+plazo.
+     Las prórrogas del plazo se solicitarán de la Jefatura de Tráfico que expidió el permiso
+antes de la fecha de caducidad del mismo, acompañando a la solicitud los documentos que
+se señalan en el anexo XVI.
+     La prórroga llevará implícita la sustitución del permiso de circulación y de las placas de
+matrícula por las correspondientes al nuevo período de matriculación.
+     4. Los permisos especiales propios de la matrícula turística caducarán por haber
+expirado el plazo de validez sin haber obtenido prórroga del mismo.
+     La caducidad del permiso llevará inherente el precintado del vehículo y su depósito,
+dándose cuenta a la Administración tributaria correspondiente, si no lo hubiera ordenado
+ésta.
+     5. La utilización de un vehículo con infracción de las normas que rigen la circulación de
+los vehículos en régimen de matrícula turística dará lugar a la comunicación al órgano
+competente de la Administración tributaria.
+     6. Las Jefaturas de Tráfico procederán a anular los referidos permisos en los casos
+previstos en la reglamentación que se recoge en el anexo I y, en particular:
+                                          Página 40
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    a) Cuando sus titulares transfieran los vehículos a otras personas con derecho a utilizar
+la matrícula turística, en cuyo caso estos adquirentes podrán solicitar a su favor un nuevo
+permiso y otro juego de placas.
+    b) Cuando se proceda a su matriculación ordinaria en España, previo pago de los
+impuestos que correspondan y con sujeción a los trámites normales, de acuerdo con lo
+dispuesto en el anexo XVI.
+
+Artículo 41. Vehículos históricos.
+   Las normas que regulan los requisitos y el procedimiento para que un vehículo sea
+declarado histórico, así como para su matriculación y circulación por las vías públicas, están
+contenidas en la reglamentación que se recoge en el anexo I.
+
+                                         CAPÍTULO VI
+                         Autorizaciones temporales de circulación
+
+Artículo 42. Normas generales.
+    1. En casos justificados, la autoridad competente para expedir el permiso de circulación
+podrá conceder, en los términos que se fijan en este Reglamento, permisos temporales que
+autoricen la circulación provisional del vehículo, antes de su matriculación definitiva o
+mientras se tramita la misma.
+    2. Los permisos temporales que autoricen la circulación de vehículos para la realización
+de pruebas, ensayos de investigación, exhibiciones o para su transporte, se ajustarán a las
+prescripciones que se establecen en el presente capítulo.
+
+                    Sección 1.ª Permisos temporales para particulares
+
+Artículo 43. Supuestos y requisitos para su concesión.
+    1. Las personas naturales o jurídicas que hubieran adquirido un vehículo de motor,
+ciclomotor, remolque o semirremolque, podrán obtener un permiso de circulación temporal
+en los casos siguientes:
+    1.1 De diez días de duración cuando lo hayan adquirido en provincia distinta a aquella
+donde pretendan matricularlo, que deberá solicitarse de la Jefatura de Tráfico de la provincia
+en que se encuentre el vehículo.
+    1.2 De sesenta días de duración:
+   1.2.1 Para circular mientras se tramita la matrícula definitiva, en los casos siguientes:
+   a) Cuando lo hayan adquirido sin matricular en el extranjero.
+   b) Cuando se haya adjudicado sin matricular, en subasta o por sentencia judicial, si el
+vehículo debe someterse previamente a la inspección técnica unitaria.
+   c) Cuando se haya adquirido sin carrozar.
+   d) Cuando se haya adquirido con matrícula no española en España o en el extranjero.
+    La solicitud deberá dirigirse a la Jefatura de Tráfico de la provincia en que el peticionario
+tenga su domicilio legal y, si se trata de vehículos especiales agrícolas, también podrá
+interesarse de la Jefatura de Tráfico de la provincia donde se vaya a residenciar el vehículo.
+    Excepcionalmente y con la misma matrícula, podrán solicitarse y concederse sucesivas
+prórrogas de la validez de estos permisos por plazos de sesenta días, cuando se pidan antes
+de expirar su período de vigencia y se justifique que el vehículo no se ha matriculado por
+causas no imputables al titular del permiso temporal.
+    1.2.2 Para su traslado al extranjero a efectos de su matriculación definitiva, cuando el
+vehículo se haya adquirido en España, que deberá solicitarse de la Jefatura de Tráfico de la
+provincia donde el peticionario tenga su domicilio legal o en la que fue matriculado el
+vehículo.
+                                           Página 41
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     2. Los titulares de los permisos de diez o de sesenta días de validez deberán entregarlos
+junto con las placas a las Jefaturas de Tráfico al recibir el permiso de circulación definitivo
+del vehículo, salvo en el supuesto contemplado en el apartado 1.2.2 anterior.
+     3. Las solicitudes del permiso temporal se formularán en los impresos oficiales que
+facilitarán las Jefaturas de Tráfico, acompañadas de los documentos que se señalan en el
+anexo XVII.
+     Las Jefaturas de Tráfico, una vez comprobada la documentación, la devolverán a los
+interesados haciéndoles entrega, si procede, del permiso temporal, cuyo modelo y contenido
+se detalla en el anexo XVII.
+     4. Los titulares de estos permisos temporales cuidarán, bajo su responsabilidad, de que
+los vehículos cuya circulación amparen reúnan todas las condiciones técnicas prescritas en
+el presente Reglamento.
+
+   Sección 2.ª Permisos temporales para uso de empresas o entidades
+                        relacionadas con el vehículo
+
+      Subsección 1.ª Permisos temporales para vehículos no matriculados en España
+
+Artículo 44. Supuestos y requisitos para su concesión.
+    1. Las personas naturales o jurídicas que sean fabricantes, sus representantes legales,
+carroceros, importadores, vendedores o distribuidores de vehículos de motor, ciclomotores,
+remolques o semirremolques, con establecimiento abierto en España para cualquiera de
+estas actividades, así como los laboratorios oficiales, podrán obtener de la Jefatura de
+Tráfico de la provincia en que tengan su domicilio legal, permisos temporales que habilitarán
+a sus vehículos no matriculados en España para transitar por el territorio nacional, siempre
+que se trate de realizar transportes, pruebas o ensayos de investigación o exhibiciones con
+personal técnico o con terceras personas interesadas en su adquisición.
+    2. Estos permisos se concederán por un plazo improrrogable de un año, contado desde
+el día primero del mes siguiente a la fecha de su expedición.
+    Sus titulares están obligados a entregar los permisos y las placas correspondientes en la
+Jefatura de Tráfico que los hubiera expedido, dentro de los cinco días siguientes contados a
+partir de la fecha en que haya terminado el plazo de validez.
+    3. Cada permiso, que ampara la circulación no simultánea de vehículos cualquiera que
+sea su marca y categoría, se solicitará en impreso oficial que facilitará la Jefatura de Tráfico,
+a la que se acompañarán los documentos que se establecen en el anexo XVII.
+    La Jefatura de Tráfico, a la vista de los documentos presentados, concederá, si procede,
+un permiso temporal cuyo modelo y contenido se ajustarán a lo dispuesto en el anexo XVII.
+    4. Cuando las personas indicadas en el apartado 1 de este artículo pretendan el traslado
+de un vehículo fuera del territorio nacional, deberán obtener un permiso temporal de
+circulación de los previstos en la presente subsección.
+    5. Se considerarán laboratorios oficiales los designados por el Ministerio de Industria y
+Energía, y para los vehículos especiales agrícolas también se considerará laboratorio oficial
+la Estación de Mecánica Agrícola del Ministerio de Agricultura, Pesca y Alimentación.
+
+Artículo 45. Boletines de circulación.
+    1. Los conductores de los vehículos amparados por el permiso temporal a que se refiere
+el artículo 44 de este Reglamento deberán llevar, en unión de dicho documento, el
+correspondiente «Boletín de Circulación», sin el cual aquél carecerá de validez.
+    2. Dicho boletín se integrará en libros-talonarios foliados y reconocidos por la Jefatura de
+Tráfico que expidió el permiso al que correspondan, y su modelo y contenido se ajustarán a
+lo dispuesto en el anexo XVII.
+    3. Los titulares del permiso temporal extenderán por duplicado el boletín correspondiente
+a cada viaje, datado y con su firma o la del apoderado o encargado autorizado; el original
+deberá llevarlo el conductor y la copia quedará encuadernada como matriz en su libro-
+talonario.
+                                           Página 42
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    4. Independientemente del control que corresponde efectuar a los agentes de la
+autoridad en materia de tráfico y circulación de vehículos a motor, las Jefaturas de Tráfico
+podrán solicitar en cualquier momento del titular del permiso la presentación del libro-
+talonario que posea en unión de los boletines originales utilizados y sus copias, hasta seis
+meses después de haber caducado el permiso de que dimanen.
+
+Artículo 46. Condiciones para circular con estos permisos.
+     1. Los vehículos amparados por un permiso temporal de empresa pueden circular por las
+vías incluidas dentro del ámbito de aplicación de este Reglamento siempre que cumplan las
+condiciones técnicas prescritas en el mismo. Los titulares de dicho permiso cuidarán, bajo su
+responsabilidad, de que los vehículos cumplan aquellas condiciones.
+     Los vehículos amparados en un permiso temporal de empresa podrán circular en chasis
+y sin cabina cuando se trasladen para su carrozado o distribución, siempre que se cumplan
+las condiciones de seguridad que señala el presente Reglamento.
+     Los camiones, tanto si están carrozados como en chasis, que circulen con permiso y
+placas temporales de empresa, podrán transportar sobre sí a otro automóvil que también
+esté sin matricular y vaya provisto de su correspondiente permiso, boletín y placas
+temporales de empresa.
+     Un remolque o semirremolque en chasis puede transportar dos remolques o
+semirremolques, cada uno sobre otro, siempre que se cumplan las prescripciones de este
+Reglamento sobre masas y dimensiones y del Reglamento General de Circulación sobre
+colocación de la carga, así como que los tres vehículos tengan su permiso, boletín y placas
+temporales de empresa.
+     2. Todo vehículo de motor no matriculado que circule por las vías públicas con permiso y
+placas temporales de empresa deberá ser conducido por el titular del permiso o persona a
+su servicio, lo que deberá ser acreditado documentalmente, no siendo imprescindible que la
+prestación de este servicio implique una relación laboral de carácter exclusivo.
+     Tan sólo podrán ser ocupados los vehículos por la persona o personas compradoras o
+que pertenezcan a la entidad que pretenda adquirirlos o por los técnicos o mecánicos del
+constructor o vendedor, siempre que documentalmente se acrediten dichas circunstancias o
+se haga constar así en el correspondiente boletín y no rebasen el número de tres.
+     El vehículo podrá ser conducido por el posible comprador o por su representante,
+siempre que vaya a su lado el titular del correspondiente permiso temporal de empresa o un
+conductor a su servicio.
+     3. Los vehículos entregados a las personas naturales o jurídicas que los hubieran
+adquirido para su uso no deberán circular al amparo de permisos, boletines y placas
+temporales de empresa.
+     Tampoco deberán circular ni utilizarse dichos vehículos para fines distintos de los
+mencionados en el artículo 44 que motivaron su concesión, quedando prohibido llevar en
+ellos carga útil.
+     Cuando se efectúen ensayos, los vehículos podrán cargarse con aparatos de medida,
+bloques de hormigón, sacos de arena o de perdigones o maniquíes; podrán llevar carga
+distinta en las condiciones que se determinan en el artículo 47.
+     4. Los conjuntos de vehículos en los que uno de los elementos tenga permiso temporal
+de empresa y otro esté ya matriculado, deberán circular respetando las condiciones que se
+establecen en este artículo y llevar el boletín de circulación a que se refiere el artículo 45.
+
+Artículo 47. Pruebas o ensayos de investigación extraordinarios realizados por fabricantes,
+carroceros y laboratorios oficiales.
+    1. Con sujeción a las normas establecidas en la presente subsección podrán otorgarse a
+los fabricantes de vehículos o a sus representantes legales, a los carroceros y a los
+laboratorios oficiales, que sean titulares de permisos temporales de empresa, autorizaciones
+para realizar con un determinado vehículo pruebas o ensayos de investigación
+extraordinarios, que les permitirá:
+     a) Realizar excepcionalmente ensayos en autopistas, autovías y demás vías públicas del
+territorio nacional, para los que sea necesario sobrepasar las limitaciones genéricas de
+velocidad establecidas para este tipo de vías. En tales casos, el órgano competente para
+
+                                          Página 43
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+otorgar el permiso fijará en el mismo la velocidad máxima a desarrollar, que, salvo que la vía
+se haya cerrado al tráfico general, no podrá ser superior a 30 kilómetros por hora sobre la
+normalmente autorizada para la vía y vehículo de que se trate.
+     Dichas pruebas no podrán efectuarse por vías urbanas, travesías ni por tramos en los
+que exista señalización específica que limite la velocidad y, en todo caso, deberán cumplirse
+las limitaciones concretas impuestas por razones de peligro u otras circunstancias que estén
+reflejadas en las señales correspondientes, y cuantas disposiciones sobre reducción y
+adecuación de velocidad se prevén en el Reglamento General de Circulación.
+     b) Circular por el territorio nacional llevando en el vehículo carga de cualquier tipo y los
+demás dispositivos o personas necesarios para la realización de ensayos.
+     2. Los interesados deberán dirigir una solicitud por cada vehículo a la Dirección General
+de Tráfico acompañando, además de la documentación prevista en el anexo XVII,
+justificación de la necesidad de la petición.
+     La Dirección General de Tráfico, a la vista de la documentación presentada concederá, si
+procede, previo informe de la Comunidad Autónoma que tenga transferidas competencias de
+ejecución en materia de regulación del tráfico, una autorización en la que deberá constar el
+tipo de ensayo a realizar, su itinerario, duración y demás condiciones en que deba
+desarrollarse.
+     3. Los vehículos que circulen al amparo del permiso a que se refiere este artículo
+deberán ser conducidos, como norma general, por el titular del permiso o persona a su
+servicio, que deberá portar el oportuno boletín de circulación. En caso de que sea precisa su
+conducción por otras personas, deberán estar autorizadas expresamente por la Dirección
+General de Tráfico.
+     4. Cuando por la naturaleza de las pruebas se estime conveniente, en orden a la
+seguridad de la circulación, se podrá ordenar que el tramo designado para la realización de
+las pruebas se señalice, por cuenta del peticionario, en la forma que se indique, para que
+sirva de advertencia al resto de los usuarios.
+     5. Los fabricantes de vehículos, cuando realicen pruebas especiales o ensayos que
+impliquen exceso de velocidad, solicitarán la realización de aquéllos con un plazo mínimo de
+antelación de setenta y dos horas, a fin de que se dispongan los servicios especiales que se
+estimen oportunos.
+     6. Los vehículos que circulen con las autorizaciones a que se refiere el presente artículo
+llevarán, además de las placas de matrícula y permisos previstos en el artículo 44, dos
+placas con las letras F.V., de acuerdo con lo establecido en el anexo XI de este Reglamento.
+
+        Subsección 2.ª Permisos temporales para vehículos matriculados en España
+
+Artículo 48. Supuestos y requisitos para su concesión.
+    1. Las personas naturales o jurídicas que sean vendedores de vehículos de motor,
+ciclomotores, remolques o semirremolques con establecimiento abierto en España para esta
+actividad, podrán obtener de la Jefatura de Tráfico de la provincia en que tengan su domicilio
+legal permisos temporales que habilitarán a sus vehículos matriculados en nuestro país y
+dados de baja temporal por transmisión para circular por el territorio nacional, siempre que
+se trate de realizar pruebas con terceras personas interesadas en su adquisición.
+    2. Estos permisos se concederán por el plazo improrrogable de un año, contado desde el
+día primero del mes siguiente a la fecha de su expedición.
+    Sus titulares están obligados a entregar los permisos y las placas correspondientes en la
+Jefatura de Tráfico que los hubiera expedido, dentro de los cinco días siguientes contados a
+partir de la fecha en que haya terminado el plazo de validez.
+    3. Cada permiso, que ampara la circulación no simultánea de vehículos cualquiera que
+sea su marca y categoría, se solicitará en impreso oficial que facilitará la Jefatura de Tráfico,
+a la que se acompañarán los documentos que se establecen en el anexo XVII.
+    La Jefatura de Tráfico, a la vista de los documentos presentados, concederá, si procede,
+un permiso temporal cuyo modelo y contenido se ajustarán a lo dispuesto en el anexo XVII.
+    4. Los conductores de los vehículos amparados por este permiso temporal deberán
+llevar, en unión de dicho documento, el boletín de circulación a que se refiere el artículo 45
+                                           Página 44
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+del presente Reglamento en el que se hará constar, además de los datos que en el mismo
+se indican, la matrícula ordinaria del vehículo. Asimismo, deberán llevar la tarjeta de
+inspección técnica con el reconocimiento en vigor o el certificado de características.
+    Los conductores de los vehículos amparados por este tipo de permisos deberán respetar
+las condiciones de circulación que se establecen en los apartados 2 y 3 del artículo 46 del
+presente Reglamento.
+
+   Subsección 3.ª Permisos temporales para vehículos de museos y de colecciones
+                                  museográficas
+
+Artículo 48 bis. Supuestos y requisitos para su concesión.
+    1. Las personas naturales o jurídicas titulares de museos o de colecciones
+museográficas de vehículos históricos, podrán obtener de la Jefatura de Tráfico, permisos
+temporales que habilitarán a sus vehículos para transitar por el territorio nacional a los
+efectos de traslado entre instalaciones, mantenimiento, exhibición en acontecimientos o
+pruebas autorizadas o análogas circunstancias justificadas, cuya finalidad será la protección
+y exhibición de dicho patrimonio automovilístico.
+    2. Estos permisos se concederán por el plazo improrrogable de un año, contado desde el
+día primero del mes siguiente a la fecha de su expedición, y los vehículos deberán llevar las
+placas previstas para los permisos temporales de empresas para vehículos no matriculados
+en España. Sus titulares están obligados a entregar los permisos y las placas
+correspondientes en una Jefatura de Tráfico, dentro de los cinco días siguientes contados a
+partir de la fecha en que haya terminado el plazo de validez.
+    3. Cada permiso, que ampara la circulación no simultánea de vehículos, cualquiera que
+sea su marca y categoría, se solicitará en modelo oficial, al que se acompañarán los
+documentos que se establecen en el anexo XVII. La Jefatura de Tráfico, a la vista de los
+documentos presentados, concederá, si procede, un permiso temporal cuyo modelo y
+contenido se ajustarán a lo dispuesto en el anexo XVII.
+    4. Los vehículos que circulen al amparo del permiso a que se refiere este artículo
+deberán ser conducidos, como norma general, por el titular del permiso o persona autorizada
+por el mismo, que deberá portar la correspondiente autorización temporal de circulación.
+    5. Las personas conductoras de los vehículos amparados por el permiso temporal a que
+se refiere este artículo deberán llevar, en unión de dicho documento, el correspondiente
+''Boletín de Circulación'' en las condiciones establecidas en el artículo 45.
+
+                                       CAPÍTULO VII
+                                    Placas de matrícula
+
+Artículo 49. Caracteres, dimensiones y otros requisitos.
+    1. Las placas de matrícula deben cumplir con lo establecido en el anexo XVIII del
+presente real decreto. Asimismo, deberán ser conformes con los requisitos técnicos
+establecidos en el Real Decreto 885/2020, de 6 de octubre, por el que se establecen los
+requisitos para la comercialización y puesta en servicio de placas de matrícula para
+vehículos de motor y remolques, y por el que se modifica el Reglamento General de
+Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre.
+    El número de placas de matrícula que debe llevar cada vehículo, así como su ubicación
+en el mismo, se ajustarán a lo dispuesto en el citado anexo.
+    2. El número de manipulador, asignado por el fabricante y dado de alta en el Registro de
+Vehículos de la Dirección General de Tráfico constará en el anverso de todas las placas, en
+el centro del borde izquierdo, en posición vertical, de acuerdo con lo especificado en el
+referido anexo.
+    3. El nombre del fabricante o marca registrada aparecerá en el anverso de las placas de
+serie junto al centro del borde superior y dentro de un rectángulo horizontal de 5 milímetros
+de altura y 35 milímetros de ancho, en el mismo color que los caracteres impresos en la
+matrícula o en el bordón de la misma en el caso de placas embutidas.
+
+                                         Página 45
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     4. Queda prohibido que en las placas de matrícula se coloquen, inscriban o pinten
+adornos, signos u otros caracteres distintos de los señalados en el anexo XVIII, incluida la
+publicidad en el interior de las mismas. Se autoriza la utilización de un apéndice distinto de la
+propia placa y situado en la parte inferior a la misma o de un marco ajeno a la propia placa,
+el cual podrá ir grabado en la parte inferior con publicidad, siempre y cuando su contorno no
+exceda de 26 milímetros al borde del exterior de la placa. Asimismo, se prohíbe que en las
+partes anterior y posterior de los vehículos se coloquen placas complementarias no
+autorizadas o se fijen o pinten marcas o distintivos que por su forma, color y caracteres
+dificulten la legibilidad o puedan inducir a confusión con los caracteres reglamentarios de las
+placas de matrícula.
+
+                                        CAPÍTULO VIII
+                         Circulación internacional de los vehículos
+
+Artículo 50. Placas de matrícula, distintivos y documentación.
+   1. Vehículos a motor matriculados en España y sus remolques:
+    a) Todo vehículo a motor matriculado en España que haya de circular por las vías
+públicas del extranjero deberá llevar, en su parte posterior, además de la placa de matrícula
+nacional, el signo distintivo de su nacionalidad española. En el caso de que el vehículo a
+motor vaya seguido de uno o más remolques, tanto la matrícula como el signo distintivo
+deberán figurar, además, en la parte posterior del remolque único o último.
+    El signo distintivo de la nacionalidad española del vehículo se ajustará en cuanto a sus
+caracteres, dimensiones y colocación a lo dispuesto en el anexo XI.
+    b) Los conductores de los vehículos mencionados deberán llevar el permiso de
+circulación expedido por las Jefaturas de Tráfico con arreglo al artículo 28 de este
+Reglamento.
+    2. Vehículos a motor extranjeros matriculados en Estados parte en el Convenio
+Internacional de Ginebra y sus remolques:
+     a) De conformidad con lo acordado en el Convenio Internacional de Ginebra, de 19 de
+septiembre de 1949, sobre circulación por carretera, los vehículos a motor matriculados en
+cualquiera de los Estados parte en el mismo podrán circular por las vías públicas españolas
+cuando llevaren en su parte posterior, al menos, e inscrito en una placa o en el propio
+vehículo, el número de matrícula atribuido a éste por la autoridad competente de su país.
+Cuando vaya seguido de uno o de varios remolques, el remolque único o último habrá de
+llevar a su vez, en su parte posterior, el número de matrícula del vehículo tractor o un
+número de matrícula propio.
+     La composición del número de matrícula y la forma en que ésta haya de exhibirse son
+las determinadas en el anejo 3 del referido Convenio Internacional.
+     Salvo en aquellos casos en que figuren inscritos en sus placas de matrícula la sigla
+distintiva del Estado de la Unión Europea al que pertenecen y el símbolo representativo de la
+bandera de aquélla de acuerdo con la reglamentación que se recoge en el anexo I, los
+vehículos a motor aludidos deberán llevar, además, en su parte posterior el signo distintivo
+de la nacionalidad de su matrícula. Cuando vaya seguido de uno o de varios remolques, el
+signo distintivo deberá repetirse detrás del remolque único o último.
+     El signo distintivo de la nacionalidad extranjera del vehículo se ajustará en cuanto a sus
+caracteres, dimensiones y colocación a lo dispuesto en el anexo XI.
+     b) Los conductores de los vehículos a motor a que se refiere este apartado deberán ser
+portadores del certificado de matrícula, expedido por las autoridades competentes de su país
+o por una asociación legalmente habilitada al efecto.
+     En estos certificados deberá figurar, por lo menos, el número de matrícula del vehículo,
+el nombre o marca del constructor de éste, el número de fabricación y el número de serie del
+constructor y la fecha en que el vehículo fue primeramente matriculado, así como el nombre,
+apellidos y domicilio permanente del titular del certificado.
+     Los certificados de matrícula expedidos en las condiciones precedentes serán aceptados
+en España como presunción legal de la exactitud de los datos correspondientes.
+                                           Página 46
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    c) Los vehículos a motor que procedentes de Estados parte en el Convenio hayan de
+circular por España deberán llevar las siguientes marcas de identificación:
+    1. El nombre o marca del fabricante.
+    2. En el chasis o, a falta de chasis, en la carrocería, el número de identificación o de
+serie del fabricante.
+    3. En el motor, el número de fabricación del motor, si el fabricante lo estampa en él.
+    Para los remolques, las indicaciones mencionadas en los números 1 y 2, o bien una
+marca de identificación asignada al remolque por la autoridad competente del país de
+procedencia.
+    Las marcas mencionadas deberán estar en lugares accesibles y ser fácilmente legibles y
+de difícil modificación o supresión.
+    3. Vehículos a motor extranjeros matriculados en Estados que no sean parte del
+Convenio Internacional de Ginebra y sus remolques:
+    Los vehículos a motor matriculados en cualquiera de los Estados que no sean parte del
+de Ginebra, de 19 de septiembre de 1949, podrán circular en España bien en las
+condiciones previstas en el apartado anterior, bien en las establecidas en el Convenio
+Internacional de Viena de 8 de noviembre de 1968 si se trata de Estados parte en este
+Convenio, o en las que se indiquen en particulares Convenios Internacionales.
+    El signo distintivo de la nacionalidad extranjera de los vehículos pertenecientes al
+Convenio Internacional de Viena se ajustará en cuanto a sus caracteres, dimensiones y
+colocación a lo dispuesto en el anexo XI y, en su caso, a la reglamentación que se recoge en
+el anexo I.
+
+                                        CAPÍTULO IX
+   Nulidad, anulación, pérdida de vigencia y suspensión cautelar de las
+                          autorizaciones de circulación
+
+Artículo 51. Procedimientos y recursos.
+    1. Las normas específicas contenidas en este Título IV sobre tramitación de las
+autorizaciones de circulación de los vehículos, se aplicarán sin perjuicio de lo dispuesto en el
+Título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las
+Administraciones Públicas y del Procedimiento Administrativo Común.
+    2. Las autorizaciones administrativas de circulación reguladas en el presente Título
+podrán ser objeto de nulidad o anulación de acuerdo con lo dispuesto en los artículos 62 a
+67 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones
+Públicas y del Procedimiento Administrativo Común, debiendo ajustarse el procedimiento a
+lo establecido en el Título VII de la citada Ley.
+    3. Las mencionadas autorizaciones podrán ser declaradas caducadas o perdida su
+vigencia cuando, después de otorgarlas, se acredite que han desaparecido los requisitos que
+se exigían para ello.
+    Antes de dictar resolución acordando su pérdida de vigencia o caducidad, el órgano
+competente de la Administración notificará al interesado la presunta carencia del requisito
+exigido, concediéndole un plazo máximo de dos meses para acreditar su existencia.
+Transcurrido el plazo concedido sin que se haya acreditado que se reúnen los requisitos que
+se exigen para obtener la autorización, se dictará resolución acordando dicha pérdida de
+vigencia o caducidad.
+    Sin perjuicio de los recursos que contra la misma puedan interponerse, el titular de una
+autorización caducada o que haya perdido su vigencia podrá obtenerla de nuevo si acredita
+la concurrencia de los requisitos exigidos para su otorgamiento, a través del procedimiento
+correspondiente.
+    4. En el curso de los procedimientos de declaración de nulidad, anulación y pérdida de
+vigencia o caducidad de las autorizaciones administrativas de circulación de los vehículos,
+podrá acordarse la suspensión cautelar de la autorización en cuestión, cuando su
+mantenimiento entrañe un grave peligro para la seguridad del tráfico o perjudique
+notoriamente el interés público.
+
+                                           Página 47
+                             BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+     5. Contra las resoluciones de los Jefes de Tráfico en materia de autorizaciones
+administrativas relativas a vehículos, podrá interponerse por los interesados recurso
+ordinario en el plazo de un mes que resolverá la Dirección General de Tráfico, y se
+sustanciará de acuerdo con lo dispuesto en el capítulo II, del Título VII de la Ley 30/1992, de
+26 de noviembre.
+     Las resoluciones que pongan fin a la vía administrativa serán recurribles ante el órgano
+jurisdiccional contencioso-administrativo.
+                                             ANEXO I
+                                REGLAMENTACIÓN VIGENTE
+
+1. Relación entre artículos del Reglamento General de Vehículos y reglamentación
+                                      vigente
+
+    Artículo del
+                      Párrafo                Materia                     Legislación aplicable
+    Reglamento
+    Disposición                 Seguro Obligatorio de
+                                                                  Ley 30/1995, de 8.11.
+  Adicional Tercera             Responsabilidad Civil
+                                                                  RD 2140/85, RD 2406/85, RD
+                                                                  2028/86, OM 10.07.84,OM 28.03.85,
+         1              1       Homologación de tipo
+                                                                  OM 20.09.85, OM 27.12.85, OM
+                                                                  28.10.91.OM 28.12.93, OM 09.03.95.
+                                                                  LO 5/1992, de 29-10, Ley 30/1992,
+         2                      Registro de Vehículos
+                                                                  de 26-11, OM 26.07.94.
+                                                                  RD 2140/85, RD 2406/85, RD
+                                                                  2028/86, OM 10.07.84, OM 28.03.85,
+         3                      Conceptos básicos                 OM 20.09.85, OM 27.12.85, OM
+                                                                  28.10.91, OM 28.12.93, OM
+                                                                  09.03.95.
+                                                                  RD 2140/85, RD 2406/85, RD
+                                                                  2028/86, OM 10.07.84, OM 28.03.85,
+         4                      Clasificación de vehículos        OM 20.09.85, OM 27.1 2.85, OM
+                                                                  28.10.91, OM 28.12.93, OM
+                                                                  09.03.95.
+                                                                  RD 2140/85, RD 2028/86, OM
+         5                      Homologación de tipo y exenciones
+                                                                  20.09.85.
+         6                      Homologación Componentes          RD 2028/86.
+                                                                  RD 2140/85, RD 1457/86, RD
+         7                      Reformas de importancia
+                                                                  736/88.
+                                Placas e inscripciones
+         8              1                                         RD 2140/85, RD 2028/86.
+                                reglamentarias
+                                Modificación de placas e
+         8              2                                         RD 736/88.
+                                inscripciones reglamentarias
+                                                                  RD 2140/85, RD 2028/86, RD
+         9                      Compatibilidad
+                                                                  736/88, OM 20.9.85.
+                                                                  RD 1987/85, RD 2042/94, OM
+         10                     Inspección Técnica de Vehículos
+                                                                  13.11.96.
+         11             1       Campo de visión del conductor     RD 2028/86.
+         11             2       Retrovisores                      RD 2028/86.
+         11             3       Vidrios de seguridad              RD 2028/86.
+         11             4       Limpia y lavaparabrisas           RD 2028/86.
+         11             4       Antihielo y antivaho              RD 2028/86.
+                                Equipo de dirección y protección
+         11             5                                         RD 2028/86.
+                                contra el volante
+         11             6       Marcha atrás                      RD 2028/86.
+         11             7       Avisadores acústicos              RD 2028/86.
+         11             8       Mandos, indicadores y testigos    RD 2028/86.
+                                Protección contra órganos
+         11             9       mecánicos y su equipo             RD 2028/86.
+                                complementario
+         11             10      Depósitos de carburante           RD 2028/86.
+         11             11      Indicador de velocidad            RD 2028/86.
+         11             12      Limitador de velocidad            RD 2028/86, RD 2484/94.
+                                             Página 48
+                         BOLETÍN OFICIAL DEL ESTADO
+                             LEGISLACIÓN CONSOLIDADA
+Artículo del
+                 Párrafo                   Materia                     Legislación aplicable
+Reglamento
+                                                                 RD 2028/86, RD 2242/96, OM
+                                                                 16.11.81, OM 16.11.81, OM 24.9.82,
+                                                                 OM 14.10.82, OM 11.7.83, OM
+    11             12        Tacógrafo
+                                                                 11.7.83, OM 11.7.83, R 3821/85/CEE,
+                                                                 R 3314/90/CEE, R 3572/90/CEE, R
+                                                                 3688/92/CEE, R 2479/95/CEE.
+    11             13        Anclajes de cinturones de seguridad RD 2028/86.
+                             Cinturones de seguridad y
+    11             13                                            RD 2028/86.
+                             dispositivos de retención
+    11             14        Apoyacabezas                        RD 2028/86.
+                             Protección contra la utilización no
+    11             15                                            RD 2028/86.
+                             autorizada
+                                                                 RD 2028/86, OM 25.5.82, OM
+    11             16        Protección trasera
+                                                                 25.3.83.
+    11             17        Protección lateral                  RD 2028/86.
+    11             18        Protección delantera                RD 2028/86.
+                             Compatibilidad electromagnética
+    11             19                                            RD 2028/86.
+                             (Antiparasitado)
+    11             19        Emisiones                           D 3025/74, RD 2028/86.
+    11             19        Humos                               D 3025/74, RD 2028/86.
+    11             19        Ruidos                              RD 2028/86.
+                             Acondicionamiento interior y
+    12              1                                            RD 2028/86.
+                             exterior
+    12              2        Anclajes de asientos                RD 2028/86.
+    12              3        Puertas, cerraduras y bisagras      RD 2028/86.
+    12             4.1       Vidrios de seguridad                RD 2028/86.
+                             Neumáticos y neumáticos de uso      RD 2028/86, OM 28.12.88, OM
+    12             5.1
+                             temporal                            25.4.95, OM 16.1.96.
+    12              5.2      Neumáticos especiales               RD 2028/86.
+    12               6       Dispositivos antiproyección         RD 2028/86.
+               8.1, 2, 3, 4 y
+    12                        Frenado                            RD 2028/86.
+                              Mercancías peligrosas.             Acuerdo 30.9.57, OM 20.9.85, OM
+    12               9
+                              Internacional                      30.12.94.
+                                                                 RD 74/92, RD 2115/98, OM 20.9.85,
+    12              9        Mercancías peligrosas. Nacional     OM 30.12.94, OM 7.2.96, OM
+                                                                 16.10.96.
+                                                                 Acuerdo 1.9.70, RD 2312/85, RD
+    12              9        Mercancías perecederas              2483/86, OM 6.7.93, Anuncio
+                                                                 19.2.96.
+    12              9        Resistencia de la superestructura   RD 2028/86.
+    12              9        Transporte de viajeros              RD 2028/86.
+    12              9        Transporte escolar y de menores     RD 2296/83, OM 26.10.83.
+    13           1, 2 y 3    Compatibilidad tractor-remolque     RD 2028/86, OM 20.9.85.
+    14                       Masas y dimensiones                 RD 2028/86.
+                             Dispositivos de alumbrado y
+15, 16 y 17                                                      RD 2028/86.
+                             señalización
+                                                                 Convenio de Ginebra de 19.9.49, RD
+                                                                 763/79, RD 1596/82, RD1753/84, RD
+    18              2        Señales en los vehículos            1987/85, RD 2028/86, OM 17.7.78,
+                                                                 OM 13.9.78, OM 27.1.82, OM
+                                                                 25.10.90, OM 7.2.96.
+                             Accesorios, repuestos y
+    19                                                           RD 2028/86.
+                             herramientas
+                                                                 OM 30.7.75, OM 31.5.82, OM
+    19                       Extintores
+                                                                 26.10.83, OM 31.5.85.
+                                                                 RD 2140/85, RD 2028/86, RD
+                                                                 736/88, OM 10.7.84, OM 28.3.85,
+    21              1        Homologación de tipo
+                                                                 OM 27.12.85, OM 28.10.91, OM
+                                                                 28.12.93, OM 9.3.95.
+                             Dispositivos de alumbrado y
+    21              2                                            RD 2028/86.
+                             señalización
+                             Dispositivos de alumbrado y
+    22              3                                            RD 2028/86.
+                             señalización
+    22            4y6        Homologación                        RD 2406/85.
+                             Dispositivos de alumbrado y
+    23              5                                            RD 2028/86.
+                             señalización
+                             Dispositivos de alumbrado y
+    24                                                           RD 2028/86.
+                             señalización
+
+                                           Página 49
+                                 BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+    Artículo del
+                        Párrafo                   Materia                       Legislación aplicable
+    Reglamento
+                                    Tarjeta ITV o Certificado de        RD 2140/85, RD 2028/86, OM
+         25                2
+                                    características de ciclomotor       10.7.84
+                                    Tarjeta ITV o Certificado de        RD 2140/85, RD 2028/86, OM
+         26               1 b)
+                                    características de ciclomotor       10.7.84.
+         28                2        Inscripción maquinaria agrícola     OM 28.5.87.
+                                    Certificado para matrícula de
+         28                2                                            OM 30.5.89.
+                                    vehículos
+         30               1         Duplicado tarjeta ITV               RD 1987/85, RD 2140/85.
+         30               3         Inscripción maquinaria agrícola     OM 28.5.87.
+         32              1y3        Inscripción maquinaria agrícola     OM 28.5.87.
+         33              1y3        Inscripción maquinaria agrícola     OM 28.5.87.
+         35               1         Inscripción maquinaria agrícola     OM 28.5.87.
+         35               2         Inspección técnica de vehículos     RD 1987/85, RD 2042/94.
+         35               3         Vehículos abandonados               Ley 10/98, de 21.04. OM 14.2.74.
+         36                         Inscripción maquinaria agrícola     OM 28.5.87.
+         38                         Inscripción maquinaria agrícola     OM 28.5.87.
+         38                         Inspección técnica de vehículos     RD 1987/85, RD 2042/94.
+         39              4y6        Matrícula diplomática               RD 2140/85, OM 15.7.77.
+         40               6         Matrícula turística                 RD 1571/93.
+         41                         Vehículos históricos                RD 1247/95.
+                                                                        RD 2100/76, RD 2028/86, OM
+         49                1        Placas de matrícula                 31.7.72, OM 28.9.72, OM 9.5.77, OM
+                                                                        20.9.85, OM 27.9.91.
+                                    Circulación internacional de los
+         50              2y3                                            R 2411/98/CEE.
+                                    vehículos
+2. Relación entre reglamentación vigente y artículos del Reglamento General de
+                                   Vehículos
+
+                                                   I. Leyes
+
+                                                                                              Artículos
+                                    Reglamentación
+                                                                                              afectados
+  Ley Orgánica 5/1992, de 29 de octubre, de regulación del tratamiento automatizado de
+  los datos de carácter personal («BOE» 31-10-92).
+  Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones
+  Públicas y del Procedimiento Administrativo Común («BOE» 27-11-92).
+  Ley 30/1995, de 8 de noviembre, de Ordenación y supervisión de los Seguros Privados    Disposición
+  («BOE» 9.9.95).                                                                        Adicional Tercera
+  Ley 10/1998, de 21 de abril, de Residuos.                                              35.3
+                                            II. Reales Decretos
+
+                               Reglamentación                                        Artículos afectados
+  Decreto 3025/74, de 9 de agosto. «Sobre limitación de la contaminación
+                                                                               11.19
+  atmosférica producida por los vehículos automóviles» («BOE» 7.11.74)
+  RD 2100/76, de 10 de agosto. «Fabricación, importación, venta y utilización
+  de piezas, elementos o conjuntos para reparaciones de automóviles»           49.1
+  («BOE» 9-9-76)
+  RD 763/79, de 15 de marzo. «Reglamento Nacional de los Servicios
+  Urbanos e Interurbanos de Transportes en Automóviles Ligeros» («BOE»         18.2
+  13-4-79)
+  RD 1596/82, de 18 de junio. «Reglamento para la aprobación de modelo de
+                                                                               18.2
+  taxímetros» («BOE» 23-7-82)
+  RD 2296/83, de 25 de agosto. «Tráfico y circulación de vehículos escolares y
+                                                                               12.9
+  de menores» («BOE» 27-8-83)
+  RD 1753/84, de 30 de agosto. «Aprueba el Reglamento regulador de las
+  escuelas particulares de conductores de vehículos a motor» («BOE»            18.2
+  3-10-84)
+  RD 1987/85, de 24 de septiembre. «Normas generales de instalación y
+                                                                               10-18.2-30.1-35.2-38
+  funcionamiento de las Estaciones ITV» («BOE» 28-10-85)
+  RD 2312/85, de 24 de septiembre. «Por el que se aprueban las normas de
+  homologación, ensayo e inspección del acondicionamiento térmico de los       12. 9
+  vehículos de transportes de mercancías perecederas» («BOE» 13-12-85)
+                                                  Página 50
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                                Reglamentación                                        Artículos afectados
+RD 2140/85, de 9 de octubre. «Homologación de tipos de vehículos
+                                                                              1.1 -3 -4 -5 -7 -8.1 -9 -21.1
+automóviles, remolques y semirremolques, así como de partes y piezas de
+                                                                              -25.2 -26.1b -30.1 -39.4 -39.6.
+dichos vehículos» («BOE» 19-11-85 y 18-12-85)
+RD 2406/85, de 20 de noviembre. «Declara de obligado cumplimiento las
+especificaciones técnicas de las bicicletas y su homologación por parte del   1.1-3-4-22.4-22.6
+Ministerio de Industria y Energía» («BOE» 30-12-85)
+RD 1457/86, de 10 enero. «Regula la actividad industrial y la prestación de
+servicios en los talleres de reparación de vehículos automóviles, de sus      7
+equipos y componentes» («BOE» 16-7-86)
+                                                                              1.1 -3 -4 -5 -6 -8.1 -9 -11.1 -11.2
+                                                                              -11.3 -11.4 -11.5 -11.6 -11.7
+                                                                              -11.8 -11.9 -11.10 -11.11 -11.12
+                                                                              -11.13 -11.14 -11.15 -11.16
+RD 2028/86, de 6 de junio. «Normas para la aplicación de determinadas
+                                                                              -11.17 -11.18 -11.19 -12.1 -12.2
+directivas de la CEE, relativas a la homologación de tipos de vehículos
+                                                                              -12.3 -12.4.1 -12.5.1 -12.5.2
+automóviles, remolques y semirremolques, así como de partes y piezas de
+                                                                              -12.6 -12.8.1 -12.8.2 -12.83
+dichos vehículos» («BOE 2-10-86 y 21-6-96)
+                                                                              -12.8.4 -12.8.5 -12.9 -13.1 -13.2
+                                                                              -13.3 -14 -15 -16 -17 -18.2 -19
+                                                                              -21.1 -21.2 -22.3 -23.5 -24 -25.2
+                                                                              -26.1b -49.1
+RD 2483/86, de 14 de noviembre. «Por el que se aprueba la reglamentación
+técnico-sanitaria sobre Condiciones Generales de Transporte Terrestre de
+                                                                              12.9
+Alimentos y Productos Alimentarios a Temperatura Regulada» («BOE»
+5-12-86)
+RD 736/88, de 8 de julio. «Regula la tramitación de reformas de importancia
+de vehículos de carretera y se modifica el artículo 252 del Código de la      7 -8.2 -9 -21.1
+Circulación» («BOE» 16-7-88)
+RD 74/92, de 31 de enero. «Aprueba el Reglamento Nacional de Transporte
+                                                                              12.9
+de Mercancías Peligrosas por Carretera» («BOE» 22-2-92)
+RD 1571/93, de 10 de septiembre. «Adapta la reglamentación de la
+matriculación turística a las consecuencias de la armonización fiscal del     40.6
+mercado interior» («BOE» 15-9-93)
+RD 2042/94, de 14 de octubre. «Regula la inspección técnica de vehículos»
+                                                                              10 -35.2 -38
+(«BOE» 17-11-94)
+RD 2484/94, de 23 de diciembre. «Regula la utilización, instalación y
+comprobación de funcionamiento de dispositivos de limitación de velocidad     11.12
+en determinadas categorías de vehículos» («BOE» 21-1-95)
+RD 1247/95, de 14 de julio. «Aprueba el Reglamento de Vehículos
+Históricos» («BOE» 9-8-95)
+RD 2242/96, de 18 de octubre. «Normas sobre tiempos de conducción y
+descanso y sobre el uso del tacógrafo en el sector de los transportes por
+                                                                              11.12
+carretera en aplicación de los Reglamentos (CEE) 3820/85 y 3821/85»
+(«BOE» 26-10 96)
+RD 2115/98, de 2 de octubre. «Transporte de mercancías peligrosas por
+                                                                              12.9
+carretera» («BOE» 16-10-98)
+                   III. Reglamento CEE y otra Reglamentación internacional
+
+                                                                                                    Artículos
+                                       Reglamentación
+                                                                                                   afectados
+Convenio de Ginebra, de 19 de septiembre de 1949 («BOE» 12-4-58)                                  18.2
+Acuerdo de 1 de septiembre de 1970, sobre Transporte Internacional de Mercancías
+                                                                                                  12.9
+Perecederas («BOE» 22-11-76)
+Reglamento 3821/85/CEE, de 20 de diciembre de 1985. «Relativo al aparato de control en el
+                                                                                                  11.12
+sector de los transportes por carretera» («DOCE» 31-12-85)
+Reglamento 3314/90/CEE, 16 de noviembre de 1990. «Adapta al progreso técnico el
+Reglamento (CEE) N.° 3821/85 del Consejo relativo al aparato de control en el sector de los       11.12
+transportes por carretera» («DOCE» 17-11-90)
+Reglamento 3572/90/CEE, de 4 de diciembre de 1990. «Modifica, en razón de la unificación
+alemana, determinados Reglamentos, Directivas y Decisiones en el sector de los transportes        11.12
+por carretera, por ferrocarril y por vía navegable» («DOCE» 17-12-90)
+Reglamento 3688/92/CEE, de 21 de diciembre de 1992. «Adapta al progreso técnico el
+Reglamento (CEE) N.º 3821/85 del Consejo relativo al aparato de control en el sector de los       11.12
+transportes por carretera» («DOCE» 22-12-92)
+Reglamento 2479/95/CEE, de 25 de octubre de 1995. «Adapta al progreso técnico el
+Reglamento (CEE) N.° 3821/85 del Consejo relativo al aparato de control en el sector de los       11.12
+transportes por carretera» («DOCE» 26-10-95)
+ADR. «Acuerdo Europeo de 30 de septiembre de 1957, sobre Transporte Internacional de
+                                                                                                  12.9
+Mercancías Peligrosas por Carretera» («BOE» 10-6-97)
+
+                                                 Página 51
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                                                                                                       Artículos
+                                       Reglamentación
+                                                                                                       afectados
+Reglamento 2411/98/CEE, de 3 de noviembre de 1998. «Reconocimiento en circulación
+intracomunitaria del signo distintivo del Estado miembro de matriculación de los vehículos de        50.2-50.3
+motor y sus remolques» («DOCE» 10-11-98)
+                                       IV. Órdenes ministeriales
+
+                                                                                                     Artículos
+                                     Reglamentación
+                                                                                                     afectados
+OM 31-7-72. «Normalización de las placas de matrícula de los vehículos militares» («BOE»
+                                                                                                49.1
+8-8-72)
+OM 28-9-72. «Normalización de las placas de matrícula de los vehículos pertenecientes al
+Parque Móvil de la Dirección General de la Guardia Civil y Agrupación de Tráfico» («BOE»        49.1
+11-10-72)
+OM 14-2-74. «Regula la retirada de la vía pública y el depósito de vehículos automóviles
+                                                                                                35.3
+abandonados» («BOE» 25-2-74)
+OM 30-7-75. «Determina las condiciones técnicas que deben reunir los extintores de
+incendios para ser instalados en vehículos de transporte de personas y mercancías»              19
+(«BOE» 18-8-75)
+OM 9-5-77. «Normas complementarias al RD 2100/1976, de 10 de agosto, en lo que se
+refiere a la actuación de las Jefaturas de Tráfico en relación con los establecimientos         49.1
+dedicados a la venta de placas de matrícula para vehículos automóviles» («BOE» 14-5-77)
+OM 15-7-77. «Nueva redacción al artículo 121 de las Ordenanzas de Aduanas» («BOE»
+                                                                                                39.4-39.6
+17-8-77)
+OM 17-7-78. «Uso de tarifas múltiples en los aparatos taxímetros» («BOE» 25-7-7)                18.2
+OM 13-9-78. «Homologación de indicadores luminosos de taxímetros de tarifas múltiples»
+                                                                                                18.2
+(«BOE» 18-9-78)
+OM 16-11-81. «Montaje, reparación y comprobación de tacógrafos de vehículos» («BOE»
+                                                                                                11.12
+22-12-81)
+OM 16-11-81. «Homologación de tacógrafos» («BOE» 13-1-82)                                       11.12
+OM 27-1-82. «Homologación de placas de señalización para vehículos de más de 12
+                                                                                                18.2
+metros de longitud» («BOE» 12-2-82)
+OM 25-5-82. «Homologación de dispositivos de protección contra el empotramiento para
+                                                                                                11.16
+vehículos dedicados al transporte de mercancías» («BOE» 5-7-82)
+OM 31-5-82. «Aprueba la instrucción técnica complementaria MIE-AP5 del Reglamento de
+Aparatos a Presión sobre extintores de incendios» («BOE 23-6-82)
+OM 24-9-82. «Autorización de talleres para la instalación, reparación, comprobación y
+                                                                                                11.12
+revisión periódica de tacógrafos» («BOE» 6-10-82)
+OM 14-10-82. «Control e inspección de tacógrafos» («BOE» 23-10-82)                              11.12
+OM 25-3-83. «Modifica la de 25 de mayo de 1982, sobre homologación de dispositivos de
+protección contra el empotramiento para vehículos de transporte de mercancías» («BOE            11.16
+6-4-83)
+OM 11-7-83. «Modifica la Orden de 14 de octubre de 1982, de control e inspección de
+                                                                                                11.12
+tacógrafos» («BOE 20-7-83)
+OM 11-7-83. «Extiende la designación como instaladores de tacógrafos a los carroceros de
+                                                                                                11.12
+autobuses y autocares» («BOE 20-7-83)
+OM 11-7-83. «Normas sobre precintos, placa de montaje y libro de registro de tacógrafo»
+                                                                                                11.12
+(«BOE» 20-7-83)
+OM 26-10-83. «Aprueba las especificaciones técnicas a que se refiere el apartado 3 del
+                                                                                                12.9
+artículo 4 del Real Decreto 2296/83, de 25 de agosto» («BOE 4-11-83)
+OM 26-10-83. «Modifica Instrucción Técnica Complementaria MIE-AP5 sobre extintores de
+incendios» («BOE» 7-11-83)
+                                                                                                1.1 -3 -4 -21.1
+OM 10-7-84. «Normas y homologación de tipo de ciclomotores» («BOE» 27-7-84)
+                                                                                                -25.2 -26.1b
+OM 28-3-85. «Modifica la Orden Ministerial de 10 de julio de 1984» («BOE» 8-4-85)               1.1 -3 -4 -21.1
+OM 31-5-85. «Modifica Instrucción Técnica Complementaria MIE-AP5 sobre extintores de
+incendios» («BOE 20-6-85)
+OM 20-9-85. «Aprueba el Reglamento relativo a las prescripciones uniformes respecto a las 1.1 -3 -4 -5 -9
+características de construcción de caravanas y remolques ligeros» («BOE 27-9-85)          -13.1 -13.2 -13.3
+OM 20-9-85. «Instalación y homologación de placas de matrícula para vehículos de motor y
+                                                                                          49.1
+remolques» («BOE» 18-10-85)
+OM 20-9-85. «Construcción, aprobación de tipo, ensayos e inspección de cisternas para el
+                                                                                          12.9
+transporte de mercancías peligrosas» («BOE» 27-12-85)
+OM 27-12-85. «Modifica la de 10 de julio de 1984, sobre homologación de tipo de
+                                                                                          1.1 -3 -4 -21.1
+ciclomotores» («BOE13-1-86)
+                                                                                          28.2 -30.3 -32.1
+OM 28-5-87. 33.3 «Inscripción de máquinas agrícolas en los Registros Oficiales» («BOE
+                                                                                          -32.3 -33.1 -35.1
+10-7-87)
+                                                                                          -36 -38
+                                                 Página 52
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                                                                                                     Artículos
+                                      Reglamentación
+                                                                                                     afectados
+OM 28-12-88. «Regula los manómetros para neumáticos de vehículos automóviles» («BOE
+                                                                                                12.5.1
+24-1-89)
+OM 30-5-89. «Certificados para la matriculación de vehículos» («BOE 16-6-89)                    28.2
+OM 25-10.90. «Regula los distintivos de los vehículos que realizan transporte» («BOE»
+                                                                                                18.2
+30-10-90)
+OM 27-9-91. «Placas de matrícula de vehículos del Parque Móvil de la Dirección General
+                                                                                                49.1
+de la Guardia Civil y Agrupación de Tráfico» («BOE» 12-10-91)
+OM 28-10-91. «Modifica las de 10 de julio de 1984 y 27 de diciembre de 1985 sobre
+                                                                                                1.1 -3 -4 -21.1
+homologación de tipo de ciclomotores» («BOE» 13-11-91)
+OM 6-7-93. «Modifica el Anexo del Real Decreto 2312/85, de 24 de septiembre, por el que
+se aprueban las normas de homologación, ensayo e inspección del acondicionamiento
+                                                                                                12.9
+térmico de los vehículos destinados al transporte de mercancías perecederas» («BOE»
+20-7-93)
+OM 28-12-93. «Modifica las Órdenes ministeriales de 10 de julio de 1984 y 27 de diciembre
+                                                                                                1.1 -3 -4 -21.1
+de 1985, sobre homologación de ciclomotores» («BOE» 31-12-93)
+OM 26-7-94. «Regula los ficheros con datos de carácter personal gestionados por el
+Ministerio de Justicia e Interior» («BOE» 27-7-94)
+OM 30-12-94. «Modifica la de 20 de septiembre de 1985, sobre normas de construcción,
+aprobación de tipo, ensayos e inspección de cisternas para el transporte de mercancías          12.9
+peligrosas» («BOE» 24-1-95)
+OM 9-3-95. «Modifica la Orden ministerial de 10 de julio de 1984, sobre homologación de
+                                                                                                1.1 -3 -4 -21.1
+ciclomotores» («BOE» 22-3-95)
+OM 25-4-95. «Regula el control metrológico de los manómetros de uso público para
+neumáticos de los vehículos automóviles en sus fases de verificación después de                 12.5.1
+reparación o modificación y verificación periódica» («BOE» 19-5-95)
+OM 16-1-96. «Regula el control metrológico del Estado sobre manómetros electrónicos de
+                                                                                                12.5.1
+uso público para neumáticos de vehículos automóviles» («BOE» 30-1-96)
+OM 7-2-96. «Modifica los anexos A y B del Reglamento Nacional de Transporte de
+Mercancías Peligrosas por carretera (TPC) aprobado por el Real Decreto 74/92, de 31 de          12.9 -18.2
+enero» («BOE» 20-2-96)
+OM 16-10-96. «Modifica la Orden de 20 de septiembre de 1985, sobre normas de
+construcción, aprobación de tipo, ensayo e inspección de cisternas para el transporte de        12.9
+mercancías peligrosas» («BOE» 5-11-96)
+OM 13-11-96. «Establece las normas para la inspección técnica de vehículos automóviles y
+remolques pertenecientes a las Fuerzas Armadas» («BOE» 20-11-96)
+Anuncio 19-2-96. «Enmiendas a los Anexos I y II del Acuerdo de 1 de septiembre de 1970,
+                                                                                                12.9
+sobre Transporte Internacional de Mercancías Perecederas» («BOE» 6-3-96)
+
+                                                  ANEXO II
+                   DEFINICIONES Y CATEGORÍAS DE LOS VEHÍCULOS
+                                              A. Definiciones
+ A efectos de este Reglamento, se considerarán las siguientes definiciones:
+
+                       Aparato apto para circular por las vías o terrenos a que se refiere el artículo 2 de La
+Vehículo
+                       Ley sobre Tráfico, Circulación de vehículos a Motor y Seguridad Vial.
+Vehículo de tracción
+                       Vehículo arrastrado por animales.
+animal
+                       Vehículo de dos ruedas por lo menos, accionado por el esfuerzo muscular de las
+Ciclo
+                       personas que lo ocupan, en particular mediante pedales o manivelas.
+Bicicleta
+                      Ciclo de dos ruedas.
+                      Ciclo, equipado con pedales y con un motor eléctrico auxiliar, de potencia nominal
+Ciclo de pedales con continua máxima inferior o igual a 250 W, cuya potencia disminuya progresivamente y
+pedaleo asistido.     que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25
+                      km/h o si el ciclista deja de pedalear.
+Bicicleta de pedales
+                      Ciclo de pedales con pedaleo asistido de dos ruedas.
+con pedaleo asistido.
+                      Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los
+Vehículo a motor      ciclomotores, los tranvías, los vehículos para personas de movilidad reducida, los
+                      ciclos de pedales con pedaleo asistido y los vehículos de movilidad personal.
+Ciclomotor            Tienen la consideración de ciclomotores los vehículos que se definen a continuación:
+                                                  Página 53
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                     Vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es
+Ciclomotor de dos
+                     de combustión interna, y con una velocidad máxima por construcción no superior a 45
+ruedas
+                     km/h.
+                     Vehículo de tres ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es
+Ciclomotor de tres
+                     de combustión interna, y con una velocidad máxima por construcción no superior a 45
+ruedas
+                     km/h.
+                     Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del
+Cuatriciclo ligero
+                     Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L6e.
+                     Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del
+Cuatriciclo pesado
+                     Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L7e.
+                     Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del
+Ciclo de motor
+                     Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L1e-A.
+                     Vehículo de una o más ruedas dotado de una única plaza y propulsado exclusivamente
+                     por motores eléctricos que pueden proporcionar al vehículo una velocidad máxima por
+                     diseño comprendida entre 6 y 25 km/h. Sólo pueden estar equipados con un asiento o
+                     sillín si están dotados de sistema de autoequilibrado. Se excluyen de esta definición los
+Vehículo de
+                     Vehículos sin sistema de autoequilibrado y con sillín, los vehículos concebidos para
+movilidad personal
+                     competición, los vehículos para personas con movilidad reducida y los vehículos con
+                     una tensión de trabajo mayor a 100 VCC o 240 VAC, así como aquellos incluidos
+                     dentro del ámbito del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del
+                     Consejo, de 15 de enero de 2013.
+                     Vehículo de movilidad personal con una velocidad máxima de fabricación entre 6 y 25
+                     km/h, si su peso es inferior a 25 kg, o una velocidad máxima de fabricación entre 6 y 14
+                     km/h, si su peso es superior a 25 kg. Se excluyen de esta definición los vehículos
+Vehículo personal
+                     diseñados y fabricados para ser utilizados exclusivamente por las Fuerzas Armadas,
+ligero
+                     los vehículos motorizados o elementos de apoyo a la movilidad y autonomía personal
+                     que son destinados exclusivamente para ser utilizados por personas con discapacidad
+                     o con movilidad reducida, y los ciclos o las bicicletas de pedales con pedaleo asistido.
+Tranvía              Vehículo que marcha por raíles instalados en la vía.
+                     Vehículo cuya tara no sea superior a 350 kg, y que, por construcción, no puede
+Vehículo para        alcanzar en llano una velocidad superior a 45 km/h, proyectado y construido
+personas de          especialmente (y no meramente adaptado) para el uso de personas con alguna
+movilidad reducida   disfunción o incapacidad física. En cuanto al resto de sus características técnicas se
+                     les equiparará a los ciclomotores de tres ruedas.
+                     Vehículo de motor que sirve, normalmente, para el transporte de personas o cosas, o
+Automóvil            de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de
+                     esta definición los vehículos especiales.
+                     Tienen la consideración de motocicletas los automóviles que se definen en los dos
+Motocicleta
+                     epígrafes siguientes:
+                     Vehículos de dos ruedas sin sidecar, provistos de un motor de cilindrada superior a 50
+Motocicletas de dos
+                     cm3, si es de combustión interna, y/o con una velocidad máxima por construcción
+ruedas
+                     superior a 45 km/h.
+                     Vehículos de tres ruedas asimétricas respecto a su eje medio longitudinal, provistos de
+Motocicletas con
+                     un motor de cilindrada superior a 50 cm3, si es de combustión interna, y/o con una
+sidecar
+                     velocidad máxima por construcción superior a 45 km/h.
+                     Automóvil de tres ruedas simétricas, provisto de un motor de cilindrada superior a 50
+Vehículo de tres
+                     cm3, si es de combustión interna, y/o con una velocidad máxima por construcción
+ruedas
+                     superior a 45 km/h.
+                     Automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas
+Turismo
+                     y que tenga, además del asiento del conductor, ocho plazas como máximo.
+                     Automóvil que tenga más de 9 plazas incluida la del conductor, destinado, por su
+                     construcción y acondicionamiento, al transporte de personas y sus equipajes. Se
+Autobús o autocar
+                     incluye en este término el trolebús, es decir, el vehículo conectado a una línea eléctrica
+                     y que no circula por raíles.
+                     Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección
+                     articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de
+Autobús o autocar
+                     ambas partes rígidas se comunican entre sí. La sección articulada permite la libre
+articulado
+                     circulación de los viajeros entre las partes rígidas. La conexión y disyunción entre las
+                     dos partes únicamente podrá realizarse en el taller.
+                     Autobús o autocar en el que los espacios destinados a los pasajeros están dispuestos,
+Autobús o autocar de
+                     al menos parcialmente, en dos niveles superpuestos, de los cuales el superior no
+dos pisos
+                     dispone de plazas sin asiento.
+                     Automóvil con cuatro ruedas o más, concebido y construido para el transporte de
+Camión               mercancías, cuya cabina no está integrada en el resto de la carrocería y con un
+                     máximo de 9 plazas, incluido el conductor.
+                     Automóvil con cuatro ruedas o más, concebido y construido para el transporte de
+Furgón/Furgoneta     mercancías, cuya cabina está integrada en el resto de la carrocería y con un máximo
+                     de 9 plazas, incluido el conductor.
+                     Automávil concebido y construido para realizar, principalmente, el arrastre de un
+Tractocamión
+                     semirremolque.
+                     Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo
+Remolque
+                     de motor.
+                                                 Página 54
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                       Remolque de, al menos, dos ejes y un eje de dirección como mínimo, provisto de un
+Remolque de
+                       dispositivo de remolque que puede desplazarse verticalmente (en relación al
+enganche o
+                       remolque), que no transmita al vehículo de tracción una carga significativa (menos de
+remolque completo
+                       100 kg.)
+                       Remolque provisto de un dispositivo de enganche que no puede desplazarse
+                       verticalmente (en relación al remolque) y cuyo(s) eje(s) esté(n) situado(s) próximo(s) al
+Remolque con eje
+                       centro de gravedad del vehículo (cuando la carga esté repartida uniformemente) de
+central
+                       forma que sólo se transmita al vehículo de tracción una pequeña carga estática
+                       vertical.
+                       Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil,
+Semirremolque          sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su
+                       masa.
+                       Remolque o semirremolque concebido y acondicionado para ser utilizado como
+Caravana               vivienda móvil, permitiéndose el uso de su habitáculo cuando el vehiculo se encuentra
+                       estacionado.
+Vehículo articulado    Automóvil constituido por un vehículo de motor acoplado a un semirremolque.
+Tren de carretera      Automóvil constituido por un vehículo de motor enganchado a un remolque.
+Conjunto de
+                       Un tren de carretera, o un vehículo articulado.
+vehículos
+                       Cualquier vehículo cuyas superestructuras fijas o móviles estén especialmente
+Vehículo
+                       equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el
+acondicionado
+                       espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm., como mínimo.
+                       Automóvil destinado a servicios o a transporte exclusivo de mercancías, derivado de un
+Derivado de turismo
+                       turismo del cual conserva la carrocería y dispone únicamente de una fila de asientos.
+                       Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías
+Vehículo mixto         y personas hasta un máximo de 9, incluido el conductor, y en el que se puede sustituir
+adaptable              eventualmente la carga, parcial o totalmente, por personas mediante la adición de
+                       asientos.
+                       Vehículo construido con propósito especial, incluyendo alojamiento vivienda y
+                       conteniendo, al menos, el equipo siguiente asientos y mesa, camas o literas que
+Autocaravana           puedan ser convertidos en asientos, cocina y armarios o similares. Este equipo estará
+                       rígidamente fijado al compartimento vivienda los asientos y la mesa pueden ser
+                       diseñados para ser desmontados fácilmente.
+Vehículos todo         Cualquier vehículo automóvil se considerará Todo Terreno si cumple las definiciones
+terreno                que indica la Directiva 92/53 en su anexo II punto 4.
+                       Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o
+                       servicios determinados y que, por sus características, está exceptuado de cumplir
+Vehículo especial      alguna de las condiciones técnicas exigidas en este Reglamento o sobrepasa
+                       permanentemente los límites establecidos en el mismo para masas o dimensiones, así
+                       como la maquinaria agrícola y sus remolques.
+                       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+Tractor agrícola
+                       arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.
+                       Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor
+                       que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un
+Motocultor
+                       asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar
+                       con ruedas.
+                       Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el
+Tractocarro
+                       transporte en campo de productos agrícolas.
+Máquina agrícola       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+automotriz             efectuar trabajos agrícolas.
+                       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+Portador
+                       portar máquinas agrícolas.
+                       Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para
+                       trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola,
+                       motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los
+Máquina agrícola
+                       aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor,
+remolcada
+                       concebidos y construidos para efectuar trabajos de preparación de terreno o laboreo,
+                       que, además, no se consideran vehículos a los efectos de este Reglamento, así como
+                       también el resto de maquinaria agrícola remolcada de menos de 750 kg. de masa.
+                       Vehículo especial de transporte construido y destinado para ser arrastrado por un
+Remolque agrícola      tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en
+                       esta definición a los semirremolques agrícolas.
+                       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+Tractor de obras
+                       arrastrar o empujar útiles, máquinas o vehiculos de obras.
+Máquina de obras       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+automotriz             efectuar trabajos de obras.
+                       Vehículo especial concebido y construido para efectuar trabajos de obras, y que, para
+Máquina de obras
+                       trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor de obras o una
+remolcada
+                       máquina de obras automotriz.
+                       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+Tractor de servicios
+                       arrastrar o empujar vehículos de servicio, vagones u otros aparatos.
+                                                  Página 55
+                              BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+Máquina de servicios Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+automotriz            efectuar servicios determinados.
+                      Vehículo especial concebido y construido para efectuar servicios determinados, y que,
+Máquina de servicios
+                      para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor de
+remolcada
+                      servicios o una máquina de servicios automotriz.
+                      Vehículo especial constituido por un vehículo tractor y uno o varios remolques,
+                      concebido y construido para el transporte de personas con fines turísticos, con
+Tren turístico
+                      velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la
+                      autoridad competente en materia de tráfico.
+                      Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy
+                      concretos, con utilización fundamentalmente fuera de carretera, con sistema de
+                      dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado
+                      de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede
+QUAD-ATV              estar limitada en función de sus características técnicas o uso. Se exceptúan de esta
+                      definición los vehículos incluidos en las categorías definidas en el Reglamento (UE)
+                      168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, relativo a la
+                      homologación de los vehículos de dos o tres ruedas y los cuatriciclos, y a la vigilancia
+                      del mercado de dichos vehículos.
+                      Vehículo cuya masa máxima no es superior a 3.500 kg, en el que las plazas de asiento
+Pick-up
+                      y la zona de carga no están situadas en un compartimento único.
+Vehículo eléctrico
+                      Vehículo propulsado al menos por uno o más motores eléctricos.
+(EV)
+                      Vehículo eléctrico que utiliza como sistemas de almacenamiento de energía de
+Vehículo eléctrico de propulsión exclusivamente baterías eléctricas recargables desde una fuente de energía
+baterías (BEV)        eléctrica exterior. No se excluye la posibilidad de incluir, además, un sistema de
+                      frenado regenerativo que cargue las baterías durante las retenciones y frenadas.
+Vehículo eléctrico de
+                      Vehículo eléctrico que, reuniendo todas las condiciones de un vehículo eléctrico de
+autonomía extendida
+                      baterías, incorpora además un motor de combustión interna.
+(REEV)
+Vehículo eléctrico de
+                      Vehículo eléctrico que utiliza exclusivamente energía eléctrica procedente de una pila
+células de
+                      de combustible de hidrógeno embarcado.
+combustible (FCV)
+Vehículo eléctrico
+                      Vehículo eléctrico de células de combustible que equipa, además, baterías eléctricas
+híbrido de células de
+                      recargables.
+combustible (FCHV)
+                      Vehículo equipado con un sistema de propulsión que contiene al menos dos categorías
+Vehículo híbrido (HV) diferentes de convertidores de energía de propulsión y al menos dos categorías
+                      diferentes de sistemas de almacenamiento de energía de propulsión.
+Vehículo eléctrico
+                      Vehículo propulsado por una combinación de motores de combustión y eléctricos.
+híbrido (HEV)
+Vehículo eléctrico    Vehículo eléctrico híbrido, provisto de baterías que pueden ser recargadas de una
+híbrido enchufable    fuente de energía eléctrica exterior, que a voluntad puede ser propulsado sólo por su(s)
+(PHEV)                motor(es) eléctrico(s).
+Vehículo de
+                      Vehículo propulsado por motor(es) de combustión de hidrógeno.
+hidrógeno (HICEV)
+                      Vehículo destinado al alquiler sin conductor dedicado a su uso concatenado e intensivo
+                      por un número indeterminado de usuarios dentro de una zona de servicio delimitada.
+Vehículo de uso       Estará disponible, en cualquier momento, para ser utilizado mediante el empleo de
+compartido            aplicaciones móviles. No se considerarán incluidos en esta definición aquellos
+                      vehículos destinados al alquiler sin conductor que no se dediquen exclusivamente a
+                      esa modalidad de alquiler.
+
+                          B. Clasificación por criterios de construcción
+
+                                        (primer grupo de cifras)
+
+01 Vehículo de tracción
+                           Vehículo arrastrado por animales.
+animal
+02 Bicicleta               Es el ciclo de dos ruedas.
+                                                 Página 56
+                            BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+                         Vehículo de dos o tres ruedas provisto de un motor de cilindrada no superior a 50
+                         cm³, si es de combustión interna, y con una velocidad máxima por construcción no
+                         superior a 45 km/h. Vehículo de cuatro ruedas con un máximo de dos plazas
+                         incluyendo la del conductor, cuya masa en orden de marcha sea inferior o igual a
+                         425 kg, no incluida la masa de las baterías en el caso de los vehículos eléctricos,
+03 Ciclomotor            cuya velocidad máxima por construcción no sea superior a 45 km/h y con un motor
+                         de cilindrada inferior o igual a 50 cm³ para los motores de explosión de encendido
+                         por chispa (positiva), o inferior o igual a 500 cm³ para los demás motores de
+                         combustión interna. La potencia máxima será inferior o igual a 4 kW, o a 6 kW,
+                         dependiendo de su categoría de homologación europea (Reglamento UE
+                         168/2013).
+04 Motocicleta           Automóvil de dos ruedas o con sidecar
+05 Motocarro             Vehículo de tres ruedas dotado de caja o plataforma para el transporte de cosas.
+06 Automóvil de tres
+                         Vehículo de tres ruedas y cuatriciclos.
+ruedas
+                        Automóvil distinto de la motocicleta, especialmente concebido y construido para el
+10 Turismo
+                        transporte de personas y con capacidad hasta 9 plazas, incluido el conductor.
+11 Autobús o autocar    Automóvil concebido y construido para el transporte de más de 9 personas incluido
+MMA ≤3.500 kg.          el conductor, cuya masa máxima autoriza no exceda de 3.500 kg.
+12 Autobús o autocar    Automóvil concebido y construido para el transporte de más de 9 personas incluido
+MMA > 3.500 kg.         el conductor, cuya masa máxima autoriza excede de 3.500 kg.
+13 Autobús o autocar    El compuesto por dos secciones rígidas unidas por otra articulada que las
+articulado              comunica.
+14 Autobús o autocar    El concebido y construido para transportar personas y mercancías simultánea y
+mixto                   separadamente.
+                        Automóvil destinado a transporte de personas con capacidad para 10, o más
+15 Trolebús             plazas, incluido el conductor, accionado por motor eléctrico con toma de corriente
+                        por trole, que circula por carriles.
+                        Autobús o autocar en el que los espacios destinados a los pasajeros están
+16 Autobús o autocar de
+                        dispuestos, al menos parcialmente, en dos niveles superpuestos, de los cuales el
+dos pisos
+                        superior no dispone de plazas sin asiento.
+                        Vehículo cuya masa máxima no sea superior a 3.500 kg, en el que las plazas de
+17 Pick-up              asiento y la zona de carga no están situadas en un compartimento único y cuya
+                        altura no sea superior a 2 m.
+20 Camión MMA ≤3.500 El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la
+kg.                     carrocería, y cuya masa máxima autoriza no exceda de 3.500 kg.
+                        El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la
+21 Camión 3.500 kg. <
+                        carrocería, y cuya masa máxima autorizada es superior a 3.500 kg, e igual o
+MMA ≤ 12.500 kg.
+                        inferior a 12.000 kg.
+22 Camión MMA >         El que posee una cabina con capacidad hasta 9 plazas, no integrada en resto de la
+12.000 kg.              carrocería, y cuya masa máxima autoriza sea superior a 12.000 kg.
+23 Tracto-camión        Automóvil para realizar principalmente el arrastre de un semirremolque.
+24 Furgón/furgoneta     Automóvil destinado al transpone de mercancías cuya cabina está integrada en el
+MMA ≤ 3.500 kg.         resto de la carrocería con masa máxima autorizada igual o inferior a 3.500 kg.
+25 Furgón 3.500 kg. <   Camión en el que la cabina está integrada en el resto de la carrocería, con masa
+MMA ≤ 12.000 kg.        máxima autorizada superior a 3.500 kg, e igual o inferior a 12.000 kg.
+26 Furgón MMA > 12.000 Camión en el que la cabina está integrada en el resto de la carrocería, y cuya masa
+kg.                     máxima autorizada sea superior a 12.000 kg.
+                        Vehículo automóvil destinado a servicios o a transporte exclusivo de mercancías,
+30 Derivado de turismo  derivado de un turismo del cual conserva la carrocería y dispone únicamente de
+                        una fila de asientos.
+                        Automóvil especialmente dispuesto para el transporte, simultáneo o no, de
+31 Vehículo mixto       mercancías y personas hasta un máximo de 9 incluido el conductor, y en el que se
+adaptable               puede sustituir eventualmente la carga, parcial o totalmente, por personas
+                        mediante la adición de asientos.
+                        Vehículo construido con propósito especial, incluyendo alojamiento vivienda y
+                        conteniendo, al menos, el equipo siguiente: asientos y mesa, camas o literas que
+32 Auto-caravana MMA ≤
+                        puedan ser convertidos en asientos, cocina y armarios o similares. Este equipo
+3.500 kg.
+                        estará rígidamente fijado al compartimento vivienda: los asientos y la mesa pueden
+                        ser diseñados para ser desmontados fácilmente.
+                        Vehículo construido con propósito especial, incluyendo alojamiento vivienda y
+                        conteniendo, al menos, el equipo siguiente: asientos y mesa, camas o literas que
+33 Auto-caravana MMA >
+                        puedan ser convertidos en asientos, cocina y armarios o similares. Este equipo
+3.500 kg.
+                        estará rígidamente fijado al compartimento vivienda: los asientos y la mesa pueden
+                        ser diseñados para ser desmontados fácilmente.
+40 Remolque y
+                        Aquellos cuya masa máxima autorizada no exceda de 750 kg. A efectos de esta
+semirremolque ligero
+                        clasificación se excluyen los agrícolas.
+MMA ≤ 750 kg.
+41 Remolque y
+                        Aquellos cuya masa máxima autorizada sea superior a 750 kg, e igual o inferior a
+semirremolque 750 kg. <
+                        3.500 kg. A efectos de esta clasificación se excluyen los agrícolas.
+MMA ≤ 3.500 kg.
+                                                Página 57
+                             BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+42 Remolque y
+                          Aquellos cuya masa máxima autorizada sea superior a 3.500 kg, e igual o inferior a
+semirremolque 3.500 kg.
+                          10.000 kg. A efectos de esta clasificación se excluyen los agrícolas.
+< MMA ≤ 10.000 kg.
+43 Remolque y
+                          Aquellos cuya masa máxima autorizada exceda de 10.000 kg. A efectos de esta
+semirremolque MMA >
+                          clasificación se excluyen los agrícolas.
+10.000 kg.
+                          Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+50 Tractor agrícola
+                          arrastrar o empujar aperos, maquinaria o remolques agrícolas.
+                          Vehículo especial autopropulsado, de un eje, dirigible por manceras por un
+                          conductor que marche a pie. Ciertos motocultores pueden también ser dirigidos
+51 Motocultor
+                          desde un asiento incorporado a un remolque o máquina agrícola o a un aparato o
+                          bastidor auxiliar con ruedas.
+                          Vehículo especial autopropulsado de dos o más ejes, concebido y construido para
+52 Portador
+                          portar máquinas agrícolas.
+                          Vehículo especial autopropulsado de dos o más ejes, especialmente concebido
+53 Tractocarro
+                          para el transporte en campo de productos agrícolas.
+                          Vehículo especial de transporte construido y destinado para ser arrastrado por un
+54 Remolque agrícola      tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en
+                          esta definición a los semirremolques agrícolas.
+55 Máquina agrícola       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+automotriz                efectuar trabajos agrícolas.
+                          Vehículo especial concebido y construido para efectuar trabajos agrícolas, y que,
+                          para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor,
+                          motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición
+56 Máquina agrícola       los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas,
+remolcada                 sin motor, concebidos y construidos para efectuar trabajos de preparación de
+                          terreno o laboreo que, además, no se consideran vehículos a los efectos de este
+                          Reglamento, así como también el resto de maquinaria agrícola remolcada de
+                          menos de 750 kg de masa.
+                          Vehículo especial autopropulsado, de dos o más ejes concebido y construido para
+60 Tractor de obras
+                          arrastrar o empujar útiles, máquinas o vehículos de obras.
+61 Máquina de obras       Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+automotriz                efectuar trabajos de obras.
+                          Vehículo especial concebido y construido para efectuar trabajos de obras, y que,
+62 Máquina de obras
+                          para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor o
+remolcada
+                          máquina automotriz.
+                          Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para
+63 Tractor de servicios
+                          arrastrar o empujar vehículos de servicio, vagones u otros aparatos.
+64 Máquina de servicios   Vehículo especial autopropulsado de dos o más ejes, concebido y construido para
+auto-motriz               efectuar servicios determinados.
+                          Vehículo especial, concebido y construido para efectuar servicios determinados, y
+65 Máquina de servicios
+                          que, para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor o
+remolcada
+                          máquina automotriz.
+                          Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy
+                          concretos, con utilización fundamentalmente fuera de carretera, con sistema de
+                          dirección mediante manillar en el que el conductor va sentado a horcajadas y
+                          dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya
+                          velocidad puede estar limitada en función de sus características técnicas o uso. Se
+66 QUAD-ATV
+                          exceptúan de esta definición los vehículos incluidos en las categorías definidas en
+                          las Directivas europeas 92/61/CEE del Consejo, de 30 de junio de 1992, relativa a
+                          la recepción de los vehículos a motor de dos o tres ruedas, y 2002/24/CE del
+                          Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la
+                          homologación de los vehículos a motor de dos o tres ruedas.
+70 Militares o de las     Vehículos especiales concebidos y construidos para las Fuerzas Armadas o para
+Fuerzas y Cuerpos de      las Fuerzas y Cuerpos de Seguridad, que no se puedan incluir en el resto de
+Seguridad.                categorías.
+                          Vehículo especial constituido por un vehículo tractor y uno o varios remolques,
+                          concebido y construido para el transporte de personas con fines turísticos, con
+80 Tren turístico
+                          velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la
+                          autoridad competente en materia de tráfico.
+
+                          C. Clasificación por criterios de utilización
+
+                                      (segundo grupo de cifras)
+
+                          (Instrucción: se aplicará esta clave cuando el elemento a clasificar no esté
+00 Sin especificar
+                          encuadrado en ninguna de las clasificaciones siguientes).
+01 Personas de            Vehículo construido o modificado para la conducción por una persona con algún
+movilidad reducida        defecto o incapacidad físicos.
+                                                Página 58
+                              BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+                           Versión de un tipo de turismo en el que se ha aumentado el volumen destinado al
+02 Familiar
+                           equipaje con el fin de aumentar su capacidad o colocar una tercera fila de asientos.
+03 Escolar                 Vehículo destinado exclusivamente para el transporte de escolares.
+04 Escolar no exclusivo    Vehículo para el transporte escolar, aunque no con exclusividad.
+05 Escuela de
+                           Automóvil destinado a las prácticas de conducción.
+conductores
+                          Vehículo concebido y equipado para transporte urbano y suburbano; los vehículos
+                          de esta clase tienen asientos y plazas destinadas para viajeros de a pie y están
+06 Urbano
+                          acondicionados para permitir los desplazamientos de los viajeros en razón de sus
+                          frecuentes paradas.
+                          Vehículo concebido y equipado para transporte interurbano; estos vehículos no
+07 Corto recorrido        disponen de plazas destinadas especialmente para viajeros de a pie, pero pueden
+                          transportar este tipo de viajeros en cortos recorridos en el pasillo de circulación.
+                          Vehículo concebido y equipado para viajes a gran distancia; estos vehículos están
+08 Largo recorrido        acondicionados en forma que se asegura la comodidad de los viajeros sentados, y
+                          no transportan viajeros de pie.
+                          Versión de un camión especialmente equipado para el transporte de personas
+09 Derivado de camión
+                          hasta, un máximo de nueve, incluido el conductor.
+                          Vehículo destinado al transporte de mercancías sobre una superficie plana sin
+10 Plataforma
+                          protecciones laterales.
+                          Vehículo destinado al transporte de mercancías en un receptáculo abierto por la
+11 Caja abierta
+                          parte superior. Los laterales podrán ser abatibles o fijos.
+                          Vehículo construido para el transporte de contenedores mediante dispositivos
+12 Porta-contenedores
+                          expresamente adecuados para la sujeción de éstos.
+13 Jaula                  Vehículo especialmente adaptado para el transporte de animales vivos.
+14 Botellero              Vehículo especialmente adaptado para transporte de botellas o bombonas.
+15 Porta-vehículos        Vehículo especialmente adaptado para transporte de otro u otros vehículos.
+                          Vehículo concebido especialmente para el transporte de materias sólidas,
+16 Silo                   pulverulentas o granulosas en depósito cerrado y con o sin medios auxiliares para
+                          su carga o descarga.
+                          Vehículo provisto de mecanismo que permitan llevar y/o girar la caja para realizar la
+17 Basculante
+                          descarga lateral o trasera.
+                          Camión basculante de construcción muy reforzada, de gran maniobrabilidad y apto
+18 Dumper
+                          para todo terreno.
+                          Vehículo destinado al transporte de carga en un grupo de recipientes fijos con
+19 Batería de recipientes
+                          sistema de conexión entre ellos (ver ADR).
+                          Vehículo destinado al transporte de mercancías en un receptáculo totalmente
+20 Caja cerrada
+                          cerrado.
+                          Vehículo destinado al transporte de mercancías en un receptáculo totalmente
+21 Capitoné
+                          cerrado, acolchado o adaptado especialmente en su interior.
+                          Vehículo destinado al transporte de personas y/o mercancías, de caja cerrada
+22 Blindado
+                          reforzada especialmente mediante un blindaje.
+                          Vehículo cuya caja está construida con paredes aislantes, con inclusión de puertas,
+23 Isotermo               piso y techo, las cuales permiten limitar los intercambios de calor entre el interior y
+                          el exterior de la caja.
+                          Vehículo isotermo que, con ayuda de una fuente de frío, distinto de un equipo
+24 Refrigerante           mecánico o de «absorción», permite bajar la temperatura en el interior de la caja y
+                          mantenerla.
+                          Vehículo isotermo provisto de un dispositivo de producción de frío individual o
+                          colectivo para varios vehículos de transporte (grupo mecánico de compresión,
+25 Frigorífico
+                          máquina de absorción, etc.) que permite bajar la temperatura en el interior de la
+                          caja y mantenerla después de manera permanente en unos valores determinados.
+                          Vehiculo isotermo provisto de un dispositivo de producción de calor que permite
+26 Calorífico             elevar la temperatura en el interior de la caja y mantenerla después a un valor
+                          prácticamente constante.
+27 Cisterna               Vehículo destinado al transporte a granel de líquidos o de gases licuados.
+                          Cisterna construida con paredes aislantes que permiten limitar los intercambios de
+28 Cisterna isoterma
+                          calor entre el interior y el exterior.
+                          Cisterna isoterma que, con ayuda de una fuente de frío, distinto de un equipo
+29 Cisterna refrigerante mecánico o de «absorción», permite bajar la temperatura en el interior de la
+                          cisterna y mantenerla.
+                          Cisterna isoterma provista de un dispositivo de producción de frío individual o
+                          colectivo para varios vehículos de transporte (grupo mecánico de compresión,
+30 Cisterna frigorífica   máquina de absorción, etc.) que permite bajar la temperatura en el interior de la
+                          cisterna y mantenerla después de manera permanente en unos valores
+                          determinados.
+                          Cisterna isoterma provista de un dispositivo de producción de calor que permite
+31 Cisterna calorífica    elevar la temperatura en el interior de la cisterna y mantenerla después a un valor
+                          prácticamente constante
+32 Góndola                Vehículo cuya plataforma de carga tiene una altura muy reducida.
+                                                  Página 59
+                             BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                         Automóvil dotado de tracción a dos o más ejes, especialmente dispuesto para
+                         circulación en terrenos difíciles, con transporte simultáneo de personas y
+33 Todo terreno
+                         mercancías, pudiéndose sustituir la carga, eventualmerte, parcial o totalmente, por
+                         personas, mediante la adición de asientos, especialmente diseñados para tal fin.
+40 Taxi                  Turismo destinado al servicio público de viajeros y provisto de aparato taxímetro.
+41 Alquiler              Automóvil destinado al servicio público sin licencia municipal.
+                         Turismo destinado al servicio público de viajeros con licencia municipal, excluido el
+42 Autoturismo
+                         taxi.
+                         Automóvil acondicionado para el transporte idóneo de personas enfermas o
+43 Ambulancia
+                         accidentadas.
+                         Vehículo acondicionado para funciones sanitarias (análisis, radioscopia, urgencias,
+44 Servicio médico
+                         etc.)
+45 Funerario             Vehículo especialmente acondicionado para el transporte de cadáveres.
+46 Bomberos              Vehículo destinado al Servicio de los Cuerpos de Bomberos.
+47 RTV                   Vehículo especialmente acondicionado para emisoras de radio y/o televisión.
+48 Vivienda              Vehículo acondicionado para ser utilizado como vivienda.
+                         Vehículo acondicionado para el transporte de herramientas y piezas de recambio
+49 Taller o laboratorio
+                         que permiten efectuar reparaciones.
+                         Vehículo adaptado y acondicionado de forma permanente para la lectura y
+50 Biblioteca
+                         exposición de libros.
+                         Vehículo especialmente adaptado y acondicionado de forma permanente para la
+51 Tienda
+                         venta de artículos.
+                         Vehículo especialmente adaptado y acondicionado de forma permanente para su
+52 Exposición u oficinas
+                         uso como exposición u oficinas.
+                         Automóvil provisto de dispositivos que permiten, elevándolo parcialmente, el
+53 Grúa de arrastre
+                         arrastre de otro vehículo.
+                         Vehículo provisto de dispositivos que permiten elevar cargas, pero no
+54 Grúa de elevación
+                         transportarlas. (No incluye los vehículos con dispositivos de autocarga).
+                         Vehículo especialmente construido para el transporte y tratamiento de desechos
+55 Basurero
+                         urbanos.
+                         Vehículo especialmente construido para el transporte de los elementos constitutivos
+56 Hormigonera
+                         del hormigón, pudiendo efectuar su mezcla durante el transporte.
+58 Vehículo para ferias  Vehículos adaptados para la maquinaria de circo o ferias recreativas ambulantes
+59 Estación              Vehículo dotado con los elementos necesarios para la producción de energía
+transformadora móvil     eléctrica.
+                         Vehículo dotado de una bomba de absorción para la limpieza de pozos negros y
+60 Extractor de fangos
+                         alcantarillas.
+                         Vehículo equipado con una autobomba de presión para movimiento de materiales
+61 Autobomba
+                         fluidificados.
+                         Vehículo dotado con los elementos necesarios para la producción de energía
+62 Grupo electrógeno
+                         eléctrica.
+                         Vehículo destinado a producir aire comprimido y transmitirlo a diversas
+63 Compresor
+                         herramientas o a locales con ambiente enrarecido.
+64 Carretilla            Vehículo provisto de pequeña grúa u horquilla-plataforma para transportar o elevar
+transportadora elevadora pequeñas cargas en recorridos generalmente cortos.
+65 Barredora             Vehículo para barrer carreteras y calles de poblaciones.
+66 Bomba de hormigonar Vehículo autobomba especialmente diseñado para movimiento de hormigón fluido.
+67 Perforadora           Vehículo destinado a realizar perforaciones profundas en la tierra.
+                         Vehículo especialmente diseñado para la excavación o desmonte del terreno,
+68 Excavadora            mediante cuchara de ataque frontal, acoplada a superestructura giratoria en plano
+                         horizontal.
+                         Vehículo especialmente diseñado para la excavación o desmonte del terreno,
+69 Retro-excavadora      mediante cuchara de ataque hacia la máquina, acoplada a superestructura giratoria
+                         en plano horizontal.
+                         Vehículo especialmente diseñado para el desmonte del terreno y para la recogida
+70 Cargadora             de materiales sueltos, mediante cuchara de ataque frontal, acoplada a
+                         superestructura no giratoria en plano horizontal.
+71 Cargadora retro-      Vehículo provisto de cuchara cargadora en su parte delantera y de otra
+excavadora               retroexcavadora en su parte posterior.
+                         Vehículo que arranca, recoge, traslada y extiende tierras. Si es autopropulsado, es
+72 Traílla
+                         mototraílla.
+                         Vehículo que se utiliza para configurar toda clase de perfiles y extender el material
+73 Niveladora
+                         arrancado o depositado. Si es autopropulsado, es motoniveladora.
+74 Compactador           Vehículo especialmente diseñado para la compactación de suelos y materiales
+vibratorio               mediante su peso y vibración.
+                         Vehículo especialmente diseñado para la compactación de suelos y materiales
+75 Compactador estatico
+                         exclusivamente mediante su peso.
+                         Vehículo destinado a esparcir y extender sobre los diversos pavimentos betún
+76 Riego asfáltico
+                         asfáltico fluidificado.
+77 Pintabandas           Vehículo usado para realizar líneas de señalizaciones y prescripciones en el suelo.
+                                                 Página 60
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+                        Vehículo de motor destinado exclusivamente a retirar la nieve de las calzadas y
+  78 Quitanieves
+                        caminos.
+
+                       D. Servicio al que se destinan los vehículos
+     A efectos del servicio al que se destinan los vehículos, que se anota en el permiso de
+circulación, los vehículos se clasifican con un código alfanumérico de tres caracteres,
+indicativo de dicho servicio, del siguiente modo:
+     Carácter primero, constituido por una letra:
+     A. Servicio público: El vehículo se adscribe a una actividad para cuyo ejercicio su titular
+necesita de autorización de la Administración.
+     B. Servicio particular: El vehículo se adscribe a una actividad privada de su titular.
+     Caracteres segundo y tercero, constituidos por dos cifras:
+     00. Sin especificar: El vehículo no ejerce ninguno de los otros servicios relacionados a
+continuación.
+     01. Alquiler sin conductor: vehículo destinado a ser arrendado sin conductor.
+     02. Alquiler con conductor (autoturismo): vehículo destinado al transporte de personas y
+equipajes con conductor.
+     03. Aprendizaje de la conducción: vehículo destinado al ejercicio de la enseñanza de la
+conducción y la realización de pruebas de aptitud para la obtención de permisos y licencias
+de conducción.
+     04. Taxi: vehículo adscrito al servicio público de viajeros en vehículo turismo.
+     05. Vehículo de auxilio en vías públicas: vehículo destinado primordialmente al rescate y
+transporte de vehículos accidentados o averiados. Sólo tendrán esta consideración aquellos
+vehículos cuya capacidad permita que simultáneamente se puedan transportar hasta un
+máximo de dos vehículos en plataforma, y otro mediante un dispositivo de arrastre, y
+cuenten con el correspondiente utillaje. Quedan fuera de esta definición los vehículos
+dedicados a labores de conservación y mantenimiento de la vía, así como los vehículos
+pertenecientes a Fuerzas y Cuerpos de Seguridad del Estado, de emergencia y de las
+Fuerzas Armadas.
+     06. Agrícola: vehículo destinado a realizar labores agrícolas.
+     07. Ambulancia: vehículo destinado a realizar transporte de personas enfermas o
+accidentadas.
+     08. Funerario: vehículo destinado a realizar transporte de cadáveres.
+     09. Obras: vehículo destinado a la realización de tareas en trabajos de construcción.
+     10. Mercancías peligrosas: vehículo destinado al transporte de materias peligrosas,
+aunque no se realice con carácter exclusivo.
+     11. Basurero: vehículo destinado al transporte de residuos.
+     12. Transporte escolar: vehículo destinado al transporte escolar y de menores, aunque
+no se realice con carácter exclusivo.
+     13. Policía: vehículo destinado a los servicios de policía, que se presten por las Fuerzas
+y Cuerpos de Seguridad.
+     14. Bomberos: vehículo destinado a ser utilizado por los bomberos para la extinción de
+incendios.
+     15. Protección civil y salvamento: vehículo destinado a realizar servicios de protección
+civil y salvamento.
+     16. Defensa: vehículo adscrito al Ministerio de Defensa.
+     17. Vivienda: vehículo acondicionado para ser utilizado como vivienda.
+     18. Actividad económica: automóvil con al menos cuatro ruedas, destinado al transporte
+de mercancías, cuya masa máxima autorizada es igual o inferior a 3.500 kg, que está
+afectado significativamente a una actividad económica de acuerdo con la normativa
+tributaria.
+     19. Recreativo: vehículo destinado específicamente al ocio.
+     20. Mercancías perecederas: vehículo destinado al transporte terrestre de productos
+alimentarios a temperatura regulada, aunque no se realice con carácter exclusivo.
+     21. Vehículo para ferias: vehículo adaptado para la maquinaria de circo o ferias
+recreativas ambulantes.
+
+                                              Página 61
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   22. Histórico: vehículo clasificado como tal por la Administración por reunir todas las
+condiciones exigidas en el Reglamento de Vehículos Históricos.
+            E. Clasificación de los vehículos por su potencial contaminante
+    1. Todo vehículo matriculado en el Registro de Vehículos será clasificado en el mismo en
+relación a su nivel de emisiones y combustible empleado, de conformidad con las categorías
+creadas en el presente anexo. Asimismo, aquellos vehículos que circulando por las vías
+públicas no dispongan de matrícula española, se podrán clasificar conforme a idénticos
+parámetros, a efectos de adecuar su circulación a las previsiones normativas emanadas de
+la autoridad competente.
+    2. Categorías de clasificación ambiental:
+   a) Vehículos 0 emisiones:
+    Vehículos L, M1, N1, M2, M3, N2 y N3 clasificados en el Registro de Vehículos como
+vehículos eléctricos de batería (BEV), vehículo eléctrico de autonomía extendida (REEV),
+vehículo de hidrógeno (HICEV), vehículo eléctrico híbrido enchufable (PHEV) con una
+autonomía mínima de 40 kilómetros (ciclo NEDC) o vehículos de pila de combustible.
+   b) Vehículos ECO:
+    Vehículos M1 y N1, clasificados en el Registro de Vehículos como vehículos híbridos
+enchufables con autonomía <40km (ciclo NEDC), vehículos híbridos no enchufables (HEV),
+vehículos propulsados por gas natural, vehículos propulsados por gas natural comprimido
+(GNC), o gas licuado del petróleo (GLP). En todo caso, deberán cumplir los criterios de la
+clasificación C.
+    Vehículos M2, M3, N2 y N3 clasificados en el Registro de Vehículos como híbridos
+enchufables con autonomía <40km, híbridos no enchufables (HEV), propulsados por gas
+natural comprimido (GNC), gas natural licuado (GNL) o gas licuado del petróleo (GLP). En
+todo caso, deberán cumplir los criterios de la clasificación C.
+    Vehículos L clasificados en el Registro de Vehículos como vehículos híbridos
+enchufables con autonomía <40km (ciclo NEDC) y vehículos híbridos no enchufables (HEV).
+   c) Vehículos C:
+    Vehículos M1 y N1 clasificados en el Registro de Vehículos como gasolina Euro 4/IV, 5/V
+o 6/VI o diésel Euro 6/VI.
+    Vehículos M2, M3, N2 y N3 clasificados en el Registro de Vehículos como gasolina Euro
+VI/6 o diésel Euro VI/6.
+    Vehículos L clasificados en el Registro de Vehículos como Euro 4 y Euro 3.
+   d) Vehículos B:
+    Vehículos M1 y N1 clasificados en el Registro de Vehículos como gasolina Euro 3/III o
+diésel Euro 4/IV o 5/V.
+    Vehículos M2, M3, N2 y N3 clasificados en el Registro de Vehículos como gasolina Euro
+IV/4 o V/5 o diésel Euro IV/4 o V/5.
+    Vehículos L clasificados en el Registro de Vehículos como Euro 2.
+   e) Vehículos A:
+   Todo vehículo a motor que por su clasificación en el Registro de Vehículos no cumple las
+condiciones o requisitos para la obtención de la clasificación 0 emisiones, ECO, C o B.
+                                        ANEXO III
+                                ESPEJOS RETROVISORES
+                                      1. Definiciones
+   A efectos de este Reglamento, se entiende por:
+                                         Página 62
+                                     BOLETÍN OFICIAL DEL ESTADO
+                                       LEGISLACIÓN CONSOLIDADA
+
+    Retrovisor: dispositivo que tiene por finalidad permitir, en el campo de visión definido en
+la reglamentación vigente que se recoge en el anexo 1, una visibilidad clara hacia atrás y
+hacia los lados del vehículo, exceptuándose los dispositivos complejos tales como los
+periscopios.
+    Retrovisor interior: retrovisor que se destina a ser instalado en el interior del habitáculo.
+    Retrovisor exterior: retrovisor que se destina a ser montado sobre un elemento de la
+superficie exterior del habitáculo.
+    Clase de retrovisor: el conjunto de los dispositivos que poseen una o varias
+caracteristicas o funciones comunes.
+    Se clasifican como sigue:
+    Clase I: retrovisor interior con el campo de visión que se especifica en la reglamentación
+vigente.
+    Clase II y III: retrovisores exteriores principales con el campo de visión que se especifica
+en la reglamentación vigente. La clase II está destinada a las categorías de vehículos M2,
+M3, N2, N3, tractores agrícolas y demás vehículos especiales. La clase III está destinada a
+las categorías de vehiculos M1 y N1.
+    Clase IV: retrovisores exteriores gran angular con el campo de visión que se especifica
+en la reglamentación vigente.
+    Clase V: retrovisores exteriores de proximidad con el campo de visión que se especifica
+en la reglamentación vigente.
+    Clase L: retrovisores exteriores principales con el campo de visión que se especifica en
+la reglamentación vigente. La clase L está destinada a las categorías de vehículos
+siguientes: ciclomotores de dos y tres ruedas, motocicletas, motocicletas con sidecar,
+vehículos de tres ruedas y cuatriciclos.
+                        2. Retrovisores para vehículos de categorías M y N
+    Para los vehículos de las categorías M y N, los campos de visión especificados en la
+reglamentación vigente se proveerán con el número mínimo de retrovisores obligatorios y
+con el número máximo de retrovisores opcionales que se indica en la tabla siguiente:
+
+                                                                Retrovisores exteriores
+                    Retrovisores
+   Categoría del                                                                 Retrovisor      Retrovisor de
+                     interiores                Retrovisores principales
+     vehículo                                                                   gran angular      proximidad
+                       Clase I                Clase II            Clase III        Clase IV         Clase V
+                                                               1 izq. oblig. (1
+        M1            1 oblig. (1)          1 opcional                                 –                –
+                                                               dcha.opcional)
+                                       2 oblig. (1 a la izq. y
+        M2                 –                                          –           1 opcional     1 opcional (2)
+                                           1 a la dcha.)
+                                       2 oblig. (1 a la izq. y
+        M3                 –                                          –           1 opcional     1 opcional (2)
+                                           1 a la dcha.)
+                                                               1 izq. oblig. (1
+        N1            1 oblig. (1)                –                                    –                –
+                                                               dcha.opcional)
+                                       2 oblig. (1 a la izq. y
+    N2 ≤7,5 ton.      1 opcional                                      –         1 opcional (3)   1 opcional (2)
+                                           1 a la dcha.)
+                                       2 oblig. (1 a la izq. y
+    N2 >7,5 ton.      1 opcional                                      –             1 oblig.       1 oblig. (2)
+                                           1 a la dcha.)
+                                       2 oblig. (1 a la izq. y
+        N3            1 opcional                                      –             1 oblig.       1 oblig. (2)
+                                           1 a la dcha.)
+    (1) Cuando el retrovisor no permita la visión de una parte de la carretera plana y horizontal desde el horizonte
+hasta una distancia de 60 m por detrás y en una anchura de 20 m, éste será opcional y deberá colocarse un
+segundo retrovisor exterior en el lado derecho
+     (2) Los retrovisores de la Clase V deben estar a más de 2 m del suelo, en todas las posiciones de regulación,
+incluidos todos sus puntos de regulación y amarres, cuando el vehículo esté cargado con toda su carga permisible.
+Caso de no poderse cumplir esta prescripción, estará prohibida su instalación.
+     (3) Los vehículos que lleven un retrovisor obligatorio de clase II que no sea convexo deberán llevar además
+obligatoriamente un retrovisor de la Clase IV en el mismo lado.
+                                                     Página 63
+                                  BOLETÍN OFICIAL DEL ESTADO
+                                       LEGISLACIÓN CONSOLIDADA
+
+    3. Retrovisores para vehículos ciclomotores, ciclomotores con tres ruedas,
+    motocicletas, motocicletas con sidecar, vehículos de tres ruedas o cuatriciclos
+    Para los vehículos mencionados, los campos de visión especificados en la
+reglamentación vigente se proveerán con el número mínimo de retrovisores obligatorios y
+con el número máximo de retrovisores opcionales que se indica en la tabla siguiente:
+
+                                                                          Retrovisores     Retrovisores exteriores
+    Categoría del vehículo                Observaciones                    interiores       Izquierdo   Derecho
+                                                                             Clase I         Clase L     Clase L
+     Ciclomotores de dos
+                                                                                              1 oblig.    1 optativo
+            ruedas
+     Ciclomotores de tres    Si están equipados de carrocería que
+           ruedasy                cubra total o parcialmente al            1 oblig. (1)       1 oblig.    1 optativo
+      cuatriciclosligeros                  conductor
+     Ciclomotores de tres    Si NO están equipados de carrocería
+           ruedas y             que cubra total o parcialmente al                             1 oblig.    1 optativo
+      cuatriciclosligeros                  conductor
+                              Si la velocidad máxima es menor o
+         Motocicletas                                                                         1 oblig.    1 optativo
+                                       igual de 100 Km/h
+                             Si la velocidad máxima es mayor de
+         Motocicletas                                                                         1 oblig.     1 oblig.
+                                            100 Km/h
+                              Si la velocidad máxima es menor o
+         Motocicletas                                                                         1 oblig.    1 optativo
+                                       igual de 100 Km/h
+                             Si la velocidad máxima es mayor de
+         Motocicletas                                                                         1 oblig.     1 oblig.
+                                            100 Km/h
+                             Si están equipados de carrocería que
+   Vehículos de tres ruedasy
+                                  cubra total o parcialmente al            1 oblig. (1)       1 oblig.    1 optativo
+          cuatriciclos
+                                           conductor
+                             Si NO están equipados de carrocería
+   Vehículos de tres ruedasy
+                                que cubra total o parcialmente al                             1 oblig.     1 oblig.
+          cuatriciclos
+                                           conductor
+     (1) No se exigirá el retrovisor interior cuando no sea posible cumplir los requisitos de visibilidad establecidos en
+la reglamentación vigente. En tal caso será obligatorio el retrovisor exterior de la derecha.
+
+            4. Retrovisores para los vehículos especiales, incluidos los agrícolas
+     Para los vehículos especiales, incluidos los agrícolas, los campos de visión
+especificados en la reglamentación vigente se proveerán con el número mínimo de
+retrovisores obligatorios y con el número máximo de retrovisores opcionales que se indica en
+la tabla siguiente:
+
+                                                                                    Retrovisores exteriores
+                                                         Retrovisores interiores
+                    Categoría del vehículo                                           Izquierdo    Derecho
+                                                                  Clase I             Clase II     Clase II
+          Tractor agrícola                                     1 optativo (2)          1 oblig.   1 optativo
+          Motocultor                                                                 1 oblig. (1) 1 optativo
+          Tractocarro                                          1 optativo (2)          1 oblig.   1 optativo
+          Maquinaria agrícola automotriz                       1 optativo (2)          1 oblig    1 optativo
+          Portador                                             1 optativo (2)          1 oblig.   1 optativo
+          Tractor de obras o de servicios                      1 optativo (2)          1 oblig.   1 optativo
+          Máquina automotriz de obras o de servicios           1 optativo (2)          1 oblig.   1 optativo
+          Portador de obras o de servicios                     1 optativo (2)          1 oblig.   1 optativo
+    (1) No es exigible cuando circulen solos o únicamente arrastren aperos.
+    (2) Cuando dispone de cabina.
+                                                      Página 64
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+                                         ANEXO IV
+                                 PROTECCIÓN TRASERA
+   1. Todo vehículo debe estar construido y/o equipado de manera que ofrezca en todo su
+ancho una protección eficaz contra el empotramiento de los vehículos de las categorías M1 y
+N1 que choquen en su parte trasera.
+   2. Según la categoría del vehículo, se considerará que esta protección es eficaz:
+   2.1 Para los vehículos de categorías N2, N3, O3 u O4:
+    2.1.1 Cuando el vehículo esté equipado con un dispositivo de protección trasera contra el
+empotramiento que responda, en dimensiones y resistencia a la deformación a lo establecido
+en la reglamentación vigente recogida en el anexo I, o bien:
+    2.1.2 Cuando la forma y características de la parte trasera del vehículo responda, en
+dimensiones y resistencia a la deformación a lo establecido en la reglamentación vigente
+recogida en el anexo I.
+   2.2 Para vehículos de las categorías M1, M2, M3, N1, O1 y O2:
+    2.2.1 Cuando la forma de la parte trasera del vehículo se adapte a lo establecido en la
+reglamentación recogida en el anexo I, o cuando la altura debajo de la parte posterior del
+vehículo en vacío no sobrepase de 550 mm, en un ancho que no deberá ser inferior en más
+de 100 mm de cada lado al del eje trasero (sin tener en cuenta la deformación de los
+neumáticos en la proximidad del suelo).
+   O bien:
+   2.2.2 Cuando se cumpla lo indicado en el apartado 2.1.1.
+   3. Quedan exentos de lo anterior, en lo referente a protección trasera contra el
+empotramiento:
+    3.1 Tractocamiones para semirremolques.
+    3.2 Remolques destinados al transporte de madera sin desbastar o de piezas de gran
+longitud.
+    3.3 Vehículos en los cuales la existencia de una protección trasera contra el
+empotramiento sea incompatible con la utilización (haciéndose constar en su
+documentación).
+    3.4 Los tractores agrícolas, remolques agrícolas, y resto de maquinaria agrícola.
+                                         ANEXO V
+                          CÁLCULO DE LA POTENCIA FISCAL
+   El cálculo de la potencia fiscal de los motores de vehículos de motor, expresado en
+caballos de vapor fiscales (CVF), se efectuará aplicando las fórmulas siguientes:
+   a) Para los motores de explosión o de combustión interna de cuatro tiempos:
+
+                           CVF = 0,08 • (0,785 • D2 • R)0,6 • N (1)
+   b) Para los motores de explosión o de combustión interna de dos tiempos:
+
+                           CVF = 0,11 • (0,785 • D2 • R)0,6 • N (2)
+   En las fórmulas (1) y (2) se representa por:
+   D = el diámetro del cilindro en centímetros.
+   R = el recorrido del pistón en centímetros.
+   N = el número de cilindros de que consta el motor.
+   c) Para los motores de explosión rotativos
+                                          Página 65
+                          BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+                                     CVF = PE / 5,152 (3)
+   d) Para los motores eléctricos:
+
+                                    CVF = PE / 5,152 (4)
+    La potencia efectiva Pe que se utiliza en las fórmulas (3) y (4), expresada en kilovatios
+(kw), será la que determine el Laboratorio Oficial que el Ministerio de Industria y Energía
+designe aplicando los métodos de ensayo que dicho Ministerio establezca.
+    En cualquier caso, la potencia fiscal del motor a consignar en la tarjeta de inspección
+técnica o en el certificado de características del vehículo, será la que resulte de aplicar la
+fórmula correspondiente, según el tipo del motor, expresada con dos cifras decimales
+aproximada por defecto.
+                                         ANEXO VI
+   DISPOSITIVOS DE RETENCIÓN Y ASEGURAMIENTO DE LA CARGA EN
+   VEHÍCULOS QUE PUEDAN TRANSPORTAR SIMULTÁNEAMENTE PERSONAS Y
+                   CARGA EN UN MISMO HABITÁCULO
+                             1. Objeto y campo de aplicación
+    1.1 El presente Anexo tiene por objeto establecer los requisitos mínimos que han de
+cumplir los distintos dispositivos de protección contra un desplazamiento eventual de la
+carga así como los ensayos que han de efectuarse para determinar su idoneidad en el
+aseguramiento de la carga. Las disposiciones aquí indicadas se aplicarán a los dispositivos
+de protección contra un desplazamiento eventual de la carga y de aseguramiento de la
+misma, a instalar en vehículos cuyo plano de carga esté directamente limitado por una fila de
+asientos.
+                                       2. Definiciones
+   A efectos del presente Anexo se entiende por:
+   2.1 Anclajes para dispositivos de amarre o simplemente, puntos de amarre.
+    Son aquellos puntos de fijación en el vehículo (por ejemplo: anillas, ganchos, refuerzos
+roscados, etc.) que sirven para la fijación de dispositivos de amarre.
+   2.2 Dispositivo de amarre.
+    Son aquellos dispositivos que permiten asegurar la carga en el vehículo (cintas, cables,
+etc.) y que su instalación dependerá del tipo de carga que manipule el usuario.
+   2.3 Preinstalación o anclajes o fijaciones para los dispositivos de retención.
+   Son aquellos puntos de fijación en el vehículo (refuerzos roscados, anillas, ganchos,
+remaches, etc.) que sirven para la fijación de los dispositivos de retención.
+   2.4 Dispositivo de retención.
+    Es aquel dispositivo (por ejemplo: red, reja, barras) que está situado detrás de los
+asientos que limitan directamente con el plano de carga y que separa total o parcialmente la
+zona de pasajeros del espacio de carga para proteger a los pasajeros de un desplazamiento
+eventual de la carga.
+    El asiento asumirá parcialmente la función de retención cuando el dispositivo de
+retención asegure únicamente la zona situada por encima del mismo.
+                                        3. Requisitos
+   Requisitos mínimos a cumplir:
+
+                                          Página 66
+                                BOLETÍN OFICIAL DEL ESTADO
+                                     LEGISLACIÓN CONSOLIDADA
+                               VEHÍCULO MIXTO ADAPTABLE (31)           FURGÓN (24)
+                                                                                               Ensayos
+                               DERIVADO DE TURISMO (30)                FURGONETA (24)
+                                 Con puntos de                           Puntos de amarre
+  Amarres                                       Sin puntos de amarre                             4.1
+                                    amarre                                  opcionales
+  Preinstalación o anclajes
+                                  Opción FAB           Oblig. FAB            Oblig. FAB          4.2
+  para disp. de retención
+  Dispositivos de Retención      Opción FAB y         Opción FAB y         Opción FAB y        parc. 4.3
+  (Pared div.) parcial total     Opción Usuario       Oblig.Usuario      Obligatorio Usuario    tot. 4.4
+    3.1 Anclajes para dispositivos de amarre o simplemente puntos de amarre de la carga.
+    3.1.1 Los vehículos deberán estar equipados en el espacio destinado a la carga con por
+lo menos 4 puntos de amarre. Los puntos de amarre deberán colocarse de dos en dos a lo
+largo de ambos costados de la superficie de carga. Cuando la longitud del espacio destinado
+a la carga sea inferior a 700 mm, serán suficientes dos puntos de amarre.
+    A efectos de lo señalado en el párrafo anterior, la longitud del espacio destinado a la
+carga se medirá situando éste en su posición más retrasada y con el respaldo inclinado
+hacia atrás 14° sobre la vertical. La longitud del espacio destinado a la carga se medirá, en
+las condiciones citadas anteriormente, sobre la intersección del plano longitudinal que
+contiene el eje longitudinal medio del asiento del conductor, con el plano horizontal situado
+200 mm. por encima de la plataforma de carga.
+    3.1.2 La distancia al contorno exterior del plano de carga deberá ser lo más corta
+posible.
+    La distancia longitudinal entre dos puntos de amarre contiguos no deberá ser superior a
+1,2 m. Si hay razones técnicas que lo justifiquen, esta distancia podrá ampliarse a 1,5 m.
+    3.1.3 Los puntos de amarre deberán soportar durante al menos 3 minutos las fuerzas del
+ensayo realizado según el apartado 4.1. Se admiten deformaciones permanentes siempre y
+cuando se mantenga la función de punto de amarre.
+    3.1.4 Si el punto de amarre se compone de una anilla, el diámetro interior útil deberá ser
+≥20 mm. Si se utilizan anillas de menor diámetro útil, el fabricante deberá aportar los
+elementos de unión apropiados.
+    3.1.5 Si el punto de amarre se compone de una unión por rosca, el fabricante deberá
+aportar los elementos de unión apropiados.
+   3.2 Anclajes o fijaciones para dispositivos de retención.
+     3.2.1 Los vehículos N1 destinados al transporte de mercancías deben estar provistos en
+el plano vertical transversal tras el respaldo que limita con el plano de carga, de un número
+suficiente de anclajes para fijar el dispositivo de retención de manera que cumplan durante al
+menos 10 segundos con el ensayo establecido en el apartado 4.2. Los vehículos que
+incorporen en origen un dispositivo de retención deberán cumplir únicamente con los
+ensayos del apartado 4.3 ó 4.4.
+     3.2.2 Los puntos de anclaje o fijaciones deben distribuirse convenientemente a lo largo
+del contorno del plano vertical transversal que separa el espacio destinado a la carga del de
+pasajeros.
+     3.2.3 El fabricante deberá indicar los elementos de unión apropiados para el anclaje o la
+fijación cuando no se incorpore el dispositivo de retención.
+   3.3 Dispositivos de retención.
+   3.3.1 Dispositivos de retención parcial:
+    Los vehículos mixtos adaptables opcionalmente podrán instalar un dispositivo de
+retención que proteja a los pasajeros de un desplazamiento eventual de la carga en la zona
+situada por encima del respaldo.
+    En los dispositivos de retención flexibles la deformación máxima hacía adelante
+producida por el elemento de prueba no deberá sobrepasar los 300 mm. medidos desde el
+plano transversal vertical al eje longitudinal del vehículo que pasa por el borde posterior del
+respaldo en su posición de construcción. En el caso de dispositivos de retención rígidos se
+permitirán deformaciones justo hasta la aparición de grietas en la superficie.
+                                                  Página 67
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   Las pruebas de los dispositivos de retención parcial destinados a vehículos equipados
+con apoyacabezas en los asientos posteriores deberán realizarse con los apoyacabezas
+montados.
+   3.3.2 Dispositivos de retención total:
+    3.3.2.1 Los vehículos N1 destinados al transporte de mercancías de cualquier longitud
+de plano de carga, opcionalmente podrán instalar un dispositivo de retención que proteja a
+los pasajeros en un área que en anchura cubra como mínimo 544 mm. por cada respaldo de
+asiento posterior y en altura desde el plano de carga al techo. La separación entre el
+dispositivo de retención y la carrocería no deberá exceder de 40 mm.
+    3.3.2.2 Durante la realización de la prueba descrita en el apartado 4.3, el elemento de
+prueba debe permanecer retenido en el área de la zona de protección.
+    3.3.2.3 Se permitirá una deformación permanente máxima de 300 mm., en el dispositivo
+de presión siempre y cuando esta deformación no genere aristas vivas capaces de producir
+lesiones a los ocupantes.
+    3.3.2.4 En el caso de dispositivos de protección de rejilla, malla o red, el entramado de
+éstas no dejará pasar una barra de prueba de 50 mm. × 10 mm.
+                               4. Descripción de los ensayos
+   4.1 Puntos de amarre.
+    Se escogerá un punto de amarre arbitrariamente en el vehículo.
+    Se someterá el punto de amarre a una fuerza de tracción de 250 daN y en un ángulo de
+aplicación no superior a 15° con respecto a la vertical.
+    El punto de amarre debe soportar el esfuerzo especificado en el punto anterior durante al
+menos 3 minutos.
+    4.2 Anclajes para dispositivos de retención.
+   4.2.1 Elementos de prueba (figura 3).
+    Estará compuesto por una placa de forma rectangular de dimensiones iguales a 3/4 de la
+altura útil de carga × 2/3 de la anchura útil de carga × un espesor proporcional a la carga a
+aplicar, montada sobre rodamientos apoyados adecuadamente sobre el suelo de carga del
+vehículo para evitar fricción alguna y que permita la aplicación de una fuerza F: dicha placa
+se apoyará sobre la parte posterior de una mampara seleccionada por el fabricante del
+vehículo dentro del abanico de mamparas disponibles por éste.
+    4.2.2 La placa rectangular estará diseñada de forma que se pueda aplicar en su centro
+geométrico la fuerza F.
+    4.2.3 Procedimiento de ensayo.
+    Se deslizará y apoyará la placa sobre la mampara seleccionada y se aplicará sobre el
+centro geométrico de la placa una fuerza F durante 10 segundos en sentido longitudinal y
+horizontal hacia delante. La fuerza F ejercida se calculará según las fórmulas:
+   Fuerzas máximas de aplicación: 10.000 N y 5.000 N, respectivamente.
+   F= 0,6 × Q × 9.81 en el ensayo de anclajes para dispositivos de retención total.
+   F= 0,6 × Q/2 × 9.81 en el ensayo de anclajes para dispositivos de retención parcial.
+   siendo:
+   Q = carga útil del vehículo en Kg.
+   F = fuerza de compresión en N.
+     Después del ensayo se admitirán deformaciones permanentes de los anclajes siempre y
+cuando sigan cumpliendo con su función.
+     Alternativamente a este ensayo se pueden hacer los ensayos según los apartados 4.3 y
+4.4.
+   4.3 Dispositivo de retención parcial (por encima del respaldo).
+   4.3.1 Prueba de carga por unidad de superficie.
+                                            Página 68
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   a) Elemento de prueba.
+    Será un dispositivo tal que la superficie que haya de entrar en contacto con el dispositivo
+de retención parcial (objeto del ensayo) sea plana y de sección cuadrada de 50 mm. de lado,
+cuyas aristas no tengan un radio superior a 0,5 mm.
+   b) Procedimiento del ensayo (prueba de carga por unidad de superficie).
+      Un elemento de prueba tal y como está descrito en la letra a) anterior debe colocarse en
+cualquier punto del dispositivo de retención parcial.
+      Se ejercerá una fuerza de compresión F a través del extremo del elemento de prueba en
+sentido longitudinal y horizontal. En caso de que el dispositivo de retención esté compuesto
+por una rejilla, el elemento de prueba hará contacto en el punto de intersección que forma la
+rejilla.
+      La fuerza F ejercida se aplicará durante al menos 10 segundos y se calcula por medio de
+la siguiente fórmula.
+
+                              F = 0.3 × [Q – (68 × n)] / 2 × 9.81
+   siendo:
+   F = fuerza de compresión en N.
+   Q = carga útil del vehículo en Kg.
+   n = número de ocupantes del vehículo.
+   4.3.2 Prueba dinámica.
+   En alternativa a la prueba por unidad de superficie del apartado 4.3.1 los vehículos
+equipados con un dispositivo de retención parcial podrán ser sometidos al siguiente ensayo:
+   a) Elemento de prueba.
+   Cuerpo rígido resistente a la presión con centro de gravedad en el centro geométrico y
+con las siguientes características.
+   a.1) Dimensiones: Cubo de 300 mm. de longitud de arista.
+   Radio de aristas: 20 mm.
+   Peso: 18 kg.
+   a.2) Dimensiones: 500 × 350 × 125 mm.
+   Radio de aristas: 20 mm.
+   Peso: 10 kg.
+   b) Procedimiento de ensayo (ver figura 1, para disposición de los elementos de prueba).
+    El ensayo se realizará con el interior de una carrocería representativa del vehículo a
+ensayar, en la cual se han montado los asientos traseros (cojines y respaldo) con los
+elementos de fijación y bloqueo previstos por el fabricante del vehículo, así como el
+dispositivo de retención instalado de acuerdo con las instrucciones del fabricante del
+dispositivo y fijado con los elementos definidos por el fabricante del vehículo.
+     b.1) Se utilizarán dos elementos de prueba del descrito en la letra a.1) y se colocarán
+(ver figura 1) apoyados sobre el suelo del espacio de carga (sin ningún tipo de fijación). Los
+elementos de prueba se ubicarán en anchura simétricamente con respecto al eje longitudinal
+medio del vehículo de tal manera que dejen entre sí un hueco de 50 mm. y en longitud estén
+a una distancia de 200 mm. de la parte más saliente del respaldo del asiento.
+     b.2) El elemento de prueba descrito en la letra a.2) se apoyará sobre un fondo intermedio
+fijado sólidamente a la carrocería de tal manera que el centro de gravedad de dicho
+elemento de prueba esté situado centralmente entre el borde superior del respaldo (sin tener
+en cuenta los apoyacabezas) y el revestimiento interior del techo.
+     El elemento de prueba se colocará centrado con respecto al eje longitudinal central del
+vehículo y en posición apaisado, en contacto con el dispositivo de retención.
+
+                                          Página 69
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+   c) Prueba dinámica.
+    Una vez colocado el elemento de prueba sobre la carrocería a ensayar conforme a lo
+indicado en la letra b) se acelerará dicha carrocería sobre un carro de ensayo en sentido
+contrario al de marcha según se muestra en la figura 2. Este ensayo se corresponde con una
+velocidad de impacto del vehículo entre 30 y 32 Km/h.
+   4.4 Dispositivo de retención total.
+   a) Elemento de prueba.
+   Es el mismo que se ha descrito en la letra a) del anterior apartado 4.3.
+   b) Procedimiento del ensayo (prueba de carga por unidad de superficie).
+    El mismo descrito en la letra b) del apartado anterior 4.3, y en las mismas condiciones de
+ejecución: siendo la fórmula para el cálculo de la fuerza F ejercida en este caso la siguiente:
+
+                                F = 0.3 × [Q – (68 × n)] × 9.81
+   siendo:
+   F = fuerza de compresión en N.
+   Q = carga útil del vehíulo en Kg.
+   n = número de ocupantes del vehículo.
+
+                                          Página 70
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+          Página 71
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+                                        ANEXO VII
+                                      NEUMÁTICOS
+
+                             1. Dimensiones y características
+    Los vehículos deben estar equipados con neumáticos de las dimensiones y
+características previstas por el fabricante en la homologación del vehículo, o sus
+equivalentes, según lo dispuesto en la reglamentación vigente que les sea de aplicación
+recogida en el anexo I.
+
+                             2. Profundidad mínima de dibujo
+    Los neumáticos de los vehículos comprendidos en las categorías M1, N1, O1 y O2
+deben presentar, durante toda su utilización en las vías públicas, una profundidad en las
+ranuras principales de la banda de rodamiento que, como mínimo, debe ser de 1,6 mm.
+    Deberá entenderse como ranuras principales las ranuras anchas situadas en la zona
+central de la banda de rodamiento que cubre cerca de las tres cuartas partes de la anchura
+de dicha banda.
+    Quedan excluidos del ámbito de aplicación del apartado anterior los vehículos históricos
+equipados originalmente con neumáticos o cubiertas de otros tipos que cuando eran nuevos
+tenían ranuras de una profundidad inferior a 1,6 mm., siempre que dichos vehículos estén
+equipados con los citados neumáticos, que se utilicen en condiciones excepcionales y que
+no se utilicen nunca o casi nunca en la vía pública.
+
+                                3. Indicadores de desgaste
+    Los neumáticos homologados de acuerdo al Reglamento ECE n.° 30 o la Directiva
+92/23/CEE que equipan vehículos de turismo y sus remolques deberán tener indicadores de
+desgaste. Dichos indicadores de desgaste sirven para señalar que las ranuras principales de
+la banda de rodamiento han alcanzado la profundidad mínima de dibujo indicada en el
+apartado 2.
+
+                4. Condiciones mínimas de utilización de los neumáticos
+    Los neumáticos, bien nuevos, bien recauchutados, que equipan los vehículos, deberán
+conservar siempre las inscripciones reglamentarias, y además no deben presentar ampollas,
+deformaciones anormales, roturas u otros signos que evidencien el despegue de alguna
+capa o de la banda de rodamiento. Asimismo, no deben presentar cables al descubierto,
+grietas o síntomas de rotura o dislocación de la carcasa.
+    El resculturado no está permitido, excepto en aquellos neumáticos que equipen
+vehículos de más de 3,5 toneladas de peso máximo autorizado, y que vayan marcados con
+la palabra Regroovable o el símbolo ∪, según lo dispuesto en la reglamentación vigente que
+les sea de aplicación recogida en el anexo I.
+
+                                5. Neumáticos especiales
+    Si los neumáticos presentasen clavos, como los usados en pavimento con hielo, éstos
+serán de cantos redondeados y no sobresaldrán de la superficie más de dos milímetros.
+    Si se utilizan neumáticos especiales de nieve, éstos irán marcados con la inscripción M +
+S, MS o M & S, y deberán tener una capacidad de velocidad, bien igual o superior a la
+velocidad máxima prevista para el vehículo, bien no inferior a 160 Km/h si la velocidad
+máxima del vehículo es superior a ésta.
+
+                                   6. Presión de inflado
+    La presión de inflado de los neumáticos deberá ser revisada regularmente, con
+manómetros de uso privado o público, debidamente homologados y verificados según la
+reglamentación vigente que les sea de aplicación recogida en el anexo I.
+                                         Página 72
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+                                        ANEXO VIII
+                                        FRENADO
+                                      1. Definiciones
+   A efectos de este anexo se entiende por:
+   1.1 Dispositivo de frenado: el conjunto de los órganos que tienen por función disminuir o
+anular progresivamente la velocidad del vehículo en marcha, o mantenerlo inmóvil si ya se
+encuentra detenido. El dispositivo se compone del mando, la transmisión y el freno
+propiamente dicho.
+   1.2 Funciones del dispositivo de frenado:
+    1.2.1 Frenado de servicio: el frenado de servicio debe permitir controlar el movimiento
+del vehículo y detenerlo de una forma segura, rápida y eficaz, cualesquiera que sean las
+condiciones de velocidad y de carga y para cualquier pendiente ascendente o descendente
+en la que el vehículo se encuentre. Su acción debe ser moderable.
+    1.2.2 Frenado de socorro: el frenado de socorro debe permitir detener el vehículo en una
+distancia razonable en caso de fallo del freno de servicio. Su acción debe ser moderable.
+    1.2.3 Frenado de estacionamiento: el frenado de estacionamiento debe permitir
+mantener el vehículo inmóvil en una pendiente ascendente o descendente, incluso en
+ausencia del conductor, quedando mantenidos entonces los elementos activos en posición
+de aprieto por medio de un dispositivo de acción puramente mecánica.
+   1.3 Frenado continuo: el frenado sobre los conjuntos de vehículos obtenido por medio de
+una instalación con las siguientes características:
+     Órgano de mando único que el conductor, encontrándose en su asiento de conducción,
+acciona progresivamente con una sola maniobra.
+     La energía utilizada para el frenado de los vehículos que constituyen el conjunto está
+proporcionada por la misma fuente de energía (que puede ser la fuerza muscular del
+conductor).
+     La instalación de frenado asegura, de forma simultánea o convenientemente desfasada,
+el frenado de cada uno de los vehículos que constituyen el conjunto, cualquiera que sea su
+posición relativa.
+   1.4 Frenado semicontinuo: el frenado sobre los conjuntos de vehículos obtenido por
+medio de una instalación que tenga las siguientes características:
+     Órgano de mando único que el conductor, encontrándose en su asiento de conducción,
+acciona progresivamente con una sola maniobra.
+     La energía utilizada para el frenado de los vehículos que constituyen el conjunto está
+proporcionada por dos fuentes de energía independientes (pudiendo ser una de ellas la
+fuerza muscular del conductor).
+     La instalación de frenado asegura, de forma simultánea o convenientemente desfasada,
+el frenado de cada uno de los vehículos que constituyen el conjunto, cualquiera que sea su
+posición relativa.
+    1.5 Frenado automático: el frenado del o los remolques que actúa automáticamente en
+caso de una separación de los elementos del conjunto de vehículos acoplados, comprendido
+el caso de una ruptura del enganche, sin que se anule la eficacia de frenado del resto del
+conjunto.
+    1.6 Frenado por inercia, el frenado realizado utilizando las fuerzas que provoca el
+acercamiento del vehículo remolcado al tractor.
+    1.7 Frenado graduable: un frenado durante el cual en el interior del campo de
+funcionamiento normal del dispositivo, tanto mientras sea la aplicación o durante la
+desaplicación de los frenos:
+    El conductor puede, en cada instante, aumentar o disminuir la fuerza de frenado por
+acción del mando.
+    La fuerza de frenado varía de la misma forma que la acción sobre el mando.
+                                         Página 73
+                                BOLETÍN OFICIAL DEL ESTADO
+                                     LEGISLACIÓN CONSOLIDADA
+
+    Es posible proceder fácilmente a un reglaje suficientemente preciso de la fuerza de
+frenado.
+         2. Categorías de vehículos y tipo de función de frenado que deben llevar
+
+                                                                       Dispositivo        Automático en caso
+          Categoría           Servicio Socorro Estacionamiento
+                                                                       antibloqueo         de desenganche
+     Ciclomotor de dos
+                                SÍ       SÍ
+            ruedas
+     Ciclomotor de tres
+    ruedas y cuatriciclos       SÍ       SÍ
+            ligeros
+        Motocicletas            SÍ       SÍ
+   Motocicletas con sidecar     SÍ       SÍ
+   Vehículosde tres ruedas
+                                SÍ       SÍ             SÍ
+        y cuatriciclos
+               M1               SÍ       SÍ             SÍ
+               M2               SÍ       SÍ             SÍ
+               M3               SÍ       SÍ             SÍ                 SÍ (1)
+               N1               SÍ       SÍ             SÍ
+               N2               SÍ       SÍ             SÍ
+               N3               SÍ       SÍ             SÍ                 SÍ (2)
+               O1                                                                                 3
+               O2               SÍ                      SÍ                                      SÍ (4)
+               O3               SÍ                      SÍ                                       SÍ
+               O4               SÍ                      SÍ                  SÍ                   SÍ
+    (1) Autobuses de más de 12.000 kg, excepto los de clase I (según el Reglamento 36 de Ginebra).
+    (2) Vehículos de más de 16.000 kg autorizados para arrastrar remolques O4.
+    (3) Enganche secundario tipo cadena, cable, etc., que impida que la barra toque el suelo.
+     (4) Para más de 1.500 kg. Si es menor o igual a 1.500 kg, enganche secundario tipo cadena, cable, etc., que
+impida que la barra toque el suelo.
+                                              Vehículos especiales
+
+                                 Categoría                 Servicio Socorro Estacionamiento
+                Tractor agrícola                              SÍ                   SÍ
+                Motocultor                                  SÍ (1)
+                Tractocarro                                   SÍ      NO           SÍ
+                Maquinaria agrícola automotriz                SÍ      NO           SÍ
+                Portador                                      SÍ      NO           SÍ
+                Remolque agrícola                           SÍ (2)               SÍ (3)
+                Máquina agrícola remolcada                  SÍ (4)               SÍ (3)
+                Tractor de obras o de servicios               SÍ      NO           SÍ
+                Máquina automotriz de obras o de servicios    SÍ      NO           SÍ
+                Portador de obras o de servicios              SÍ      NO           SÍ
+                Máquina de obras o de servicios remolcada     SÍ                   SÍ
+                Trenes turísticos (5)                         SÍ      SÍ           SÍ
+    (1) Los motocultores podrán carecer de frenos:
+    a) Cuando su conductor marcha a pie.
+     b) Cuando arrastren un vehículo provisto de frenos de servicio y estacionamiento, cuyos mandos puedan ser
+accionados desde el asiento del conductor.
+    (2) Los remolques y semirremolques agrícolas, cuyas masas máximas autorizadas no excedan de 1.500 kg
+podrán carecer de freno de servicio.
+     En los remolques y semirremolques agrícolas cuyas masas máximas autorizadas no excedan de 3.000 kg, el
+accionamiento del frenado de servicio podrá ser independiente del mando de freno del tractor siempre que el
+conductor de éste pueda accionar el freno de aquéllos, desde su puesto de conducción.
+     En los remolques y semirremolques agrícolas cuyas masas máximas autorizadas excedan de 10.000 kg, el
+freno de servicio deberá actuar sobre todas las ruedas.
+     En los remolques y semirremolques agrícolas cuyas masas máximas autorizadas no excedan de 6.000 kg, el
+freno de servicio podrá ser del tipo de inercia.
+
+                                                     Página 74
+                               BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+
+    Los remolques portacortes de las máquinas agrícolas automotrices podrán carecer de freno de servicio.
+    (3) Los remolques y semirremolques agrícolas, las máquinas agrícolas remolcadas y los aperos, cuyas masas
+máximas autorizadas excedan de 750 kg, deberán estar equipados de un dispositivo de acción puramente
+mecánica, capaz de mantenerlos inmóviles, cualesquiera que sean sus condiciones de carga, en una pendiente del
+18%. Se admitirán los calzos como dispositivo de accionamiento puramente mecánico.
+    (4) Las máquinas agrícolas remolcadas cuyas masas máximas autorizadas no excedan de 3.000 kg podrán
+carecer de freno de servicio; las restantes estarán sometidas a las mismas condiciones de frenado que los
+remolques agrícolas.
+     (5) Los remolques de los trenes turísticos deberán estar provistos de un sistema de frenado que actúe
+automáticamente en el caso de una separación de los elementos que constituyen el conjunto de vehículos formado
+por el tractor y los remolques acoplados, comprendido el caso de una ruptura de enganches, sin que se anule la
+eficacia de frenado del resto del conjunto, y su sistema de frenado no podrá ser por inercia.
+
+                                                 ANEXO IX
+                                       MASAS Y DIMENSIONES
+                                              1. Definiciones
+    A efectos de este reglamento se entiende por:
+    1.1 Tara: masa del vehículo, con su equipo fijo autorizado, sin personal de Servicio,
+pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos,
+herramientas y accesorios necesarios.
+    1.2 Masa en orden de marcha: se considera como masa en orden de marcha el
+resultado de sumar a la tara la masa estándar del conductor de 75 kg y para los autobuses y
+autocares, la masa del acompañante de 75 kg si lo lleva. En los vehículos de categoría L se
+estará a lo dispuesto en el Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del
+Consejo, de 15 de enero de 2013, relativo a la homologación de los vehículos de dos o tres
+ruedas y los cuatriciclos, y a la vigilancia del mercado de dichos vehículos.
+    1.3 Masa en carga: la masa efectiva del vehículo y de su carga, incluida la masa del
+personal de servicio y de los pasajeros.
+    1.4 Masa por eje: la que gravita sobre el suelo, transmitida por la totalidad de las ruedas
+acopladas a ese eje.
+    1.5 Dimensiones máximas autorizadas: las dimensiones máximas para la utilización de
+un vehículo establecidas en este anexo. Todas las dimensiones máximas autorizadas que se
+especifican en este anexo se medirán con arreglo a la reglamentación de homologación que
+resulte de aplicación en función de la categoría del vehículo.
+    1.6 Masa máxima autorizada (MMA): la masa máxima para la utilización de un vehículo
+con carga en circulación por las vías públicas.
+    1.7 Masa máxima técnicamente admisible: la masa máxima del vehículo basada en su
+construcción y especificada por el fabricante.
+    1.8 Masa máxima autorizada por eje: la masa máxima de un eje o grupo de ejes con
+carga para utilización en circulación por las vías públicas.
+    1.9 Masa máxima por eje técnicamente admisible: la masa máxima por eje basada en su
+construcción y especificada por el fabricante.
+    1.10 Masa remolcable máxima autorizada: masa autorizada máxima de un remolque o
+semirremolque destinado a ser enganchado al vehículo de motor y hasta la cual puede
+matricularse o ponerse en servicio el vehículo. En el caso de un remolque de eje central o
+semirremolque, la masa remolcable máxima autorizada será la masa real máxima del
+remolque menos su carga real vertical sobre el punto de acoplamiento, es decir, la masa
+correspondiente a la carga soportada por los ejes del remolque.
+    1.11 Masa remolcable máxima técnicamente admisible: la masa remolcable máxima
+basada en su construcción y especificada por el fabricante.
+    1.12 Masa máxima técnicamente admisible del conjunto: Masa máxima asignada al
+conjunto formado por un vehículo de motor y uno o más remolques según sus características
+constructivas y sus prestaciones por construcción, o masa máxima asignada al conjunto
+formado por un tractocamión y un semirremolque.
+
+                                                  Página 75
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+    1.13 Masa máxima autorizada del conjunto: Masa máxima para la utilización de un
+conjunto compuesto por un vehículo motor con carga y sus remolques o semirremolques
+arrastrados con carga en circulación por las vías públicas.
+    1.14 Carga vertical máxima técnicamente admisible sobre el acoplamiento: carga
+máxima sobre el acoplamiento establecida en la concepción del vehículo motor y/o del
+acoplamiento y especificada por el fabricante.
+    1.15 Carga indivisible: la carga que, para su transporte por carretera, no puede dividirse
+en dos o más cargas sin coste o riesgo innecesario de daños y que, debido a sus
+dimensiones o masa, no puede ser transportada por un vehículo de motor, remolque, tren de
+carretera o vehículo articulado que se ajuste en todos los sentidos a las disposiciones del
+presente reglamento.
+    Se considera también carga indivisible la constituida por varios elementos de la misma
+naturaleza y destinados al mismo fin, con dimensiones idénticas o diferentes que, en
+conjunto no puede superar ninguna dimensión diferente a las ya rebasadas por el elemento
+mayor del mismo ni, en ningún caso, se podrá superar la masa máxima de conjunto, ni
+pesos máximos por eje autorizados según lo establecido en las tablas 1 y 2 de este anexo,
+para el tipo de vehículo y eje que corresponda.
+    1.16 Suspensión neumática: una suspensión se considera neumática si al menos el 75 %
+del efecto elástico se debe a un dispositivo neumático.
+    1.17 Suspensión equivalente o suspensión neumática reconocida: sistema de
+suspensión para eje(s) motor no dirigido(s) que cumple los requisitos establecidos en la
+reglamentación vigente recogida en el anexo I.
+    1.18 Dispositivo de elevación del eje: dispositivo permanente montado en un vehículo
+con objeto de reducir o incrementar la carga sobre el(los) eje(s) según las condiciones de
+carga del vehículo:
+   1. bien levantando completamente las ruedas del suelo/bajándolas del suelo,
+   2. o bien sin levantar las ruedas del suelo (por ejemplo, en el caso de sistemas de
+suspensión neumática u otros sistemas),
+    con objeto de reducir el desgaste de los neumáticos cuando el vehículo no esté
+completamente cargado, o para facilitar el arranque (inicio de la marcha) sobre terreno
+resbaladizo a los vehículos de motor o conjuntos de vehículos, incrementando la carga sobre
+el eje motor.
+     1.19 Eje retráctil: eje que pueda elevarse o bajarse mediante el dispositivo de elevación
+del eje, tal como se menciona en el número 1 del apartado 1.18.
+     1.20 Eje descargable: eje sobre el cual puede variarse la carga sin que el eje esté
+levantado, mediante el dispositivo de elevación del eje, tal como se menciona en el número 2
+del apartado 1.18.
+     1.21 Grupo de ejes: los ejes que forman parte de un bogie. En el caso de dos ejes, el
+grupo se denominará tándem, y tándem triaxial en caso de tres ejes. Convencionalmente, se
+considerará que un solo eje es un grupo de un eje.
+     1.22 Tonelada: masa correspondiente a 1.000 kg.
+     1.23 Configuración euro-modular: Conjunto de vehículos con más de 6 líneas de ejes o
+con al menos 3 módulos que, separada e individualmente considerados, no superan los
+límites máximos de masas y dimensiones establecidos en este anexo para el tipo de
+vehículo que corresponda.
+     1.24 Combustibles alternativos: los combustibles o fuentes de energía que sirven, al
+menos en parte, de sustituto a las fuentes de energía fósil para los transportes y que pueden
+contribuir a la descarbonización de estos últimos y a mejorar el comportamiento
+medioambiental del sector del transporte. Consisten en:
+   a) La electricidad consumida en todos los tipos de vehículos eléctricos,
+   b) El hidrógeno,
+   c) Los biocarburantes, tal y como se definen en el artículo 2, punto 1, del Real Decreto
+376/2022, de 17 de mayo, por el que se regulan los criterios de sostenibilidad y de reducción
+de las emisiones de gases de efecto invernadero de los biocarburantes, biolíquidos y
+combustibles de biomasa, así como el sistema de garantías de origen de los gases
+renovables,
+                                          Página 76
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    d) Los combustibles sintéticos y parafínicos,
+    e) El gas natural, incluido el biometano, en forma gaseosa (gas natural comprimido-
+GNC) y en forma licuada (gas natural licuado-GNL),
+    f) El gas licuado del petróleo (GLP),
+    g) La energía mecánica procedente de almacenamiento a bordo/de fuentes a bordo,
+incluido el calor residual.
+    1.25 Vehículo de combustible alternativo: un vehículo de motor alimentado total o
+parcialmente por un combustible alternativo, según la definición que aparece en la Directiva
+96/53/CE, del Consejo, de 25 de julio de 1996, por la que se establecen, para determinados
+vehículos de carretera que circulan en la comunidad, las dimensiones máximas autorizadas
+en el tráfico nacional e internacional y los pesos máximos autorizados en el tráfico
+internacional y que ha sido debidamente homologado.
+    1.25 bis: Vehículo pesado de emisión cero: vehículo tal como se define en el artículo 3.11
+del Reglamento UE 2019/1242, del Parlamento Europeo y del Consejo, de 20 de junio de
+2019, por el que se establecen normas de comportamiento en materia de emisiones de CO2
+para vehículos pesados nuevos y se modifican los Reglamentos (CE) n.º 595/2009 y (UE)
+2018/956 del Parlamento Europeo y del Consejo y la Directiva 96/53/CE del Consejo.
+    1.26 Operación de transporte intermodal: Tendrán esta consideración:
+    a) las operaciones de transporte combinado definidas en el artículo 1 de la Orden de 30
+de septiembre de 1993, por la que se establecen normas especiales para determinados
+transportes combinados de mercancías entre Estados miembros de la CEE, destinadas al
+transporte de uno o varios contenedores o cajas móviles, con una longitud máxima total de
+hasta 45 pies, o
+    b) Las operaciones de transporte destinadas al transporte de uno o varios contenedores
+o cajas móviles, con una longitud máxima total de hasta 45 pies, que recurran al transporte
+por la vía navegable o un recorrido marítimo, siempre que el tramo por carretera inicial o final
+no exceda de 150 km en el territorio de la Unión. Se podrá superar la distancia indicada de
+150 km con objeto de alcanzar la terminal de transporte adecuada más cercana para el
+servicio previsto, en el caso de vehículos articulados de 5 o 6 ejes, formados por un vehículo
+motor de 2 ejes y con semirremolque de 3 ejes, o por un vehículo motor de 3 ejes y
+semirremolque de 2 o 3 ejes.
+    Para las operaciones de transporte intermodal, la terminal de transporte adecuada más
+cercana que preste un servicio podrá estar situada en un Estado miembro distinto del Estado
+miembro en el que el cargamento haya sido cargado o descargado.
+    1.27 Operaciones de transporte combinado: Tendrán esta consideración las
+contempladas en la Directiva 92/106/CEE del Consejo de 7 de diciembre de 1992 relativa al
+establecimiento de normas comunes para determinados transportes combinados de
+mercancías entre Estados miembros.
+    1.28 Madera en rollo: es la carga constituida por los troncos de los árboles apeados, sin
+copa y desramados, así como las ramas obtenidas por corte, sin que pueda ser considerado
+como tales unidades más pequeñas como la corteza del árbol, astillas, serrín o similares a
+estos.
+                               2. Masas máximas permitidas
+   2.1 No se permite la circulación:
+    2.1.1 De vehículos con ruedas neumáticas o de elasticidad similar que ejerzan sobre el
+pavimento una presión superior a 9 kg por cm² de superficie bruta de apoyo. Se asimilan a
+estos vehículos los denominados “orugas” cuyas superficies de contacto con el suelo sean
+planas y no presenten salientes y los contemplados en el párrafo segundo del apartado 5.1
+del artículo 12 de este reglamento.
+    2.1.2 De vehículos de tracción animal provistos de ruedas no neumáticas o de
+elasticidad similar, con masa en carga que sobrepase los 150 kg por cm de ancho de banda
+de rodadura.
+                                           Página 77
+                                BOLETÍN OFICIAL DEL ESTADO
+                                      LEGISLACIÓN CONSOLIDADA
+
+    2.1.3 De aquellos en que los neumáticos soporten cargas superiores a las que
+determinen sus normas de seguridad (en función de sus índices de carga y velocidad
+máxima del vehículo).
+    2.1.4 De vehículos con masas por eje que excedan los límites indicados en la tabla 1 del
+presente anexo.
+    2.1.5 De vehículos con masa máxima autorizada superior a los límites indicados en la
+tabla 2 del presente anexo.
+    2.1.6 De los trenes de carretera en los que la distancia entre el eje posterior del vehículo
+motor y el delantero del remolque sea inferior a 3,00 metros.
+    2.1.7 De vehículos o conjuntos de vehículos en los que la masa soportada por el eje
+motor o los ejes motores sea inferior al 25 % de la masa total en carga del vehículo o
+conjunto de vehículos, excepto cuando se trate de conjuntos en configuración euro-modular
+o que vayan transportando madera en rollo en cuyo caso podrá ser inferior siempre que se
+garantice que el conjunto lleva suficiente peso sobre el eje o ejes motores para iniciar el
+movimiento en pendientes del 8 %.
+
+                               Tabla 1. Masas por eje máximas permitidas
+
+                                                                                                       Toneladas
+  Eje simple:
+  Eje motor.                                                                                              12
+  Eje motor de los vehículos de la clase I (autobuses urbanos), según la clasificación del
+  Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa (CEPE-
+  ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la categoría
+  M2 o M3 en lo que respecta a sus características generales de construcción.
+  Eje motor de los vehículos de las clases II y III (autobuses interurbanos), según la clasificación
+  del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa
+                                                                                                         12,6
+  (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la
+  categoría M2 o M3 en lo que respecta a sus características generales de construcción.
+  Eje no motor.                                                                                           10
+  Eje tándem:
+  Eje tándem de los vehículos de motor:
+  Si la separación “d” de dos ejes es inferior a 1,00 metros (d < 1,00 m).                                12
+  Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 m ≤ d < 1,30 m).                    16
+  Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m d < 1,80 m).                      18
+  En el caso anterior si el eje motor va equipado con neumáticos dobles y suspensión neumática
+  o reconocida como equivalente a escala comunitaria, o cuando cada eje motor esté equipado               19
+  con neumáticos dobles y la masa máxima de cada eje no excede de las 9,5 toneladas.
+  Eje tándem de los remolques o semirremolques:
+  Si la separación “d” de los ejes es inferior a 1,00 metros (d < 1,00 m).                                11
+  Si es igual o superior a 1,00 metros e inferior a 1,30 metros (1,00 ≤ d < 1,30 m).                      16
+  Si es igual o superior a 1,30 metros e inferior a 1,80 metros (1,30 m ≤ d < 1,80 m) (1).                18
+  Si es igual o superior a 1,80 metros (1,80 m ≤ d).                                                      20
+  Tándem triaxial de los remolques o semirremolques:
+  Si la distancia es igual o inferior a 1,30 metros (d ≤ 1,30 m).                                         21
+  Si la distancia es superior a 1,30 metros e inferior o igual a 1,40 metros (1,30 < d ≤ 1,40 m).         27
+      (1) Salvo para semirremolques equipados con caja basculante reforzada para la utilización específica en
+  construcción, obras o minería que será de 20 toneladas.
+                                   Tabla 2. Masas máximas autorizadas
+
+                                                                                                       Toneladas
+  Vehículos de motor:
+  Vehículo de motor de 2 ejes, excepto autobuses (1).                                                     18
+  Autobuses de dos ejes de la clase I (urbano), según la clasificación del Reglamento n.º 107 de
+  la Comisión Económica de las Naciones Unidas para Europa (CEPE-ONU), sobre disposiciones
+  uniformes relativas a la homologación de vehículos de la categoría M2 o M3 en lo que respecta
+  a sus características generales de construcción.
+  Autobuses de 2 ejes de las clases II y III (interurbano y largo recorrido), según la clasificación
+  del Reglamento n.º 107 de la Comisión Económica de las Naciones Unidas para Europa
+                                                                                                         19,50
+  (CEPE-ONU), sobre disposiciones uniformes relativas a la homologación de vehículos de la
+  categoría M2 o M3 en lo que respecta a sus características generales de construcción.
+  Vehículo de motor de tres ejes (1) y (3).                                                               25
+                                                     Página 78
+                               BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+                                                                                                  Toneladas
+  Vehículo de motor de 3 ejes, cuando el eje motor vaya equipado con neumáticos dobles
+  suspensión neumática o reconocida como equivalente a escala comunitaria, o cuando cada eje
+  motor esté equipado de neumáticos dobles y la masa máxima de cada eje no exceda de 9,5
+  toneladas (1).
+  Autobuses articulados de 3 ejes (1).                                                                 28
+  Vehículo rígido de 4 ejes con dos direccionales, cuando el eje motor vaya equipado con
+  neumáticos dobles y suspensión neumática o reconocida como equivalente a escala
+  comunitaria, o cuando cada eje motor esté equipado de neumáticos dobles y la masa máxima
+  de cada eje no exceda de 9,5 toneladas (1).
+  Otros vehículos rígidos de 4 ejes (4).                                                               31
+  Remolques:
+  Remolques de 2 ejes.                                                                                 18
+  Remolques de 3 ejes.                                                                                 24
+  Vehículos articulados de 4 ejes (*):
+  Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o
+  superior a 1,30 metros y sea inferior a 1,80 metros (1) y (2).
+  Vehículo de motor de 2 ejes y semirremolque en el cual la distancia entre ejes sea igual o
+  superior a 1,80 metros (1).
+  Vehículo de motor de 2 ejes, equipado en el eje motor con ruedas gemelas, suspensión
+  neumática o reconocida como equivalente y por un semirremolque en el cual la distancia entre
+  ejes sea superior a 1,80 metros, y se respeten la masa máxima autorizada del vehículo motor          38
+  (18 toneladas) y la masa máxima autorizada de 1 eje tándem de semirremolque (20 toneladas)
+  (1).
+  Otros vehículos articulados de 4 ejes compuestos por un tractor de 2 ejes y un semirremolque
+  de otros 2 ejes (1).
+  Vehículos articulados de 5 o más ejes (*):
+  Vehículo de motor con 2 o más ejes y con semirremolque de 3 o más ejes (1) y (5).                    44
+  Vehículo de motor con 3 ejes y con semirremolque de 2 ejes (1) y (5).                                44
+  Trenes de carretera de 4 ejes (*):
+  Vehículo de motor de 2 ejes y remolque de 2 ejes (1) y (4).                                          36
+  Trenes de carretera de 5 o más ejes (*):
+  Vehículo de motor de 2 ejes con remolque de 3 ejes (1) y (5).                                        42
+  Vehículo de motor de 3 ejes con remolque de 2 o 3 ejes (1) y (5).                                    44
+  Configuración euro-modular:
+  Conjuntos euro-modulares.                                                                            72
+       (1) Los vehículos o combinaciones de vehículos propulsados por combustible alternativo o vehículos
+  pesados de emisión cero, podrán incrementar su masa máxima autorizada en el peso adicional requerido por
+  la tecnología de combustible alternativo o emisión cero hasta un máximo de 1 o 2 toneladas respectivamente.
+       En el caso de vehículos destinados a servicios en entornos urbanos, sobre los incrementos ya
+  considerados en el párrafo anterior para cada tipo de tecnología, se podrá superar hasta un máximo de 1
+  tonelada adicional, siempre que no se supere la masa máxima técnicamente admisible del vehículo y la masa
+  por eje máximas permitidas.
+       (2) Salvo cuando el semirremolque esté equipado con caja basculante reforzada para la utilización
+  específica en construcción, obras o minería que será de 38 toneladas, siempre que la carga impuesta sobre el
+  dispositivo de acoplamiento sea compatible con las masas máximas por eje establecidos en la tabla 1.
+       (3) Cuando transporten madera en rollo en recorridos predeterminados entre provincias limítrofes o en
+  distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima, la masa máxima
+  autorizada será de 32 toneladas.
+       (4) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en
+  distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima
+  autorizada será de 42 toneladas.
+       (5) Cuando transporten madera en rollo, en recorridos predeterminados entre provincias limítrofes o en
+  distancias no superiores a 150 kilómetros entre el bosque y la industria forestal más próxima la masa máxima
+  autorizada será de 52 toneladas para los conjuntos de vehículos con cinco ejes y 57 toneladas para los
+  conjuntos de vehículos de 6 o más ejes.
+      (*) Los conjuntos de vehículos podrán incrementar su masa máxima autorizada de conjunto hasta un
+  máximo de 2 toneladas para operaciones de transporte intermodal.
+
+   3. Dimensiones máximas autorizadas a los vehículos para poder circular,
+                              incluida la carga
+    3.1 Las dimensiones máximas autorizadas a los vehículos para poder circular son las
+siguientes:
+                                                  Página 79
+                               BOLETÍN OFICIAL DEL ESTADO
+                                     LEGISLACIÓN CONSOLIDADA
+
+                              Tabla 3. Dimensiones máximas autorizadas
+
+                                               Longitud                                              Metros
+  Vehículos de motor excepto autobuses (1).                                                          12,00
+  Remolques (1).                                                                                     12,00
+  Vehículos articulados excepto autobuses (1) (5).                                                   16,50
+  Distancia máxima entre el eje de pivote de enganche y la parte trasera del semirremolque (1).      12,00
+  Distancia máxima entre el eje de pivote de enganche y un punto cualquiera de parte delantera
+                                                                                                       2,04
+  del semirremolque, horizontalmente.
+  Trenes de carretera (1) y (2).                                                                      18,75
+  La distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los
+  puntos exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del
+                                                                                                      15,65
+  remolque del conjunto de vehículos, menos la distancia entre la parte trasera del vehículo motor
+  y la parte delantera del remolque.
+  Distancia máxima, medida en paralelo al eje longitudinal del tren de carretera, entre los puntos
+  exteriores situados más delante de la zona de carga detrás de la cabina y más atrás del             16,40
+  remolque del conjunto de vehículos.
+  Autobuses articulados.                                                                              18,75
+  Autobuses rígidos de 2 ejes.                                                                        13,50
+  Autobuses rígidos de más de 2 ejes.                                                                 15,00
+  Autobuses con remolque, incluido este.                                                              18,75
+  En el caso de autobuses equipados con accesorios desmontables, como los porta esquís, la
+  longitud del vehículo, accesorios incluidos, no sobrepasará las máximas previstas en este
+  apartado.
+  Conjuntos euro-modulares.                                                                             32
+  Anchura:
+  La anchura máxima autorizada, como regla general.                                                    2,55
+  Superestructuras de vehículos acondicionados (3).                                                    2,60
+  Autobuses especialmente acondicionados para el traslado de presos (4).                               2,60
+  Altura:
+  Altura máxima de los vehículos incluida la carga, como norma general.                                4,00
+  Altura máxima de los autobuses de la clase I (urbano).                                               4,20
+  Altura máxima de los siguientes vehículos, incluida la carga:
+  Portavehículos: Camiones o conjuntos de vehículos, cuando estén especializados en el
+  transporte de vehículos.
+  Vehículos grúa: los destinados a la retirada de vehículos accidentados o averiados.
+  Camiones o vehículos articulados que transportan contenedores cerrados homologados para el
+  transporte combinado, intermodal o para el transporte aéreo del tipo ULD.                            4,50
+  Camiones o vehículos articulados de altura variable que transporten animales vivos, pacas de
+  paja y forrajes.
+  Suministros de proveedores a industrias en recorridos predeterminados inferiores a 50
+  kilómetros.
+       (1) Los vehículos o conjuntos de vehículos que transporten contenedores o cajas móviles de 45 pies de
+  longitud, con o sin carga, en una operación de transporte intermodal podrán rebasar en 15 cm la longitud o
+  distancia máxima que les corresponda.
+       (2) La longitud de los trenes de carretera especializados en el transporte de vehículos, circulando con
+  carga, puede aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero
+  autorizado para ello. El voladizo o soporte de carga trasero no podrá sobresalir en relación a la carga. La
+  carga podrá sobresalir por detrás, sin exceder el total autorizado, siempre que el último eje del vehículo que
+  se transporta descanse en la estructura del remolque. La carga no podrá sobresalir por delante del vehículo
+  de tracción.
+       (3) Un vehículo acondicionado es cualquier vehículo cuyas superestructuras fijas o móviles estén
+  parcialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de
+  cada pared lateral, incluido el aislamiento, sea de 45 mm como mínimo.
+      (4) Se entiende por vehículo tipo autobús, especialmente acondicionado para el traslado de presos, el
+  constituido por un compartimento central para celdas separado del delantero (conducción y escolta) y trasero
+  (escolta), así como por un pasillo central.
+       (5) Los vehículos o conjuntos de vehículos que transporten barras metálicas, vigas, tubos o elementos
+  longitudinales de similar forma, como conjunto de elementos indivisibles que solo superan como dimensión
+  máxima permitida la longitud, podrán rebasar en 150 cm la longitud que les corresponda.
+   3.2 Se deberá cumplir además que:
+    3.2.1 La carga no debe comprometer la estabilidad del vehículo, perjudicar las obras y
+plantaciones de la vía o constituir obstáculo para su paso bajo los puentes, viaductos o
+instalaciones aéreas.
+                                                   Página 80
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    3.2.2 Todo vehículo de motor y todo conjunto de vehículos deben ser capaces de
+describir por ambos lados una trayectoria circular completa de 360° dentro de un área
+definida por dos círculos concéntricos cuyos radios exterior e interior sean respectivamente
+de 12,50 metros y de 5,30 metros, sin que ninguno de los puntos extremos exteriores del
+vehículo se proyecte fuera de las circunferencias de los círculos.
+    En el caso de los conjuntos en configuración euro-modular los radios exterior e interior
+podrán alcanzar los valores de 14,50 metros y 6,5 metros respectivamente.
+    3.2.2 bis Otros requisitos aplicables a los autobuses:
+    Cuando el vehículo esté parado, se determinará, trazando una recta en el suelo, un
+plano vertical tangente respecto del costado del vehículo orientado hacia el exterior del
+círculo. En el caso de un autobús articulado, las dos partes rígidas deberán alinearse con
+dicho plano.
+    Cuando, al maniobrar en línea recta, el autobús entre en la superficie circular descrita en
+el punto 3.2.2, ninguna parte del mismo rebasará en más de 0,60 metros dicho plano
+vertical.
+    3.2.3 Requisitos adicionales para los vehículos de las categorías M2, M3 y N.
+    Cuando el vehículo avance hacia un lado u otro siguiendo el círculo de 12,5 metros de
+radio, ninguna parte del mismo rebasará dicho plano vertical en más de 0,8 metros, en el
+caso de un vehículo rígido, ni en más de 1,2 metros en el caso de un vehículo articulado de
+las categorías M2 o M3.
+    Para los vehículos dotados de un dispositivo de elevación de eje, este requisito será
+asimismo de aplicación con el(los) eje(s) en posición elevada.
+    Para los vehículos de categoría N con ejes retráctiles o descargables en posición
+elevada, el valor de 0,8 metros deberá ser sustituido por el de 1,0 metros.
+   3.3 La anchura de circulación de los vehículos especiales reseñados a continuación, que
+son las que regirán a todos los efectos en este reglamento, se determinará como sigue:
+    3.3.1 Para los tractores agrícolas, portadores, motocultores, tractocarros y sus
+remolques, su anchura de circulación será la del vehículo parado, incluida la carga en su
+caso.
+    3.3.2 Para los útiles, aperos y otros equipos agrícolas montados, suspendidos o
+semisuspendidos en tractores o motocultores, su anchura de circulación será la del equipo
+parado, disminuida en la distancia en que la parte derecha sobresalga lateralmente de la
+cara más externa de las ruedas del mismo lado del vehículo que las porte o arrastre, con un
+máximo a descontar de 0,5 metros.
+    3.3.3 Para las máquinas agrícolas, su anchura de circulación será la de la máquina
+parada, disminuida en 0,5 metros, si bien esta disminución no será aplicable a aquellas
+máquinas que, disponiendo de elementos abatibles o desmontables, no los lleven recogidos
+o desmontados.
+    3.3.4 Para las restantes máquinas, su anchura de circulación será la de la máquina
+parada.
+    3.3.5 Para los conjuntos de estos vehículos, su anchura de circulación será la mayor de
+todas las individuales después de ser determinadas como en los apartados 3.3.1, 3.3.2,
+3.3.3 y/o 3.3.4.
+                    4. Masas remolcables para vehículos no agrícolas
+   4.1 La masa máxima remolcable, para remolque, de un vehículo de categorías M y N no
+podrá superar:
+   4.1.1 La masa máxima remolcable técnicamente admisible basada en la construcción del
+vehículo y/o de la resistencia del dispositivo de enganche en su caso.
+   4.1.2 Según el freno del remolque:
+    4.1.2.1 Para arrastrar remolques sin freno: la mitad de la tara del vehículo tractor,
+incrementada en 75 kg., no excediendo en ningún caso de 750 kg.
+                                          Página 81
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+    4.1.2.2 Para arrastrar remolques con solo freno de inercia, la masa máxima autorizada
+del vehículo tractor (1,5 veces la M.M.A. si el vehículo a motor es todo terreno), no
+excediendo en ningún caso de 3.500 kg.
+    4.1.2.3 Para arrastrar remolques con freno continuo:
+   Si el vehículo a motor es de categoría M, igual que en el apartado 4.1.2.2.
+   Si el vehículo a motor es de categoría N:
+   Categoría N1: igual que en el apartado 4.1.2.2.
+   Categoría N2 y N3: 1,5 veces la MMA del vehículo tractor.
+   4.2 Carga vertical sobre el acoplamiento de los vehículos a motor:
+    En el caso de remolques de eje central, la carga vertical máxima autorizada sobre el
+acoplamiento del vehículo tractor, transmitida a través del dispositivo de tracción del
+remolque (cuando su carga esté uniformemente distribuida), no superará el menor de los
+valores siguientes: 10% de la masa máxima del remolque o 1.000 kg. Esta carga vertical se
+tendrá en cuenta para determinar la masa máxima autorizada del vehículo tractor y de su(s)
+eje(s) trasero(s).
+   4.3 Masas máximas del conjunto tractor más remolque (MMC):
+   La masa máxima de un vehículo tractor, para formar un conjunto con remolque, será
+como máximo:
+
+                          MMC = MMA + MMR del vehículo tractor
+   Este valor podrá estar limitado por los siguientes valores:
+    Masa máxima del conjunto técnicamente admisible declarado por el fabricante, basada
+en su construcción.
+    Masa máxima del conjunto legalmente admisible, cuando proceda.
+   4.4 Masas máximas del conjunto tractor más semirremolque:
+    Las MMA total y por ejes no deben sobrepasar los respectivos valores límites, que
+vendrán condicionados por la posición de la quinta rueda, así como no se debe sobrepasar
+la MMC.
+    La MMC de un vehículo tractor, para formar un conjunto con un semirremolque, podrá
+estar limitado por los siguientes valores:
+    Masa máxima del conjunto técnicamente admisible declarado por el fabricante, basada
+en su construcción.
+    Masa máxima del conjunto legalmente admisible.
+                     5. Masas remolcables para vehículos agrícolas
+   La formación y circulación de vehículos especiales agrícolas se ajustará a lo siguiente:
+   5.1 Siempre que el enganche del vehículo tractor forme un par compatible con el del
+remolcado, y salvo las demás limitaciones y prohibiciones contenidas en el apartado 5.2,
+podrán arrastrar, hasta los límites señalados en el apartado 5.4:
+    a) Los tractores agrícolas y portadores, cualquier tipo de remolque agrícola, máquina
+agrícola remolcada y apero.
+    b) Los motocultores, cualquier tipo de remolque agrícola, máquina agrícola remolcada de
+un eje y apero.
+    c) Las máquinas equiparadas a motocultor, aquellos remolques agrícolas y máquinas
+agrícolas remolcadas de un eje con los que formen un equipo de trabajo y así conste en el
+certificado de características de la máquina tractora.
+    d) Las máquinas agrícolas automotrices, aquellos remolques agrícolas y máquinas
+agrícolas remolcadas, con los que formen un equipo de trabajo y así conste en el certificado
+de características de la máquina tractora.
+
+                                          Página 82
+                                                      BOLETÍN OFICIAL DEL ESTADO
+                                                               LEGISLACIÓN CONSOLIDADA
+
+                  5.2 Cuando carezcan de frenos, los motocultores y máquinas equiparadas no podrán
+              arrastrar ningún remolque, semirremolque o máquina remolcada que, asimismo, carezca de
+              frenos, los posea de inercia o tenga otros no accionables desde el puesto de conducción.
+                  5.3 A los efectos de este anexo, se considerará como una sola unidad remolcada el
+              conjunto formado por una máquina y un remolque agrícola o por dos máquinas que sean
+              arrastradas por un tractor cuando formen un equipo de trabajo y así conste en el certificado
+              de características de la máquina principal.
+                  5.4 Las relaciones máximas autorizadas entre la masa en carga de los vehículos
+              remolcados y la masa en vacío de los vehículos que los arrastren a que se refiere el
+              apartado 5.1 son las indicadas en la tabla 4.
+                  5.5 Sobre las relaciones máximas fijadas en la tabla 4 de carácter general, prevalecerán,
+              además de las indicadas en los incisos anteriores:
+                  a) Las relaciones de masas más estrictas que figuren en los certificados de
+              características de los vehículos tractores y de los remolques.
+                  b) Las relaciones de masas que figuren en las tarjetas de compatibilidad de aquellos
+              conjuntos que circulen a su amparo.
+                  5.6 La masa máxima remolcable de vehículos especiales agrícolas, para remolques
+              agrícolas y las máquinas agrícolas remolcadas, no podrá superar:
+                 5.6.1 La masa máxima remolcable técnicamente admisible declarada por su fabricante,
+              basado en su construcción.
+                 5.6.2 Según el freno del remolque:
+                  5.6.2.1 Para arrastrar remolques sin freno: La masa máxima autorizada no excederá en
+              ningún caso de 1.500 kg., excepto para las máquinas agrícolas remolcadas, que el límite
+              será de 3.000 kg, y para los remolques portacortes que podrán carecer de freno de servicio.
+                  5.6.2.2 Para arrastrar remolques sólo con freno de inercia: La masa máxima autorizada
+              no excederá de 6.000 kg.
+
+              Tabla 4. Relaciones máximas autorizadas entre la masa en carga de los vehículos
+                          remolcados y la masa en vacío de los vehículos que los arrastren
+
+                                                                            Clases y dispositivos de frenado de los vehículos remolcados
+                                                                     De un eje                                                       De dos ejes
+                                                    Provistos de freno de servicio                                   Provistos de freno de servicio
+                                                                                               Carentes                                                          Carentes
+                                            Graduables
+                                                             Independientes Mecánicos de frenos              Graduables        Independientes     Mecánicos      de frenos
+                                           semicontinuos
+                                                                    (2)          de inercia de servicio semicontinuos (1)            (2)           de inercia   de servicio
+                                                (1)
+                             Tractores,
+                            portadores y
+                                                4,5                        3                         1           4,5                          3                         1
+                 Provistos   máquinas
+    Clases y
+                 de frenos automotrices
+dispositivos de
+                de servicio Motocultores
+frenado de los
+                            y máquinas                            3                                  1           Según tarjeta de compatibilidad en casode concederse
+   vehículos
+                            equiparadas
+ arrastradores
+                 Carentes Motocultores
+                                                                                                          Según tarjeta de compatibilidad en caso
+                 de frenos  y máquinas                     3                         Incompatibles                                                      Incompatibles
+                                                                                                                      de concederse
+                de servicio equiparadas
+
+                    (1) Servoasistidos por energía hidráulica o neumática.
+                    (2) Mecánicos o hidráulicos.
+
+                     6. Condiciones de circulación de los conjuntos en configuración euro-modular
+                  El organismo autónomo Jefatura Central de Tráfico establecerá mediante resolución, que
+              será publicada en el “Boletín Oficial del Estado”, los requisitos técnicos de los dispositivos de
+              acoplamiento y de mejora de seguridad relativos al campo de visión, señalización,
+              advertencia o prevención de situaciones de peligro y condiciones específicas de circulación
+              que habrán de cumplir los conjuntos euro-modulares para poder circular por vías y terrenos
+              públicos, aptos para la circulación, abiertos al tráfico general de usuarios. Esta resolución
+              estará limitada, en todo caso, a dispositivos y elementos de seguridad disponibles en el
+
+                                                                               Página 83
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+mercado y homologados conforme a lo dispuesto en el artículo 5 de este Reglamento
+General de Vehículos.
+     Su circulación quedará circunscrita a la red de itinerarios para la circulación de este tipo
+de conjuntos que cada órgano competente en regulación, ordenación y gestión del tráfico
+determine, previo informe vinculante de los titulares de las vías sobre las restricciones que
+deban tener en cuenta para el paso de los conjuntos euro-modulares como consecuencia de
+las limitaciones geométricas, estructurales o de cualquier otra índole existentes en su red.
+     Los itinerarios por donde podrán circular los conjuntos euro-modulares, teniendo en
+cuenta las restricciones dispuestas por el titular de la vía, serán publicados en el “Boletín
+Oficial del Estado”.
+     En ningún caso, la carga que lleve un conjunto euro-modular podrá sobresalir de la
+proyección en planta de los vehículos que la porten, ni tampoco se podrán transportar
+mercancías peligrosas para cuyo traslado se requiera portar paneles de señalización de
+peligro reglamentario conforme al Acuerdo Europeo sobre Transporte de Mercancías
+Peligrosas por Carretera (ADR), debiendo siempre respetar las condiciones y limitaciones
+establecidas por este Acuerdo para su transporte.
+   7. Longitud máxima de vehículos o conjuntos de vehículos con mejoras
+                              aerodinámicas.
+    Los vehículos o conjuntos de vehículos que cuenten con cabinas homologadas que
+mejoren el rendimiento aerodinámico, la eficiencia energética y la seguridad vial, así como
+los equipados con dispositivos aerodinámicos homologados en la parte trasera, podrán
+rebasar, a tal efecto, la longitud máxima establecida. Cualquier rebasamiento de las
+longitudes máximas no implicará un aumento de la capacidad de carga de dichos vehículos.
+    Los dispositivos aerodinámicos deberán reunir las siguientes condiciones operativas:
+    a) cuando la seguridad de otros usuarios de la carretera o del conductor esté en peligro,
+el conductor los plegará, replegará o desmontará;
+    b) su uso en vías urbanas e interurbanas tendrá en cuenta las características especiales
+de las zonas donde el límite de velocidad sea inferior o igual a 50 km/h y donde la
+probabilidad de que haya usuarios de la carretera vulnerables sea mayor, y
+    c) su uso será compatible con las operaciones de transporte intermodal y, en particular,
+cuando se replieguen o plieguen, no deberán aumentar la longitud máxima autorizada en
+más de 20 cm.
+                                           ANEXO X
+               DISPOSITIVOS DE ALUMBRADO Y SEÑALIZACIÓN ÓPTICA
+                                        1. Definiciones
+   A efectos de este Reglamento se entiende por:
+    1.1 Dispositivo: el elemento o conjunto de elementos que desempeñan una o varias
+funciones.
+    1.2 Luz de cruce o de corto alcance: la luz utilizada para alumbrar la vía por delante del
+vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a
+los demás usuarios de la vía.
+    1.3 Luz de carretera o de largo alcance: la luz utilizada para alumbrar una distancia larga
+de la vía por delante del vehículo.
+    1.4 Luz de posición delantera: la luz utilizada para indicar la presencia y la anchura del
+vehículo, cuando se le vea desde delante.
+    1.5 Luz de posición trasera: la luz utilizada para indicar la presencia y la anchura del
+vehículo, cuando se le vea desde detrás.
+    1.6 Luz de posición lateral: la luz utilizada para indicar la presencia de un vehículo
+cuando se le ve de lado.
+                                           Página 84
+                            BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+    1.7 Luz de marcha atrás: luz utilizada para iluminar la vía por detrás del vehículo y para
+advertir a los demás usuarios de la vía que el vehículo va, o está a punto de ir, marcha atrás.
+    1.8 Luz indicadora de dirección: la luz utilizada para indicar a los demás usuarios de la
+vía que el conductor quiere cambiar de dirección hacia la derecha o hacia la izquierda.
+    1.9 Señal de emergencia: el funcionamiento simultáneo de todas las luces indicadores
+de dirección del vehículo para advertir que el vehículo representa temporalmente un peligro
+para los demás usuarios de la vía.
+    1.10 Luz de frenado: luz utilizada para indicar, a los demás usuarios de la vía que
+circulan detrás del vehículo, que el conductor de éste está accionando el freno de servicio.
+    1.11 Luz de la placa posterior de matrícula: el dispositivo utilizado para iluminar el lugar
+en el que se colocará la placa posterior de matrícula; podrá consistir en diferentes elementos
+ópticos.
+    1.12 Luz antiniebla delantera: la luz utilizada para mejorar el alumbrado de la carretera
+en caso de niebla, nevada, tormenta o nube de polvo.
+    1.13 Luz antiniebla trasera: la luz utilizada para hacer el vehículo más visible por detrás
+en caso de niebla densa.
+    1.14 Luz de estacionamiento: la luz utilizada para señalar la presencia de un vehículo
+estacionado en zona edificada. En tales circunstancias sustituye a las luces de posición
+delanteras y traseras.
+    1.15 Luz de gálibo: la luz instalada lo más cerca posible del borde exterior más elevado
+del vehículo y destinada claramente a indicar la anchura total del vehículo. En determinados
+vehículos y remolques, esta luz sirve de complemento a las luces de posición delanteras y
+traseras del vehículo para señalar su volumen.
+    1.16 Catadióptrico (o retrocatadióptrico): dispositivo utilizado para indicar la presencia del
+vehículo mediante la reflexión de la luz procedente de una fuente luminosa independiente de
+dicho vehículo, hallándose el observador cerca de la fuente.
+    No se considerarán catadióptricos:
+    Las placas de matrícula retrorreflectantes.
+    Las señales retrorreflectantes mencionadas en el ADR.
+    Las demás placas y señales retrorreflectantes que deban llevarse para cumplir la
+reglamentación vigente sobre la utilización de determinadas categorías de vehículos o de
+determinados modos de funcionamiento.
+    1.17 Luz de trabajo: dispositivo destinado a alumbrar un lugar de trabajo o un proceso de
+trabajo.
+    1.18 Luz de alumbrado interior: la destinada a la iluminación del habitáculo del vehículo
+en forma tal que no produzca deslumbramiento ni moleste indebidamente a los demás
+usuarios de la vía.
+                      2. Dispositivos de alumbrado y señalización óptica
+    Los dispositivos de alumbrado y señalización óptica, junto con una indicación genérica
+del número, color y situación, para las distintas categorías de vehículos, aparecen recogidos
+en las siguientes tablas.
+
+       Descripción          Todo automóvil, con excepción de los reseñados en las tablas siguientes
+                                                                                          Obligatorio o
+        Tipo de luz            Número            Color              Situación (9)
+                                                                                               no
+                                                             Delante. En los bordes
+  Luz de cruce           2                  BLANCO                                       Obligatorio
+                                                             exteriores (1)
+                                                             Delante. En los bordes
+  Luz de carretera       Un número par (1) BLANCO                                        Obligatorio
+                                                             exteriores (1)
+  Luz de marcha atrás    1ó2                BLANCO           Detrás (1)                  Obligatorio
+  Luces indicadoras de   Un número par      AMARILLO         Bordes exteriores y lateral
+                                                                                         Obligatorio
+  dirección              mayor de dos (1)   AUTO             (1)
+                         Igual n.° que los                   Igual n.° que los
+                                            AMARILLO
+  Señal de emergencia    indicadores de                      indicadores de dirección    Obligatorio
+                                            AUTO
+                         dirección (1)                       (1)
+                                                             Detrás. En los bordes
+  Luz de frenado         2                  ROJO                                         Obligatorio
+                                                             exteriores (1)
+
+                                              Página 85
+                                 BOLETÍN OFICIAL DEL ESTADO
+                                      LEGISLACIÓN CONSOLIDADA
+         Descripción           Todo automóvil, con excepción de los reseñados en las tablas siguientes
+                                                                                             Obligatorio o
+         Tipo de luz               Número              Color           Situación (9)
+                                                                                                  no
+   Tercera luz de freno     1 (1)                ROJO           Detrás. Sobreelevada (1) Opcional
+   Luz de la placa de                                           La necesaria para iluminar
+                            1                    BLANCO                                     Obligatorio
+   matrícula trasera                                            la placa
+   Luz de posición                                              Delante. En los bordes
+                            2                    BLANCO                                     Obligatorio
+   delantera                                                    exteriores (1)
+                                                                Detrás. En los bordes
+   Luz de posición trasera 2                     ROJO                                       Obligatorio
+                                                                exteriores (1)
+                                                 BLANCO delante
+                                                 Rojo detrás    En los bordes exteriores
+   Luz de estacionamiento 2 ó 4 (2)                                                         Opcional (3)
+                                                 AMARILLO       (1)
+                                                 AUTO lateral
+                                                                Si es una, a la izquierda o
+                                                                en el centro. Si son dos,
+   Luz antiniebla trasera   1ó2                  ROJO                                       Obligatorio
+                                                                en los bordes exteriores
+                                                                (1)
+                                                 BLANCO o
+   Luz antiniebla delantera 2                    AMARILLO       Delante (1)                 Opcional
+                                                 SELECTIVO
+                            2 visibles por
+                                                 BLANCO delante Lo más alto que permita el
+   Luz de gálibo            delante y 2 visibles                                            Obligatoria (4)
+                                                 ROJO detrás    vehículo (1)
+                            por detrás
+   Catadióptricos
+   delanteros no            2                    BLANCO         Delante (1)                 Opcional
+   triangulares
+   Catadióptricos traseros                                      Detrás. En los bordes
+                            2                    ROJO                                       Obligatorio
+   no triangulares                                              exteriores
+                            Mínimo 2, máximo
+   Catadióptricos laterales en función de la     AMARILLO       En el lateral,
+                                                                                            Opcional (6)
+   no triangulares          longitud del         AUTO (5)       uniformemente distribuidas
+                            vehículo (1)
+                            Mínimo 2, máximo
+                            en función de la     AMARILLO       En el lateral
+   Luz de posición lateral                                                                  Obligatorio (7)
+                            longitud del         AUTO (5)       uniformemente distribuidas
+                            vehículo (1)
+   Alumbrado Interior del
+                                                                                            Opcional (8)
+   habitáculo
+   Dispositivos luminosos o
+   reflectantes de
+                                                                                            Opcional
+   señalización de apertura
+   de puertas
+    (1) En función de las categorías y de la reglamentación vigente.
+    (2) Dos delanteras y dos traseras o una delante y otra detrás, coincidiendo con las de posición.
+     (3) Si la longitud del vehículo no es mayor de 6 m, y su anchura es menor de 2. En los demás vehículos está
+prohibida.
+     (4) Es obligatoria para vehículos de más de 2,10 m de anchura y opcional para vehículos de anchura entre 1,80
+y 2,10 m. En cabinas con bastidor es opcional la luz de gálibo trasera.
+     (5) Excepcionalmente rojas, si están agrupadas, combinadas o mutuamente incorporadas con un dispositivo
+trasero
+    (6) Es obligatorio para vehículos demás de 6 m de longitud.
+     (7) Obligatoria en vehículos cuya longitud supere los 6 m excepto en las cabinas con bastidor y opcional para el
+resto.
+    (8) Es obligatoria para los destinados al servicio público de viajeros y los de alquiler con conductor
+    (9) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de los
+vehículos automóviles.
+         Descripción:                                              Motocicletas
+                                                                                                    Obligatorio o
+          Tipo de luz                  Número                  Color            Situación (3)
+                                                                                                          no
+   Luz de cruce                1ó2                      BLANCO               Delante (1)           Obligatorio
+   Luz de carretera            1ó2                      BLANCO               Delante (1)           Obligatorio
+   Luces indicadoras de
+                               2 delante y 2 detrás     AMARILLO AUTO Bordes exteriores            Opcional (2)
+   dirección
+                                                      Página 86
+                                      BOLETÍN OFICIAL DEL ESTADO
+                                         LEGISLACIÓN CONSOLIDADA
+          Descripción:                                               Motocicletas
+                                                                                                    Obligatorio o
+           Tipo de luz                    Número                  Color         Situación (3)
+                                                                                                         no
+                                  Igual número que los                   Igual que los
+   Señal de emergencia            indicadores de           AMARILLO AUTO indicadores de            Opcional
+                                  dirección                              dirección
+   Luz de frenado                 1ó2                      ROJO          Detrás (1)                Obligatorio
+   Luz de la placa de                                                    La necesaria para
+                                  1                        BLANCO                                  Obligatorio
+   matrícula trasera                                                     iluminar la placa
+                                                           BLANCO O
+   Luz de posición delantera      1ó2                                    Delante (1)               Obligatorio
+                                                           ÁMBAR
+   Luz de posición trasera        1ó2                      ROJO          Detrás (1)                Obligatorio
+   Luz antiniebla trasera         1ó2                      ROJO          Detras (1)                Opcional
+                                                           BLANCO o
+   Luz antiniebla delantera       1ó2                      AMARILLA      Delante (1)               Opcional
+                                                           SELECTIVO
+   Catadióptricos traseros no
+                               1                           ROJO              Detrás (1)            Obligatorio
+   triangulares
+   Catadióptricos laterales no
+                               1 ó 2 por cada lado         AMARILLO AUTO Lateral                   Opcional
+   triangulares
+     (1) Si es una luz, en el plano longitudinal medio del vehículo. Si son dos luces, simétricas con respecto al plano
+longitudinal medio del vehículo.
+    (2) Pasará a ser obligatorio el 1.11.99.
+    (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de
+vehículos de dos y tres ruedas.
+         Descripción:                                         Motocicletas con sidecar
+                                                                                                   Obligatorio o
+          Tipo de luz                     Número                  Color         Situación (6)
+                                                                                                         no
+   Luz de cruce                   1ó2                        BLANCO         Delante (1)           Obligatorio
+   Luz de carretera               1ó2                        BLANCO         Delante (1)           Obligatorio
+   Luces indicadoras de                                      AMARILLO
+                                  2 delante y 2 detrás                      Bordes exteriores     Opcional (5)
+   dirección                                                 AUTO
+                                                                            Igual que los
+                                  Igual número que los     AMARILLO
+   Señal de emergencia                                                      indicadores de        Opcional
+                                  indicadores de dirección AUTO
+                                                                            dirección
+   Luz de frenado                 2 ó 3 (2)                  ROJO           Detrás (3)            Obligatorio
+   Luz de la placa de                                                       La necesaria para
+                                  1                          BLANCO                               Obligatorio
+   matrícula trasera                                                        iluminar la placa
+                                                             BLANCO O
+   Luz de posición delantera      2 ó 3 (2)                                 Delante (3)           Obligatorio
+                                                             ÁMBAR
+   Luz de posición trasera     2 ó 3 (2)                     ROJO           Detrás (3)            Obligatorio
+   Luz antiniebla trasera      1ó2                           ROJO           Detrás (4)            Opcional
+   Luz antiniebla delantera    1ó2                           BLANCO         Delante (1)           Opcional
+   Catadióptricos traseros no
+                               1ó2                           ROJO           Detrás (1)            Obligatorio
+   triangulares
+   Catadióptricos laterales no                               AMARILLO
+                               1 ó 2 por cada lado                          Lateral               Opcional
+   triangulares                                              AUTO
+     (1) Si es una luz, en el plano longitudinal medio del vehículo. Si son dos luces, simétricas con respecto al plano
+longitudinal medio del vehículo.
+    (2) Sólo una en el sidecar.
+    (3) En el exterior. Si hay dos en la motocicleta, simétricas con respecto al plano medio longitudinal de ésta.
+    (4) Si sólo es una, en el lado izquierdo del vehículo.
+    (5) Pasará a ser obligatorio el 1.11.1999.
+    (6) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de
+vehículos de dos y tres ruedas.
+          Descripción:                                         Vehículo de tres ruedas
+                                                                                                   Obligatorio o
+           Tipo de luz                    Número                  Color         Situación (6)
+                                                                                                         no
+   Luz de cruce                   1 ó 2 (1)                  BLANCO          Delante (2)          Obligatorio
+   Luz de carretera               1 ó 2 (1)                  BLANCO          Delante (2)          Obligatorio
+   Luz de marcha atrás            1ó2                        BLANCO          Trasera              Opcional
+                                                         Página 87
+                                   BOLETÍN OFICIAL DEL ESTADO
+                                       LEGISLACIÓN CONSOLIDADA
+         Descripción:                                          Vehículo de tres ruedas
+                                                                                                     Obligatorio o
+          Tipo de luz                   Número                   Color             Situación (6)
+                                                                                                          no
+   Luces indicadoras de                                      AMARILLO
+                               2 por lado                                       Bordes exteriores   Opcional (5)
+   dirección                                                 AUTO
+                                                                                Igual que
+                               Igual número que         AMARILLO
+   Señal de emergencia                                                          indicadores de      Opcional (5)
+                               indicadores de dirección AUTO
+                                                                                dirección
+   Luz de frenado              1 ó 2 (1)                     ROJO               Detrás (2)          Obligatorio
+   Luz de la placa de                                                           La necesaria para
+                               1                             BLANCO                                 Obligatorio
+   matrícula trasera                                                            iluminar la placa
+                                                             BLANCO O
+   Luz de posición delantera   1 ó 2 (1)                                        Delante (2)         Obligatorio
+                                                             ÁMBAR
+   Luz de posición trasera     1 ó 2 (1)                     ROJO               Detrás (2)          Obligatorio
+   Luz antiniebla trasera      1 ó 2 (3)                     ROJO               Detrás              Opcional
+                                                             BLANCO o
+   Luz antiniebla delantera    1 ó 2 (1)                                        Delante             Opcional
+                                                             AMARILLO
+   Catadióptricos traseros no
+                               1ó2                           ROJO               Detrás              Obligatorio
+   triangulares (4)
+   Catadióptricos laterales no                               AMARILLO
+                               1 ó 2 por lado                                   Lateral             Opcional
+   triangulares                                              AUTO
+    (1) Se exigirán dos luces para los vehículos cuya anchura máxima sobrepase los 1.300 mm.
+     (2) Si es una luz, en el plano longitudinal medio del vehículo. Para vehículos con anchura superior a 1.300 mm.:
+en los extremos.
+    (3) Si sólo es una, en el lado izquierdo del vehículo.
+    (4) Un Catadióptrico trasero no triangular en los vehículos con anchura hasta 1.000 mm., a partir de la cual,
+deberán equipar dos.
+    (5) Pasará a ser obligatorio el 1.11.1999.
+    (6) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de
+vehículos de dos y tres ruedas.
+          Descripción:                  Remolques y semirremolques, con excepción de los agrícolas
+           Tipo de luz                Número             Color           Situación (5)      Obligatorio o no
+   Luz de marcha atrás         1ó2                 BLANCO           Detrás                  Opcional
+   Luces indicadoras de                            AMARILLO
+                               Un número par                        Detrás                  Obligatorio
+   dirección                                       AUTO
+                               Igual número que
+                                                   AMARILLO         Igual que indicadores
+   Señal de emergencia         indicadores de                                               Obligatorio
+                                                   AUTO             de dirección
+                               dirección
+   Luz de frenado              2                   ROJO             Detrás                  Obligatorio
+   Luz de la placa de                                               La necesaria para
+                               1                   BLANCO                                   Obligatorio
+   matrícula trasera                                                iluminar la placa
+   Luz de posición delantera   2                   BLANCO           Delante, en el exterior Obligatorio (1)
+   Luz de posición trasera     2                   ROJO             Detrás en el exterior   Obligatorio
+                               En función de su    AMARILLO
+   Luz de posición lateral                                          Laterales               Obligatorio (2)
+                               longitud            AUTO
+                                                   BLANCO delante Detrás, en el exterior
+   Luz de gálibo               2 delante 2 detrás                                           Obligatorio (3)
+                                                   ROJO detrás      y arriba
+   Luz antiniebla trasera      1ó2                 ROJO             Detrás                  Obligatorio
+   Catadíóptricos traseros
+                               2                      ROJO                Detrás, en el exterior    Obligatorio
+   triangulares
+   Catadióptricos traseros no
+                               2                      ROJO                Detrás, en el exterior    Opcional (3)
+   triangulares
+   Catadióptricos delanteros
+                               2                      BLANCO              Delante, en el exterior Obligatorio
+   no triangulares
+   Catadióptricos laterales no En función de su       AMARILLO
+                                                                          Lateral                   Obligatorio
+   triangulares                longitud               AUTO
+   Testigo A.B.S.              1                      VERDE               (6)                       (7)
+    (1) Obligatorio para anchura superior a 1,60 m. y opcional para anchura igual o inferior a 1,60 m.
+    (2) Obligatorio en vehículos cuya longitud supere los 6 m.
+    (3) Si su anchura es superior a 2,10 m.
+    (4) Si están agrupados a otros dispositivos traseros de señalización.
+    (5) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de
+vehículos automóviles.
+
+                                                      Página 88
+                                 BOLETÍN OFICIAL DEL ESTADO
+                                       LEGISLACIÓN CONSOLIDADA
+
+     (6) En el exterior del remolque, de forma que sea visible por el conductor del vehículo tractor, desde su espejo
+retrovisor
+     (7) Transitoriamente se autorizará su instalación con carácter excepcional, en función de la compatibilidad con
+la cabeza tractora.
+                                  Tractor agrícola, de obras o de servicios, todo portador, tractocarro y
+         Descripción:
+                                                     máquina automotriz de servicios
+                                                                                               Obligatorio o
+           Tipo de luz              Número               Color             Situación (3)
+                                                                                                    no
+                                                                      Delante, en los bordes
+   Luz de cruce              2                     BLANCO                                    Obligatorio
+                                                                      exteriores
+                                                                      Delante, en los bordes
+   Luz de carretera          2ó4                   BLANCO                                    Opcional
+                                                                      exteriores
+   Luz de marcha atrás       1ó2                   BLANCO             Detrás                 Opcional
+   Luces indicadoras de      Un número par de
+                                                   AMARILLO AUTO Bordes exteriores           Obligatorio
+   dirección                 luces
+                             Igual número que
+                                                                      Igual que indicadores
+   Señal de emergencia       indicadores de        AMARILLO AUTO                             Obligatorio
+                                                                      de dirección
+                             dirección
+   Luz de frenado            2                     ROJO               Detrás                 Obligatorio (2)
+   Luz de la placa de                                                 La necesaria para
+                             1                     BLANCO                                    Obligatorio
+   matrícula trasera                                                  iluminar la placa
+                                                                      Delante, bordes
+   Luz de posición delantera 2 ó 4                 BLANCO                                    Obligatorio
+                                                                      exteriores
+                                                                      Detrás, bordes
+   Luz de posición trasera   2                     ROJO                                      Obligatorio
+                                                                      cexteriores
+                                                   BLANCO delante En la anchura y altura
+   Luz de gálibo             2 delante 2 detrás                                              Opcional (1)
+                                                   ROJO detrás        máxima posible
+                                                                      Si es 1 a izda. Si son
+   Luz antiniebla trasera    1ó2                   ROJO                                      Opcional
+                                                                      dos, en los laterales
+                                                   BLANCO o
+   Luz antiniebla delantera 2                      AMARILLO           Bordes exteriores      Opcional
+                                                   SELECTIVO
+   Catadióptricos traseros
+                             2ó4                   ROJO               Bordes exteriores      Obligatorio
+   no triangulares
+   Catadióptricos laterales  En función de la
+                                                   AMARILLO AUTO En el lateral               Opcional
+   no triangulares           longitud del vehículo
+   Alumbrado interior del
+                             Sin especificar       BLANCO                                    Opcional
+   habitáculo
+                                                   BLANCO delante
+   Luz de estacionamiento 2 ó 4                                       Bordes exteriores      Opcional
+                                                   ROJO detrás
+   Luz de trabajo            Sin especificar       BLANCO             Sin especificar        Opcional
+    (1) Si su ancho es mayor de 2,10 m. Está prohibido en el resto.
+   (2) Coincidiendo con las luces de posición. Obligatorio para los vehículos de velocidad máxima autorizada
+mayor de 25 Km/h. Opcional para el resto.
+     (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores
+agrícolas.
+       Descripción:                             Máquina automotriz agrícola o para obras
+        Tipo de luz            Número             Color        Situacion (3)          Obigatorio o no
+                                                                                 Aptos para      No aptos
+                                                                                 circular de   para circular
+                                                                                    noche        de noche
+                                                             Delante, en
+   Luz de cruce            2                  BLANCO                           Obligatorio     Opcional
+                                                             bordes exteriores
+                                                             Delante, en
+   Luz de carretera        2ó4                BLANCO                           Opcional        Opcional
+                                                             bordes exteriores
+   Luz de marcha atrás     1ó2                BLANCO         Detrás            Opcional        Opcional
+   Luces indicadoras de                       AMARILLO       Bordes
+                           Un número par                                       Obligatorio     Opcional
+   direccion                                  AUTO           exteriores
+                           Igual número                      Igual que
+                                              AMARILLO
+   Señal de emergencia     que indicadores                   indicadores de    Obligatorio     Opcional
+                                              AUTO
+                           de dirección                      dirección
+   Luz de frenado          2                  ROJO           Parte trasera     Obligatorio (1) Obligatorio (1)
+   Luz de la placa de                                        La necesaria
+                           1                  BLANCO                           Obligatorio     Opcional
+   matrícula trasera                                         para iluminarla
+                                                     Página 89
+                                     BOLETÍN OFICIAL DEL ESTADO
+                                            LEGISLACIÓN CONSOLIDADA
+       Descripción:                               Máquina automotriz agrícola o para obras
+        Tipo de luz                 Número           Color       Situacion (3)          Obigatorio o no
+                                                                                   Aptos para     No aptos
+                                                                                   circular de  para circular
+                                                                                      noche       de noche
+                                                BLANCO o
+   Luz de posición                                             Bordes
+                            2ó4                 AMARILLO                         Obligatorio    Opcional
+   delantera                                                   exteriores
+                                                SELECTIVO
+   Luz de posición                                             Bordes
+                            2                   ROJO                             Obligatorio    Opcional
+   trasera                                                     exteriores
+                                                BLANCO         Bordes
+                            2 delante 2
+   Luz de gálibo                                delante ROJO   superiores del    Opcional (2)   Opcional
+                            detrás
+                                                detrás         vehículo
+                                                               Bordes
+   Luz antiniebla trasera 2                     ROJO                             Opcional       Opcional
+                                                               exteriores
+                                                BLANCO o
+   Luz antiniebla                                              Bordes
+                            2                   AMARILLO                         Opcional       Opcional
+   delantera                                                   exteriores
+                                                SELECTIVO
+   Catadióptricos
+   traseros no              2ó4                 ROJO             Detrás             Obligatorio     Obligatorio
+   triangulares
+   Catadióptricos
+                            Los necesarios      AMARILLO
+   laterales no                                                  Laterales          Opcional        Opcional
+                            (2)                 AUTO
+   triangulares
+   Luz de trabajo           Sin especificar     BLANCO           Sin especificar    Opcional        Opcional
+   Alumbrado interior del
+                            Sin especificar     BLANCO                              Opcional        Opcional
+   habitáculo
+    (1) Obligatorio para vehículos de velocidad máxima autorizada mayor de 25 km/h, opcional para el resto.
+    (2) Si su ancho es mayor de 2,10 metros. Está prohibido en el resto.
+     (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores
+agrícolas.
+        Descripción:                                               Motocultor
+         Tipo de luz                 Número          Color         Situación (3)          Obligatorio o no
+                                                                                    Aptos para No aptos para
+                                                                                    circular de     circular de
+                                                                                       noche           noche
+   Luz de cruce                 1 ó 2 (1)        BLANCO         Delante            Obligatorio    Opcional
+   Luces indicadoras de                          AMARILLO       Bordes
+                                Un número par                                      Obligatorio     Obligatorio (2)
+   dirección                                     AUTO           exteriores
+                                Igual número que                Igual que
+                                                 AMARILLO
+   Señal de emergencia          indicadores de                  indicadores de     Obligatorio     Obligatorio (2)
+                                                 AUTO
+                                dirección                       dirección
+   Luz de frenado               2                ROJO           Detrás             Opcional        Opcional
+                                                                La necesaria
+   Luz de la placa de
+                                1                BLANCO         para iluminar la   Obligatorio     Opcional
+   matrícula trasera
+                                                                placa
+   Luz de posición
+                           2ó4                   BLANCO         Delante            Obligatorio     Opcional
+   delantera
+   Luz de posición trasera 2                     ROJO           Detrás             Obligatorio     Opcional
+   Catadióptricos traseros
+                           2ó4                   ROJO           Detrás             Obligatorio     Obligatorio
+   no triangulares
+    (1) Podrán llevar una sola en función de las dimensiones del vehículo (cuando los bordes laterales de su
+superficie iluminante no disten más de 400 mm. de los correspondientes bordes exteriores del vehículo).
+    (2) Salvo los conducidos a pie o que carezcan de equipo eléctrico.
+     (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores
+agrícolas.
+
+    Para todos los vehículos especiales agrícolas:
+    La altura de las luces de cruce podrá ser superior a 1,20 metros siempre que en estos
+casos se regulen de forma que su haz ilumine una zona de 25 metros de longitud, como
+máximo, por delante del vehículo.
+    Las luces de gálibo podrán estar situadas en un plano inferior a las del alumbrado
+ordinario y siempre se colocarán en la parte más alta de la parte más ancha del vehículo. El
+                                                       Página 90
+                                   BOLETÍN OFICIAL DEL ESTADO
+                                           LEGISLACIÓN CONSOLIDADA
+
+alumbrado ordinario podrá suplir al de gálibo siempre que se cumpla la condición anterior y
+no está colocado a más de 250 milímetros de los bordes exteriores del vehículo.
+
+                                   Remolques agrícolas y máquinas de servicios remolcadas. Máquinas
+       Descripción:
+                                                   remolcadas, agrícolas o de obras
+        Tipo de luz              Número          Color       Situación (4)           Obligatorio o no
+                                                                              Aptos para      No aptos para
+                                                                               circular de      circular de
+                                                                                  noche            noche
+   Luz de marcha atrás       1ó2            BLANCO          Detrás           Opcional        Opcional
+   Luces indicadoras de      Un número par AMARILLO         Bordes
+                                                                             Obligatorio (1) Obligatorio (1)
+   dirección                 de luces       AUTO            exteriores
+   Luz de frenado            2              ROJO            Detrás           Opcional        Opcional
+                                                            La necesaria
+   Luz de la placa de
+                             1              BLANCO          para iluminar la Obligatorio     Opcional
+   matrícula trasera
+                                                            placa
+   Luz de posición
+                             2                   BLANCO         Delante              Obligatorio (2)    Opcional
+   delantera
+   Luz de posición
+                             2                   ROJO           Detrás               Obligatorio        Opcional
+   trasera
+                                                 BLANCO         Bordes
+                             2 delante 2
+   Luz de gálibo                                 delante ROJO   exteriores y         Obligatorio (3)    Opcional (3)
+                             detrás
+                                                 detrás         arriba
+   Luz antiniebla trasera    1ó2                 ROJO           Detrás               Opcional           Opcional
+   Catadióptricos
+                             2                   ROJO           Detrás               Obligatorio        Obligatorio
+   traseros triangulares
+   Catadióptricos
+   delanteros no             2                   BLANCO         Delante              Obligatorio        Obligatorio
+   triangulares
+   Catadióptricos
+                                                 AMARILLO
+   laterales no              Los necesarios                     Laterales            Obligatorio        Opcional
+                                                 AUTO
+   triangulares
+   Luz interior del
+                             Sin especificar     BLANCO                              Opcional           Opcional
+   habitáculo
+   Luz de trabajo            Sin especificar     BLANCO         Sin especificar      Opcional           Opcional
+    (1) Solamente posteriores.
+     (2) Obligatoria cuando su anchura exceda de 20 cm por el lado más desfavorable de la anchura del vehículo
+tractor. Opcional para el resto.
+    (3) Luces de gálibo anteriores y posteriores, si el vehículo tiene más de 2,10 m de anchura.
+     (4) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de tractores
+agrícolas.
+             Descripción:                                     Ciclomotor de dos ruedas
+              Tipo de luz                   Número          Color           Situación (3)              Obligatorio o no
+   Luz de cruce                            1ó2          BLANCO         Delante                         Obligatorio
+   Luz de carretera                        1ó2          BLANCO         Delante                         Opcional
+                                                                       A ambos lados,
+   Luces indicadoras de dirección          2 por lado   AMARILLO AUTO                                  Opcional
+                                                                       delante y detrás
+   Luz de frenado                          1ó2          ROJO           Detrás                          Obligatorio (1)
+                                                                       La necesaria para
+   Luz de la placa trasera                 1            BLANCO                                         Opcional
+                                                                       iluminar la placa
+   Luz de posición delantera               1ó2          BLANCO         Delante                         Opcional
+   Luz de posición trasera                 1ó2          ROJO           Delante                         Obligatorio
+   Catadióptricos traseros no
+                                           1            ROJO                Detrás                     Obligatorio
+   triangulares
+   Catadióptricos delanteros no
+                                           1            BLANCO              Delante                    Opcional
+   triangulares
+   Catadióptricos laterales no
+                                           1 ó 2 por lado AMARILLO AUTO Lateral                        Obligatorio (1)
+   triangulares
+   Catadióptricos en los pedales (2)       4            AMARILLO AUTO 2 en cada pedal                  Obligatorio
+    (1) Opcional para ciclomotores puestos en circulación hasta el 1.11.1999.
+    (2) Cuando éstos existen y no sean retráctiles.
+    (3) La situación y altura de cada dispositivo se ajustará a lo dispuesto en la reglamentación vigente de
+vehículos de dos y tres ruedas.
+
+                                                        Página 91
+                                 BOLETÍN OFICIAL DEL ESTADO
+                                      LEGISLACIÓN CONSOLIDADA
+              Descripción:                         Ciclomotor de tres ruedas o cuatriciclo ligero
+               Tipo de luz              Número         Color             Situación (7)       Obligatorio o no
+   Luz de cruce                        1 ó 2 (1) BLANCO            Delante (2)               Obligatorio
+   Luz de carretera                    1 ó 2 (1) BLANCO            Delante (2)               Opcional
+   Luces indicadoras de dirección      2 por lado AMARILLO AUTO Bordes exteriores            Obligatorio (3)
+   Luz de frenado                      1 ó 2 (1) ROJO              Detrás (2)                Obligatorio (6)
+   Luz de la placa de matrícula                                    La necesaria para
+                                       1          BLANCO                                     Opcional
+   trasera                                                         iluminar la placa
+   Luz de posición delantera           1 ó 2 (1) BLANCO            Delante (2)               Obligatorio
+   Luz de posición trasera             1 ó 2 (1) ROJO              Detrás (2)                Obligatorio
+   Catadióptricos traseros no
+                                       1ó2        ROJO                Detrás                     Obligatorio
+   triangulares (4)
+   Catadióptricos laterales no
+                                       1ó2        AMARILLO AUTO Laterales                        Opcional
+   triangulares
+   Catadióptricos en los pedales       4          AMARILLO AUTO 2 en cada pedal                  Obligatorio (5)
+    (1) Se exigirán dos luces para los vehículos cuya anchura máxima sobrepase los 1.300 mm.
+     (2) Si es una luz, en el plano longitudinal medio del vehículo. Para vehículos con anchura superior a 1.300 mm.
+en los extremos.
+    (3) Obligatorio para vehículos con carrocería cerrada y opcional para vehículos sin carrocería cerrada.
+     (4) Un catadióptrico trasero no triangular en los vehículos con anchura hasta 1 m., a partir de la cual deberán
+estar equipados de dos.
+    (5) Cuando éstos existan y no sean retráctiles.
+    (6) Opcional para ciclomotores puestos en circulación hasta el 1.11.99.
+    (7) La situación y altura de cada dispositvo se ajustará a los dispuesto en la reglamentación vigente de
+vehículos de dos y tres ruedas.
+                   Descripción:                           Ciclos, para circular de noche
+                    Tipo de luz                Número     Color           Situación    Obligatorio o no
+      Luz de posición delantera                1      BLANCO           Delante         Obligatorio
+      Luz de posición trasera                  1      ROJO             Detrás          Obligatorio
+      Catadióptricos traseros no triangulares 1       ROJO             Detrás          Obligatorio
+      Catadióptricos laterales no triangulares 1 ó 2  AMARILLO AUTO Lateral            Obligatorio
+      Catadióptricos en los pedales            4      AMARILLO AUTO 2 en cada pedal Obligatorio
+                  Descripción:                           Bicicletas para circular de noche
+                   Tipo de luz                 Número     Color           Situación     Obligatorio o no
+    Luz de posicion delantera                  1      BLANCO           Delante          Obligatorio
+    Luz de posición trasera                    1      ROJO             Detrás           Obligatorio
+    Catadióptricos traseros no triangulares    1      ROJO             Detrás           Obligatorio
+    Catadióptricos en los pedales              1ó2    AMARILLO AUTO 2 en cada pedal Opcional
+    Catadióptricos en los radios de las ruedas 4      AMARILLO AUTO                     Opcional
+               Descripción:                        Vehículos de tracción animal, para circular de noche
+                Tipo de luz                Número Color                  Situación            Obligatorio o no
+                                                              La necesaria para iluminar la
+   Luz de la placa de matrícula trasera    1         BLANCO                                   Obligatorio
+                                                              placa
+   Luz de posición delantera               1 ó 2 (1) BLANCO Delante                           Obligatorio
+   Luz de posición trasera                 1ó2       ROJO     Detrás                          Obligatorio
+   Catadióptricos traseros no trianguiares 2         ROJO     Detrás                          Obligatorio
+      (1) Si la longitud excede de 6 m. llevará 2 luces, o si la forma, dimensiones o carga del vehículo impidiesen la
+visibilidad de luz única.
+
+                                                      ANEXO XI
+                                     SEÑALES EN LOS VEHÍCULOS
+                                                  1. Materiales
+   1. El conjunto de la señal estará formado por los materiales que se especifican en cada
+una de las figuras desarrolladas.
+                                                      Página 92
+                          BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+
+     2. En aquellas señales con recubrimiento o lámina reflectante de nivel 2, éste será
+aplicado a un sustrato pintado o no.
+     3. Cuando por las características mecánicas del material de sustrato sea exigible un
+reborde (bordón) en la placa, éste se ajustará a lo dispuesto para el reborde en la figura de
+la señal correspondiente.
+     4. Cuando en alguna de las señales deban figurar caracteres embutidos, el relieve tendrá
+una altura sobre el fondo de 0,9+0,3/–0,4 mm. Se pintará antes o después de la embutición,
+utilizando exclusivamente tintas de secado forzado.
+   Se efectuará un ensayo de frotamiento con las siguientes características:
+   Resistencia del pintado al frotamiento:
+    Con una muestra de 100 × 100 mm pintada del color de los caracteres, en plano, se sitúa
+un algodón empapado en acetona y encima un peso de 4 kg, efectuándose un deslizamiento
+de 10 cm a derecha e izquierda consecutivamente hasta superar 30 pasadas. El ensayo se
+considerará superado si una vez finalizado no aparecen signos apreciables de deterioro de
+la pintura.
+    5. Si se trata de caracteres sin embutición efectuados en el reflectante, se podrán
+realizar con cualquier medio de impresión que garantice los requisitos de color y
+retrorreflexión exigidos.
+    6. En el caso de las balizas de la señal V-24 grúa de servicio de auxilio en carretera, el
+ensayo de la resistencia de la impresión en la señal se hará de acuerdo con el siguiente
+procedimiento:
+    Con una muestra de 200 × 100 mm. pintada como la señal, en plano, se sitúa un algodón
+empapado en acetona y encima un peso de 4 kg, efectuándose un deslizamiento de 10 cm.
+a derecha e izquierda consecutivamente hasta superar 30 pasadas. El ensayo se
+considerará superado si una vez finalizado no aparecen signos apreciables de deterioro de
+la pintura.
+                                      2. Especificaciones
+   1. Dimensiones de las señales.
+    Las dimensiones de las señales, de sus caracteres y de sus impresiones, se ajustarán a
+las correspondientes en cada figura.
+    2. Contraseña de homologación.
+    Se marcará en cada señal en el lugar y emplazamiento según consta en las figuras y
+estará formada por los caracteres Vxx (donde xx corresponde al número asignado a la señal,
+del 1 al 24, en este anexo XI) y un número correlativo que comenzará con el 001, dentro de
+un rectángulo de 5 mm de altura por 35 mm de largo.
+    Se admitirán señales V-1, V-2, V-3, V-5, V-6, V-16 y V-23, homologadas conforme a los
+Reglamentos CEPE/ONU números 27, 65, 69, 70 ó 104, siempre que dichas
+homologaciones hayan sido concedidas por cualquier Parte contratante del Acuerdo de 1958
+revisado.
+                   3. Muestras de prueba a presentar en el laboratorio
+   Serán necesarias nueve muestras de prueba para realizar en el laboratorio los ensayos
+necesarios.
+   4. Especificaciones de láminas reflectantes para las señales V-3 a V-15, V-20 y
+                                        V-24.
+   4.1 Retrorreflexión y color.
+   Las láminas reflectantes habrán de cumplir con los requisitos de color y retrorreflexión
+más abajo específicados que se denominarán de nivel 2.
+
+                                             Página 93
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+    Las mediciones correspondientes se realizarán empleando el iluminante normalizado A
+de la CIE bajo diferentes ángulos de divergencia u observación (α) y de iluminación o
+entrada (β) en el caso de las medidas de coeficiente de retrorreflexión R´, y el iluminante
+normalizado D65 de la CIE con un ángulo de 45° con la normal y visualizado según la misma
+(geometría 45/0) en el caso de las medidas de coordenadas de cromaticidad y factor de
+luminancia.
+
+         Nivel 2: Valores mínimos de coeficiente de retrorreflexión R´ en cd lx-1 m-2
+
+                       Angularidad                                  Colores
+                               Ángulo de incidencia
+       Ángulo de divergencia α                      Blanco Amarillo Rojo Verde Azul Naranja
+                                    β1(β2=0)
+                                                 5°    180    122     25    21   14      65
+                0.33°                           30°    100      67    14    12    8      40
+                                                40°     95      64    13    11    7      20
+    En aquellos casos en los que se trate de señales serigrafiadas con tintas transparentes,
+los valores mínimos exigibles serán el 70% de los indicados en la tabla.
+
+Coordenadas cromáticas de los puntos de intersección en el diagrama de cromaticidad CIE,
+         que determinan el área de color permitida para las láminas reflectantes
+
+                                Coordenadas cromáticas Factor de luminancia
+                      Colores
+                                   1     2     3     4   mínimo β NIVEL 2
+                               x 0.350 0.300 0.285 0.335
+                      Blanco                                   0,27
+                               y 0.360 0.310 0.325 0.375
+                               x 0.545 0.487 0.427 0.465
+                      Amarillo                                 0.16
+                               y 0.454 0.423 0.483 0.534
+                               x 0.690 0.595 0.569 0.655
+                       Rojo                                    0.03
+                               y 0.310 0.315 0.341 0.345
+                               x 0.007 0.248 0.177 0.026
+                       Verde                                   0.03
+                               y 0.703 0.409 0.362 0.399
+                               x 0.078 0.150 0.210 0.137
+                        Azul                                   0.01
+                               y 0.171 0.220 0.160 0.038
+                               x 0.610 0.535 0.506 0.570
+                      Naranja                                  0.14
+                               y 0.390 0.375 0.404 0.429
+   4.2 Marcas para identificación visual.
+    Las láminas reflectantes del nivel 2 deberán estar provistas de una marca de
+identificación visual, internamente incorporada a la lámina por el fabricante de la misma
+durante el proceso de fabricación. Dicha marca deberá ser fácilmente visible bajo
+condiciones de luz difusa o luz reflectante. Además, esta marca no podrá ser eliminada por
+medios físicos o químicos sin causar daños irreparables al sistema reflectante y deberá ser
+igualmente visible durante todo el período de vida útil de la lámina.
+    Esta marca consistirá en dos logotipos de tamaño máximo de 8 mm × 8 mm: uno
+indicativo de la marca del fabricante, y el otro la letra V, seguida de la cifra 2 indicativa del
+nivel. Las distancias entre los centros de los logotipos de identificación serán de 90 mm tanto
+en horizontal como en vertical. Los logotipos del fabricante y nivel irán colocados
+alternativamente en toda la superficie de la lámina según se muestra en la figura adjunta:
+                                            Página 94
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+              5. Especificaciones de color para las láminas fluorescentes
+    Las láminas fluorescentes rojas deberán cumplir los requisitos que siguen en lo referente
+a coordenadas cromáticas y factor de luminancia, siendo las mediciones realizadas
+empleando el iluminante normalizado D65 de la CIE con un ángulo de 45° con la normal y
+visualizando según la misma (geometría 45/0).
+
+Coordenadas cromáticas de los puntos de intersección en el diagrama de cromaticidad CIE,
+      que determinan el área de color permitida para las láminas fluorescentes rojas
+
+                           Coordenadas cromáticas Factor de luminancia
+                              1     2     3     4      mínimo β
+                          x 0.690 0.595 0.569 0.655
+                                                           0.3
+                          y 0.310 0.315 0.341 0.345
+
+   6. Ensayos de homologación para las placas correspondientes a las señales
+                            V-3 a V-15, V-20 y V-24.
+   Resistencia a la temperatura:
+    Se mantendrá una unidad de muestra, en una atmósfera seca a una temperatura de 65 ±
+2 °C, durante un período de 12 horas, después de lo cual se dejará enfriar la muestra
+durante 1 hora a una temperatura de 23 ± 2 °C. Después se le mantendrá durante 12 horas
+a una temperatura de -20 ± 2 °C.
+    La muestra será examinada después de un período de recuperación de 4 horas en
+condiciones normales de laboratorio.
+    Después de esta prueba no deberá presentarse evidencia alguna de fisura o deterioro
+apreciable en las superficies. El coeficiente de retrorreflexión R´ medido a 5° de ángulo de
+entrada y 0,33° de ángulo de observación no será menor que el 80% del valor especificado.
+   Resistencia al agua:
+                                           Página 95
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    Se sumergirá una muestra en agua destilada a una temperatura de 23 ± 5 °C durante un
+período de 18 horas; después se le dejará secar durante 2 horas en condiciones normales
+de laboratorio.
+    Una vez terminada la prueba, se examinará la muestra. Ninguna parte interior, desde 10
+mm del borde, deberá mostrar evidencia alguna de deterioro que pudiera reducir el
+rendimiento de la lámina.
+   Limpieza:
+    La muestra, untada con una mezcla de aceite lubricante detergente y grafito, deberá
+poderse limpiar fácilmente sin dañar las superficies reflectantes o fluorescentes cuando se le
+limpia con un disolvente alifático suave, como el n-heptano, seguida de un lavado con un
+detergente neutro.
+                               V-1. VEHÍCULO PRIORITARIO
+     1. La utilización de la señal V-1 en un vehículo indica la prestación de un servicio de
+policía, extinción de incendios, protección civil y salvamento, o de asistencia sanitaria, en
+servicio urgente. La señal V-1 podrá utilizarse simultáneamente con el aparato emisor de
+señales acústicas especiales.
+     2. La utilización de la señal V-1 no requerirá autorización administrativa alguna, ya se
+encuentre instalado como elemento supletorio adicional o como elemento constructivo.
+     3. La señal luminosa de vehículo prioritario V-1 estará constituida por un dispositivo
+luminoso, con una o varias luces, de color azul, homologadas conforme al Reglamento
+CEPE/ONU número 65.
+     Este dispositivo se instalará en la parte delantera del plano superior del vehículo, por
+encima de la luz más alta, o a lo largo del perímetro de la zona más alta de la parte delantera
+y trasera del vehículo.
+     En las motocicletas el dispositivo irá situado en la parte trasera, sobre un cabezal
+telescópico que permita elevarlo por encima de la parte más alta de ésta, o incrustado en la
+parte delantera y trasera de las motocicletas sin sobresalir del carenado.
+     En ningún caso la señal luminosa V-1 afectará a la visibilidad del conductor, y deberá ser
+visible en todas las direcciones a una distancia mínima de 50 metros.
+     4. Los vehículos de policía, además, podrán utilizar con carácter voluntario un sistema
+auxiliar constituido por dos fuentes luminosas (intermitentes o estroboscópicas), de color
+azul. Este sistema estará instalado en el frontal del vehículo, a la altura de las luces de
+cruce, o por encima de ellas en el caso de las motocicletas.
+     5. Queda prohibido el montaje y la utilización de la señal V-1 en vehículos que no sean
+prioritarios, por no prestar los servicios que se indican en el apartado 1.
+                         V-2. VEHÍCULO-OBSTÁCULO EN LA VÍA
+     1. La utilización de la señal V-2 en un vehículo indica la posición en la vía o en sus
+inmediaciones de un vehículo que desempeña un servicio, actividad u operación de trabajo,
+en situación de parada o estacionamiento, o a una velocidad que no supere los 40 kilómetros
+por hora.
+     Tendrán obligación de utilizar esta señal todos los vehículos que habitualmente
+desarrollen en la vía las acciones indicadas anteriormente. Igualmente tendrán obligación de
+utilizar esta señal los vehículos en régimen de transporte especial y sus vehículos piloto o de
+acompañamiento, en los términos indicados en la autorización especial de circulación, así
+como los vehículos de acompañamiento de las pruebas deportivas, marchas ciclistas y otros
+eventos y de las columnas militares.
+     En caso de avería de esta señal, deberá utilizarse la luz de cruce junto con las luces
+indicadoras de dirección con señal de emergencia.
+     2. La utilización de la señal V-2 no requerirá autorización administrativa alguna, ya se
+encuentre instalado como elemento supletorio adicional o como elemento constructivo.
+                                          Página 96
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     3. La señal luminosa V-2 estará constituida por un dispositivo luminoso, con una o varias
+luces, de color amarillo auto, homologadas conforme al Reglamento CEPE/ONU número 65.
+Deberá ser visible en todas las direcciones, desde una distancia de 100 metros.
+     En todos los casos, el dispositivo se instalará por encima de las luces más altas
+indicadoras del cambio de dirección, y no podrá afectar a la visibilidad del conductor ni a la
+resistencia de la estructura de protección del vehículo.
+     4. Los vehículos que tienen obligación de utilizar la señal luminosa V-2, además podrán
+llevar con carácter voluntario en el contorno del vehículo unos distintivos retrorreflectantes
+que se ajustarán a las siguientes características:
+     a) Los distintivos serán de material retrorreflectante de las clases 1 ó 2, según la norma
+UNE-EN 12899, con franjas alternas rojas y blancas.
+     b) La inclinación de las franjas será de 45º sobre la horizontal; la anchura mínima del
+distintivo, de 140 mm; y la anchura de las franjas, de 100 mm.
+     c) Si las franjas van colocadas en la parte delantera y trasera de los vehículos irán en
+forma de V invertida desde el centro del vehículo y si están en los laterales, irán en
+dispuestas en el sentido de la marcha del vehículo.
+     d) La superficie mínima de los distintivos en la parte delantera será de 0,16 m2; en la
+parte trasera, de 0,32 m2; y en los laterales, de 0,16 m2.
+     e) Ejemplos:
+     DIMENSIONES Y FORMA:
+   α: inclinación de las franjas a 45º
+   L: anchura mínima del distintivo 140 mm
+   P: anchura de las franjas 100 mm
+   DISPOSICIÓN:
+    5. Queda prohibido el montaje y la utilización de la señal V-2 en vehículos que no
+constituyan un obstáculo en la vía por no concurrir las circunstancias que se indican en el
+apartado 1.
+    6. Los vehículos de auxilio en vías públicas estarán dotados de distintivos
+retrorreflectantes como los definidos anteriormente, en un tercio de la superficie disponible
+frontal, lateral y trasera del vehículo de auxilio, según su configuración, hasta un máximo de
+55 centímetros de alto.
+                                V-3. VEHÍCULO DE POLICÍA
+   1. Señaliza un vehículo de esta clase en servicio no urgente.
+   2. Estará constituida por una rotulación, reflectante o no, en los costados del vehículo,
+que incorpora la denominación del cuerpo policial y su imagen corporativa.
+   3. Además de la señal descrita en el número anterior, podrá llevar:
+                                          Página 97
+                           BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+    a) Al menos, una línea de contorno longitudinal en material reflectante que se dispondrá
+por todo el perímetro del vehículo, la cual cumplirá los requisitos especificados para el nivel 2
+y será de las siguientes anchuras mínimas:
+   Vehículos con M.M.A. menor o igual a 3.500 kg: 7 cm.
+   Vehículos con M.M.A. mayor de 3.500 kg: 10 cm.
+    El color de las citadas líneas de contorno podrá ser cualquiera de los especificados en la
+tabla de coordenadas cromáticas o combinaciones de los mismos, con la excepción del
+blanco hacia atrás.
+    La ubicación de las líneas de contorno deberá realizarse de modo que se garantice la
+señalización del vehículo en toda su longitud (laterales) y anchura (trasera y delantera), así
+como la forma y dimensiones del contorno total en el caso de que se empleen varias líneas o
+bandas.
+    Los materiales reflectantes cumplirán los requisitos especificados y habrán de superar
+los ensayos igualmente descritos para los mismos.
+    b) Un alumbrado de posición o crucero, ubicado en el interior del sistema de señalización
+prioritaria, situado en la parte delantera del plano superior del vehículo, del mismo color que
+la señal V-1, homologada conforme al Reglamento ECE número 65, así como un cartel con
+la misma iluminación y rotulación del Cuerpo a que pertenece.
+                               V-4. LIMITACIÓN DE VELOCIDAD
+     1. Indica que el vehículo no debe circular a velocidad superior, en kilómetros por hora, a
+la cifra que figura en la señal.
+     2. Será obligatorio llevar en la parte posterior del vehículo, visible en todo momento, esta
+señal en los casos siguientes:
+    a) Para determinados conductores, en razón a sus circunstancias personales.
+    b) Para vehículos especiales y conjuntos de vehículos, también especiales, aunque sólo
+tenga tal naturaleza uno de los que integran el conjunto.
+    c) Para vehículos que precisen autorización especial para circular.
+    3. Las dimensiones, color y características técnicas de esta señal son las que se indican
+a continuación:
+    Aquellos vehículos que por sus dimensiones no permitan colocar la señal del tamaño
+indicado llevarán otra de dimensiones reducidas de 100 mm de diámetro con una altura de
+caracteres de 70 mm.
+
+  LÁMINA
+                        Color: Blanco nivel 2.
+  REFLECTANTE.
+                        Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24.
+  MATERIAL DEL
+                        Se autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO.
+                        equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS      Pintado antes o después de la embutición. Tipo de tinta: Negro mate. Embutidos en
+  TINTAS.               relieve.
+                                                 Página 98
+                             BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+                          Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán
+  BORDÓN.                 un reborde (bordón) con una embutición de 0.8 ± 0.2 mm pintado en negro, plano
+                          de 5 mm.
+
+                                        V-5. VEHÍCULO LENTO
+    1. Indica que se trata de un vehículo de motor o conjunto de vehículos, que, por
+construcción, no puede sobrepasar la velocidad de 40 kilómetros por hora.
+    2. Esta señal, que se instalará en la parte posterior del vehículo, será optativa para los
+vehículos de motor o conjuntos de vehículos que deban llevar la señal V-4 de limitación de
+velocidad.
+    3. Las dimensiones, color y características técnicas de esta señal son las que se indican
+a continuación:
+  LÁMINA REFLECTANTE
+                              Color: Rojo nivel 2.
+  O CATADIÓPTRICO.
+  LÁMINA FLUORESCENTE.   Color: Rojo.
+                         Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o
+  MATERIAL DEL SUSTRATO. H24. Se autoriza cualquier otro material que presente características
+                         mecánicas o físicas equivalentes teniendo en cuenta su estabilidad temporal.
+
+                                       V-6. VEHÍCULO LARGO
+   1. Indica que el vehículo o conjunto de vehículos tiene una longitud superior a 12 metros.
+
+                                                 Página 99
+                             BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+
+    2. Esta señal deberá estar colocada en la parte posterior del vehículo y centrada con
+respecto al eje del mismo. Esta placa podrá ser sustituida, cuando sea aconsejable para su
+mejor colocación, por dos de características análogas a la anterior, situadas simétricamente
+a ambos lados del eje del vehículo y tan cerca de sus bordes como sea posible. En todos los
+casos las placas se colocarán a una distancia del suelo entre 500 y 1.500 milímetros.
+    3. Las dimensiones, color y características técnicas de esta señal son las que se indican
+a continuación:
+  LÁMINA REFLECTANTE.    Color: Amarillo nivel 2.
+  LÁMINA FLUORESCENTE.   Color: Rojo.
+                         Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o
+  MATERIAL DEL SUSTRATO. H24. Se autoriza cualquier otro material que presente características
+                         mecánicas o físicas equivalentes teniendo en cuenta su estabilidad temporal.
+   4. Estas placas deberán estar homologadas de acuerdo con la reglamentación vigente
+que se recoge en el anexo I.
+                      V-7. DISTINTIVO DE NACIONALIDAD ESPAÑOLA
+    1. Indica que el vehículo está matriculado en España.
+    2. Este distintivo deberá estar situado en la parte posterior del vehículo, inscrito en el
+mismo o en una placa separada.
+    Cuando el signo distintivo esté inscrito en una placa especial, ésta deberá ser fijada en
+posición vertical o casi vertical, y perpendicularmente al plano longitudinal mediano del
+vehículo. Si se adosa o pinta en el propio vehículo, deberá quedar en una superficie vertical
+o casi vertical.
+
+                                              Página 100
+                           BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+     3. El signo distintivo de la nacionalidad española del vehículo consistirá en una letra E
+latina mayúscula pintada sobre una elipse, debiendo ajustarse sus dimensiones, color y
+características técnicas a lo que se indica a continuación:
+                   Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24. Se
+  MATERIAL DEL
+                   autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO.
+                   equivalentes teniendo en cuenta su estabilidad temporal..
+
+                   V-8. DISTINTIVO DE NACIONALIDAD EXTRANJERA
+     1. Indica que el vehículo está matriculado en el país a que corresponden las siglas que
+contiene, siendo su instalación obligatoria para circular por España.
+     2. Este distintivo deberá estar situado en la parte posterior del vehículo, inscrito en el
+mismo o en una placa separada.
+     Cuando el signo distintivo esté inscrito en una placa especial, ésta deberá ser fijada en
+posición vertical o casi vertical, y perpendicularmente al plano longitudinal mediano del
+vehículo, Si se adosa o pinta en el propio vehículo, deberá quedar en una superficie vertical
+o casi vertical.
+     3. El signo distintivo de la nacionalidad extranjera deberá estar compuesto de una a tres
+letras, mayúsculas en caracteres latinos, pintadas sobre una elipse, debiendo ajustarse sus
+dimensiones, color y características técnicas a lo que se indica a continuación:
+     Las letras tendrán una altura máxima de 80 mm y la anchura mínima de sus trazos será
+de 10 mm. Deberán estar pintadas en negro sobre fondo blanco de forma elíptica con el eje
+mayor en posición horizontal.
+     Si el signo distintivo consta de tres letras, las dimensiones mínimas de la elipse serán
+240 mm de ancho por 145 mm de alto. Estas dimensiones podrán reducirse a 175 mm de
+ancho y 115 mm de alto, si el signo consta de menos de tres letras.
+     En los signos distintivos de las motocicletas, tanto si constan de una como de dos o tres
+letras, las dimensiones de la elipse podrán reducirse a 175 mm de ancho por 115 mm de
+alto.
+                                              Página 101
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+    4. Las letras de los diferentes Estados que deben figurar en el distintivo de nacionalidad
+extranjera son los especificados a continuación:
+
+                            Adem (Reino Unido)                     ADN
+                            Albania                                  AL
+                            Alderner (Reino Unido)                 GBA
+                            Alemania                                  D
+                            Andorra                                AND
+                            Antillas Neerlandeses (Países Bajos)    NA
+                            Argelia                                  DZ
+                            Argentina                               RA
+                            Australia                              AUS
+                            Austria                                   A
+                            Bahamas (Reino Unido)                   BS
+                            Bahrein                                BRN
+                            Bangladesh                              BD
+                            Barbados                               BDS
+                            Bélgica                                   B
+                            Benin                                   DY
+                            Bielorrusia                             SU
+                            Birmania                               BUR
+                            Bosnia y Herzegovina                    BIH
+                            Botswana                                RB
+                            Brasil                                  BR
+                            Brunei (Reino Unido)                   BRU
+                            Bulgaria                                BG
+                            Cambodia                                  K
+                            Canadá                                 CDN
+                            Congo                                  RCB
+                            Corea (República de)                   ROK
+                            Costa de Marfil                           Cl
+                            Costa Rica                              CR
+                            Croacia                                 HR
+                            Checa (República)                        CZ
+                            Chile                                  RCH
+                            China                                   RC
+                            Chipre                                  CY
+                            Dinamarca                               DK
+                            Dominicana (República)                 DOM
+                            Ecuador                                 EC
+                            Egipto                                   ET
+                            Eslovaquia                              SK
+                            Eslovenia                              SLO
+                            Estados Unidos de América              USA
+                                           Página 102
+BOLETÍN OFICIAL DEL ESTADO
+   LEGISLACIÓN CONSOLIDADA
+ Estonia                               EST
+ Fidji                                   FJI
+ Filipinas                               RP
+ Finlandia                              FIN
+ Francia                                    F
+ Gambia                               WAG
+ Georgia                                GE
+ Ghana                                  GH
+ Gibraltar (Reino Unido)              GBZ
+ Grecia                                 GR
+ Guatemala                            GCA
+ Guayana                              GUY
+ Guernesey (Reino Unido)              GBG
+ Haití                                  RH
+ Honduras Británica (Reino Unido)        BH
+ Hungria                                   H
+ República Centro Africana            RCA
+ India                                 IND
+ Indonesia                                Rl
+ Irán (República Islámica de)             IR
+ Irlanda                                IRL
+ Isla de Man (Reino Unido)            GBM
+ Islas Feroe                             FR
+ Islas del Viento (Reino Unido):
+ Granada                               WG
+ San Vicente                            WV
+ Santa Lucía                            WL
+ Israel                                    IL
+ Italia                                      I
+ Jamaica                                 JA
+ Japón                                      J
+ Jersey (Reino Unido)                  GBJ
+ Jordania                              HKJ
+ Kazakhstan                              KZ
+ Kyrgyzstan                              KS
+ Kenya                                 EAK
+ Kuwait                               KWT
+ Laos (República Democrática Popular) LAO
+ Latvia                                  LV
+ Lesoto                                  LS
+ Líbano                                  RL
+ Lituania                                LT
+ Luxemburgo                                 L
+ Macedonia (República)                  MK
+ Madagascar                             RM
+ Malawi                                MW
+ Malasia (Federación de)              MAL
+ Mali                                 RMM
+ Malta                                     M
+ Marruecos                              MA
+ Méjico                               MEX
+ Mónaco                                 MC
+ Namibia                              NAM
+ Nicaragua                             NIC
+ Níger                                  RN
+ Nigeria                              WAN
+ Noruega                                   N
+ Nueva Zelanda                           NZ
+ Países Bajos                            NL
+ Pakistán                                PK
+ Papúa Nueva Guinea                   PNG
+ Paraguay                                PY
+ Perú                                    PE
+ Polonia                                 PL
+ Portugal                                   P
+ Reino Unido                            GB
+ Rhodesia del Sur                     RSR
+ Ruanda                               RWA
+ Rumania                                RO
+ Rusia (Federación)                   RUS
+
+                 Página 103
+                              BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+                               Samoa Occidental                     WS
+                               San Marino                          RSM
+                               Santa Sede                             V
+                               Senegal                              SN
+                               Seychelles                           SY
+                               Singapur                            SGP
+                               Siria (República Árabe)             SYR
+                               Sierra Leona                        WAL
+                               Sri Lanka                            CL
+                               Souazilandia                         SD
+                               Sudáfrica                            ZA
+                               Suecia                                 S
+                               Suiza                                CH
+                               Surinam (Países Bajos)              SME
+                               Tailandia                              T
+                               Tanganyka (Tanzania)                EAT
+                               Tajikistan                            TJ
+                               Togo                                 TG
+                               Trinidad y Tobago                     TT
+                               Túnez                                TN
+                               Turkmenistán                         TM
+                               Turquía                              TR
+                               Ucrania                              UA
+                               Uganda                              EAU
+                               Uruguay                             ROU
+                               Uzbekistán                           UZ
+                               Venezuela                            YV
+                               Yugoslavia                           YU
+                               Zaire                               ZRE
+                               Zambia                              RNR
+                               Zanzíbar (Tanzania)                 EAZ
+                               Zimbabwe                             ZW
+
+                                     V-9. SERVICIO PÚBLICO
+    1. Indica que el vehículo está dedicado a prestar servicios públicos.
+    2. Este distintivo consistirá en dos placas colocadas, respectivamente, una en la parte
+anterior y otra en la posterior del vehículo, al lado de sus placas de matrícula.
+    Los vehículos que no tengan obligación de llevar placa de matrícula delantera podrán
+llevar sólo una placa de servicio público en la parte posteriór.
+    La placa posterior de S.P. deberá llevar una luz que cumpla las mismas condiciones
+establecidas para la placa posterior de matrícula.
+    3. En estas placas se destacarán las letras S.P. debiendo ajustarse sus dimensiones,
+color y características técnicas a lo que se indica a continuación:
+
+                                                     Motocicletas, vehículos para
+    Dimensiones (mm) de las placas anterior y      personas de movilidad reducida y
+                                                                                      Demás vehículos
+                  posterior                           vehículos de tres ruedas y
+                                                             cuatriciclos
+  Longitud de la placa                                                            150             225
+  Altura de la placa                                                               75             120
+  Altura de las letras                                                             50              80
+  Anchura de las letras                                                            45              60
+  Espacio entre letras                                                             20              35
+  Grueso uniforme del trazo                                                         6               8
+                                                Página 104
+                          BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+  LÁMINA
+                      Color: Blanco nivel 2.
+  REFLECTANTE
+                      Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24.
+  MATERIAL DEL
+                      Se autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO
+                      equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS    Pintado antes o después de la embutición. Tipo de tinta: Negro mate. Forma del
+  TINTAS              carácter: según figura adjunta.
+                      Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán un
+  BORDÓN              reborde (bordón) con una embutición de 0.8 ± 0.2 mm pintado de negro plano de 5
+                      mm.
+
+                               V-10. TRANSPORTE ESCOLAR
+    1. Indica que el vehiculo está realizando esta clase de transporte.
+    2. Este distintivo deberá colocarse dentro del vehículo, en la parte frontal y en la parte
+posterior del mismo, de forma que resulte visible desde el exterior.
+    La señal deberá tener un sistema de fijación al vehículo de forma que quede
+perpendicular al eje del vehículo de manera que garantice el funcionamiento estable y que
+se pueda quitar o poner de forma sencilla y sin herramientas. El dispositivo de fijación y la
+señal deberán cumplir las prescripciones de radio de las aristas de ≥ 2,5 mm o dureza
+(SHORE ≤ A50).
+    3. Las dimensiones, color, contenido y características técnicas de esta señal son las que
+se indican a continuación:
+                                               Página 105
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+  LÁMINA REFLECTANTE     Color: Amarillo nivel 2/blanco nivel 2.
+                         Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o
+  MATERIAL DEL
+                         H24. Se autoriza cualquier otro material que presente características mecánicas
+  SUSTRATO
+                         o físicas equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS
+                         Tipo de tinta: Negro mate. Forma del carácter: según figura adjunta.
+  TINTAS
+    4. Opcionalmente y como alternativa en el número, dimensiones y contenido de las
+señales reguladas en los puntos 2 y 3 precedentes, se podrá utilizar la señal anterior en la
+que quede suprimido el rectángulo inferior con la leyenda "transporte escolar",
+permaneciendo únicamente un cuadrado con la figura de los niños, con los siguientes
+tamaños:
+    Vehículos de hasta 19 plazas: sin distintivo delantero y con la señal trasera de 20
+centímetros de lado.
+    Vehículos de más de 19 plazas y hasta 10 metros de longitud: señales delantera y
+trasera, ambas de 20 centímetros de lado.
+    Vehículos de más de 10 metros de longitud: señales delantera y trasera, de 36
+centímetros de lado.
+    5. En la señal definida en los puntos 3 y 4 anteriores, el pictograma podrá ser sustituido
+por el que se inserta a continuación:
+                                            Página 106
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+    Este pictograma deberá ir provisto de un dispositivo luminoso que tenga las siguientes
+características:
+    a) Intensidad de la luz. El sistema óptico estará diseñado de forma que la luz cubra un
+campo de visibilidad horizontal hacia el exterior del vehículo de 80º y 45º al interior en
+vertical ± 15º hacia arriba o hacia abajo en el interior de este campo. La intensidad de luz
+emitida debe ser igual o superior a 0,3 cd e inferior a 280 cd. Además, en los ángulos
+indicados a continuación, la luz sería igual o superior a los límites especificados a
+continuación en cd:
+                                        Página 107
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+     b) Especificaciones eléctricas. El dispositivo óptico deberá estar diseñado para funcionar
+a 12 ó 24 V corriente continua. Los ensayos fotométricos y colorimétricos se efectúan con
+una tensión de ensayo de 13,5 ó 28 V o con la fuente de energía suministrada por el
+fabricante, alimentada la misma con las tensiones de ensayo prescritas de 13,5 V ó 28 V. La
+señal en el vehículo deberá activarse simultáneamente al desbloqueo del pestillo de
+cualquiera de las puertas del vehículo y antes de que se abran totalmente y funcionará
+intermitentemente con una cadencia de 90 ± 30 períodos por minuto y con un tiempo de
+encendido de un 30% ± 5% del período y un tiempo de apagado de un 70 ± 5%.
+     c) Los ensayos fotométricos se realizarán encendiendo la luz permanentemente. Durante
+el ensayo fotométrico y en caso que el dispositivo se caliente de manera anormal, se podrán
+utilizar sistemas para evitar un calentamiento excesivo.
+     d) La señal deberá apagarse después del cerrado de las puertas del vehículo,
+tolerándose no obstante que permanezca iluminada hasta veinte segundos después de
+dicho cierre.
+     e) En caso de estar realizado con varias fuentes luminosas, deberá disponer de un
+dispositivo de aviso de lámpara o led fundido o en mal estado. Este aviso tendrá un testigo
+de tipo luminoso o acústico que indique que la señal no funciona correctamente y hay que
+sustituirla.
+     f) Funcionamiento a temperaturas extremas. El dispositivo y sus circuitos electrónicos
+asociados se someterán a una temperatura de 65º durante un período de 6 horas de
+funcionamiento continuo.
+     Otra muestra se someterá a una temperatura a -20 ºC durante 6 horas de
+funcionamiento continuo.
+                                          Página 108
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    Al final de los mismos se comprobará que satisfacen las prescripciones fotométricas y
+colorimétricas sin disminución sensible de las características iniciales.
+    g) Ensayo de color. La luz emitida por la señal alimentada a 13,5 ó 28 V corriente
+continua, deberá estar dentro de las especificaciones siguientes, coordenadas cromáticas
+CIE conforme a la Convención sobre la Circulación por Carretera (E/CONF 56/ 16/ REV. 1).
+   Límite hacia el Verde y ≤ x - 0,12
+   Rojo y ≥ 0,390
+   Blanco y ≥ 0,790 - 0,67x.
+    h) Realización de los ensayos. La comprobación de cumplimiento de las características
+definidas en los apartados a) hasta g) anteriores se realizará en un laboratorio autorizado en
+España por el Ministerio de Industria, Turismo y Comercio, en otro Estado miembro de la
+Unión Europea, en un país integrante del Espacio Económico Europeo o en Turquía.
+    El laboratorio, si los ensayos son satisfactorios, emitirá un certificado en tal sentido,
+indicando las marcas que identifican la señal.
+    i) Compatibilidad electromagnética. La señal cumplirá lo establecido para ensayos de
+emisiones e inmunidad de la Directiva 72/245/CEE, y sus modificaciones, relativa a la
+compatibilidad electromagnética.
+                  V-11. TRANSPORTE DE MERCANCÍAS PELIGROSAS
+    1. Indica que el vehículo transporta mercancías peligrosas.
+    2. Este distintivo se fijará en la parte delantera y en la parte trasera de la unidad de
+transporte, perpendicularmente al eje longitudinal de ésta y habrán de ser bien visibles.
+    Además, deberán llevar otros dos distintivos idénticos a los descritos en el párrafo
+anterior, en los costados del vehículo, paralelamente al eje longitudinal del mismo y de
+manera claramente visible, en los que deberán constar los números de identificación
+prescritos en el apéndice B.5 del Reglamento Nacional del Transporte de Mercancías
+Peligrosas por Carretera, para cada una de las materias transportadas, los siguientes
+vehículos:
+    a) Los vehículos cisterna o las unidades de transporte que consten de una o varias
+cisternas, incluidas en el citado apéndice.
+    b) Las unidades de transporte y los contenedores que transporten materias sólidas
+peligrosas a granel incluidas en el repetido apéndice.
+    En el caso de contenedores que transporten materias sólidas peligrosas a granel y en el
+caso de contenedores cisterna, los paneles situados en los costados podrán ser
+reemplazados por una hoja autoadhesiva, una pintura o cualquier otro procedimiento
+equivalente siempre que el material utilizado a tal efecto sea resistente a la intemperie y
+garantice una señalización duradera.
+    Sobre las unidades de transporte que transporten solamente una de las materias
+incluidas en el apéndice B.5, los paneles situados en los costados no serán necesarios en el
+caso en que, los colocados en las partes delantera y trasera vayan provistos de los números
+de identificación prescritos en el citado apéndice.
+    Las disposiciones anteriores son aplicables igualmente a las cisternas fijas o
+desmontables, a los contenedores - cisterna y a las baterías de recipientes vacías, sin
+limpiar y sin desgasificar, así como a los vehículos para granel vacíos y contenedores para
+granel vacíos sin limpiar.
+    Los paneles de color naranja que no se refieran a las mercancías peligrosas
+transportadas, o a los residuos de dichas mercancías, deberán ser retirados o cubiertos
+totalmente.
+    3. En la parte superior del panel deberá figurar el número de identificación del peligro, y
+en la parte inferior, el número de identificación de la materia, debiendo ajustarse sus
+dimensiones, color y características técnicas a lo dispuesto a continuación:
+                                          Página 109
+                            BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+    Si el tamaño y la construcción del vehículo son tales que la superficie disponible sea
+insuficiente para fijar dichos paneles, sus dimensiones podrán ser reducidas hasta 300 mm
+para la base, 120 mm para la altura y 10 mm para el reborde negro.
+
+  LÁMINA REFLECTANTE         Color: NARANJA NIVEL 2.
+  MATERIAL DEL SUSTRATO      Placa soporte: Plancha metálica de 1 ± 0.2 mm.
+  CARACTERES Y SUS
+                             Pintado antes o después de la embutición. Tipo de tinta: Negro mate.
+  TINTAS
+                             Exteriormente a la superficie reflectante y en todo su contorno, las placas
+  BORDÓN
+                             llevarán un reborde (bordón) según la figura adjunta.
+    4. Las muestras que se presenten a homologación se someterán al siguiente ensayo de
+resistencia al fuego:
+   Se someterán dos muestras a la acción del fuego durante 15 minutos en las condiciones
+que se detallan a continuación:
+    a) Hogar de quemado: Formado por una artesa circular de 720 mm de diámetro y 150
+mm de altura, conteniendo 50 litros de gasolina de 96 octanos.
+    b) Las dos muestras a quemar se colocarán de forma que el borde interior del panel
+quede a una altura de 500 mm del borde superior de la artesa y centrado con el recipiente.
+    c) El sitio donde se realice la prueba estará adecuadamente protegido de corrientes de
+aire.
+    d) Al cabo de quince minutos se retirarán las muestras de la llama. Los caracteres de
+ambas muestras deberán ser claramente legibles a una distancia de 5 metros.
+    e) En los paneles de números intercambiables no se admitirá un desplazamiento de los
+mismos que pueda alterar su orden de identificación.
+                         V-12. PLACA DE ENSAYO O INVESTIGACIÓN
+    1. Indica que el vehículo está efectuando pruebas especiales o ensayos de investigación.
+    2. Esta señal se colocará, una en la parte anterior y otra en la posterior del vehículo, al
+lado de la placa de matrícula.
+    3. En la señal deberán figurar las letras F.V. embutidas, y sus dimensiones, color
+características técnicas se ajustarán a lo dispuesto a continuación:
+
+                                                     Motocicletas, vehículos para
+    Dimensiones (mm) de las placas anterior y      personas de movilidad reducida y
+                                                                                      Demás vehículos
+                  posterior                           vehículos de tres ruedas y
+                                                             cuatriciclos
+  Longitud de la placa                                                            150           187,5
+  Altura de la placa                                                               75             100
+  Altura de las letras                                                             50            66,5
+
+                                                Página 110
+                              BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+                                                      Motocicletas, vehículos para
+    Dimensiones (mm) de las placas anterior y       personas de movilidad reducida y
+                                                                                      Demás vehículos
+                  posterior                            vehículos de tres ruedas y
+                                                              cuatriciclos
+  Anchura de las letras                                                            45              50
+  Espacio entre letras                                                             20              29
+  Grueso uniforme del trazo                                                         6             6,5
+  LÁMINA
+                               Fondo: ROJO NIVEL 2 Caracteres: BLANCO MATE.
+  RETRORREFLECTANTE
+                               Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o
+  MATERIAL DEL SUSTRATO        H24. Se autoriza cualquier otro material que presente características
+                               mecánicas o físicas equivalentes teniendo en cuenta su estabilidad temporal.
+                               Exteriormente a la superfície reflectante y en todo su contorno, las placas
+  BORDÓN                       llevarán un reborde (bordón) con una embutición de 08 ± 0.2 mm, pintado en
+                               negro, plano de 5 mm.
+
+                                   V-13. CONDUCTOR NOVEL
+    1. Indica que el vehículo está conducido por una persona cuyo permiso de conducción
+tiene menos de un año de antigüedad.
+    2. Deberán llevar esta señal los vehículos cuyos conductores hayan obtenido por primera
+vez un permiso de conducción durante el período de un año. El cómputo de este plazo se
+suspenderá por el período en el que el permiso se encuentre en situación de pérdida de
+vigencia, así como en el de intervención del permiso o privación del derecho a conducir
+vehículos a motor que se acuerde contra dichos conductores. Una vez que hayan concluido
+los motivos que dieron lugar a su suspensión, el plazo de un año continuará
+contabilizándose desde el momento en que hubiera quedado antes de la suspensión hasta
+que se complete el período de un año.
+    No se considerará que hayan obtenido permiso de conducción por primera vez aquellos
+conductores que hubieran sido titulares, con posesión efectiva por un período mínimo de un
+año, de otro permiso nacional o extranjero de cualquier clase, ya sea civil o militar.
+    3. Esta señal deberá estar colocada en la parte posterior izquierda del vehículo, en sitio
+visible.
+    Por excepción, en las motocicletas, vehículos para personas de movilidad reducida y
+vehículos de tres ruedas, será suficiente que la señal vaya colocada en sitio visible de la
+parte posterior.
+    Dicha señal, que será movible, no sustituirá a la señal V-4 de limitación de velocidad.
+    4. En esta señal figurará la letra L, y sus dimensiones, color y características técnicas se
+ajustarán a lo dispuesto a continuación:
+                                                Página 111
+                                BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+                                                      Motocicletas, vehículos para
+     Dimensiones (mm) de las placas anterior y      personas de movilidad reducida y
+                                                                                      Demás vehículos
+                   posterior                           vehículos de tres ruedas y
+                                                              cuatriciclos
+  Anchura de la placa                                                             100             150
+  Altura de la placa                                                              130             195
+  Altura de la letra L                                                            100             150
+  Anchura de la letra L                                                            70             105
+  Anchura del trazo de la letra L                                                  20              30
+  LÁMINA REFLECTANTE Color: VERDE NIVEL 2 / BLANCO NIVEL 2.
+                     Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24.
+  MATERIAL DEL
+                     Se autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO
+                     equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS
+                     Impresos sobre el material reflectante. Tipo de tinta: Blanco mate.
+  TINTAS
+                     Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán
+  BORDÓN
+                     un reborde (bordón) redondeado según la figura adjunta.
+
+                             V-14. APRENDIZAJE DE LA CONDUCCIÓN
+    1. Indica que el vehículo circula en función del aprendizaje de la conducción o de las
+pruebas de aptitud.
+    2. Los vehículos adscritos a la enseñanza de la conducción en Escuelas de Conductores
+deberán llevar esta señal en la parte delantera y trasera, que será únicamente visible cuando
+el vehículo circule en función de la enseñanza de las pruebas de aptitud.
+    3. Los turismos que se utilicen para la enseñanza de la conducción al amparo de una
+licencia de aprendizaje, deberán llevar esta señal en la parte delantera y trasera.
+    4. Esta señal llevará la letra L en la parte superior y la palabra PRACTICAS en la inferior,
+debiendo ajustarse sus dimensiones, color y características técnicas a lo que se indica a
+continuación:
+                                               Página 112
+                           BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+    Para Escuela de Conductores, en la parte inferior (sin pintar) llevará troquelado a la
+izquierda las siglas de la provincia y el número de la escuela, en el centro el número de
+matrícula, y a la derecha el sello de la Jefatura de Tráfico.
+    Para Licencia de aprendizaje, en la parte inferior llevará troquelada la matrícula y el sello
+de la Jefatura de Tráfico.
+
+  LÁMINA               Color: BLANCO NIVEL 2. Color: AZUL NIVEL 2 para Escuela de Conductores Color:
+  REFLECTANTE          Rojo nivel 2 para Licencia de Aprendizaje.
+                       Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24.
+  MATERIAL DEL
+                       Se autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO
+                       equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS
+                       Impresos sobre el material reflectante. Tipo de tinta: Blanco mate y rojo.
+  TINTAS
+                       Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán un
+  BORDÓN
+                       reborde (bordón) redondeado según la figura adjunta.
+
+                                       V-15. MINUSVÁLIDO
+    1. Indica que el conductor del vehículo es un minusválido que se desplaza con dificultad
+y que, por tanto, puede beneficiarse de las facilidades que se le otorguen con carácter
+general o específico.
+    2. Esta señal consistirá en dos placas colocadas, respectivamente, una en la parte
+anterior y otra en la parte posterior del vehículo.
+    3. Las dimensiones, color y características técnicas de esta señal se ajustarán a lo que
+se indica a continuacián:
+                                               Página 113
+                             BOLETÍN OFICIAL DEL ESTADO
+                                  LEGISLACIÓN CONSOLIDADA
+  LÁMINA REFLECTANTE Color: AZUL NIVEL 2 / BLANCO NIVEL 2.
+                     Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24.
+  MATERIAL DEL
+                     Se autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO
+                     equivalentes teniendo en cuenta su estabilidad temporal.
+  CARACTERES Y SUS
+                     Impresos sobre el material reflectante. Tipo de tinta: Blanco mate.
+  TINTAS
+                     Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán
+  BORDÓN
+                     un reborde (bordón) redondeado según la figura adjunta.
+
+                  V-16. DISPOSITIVO DE PRESEÑALIZACIÓN DE PELIGRO
+   1. Indica que el vehículo ha quedado inmovilizado en la calzada o que su carga se
+encuentra caída sobre la misma.
+   2. Este dispositivo de color amarillo auto se colocará en la parte más alta posible del
+vehículo inmovilizado garantizado su máxima visibilidad.
+   3. Tendrá las siguientes características:
+    a) Irradiación: el sistema óptico estará diseñado de forma que la luz cubra un campo de
+visibilidad horizontal de 360 grados y en vertical un mínimo de ± 8 grados hacia arriba y
+hacia abajo,
+    b) Intensidad luminosa: la intensidad debe ser en el grado 0 entre 40 y 700 candelas
+efectivas, y en los grados ±8 entre 25 y 600 candelas efectivas. En ambos casos dicha
+intensidad de mantendrá durante al menos 30 minutos.
+    El tiempo de encendido, “ON time” según se define en el Reglamento de la Comisión
+Económica para Europa de las Naciones Unidas (CEPE/ONU) 65, será como máximo 0,4/
+frecuencia de destello.
+    El tiempo de apagado, “OFF time” según se define en el Reglamento CEPE/ONU 65,
+será como mínimo de 0,1 segundos.
+    El tiempo entre destellos inmediatamente consecutivos (Δe) para señales luminosas
+consistentes en grupos de varios destellos será el definido en el anexo 5 del Reglamento
+ECE 65.
+    c) Grado de protección IP: al menos será IP54.
+    d) Estabilidad: el equipo estará diseñado para quedar estable sobre una superficie plana,
+no desplazándose frente a una corriente de aire que ejerza una presión dinámica de 180 Pa,
+en la dirección más desfavorable para su estabilidad.
+    e) Frecuencia de destello: entre 0,8 y 2 Hz.
+    f) Se garantizará el funcionamiento de la luz a temperaturas de −10 ºC y 50 ºC.
+                                               Página 114
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    g) Realización de los ensayos: la comprobación de cumplimiento de las características
+definidas en los párrafos a) hasta f) anteriores se realizará en un laboratorio acreditado de
+acuerdo a la norma UNE EN-ISO 17025 por la Entidad Nacional de Acreditación (o por
+cualquier otro Organismo Nacional de Acreditación designado por otro Estado miembro de
+acuerdo al Reglamento CE n.º 765/2008 y en las condiciones establecidas en el artículo 11
+de dicho Reglamento) para el Reglamento CEPE/ONU 65. El laboratorio, si los ensayos son
+satisfactorios, emitirá un certificado en tal sentido, indicando las marcas que la identifiquen
+en la tulipa del dispositivo.
+    La alimentación del dispositivo será autónoma a través de una pila o batería que deberá
+garantizar su uso al cabo de 18 meses. Se considerará que los dispositivos que utilicen una
+batería recargable y siempre que la carga del mismo se pueda realizar en el propio vehículo
+cumplen con este requisito.
+    4. Este dispositivo comunicará, en todo caso, su activación, desactivación y
+geoposicionamiento, al punto de acceso nacional en materia de tráfico y movilidad. La
+información sobre la ubicación del vehículo accidentado se enviará cada 100 segundos y
+dejará de enviarse una vez se haya remitido la información de desactivación.
+    5. El coste las comunicaciones estará incluido en el precio de venta al público y estas se
+garantizarán durante al menos 12 años.
+    6. El dispositivo incluirá en el interior de su carcasa todos los elementos necesarios para
+su operación, incluidos los de comunicaciones, sin depender en ningún caso de elementos
+externos como aplicaciones de teléfonos móviles u otros similares.
+    7. El listado de las marcas y modelos de dispositivos V-16 que cumplan con todo lo
+establecido en este apartado, y por lo tanto sean válidos para señalizar un accidente, será
+publicado en la dirección http://www.dgt.es/v16.
+    8. La fecha de caducidad de servicio, referida al periodo de conectividad incluido con la
+adquisición de la baliza, deberá figurar tanto en el envase como en el propio dispositivo.
+    9. Los dispositivos de preseñalización de peligro V-16 estarán destinados
+exclusivamente a la visibilización del vehículo accidentado y consiguiente remisión a la
+Dirección General de Tráfico de la ubicación del vehículo accidentado, no pudiendo
+incorporar funcionalidades adicionales.
+    10. A fin de garantizar la correspondencia entre los prototipos ensayados, conforme a lo
+dispuesto en el párrafo g) del apartado 3, de la sección V-16 Dispositivo de preseñalización
+de peligro del anexo XI, y los dispositivos finalmente fabricados, el fabricante deberá
+disponer de un certificado de verificación periódica del control de la producción de los
+dispositivos V-16. Dicho certificado, será emitido por un servicio técnico de la conformidad de
+la producción designado para el Reglamento CEPE/ONU 65. Los requisitos para verificar la
+existencia de disposiciones y procedimientos para asegurar el control efectivo de la
+conformidad de la producción, así como las muestras a ensayar, serán los establecidos para
+el Reglamento CEPE/ONU 65.
+    11. Los servicios técnicos designados para la certificación de las señales V-16 deberán
+comunicar a la Dirección General de Tráfico la relación de aquellos dispositivos que
+obtengan certificación. Los servicios técnicos designados actuarán como punto de contacto
+único entre los fabricantes y la Dirección General de Tráfico.
+    12. En todo caso, el certificado deberá incluir el análisis de la efectividad de las
+comunicaciones, así como la conectividad de las señales V-16, con la plataforma de vehículo
+conectado de la Dirección General de Tráfico.
+                       V-17. ALUMBRADO INDICADOR DE «LIBRE»
+    1. Indica que los autotaxis circulan en condiciones de ser alquilados.
+    2. Esta señal consistirá en una luz de color verde, homologada conforme a la
+reglamentación vigente que se recoge en el anexo I, no deslumbrante, colocada al exterior
+del vehículo y en su parte delantera derecha, en el sentido de la marcha.
+    Deberá ser visible tanto desde la parte delantera como desde la trasera y, al menos,
+desde el lado derecho del vehículo en el sentido de la marcha.
+                                          Página 115
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    3. Además del alumbrado indicador de libre, los autotaxis podrán llevar colocada en el
+exterior y en su parte delantera un indicador luminoso de tarifas múltiples, claramente visible
+tanto de noche como de día, conforme a lo prescrito en la reglamentación vigente.
+                            V-18. ALUMBRADO DE TAXÍMETRO
+    1. Es el destinado, en los automóviles de turismo de servicio público de viajeros, a
+iluminar el contador taxímetro tan pronto se produzca la bajada de bandera.
+    2. Este dispositivo deberá tener una intensidad suficiente que permita su fácil lectura y
+no debe producir deslumbramiento para los demás usuarios de la vía pública
+    3. No será obligatorio este alumbrado en el caso en que las cifras o letras del taxímetro
+sean autoluminosas.
+       V-19. DISTINTIVO DE INSPECCIÓN TÉCNICA PERIÓDICA DEL VEHÍCULO
+    1. Indica que el vehículo ha superado favorablemente la inspección técnica periódica, así
+como la fecha en que debe pasar la próxima inspección.
+    2. En el caso de vehículos que tengan parabrisas, el distintivo se colocará en el ángulo
+superior derecho del parabrisas por su cara interior. La cara impresa del distintivo será
+autoadhesiva.
+    En el resto de los vehículos, el distintivo se colocará en sitio bien visible. La cara sin
+imprimir del distintivo será autoadhesiva.
+    3. Las dimensiones, color y características técnicas de esta señal deberán cumplir lo
+dispuesto en la reglamentación vigente que se recoge en el anexo I y, en particular, se
+ajustarán a lo indicado a continuación:
+   Las cifras serán del tamaño siguiente (en milímetros):
+
+                            Altura de las cifras en los números del mes 4
+                            Altura de las cifras en los números del año 12
+                            Grosor del trazo en los números del mes     0,7
+                            Grosor del trazo en los números del año       2
+   Los colores del fondo y los de los caracteres se determinarán de acuerdo con el año civil
+en que caduque el plazo de validez de la inspección. Dichos colores son para cada año los
+que se indican a continuación:
+
+                                      Año Fondo Caracteres
+                                      1998 Verde Rojo
+
+                                             Página 116
+                          BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+                                      Año Fondo Caracteres
+                                      1999 Amarillo Rojo
+                                      2000 Rojo     Amarillo
+   y cambiarán sucesivamente según esta secuencia en los años siguientes.
+   Los colores de las siglas ITV serán siempre azules.
+                    V-20. PANEL PARA CARGAS QUE SOBRESALEN
+    1. Indica que la carga del vehículo sobresale posteriormente.
+    2. Cuando la carga sobresalga por detrás del vehículo deberá colocarse esta señal en el
+extremo posterior de la carga de manera que quede constantemente perpendicuar al eje del
+vehículo.
+    Cuando la carga sobresalga longitudinalmente por toda la anchura de la parte posterior
+del vehículo, se colocarán transversalmente dos paneles de señalización, cada uno en un
+extremo de la carga o de la anchura del material que sobresalga. Ambos paneles deberán
+colocarse de tal manera que formen una geometría de V invertida con franjas alternas rojas y
+blancas.
+    3. Las dimensiones, color y características técnicas de esta señal son las que se indican
+a continuación:
+  LÁMINA
+                     Color: BLANCO Y ROJO NIVEL 2.
+  REFLECTANTE
+                     Placa soporte: Plancha de aluminio de 1,4 ± 0.1 mm. Aleación 1.200 H14 y/o H24. Se
+  MATERIAL DEL
+                     autoriza cualquier otro material que presente características mecánicas o físicas
+  SUSTRATO
+                     equivalentes teniendo en cuenta su estabilidad temporal.
+                     Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán un
+  BORDÓN
+                     reborde (bordón) redondeado según la figura adjunta.
+                                             Página 117
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   V-21 CARTEL AVISADOR DE ACOMPAÑAMIENTO DE VEHÍCULO ESPECIAL O
+           DE VEHÍCULOS EN RÉGIMEN DE TRANSPORTE ESPECIAL
+    1. Indica la circulación próxima de un vehículo en régimen de transporte especial o
+vehículo especial.
+    2. Deberán llevar en todo momento esta señal los vehículos cuando circulen solo en
+función y servicio de acompañamiento a la circulación de un vehículo especial o de un
+vehículo en régimen de transporte especial.
+    3. Irá colocada en la parte superior del vehículo de acompañamiento, de forma vertical y
+sujeta de tal modo que se evite el riesgo de caída. Se instalará como elemento supletorio
+adicional (movible).
+    4. En esta señal deberá figurar la palabra ESPECIAL, y sus dimensiones, color,
+contenido y características técnicas se ajustarán a lo que se indica a continuación:
+                                         Página 118
+                         BOLETÍN OFICIAL DEL ESTADO
+                             LEGISLACIÓN CONSOLIDADA
+   5. La señal V-2 podrá ir incorporada a esta señal formando un conjunto.
+           V-22 CARTEL AVISADOR DE ACOMPAÑAMIENTO DE CICLISTA
+    1. Indica la circulación próxima de ciclistas.
+    2. Deberán llevar en todo momento esta señal los vehículos cuando circulen solo en
+función y servicio de acompañamiento a la circulación de ciclistas.
+                                        Página 119
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    3. Irá colocada en la parte superior del vehículo de acompañamiento, de forma vertical y
+sujeta de tal modo que se evite el riesgo de caída. Se instalará como elemento supletorio
+adicional (movible).
+    4. Esta señal tendrá inscrita en la parte izquierda la señal P-22 y en la parte derecha, la
+palabra CICLISTAS, debiendo ajustarse sus dimensiones, color, contenido y características
+técnicas a lo que se indica a continuación:
+   5. La señal V-2 podrá ir incorporada a esta señal formando un conjunto.
+                                          Página 120
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+         V-23 DISTINTIVO DE VEHÍCULOS DE TRANSPORTE DE MERCANCÍAS
+    1. Señaliza vehículos largos y pesados, así como sus remolques, tanto en la parte
+trasera del vehículo como en el lateral del mismo, en función de las masas máximas,
+longitudes y categorías, conforme se establece en el Reglamento CEPE/ONU 48R.
+    2. Estará constituido por un marcado reflectante, homologado según el Reglamento
+CEPE/ONU 104R e instalado en el vehículo según los requisitos del Reglamento CEPE/ONU
+48R, utilizados para incrementar la visibilidad y el reconocimiento de los vehículos de motor
+o conjuntos de vehículos o sus cargas citados en el apartado 1. Se entiende por distintivo
+una franja regular o una serie de dichas franjas colocadas de manera tal que identifiquen el
+contorno o, en su defecto, la longitud y anchura total de un vehículo de motor o conjunto de
+vehículos o sus cargas cuando sea visto desde un lado o desde atrás.
+    3. Ejemplos de distintivos retrorreflectantes.
+                                         Página 121
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 122
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+            V-24 VEHÍCULO DE SERVICIO DE AUXILIO EN VÍAS PÚBLICAS
+   La señal V-24 estará constituida por los siguientes elementos:
+   a) Una placa en el vehículo de auxilio ubicada en la parte frontal o posterior del mismo,
+según la configuración del vehículo. Será de material plástico o metálico de alta resistencia
+según el diseño y características que se indican a continuación:
+
+                  Placa de vehículo de servicio de auxilio en vías públicas
+                                         Página 123
+                             BOLETÍN OFICIAL DEL ESTADO
+                                   LEGISLACIÓN CONSOLIDADA
+  LÁMINA REFLECTANTE                                     Color Blanco NIVEL II
+                                            Placa Soporte: Plancha de aluminio de 1,4 mm
+      MATERIAL DEL                                    Aleación 1200 H14 y/o H24
+       SUSTRATO              Se autoriza cualquier otro material que presente características mecánicas o
+                                   físicas equivalentes, teniendo en cuenta su estabilidad temporal
+      CARACTERES Y
+                                                 Tipo de tinta: Negro mate y Azul mate
+         TINTAS
+                           Exteriormente a la superficie reflectante y en todo su contorno, las placas llevarán
+         BORDÓN
+                                                 un reborde (bordón) según la figura 1
+    b) Opcionalmente, una señal acústica a través de un aparato emisor de señales
+acústicas especiales. El sonido y tono de la señal acústica será por defecto tritonal
+discontinua tipo bip-bip-bip.
+   Los aparatos emisores de señales acústicas deberán cumplir lo dispuesto en el Real
+Decreto 1367/2007, de 19 de octubre, por el que se desarrolla la Ley 37/2003, de 17 de
+noviembre, del Ruido, en lo referente a zonificación acústica, objetivos de calidad y
+emisiones acústicas.
+                                   V-25 DISTINTIVO AMBIENTAL
+     1. Identifica la clasificación ambiental que el vehículo tiene en el Registro de Vehículos: 0
+emisiones, ECO, C y B. No se crea distintivo para la categoría A.
+     2. La Administración competente podrá establecer la obligatoriedad de la colocación del
+distintivo en el vehículo, mediante su inclusión expresa en el instrumento normativo que
+corresponda por razón de su competencia.
+     3. Si el vehículo dispone de parabrisas delantero, el distintivo irá colocado en el ángulo
+inferior derecho del mismo, por su cara interior. La cara impresa del distintivo será
+autoadhesiva.
+     En el caso de que el vehículo no disponga de parabrisas, el distintivo se colocará en sitio
+bien visible. En este supuesto, la cara sin imprimir será autoadhesiva.
+     4. Los distintivos ambientales son circulares y tienen un diámetro de un máximo de 97
+mm para los vehículos que disponen de parabrisas y de un máximo de 87 mm para el resto
+de vehículos.
+     5. Tipos de distintivos ambientales:
+    a) Distintivo “0 emisiones”:
+    Se utilizará por los vehículos clasificados como “0 emisiones”. Se identifica con el
+siguiente adhesivo, que tiene fondo de color azul:
+    b) Distintivo “ECO”:
+   Se utilizará por los vehículos clasificados como “ECO”. Se identifica con el siguiente
+adhesivo, que tiene fondo de color verde y azul:
+                                                Página 124
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+   c) Distintivo “C”:
+   Se utilizará por los vehículos clasificados como “C”. Se identifica con el siguiente
+adhesivo, que tiene fondo de color verde:
+   d) Distintivo “B”
+   Se utilizará por los vehículos clasificados como “B”. Se identifica con el siguiente
+adhesivo, que tiene fondo de color amarillo:
+                         V-26 DISTINTIVO DE USO COMPARTIDO
+     1. Identifica la clasificación del vehículo en el Registro de Vehículos como vehículo de
+uso compartido.
+     2. La Administración competente podrá establecer la obligatoriedad de la colocación del
+distintivo en el vehículo, mediante su inclusión expresa en el instrumento normativo que
+corresponda por razón de su competencia.
+     3. Si el vehículo dispone de parabrisas delantero, el distintivo irá colocado
+preferentemente en el ángulo superior izquierdo del mismo, por su cara interior.
+
+                                         Página 125
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    En el caso de que el vehículo no disponga de parabrisas, el distintivo se colocará en sitio
+bien visible. En este supuesto, la cara sin imprimir será autoadhesiva.
+    4. El distintivo es circular y tiene un diámetro de un máximo de 97 mm para los vehículos
+que disponen de parabrisas y de un máximo de 87 mm para el resto de vehículos. El modelo
+es el siguiente, que tiene fondo de color azul:
+                                V-27 TRIÁNGULO VIRTUAL
+    1. La señal se activará en el sistema de a bordo del vehículo para advertir la presencia
+de un peligro próximo, cuando este hecho haya sido informado por un tercero a la plataforma
+de vehículo conectado de la Dirección General de Tráfico.
+    2. Esta señal, de carácter voluntario, solo se visualizará en aquellos vehículos que estén
+conectados por medios telemáticos, de forma directa o a través de un proveedor de
+servicios, con el Punto de Acceso Nacional de Información de Tráfico y Movilidad.
+    3. Las circunstancias señalizadas, los atributos, sus valores y la forma de interconexión
+con el punto de acceso nacional se definirán por Resolución del Director General de Tráfico.
+                                         ANEXO XII
+         ACCESORIOS, REPUESTOS Y HERRAMIENTAS DE LOS VEHÍCULOS
+    Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar los
+siguientes accesorios, repuestos y herramientas:
+    1. Los turismos, así como los vehículos mixtos y los automóviles destinados al transporte
+de mercancías, estos dos últimos de masa máxima autorizada no superior a 3.500 kg,
+excepto los vehículos de tres ruedas y cuatriciclos, llevarán la siguiente dotación:
+    a) El dispositivo luminoso de preseñalización de peligro V-16.
+    b) Un chaleco reflectante de alta visibilidad, certificado según el Real Decreto 1407/1992,
+de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre
+                                          Página 126
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+circulación intracomunitaria de los equipos de protección individual, que exige el marcado
+CE, y que deberá ser conforme con la norma UNE EN 471, mínimo clase 2 (tanto en
+superficie mínima de materiales como en nivel de retrorreflexión de las bandas).
+    En el caso de que se realicen funciones de vehículo piloto de protección y
+acompañamiento, se deberán llevar chalecos tanto para el conductor como para cada uno
+de los miembros del personal auxiliar.
+    c) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas
+necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que
+ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará
+respetando las limitaciones propias de cada alternativa.
+    2. Los autobuses, así como los vehículos mixtos y los automóviles destinados al
+transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500
+kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación que se
+establece en el apartado 1 a) y b), un equipo homologado de extinción de incendios,
+adecuado y en condiciones de uso.
+                                         ANEXO XIII
+                                     MATRICULACIÓN
+    A) Matriculación ordinaria: De acuerdo con lo establecido en los artículos 27, apartado
+2.c y 28, apartado 2 de este Reglamento, para la matriculación de los vehículos se
+acompañarán los siguientes documentos:
+    1.º Solictud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    Si el solicitante es menor de edad o incapacitado deberán constar en la solicitud,
+además, los datos y la firma de la persona que lo representa, así como el concepto en que lo
+hace.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Documento nacional de identidad en vigor o, en su defecto, resguardo de haberlo
+solicitado, así como Libro de Familia u otro documento que acredite los datos que figuran en
+el documento nacional de identidad que no presenta.
+    Si el solicitante es extranjero deberá presentar Tarjeta de Residencia, así como
+declaración sobre titularidad de otros vehículos matriculados en España, o permiso de
+conducción español del que sea o hubiera sido titular, o el número de registro provincial de
+conductores extranjeros, si los tuviera.
+    En el supuesto de extranjeros que no tengan Tarjeta de Residencia, presentarán
+documento de identidad del país de origen, si se trata de ciudadanos de Estados parte en el
+Acuerdo sobre el Espacio Económico Europeo (EEE), o Pasaporte o Certificado de
+Nacionalidad si se trata de ciudadanos de terceros países, y además justificarán su domicilio
+en España mediante cualquier documento que así lo acredite, tales como la propiedad o
+alquiler de una vivienda, o estar censado en algún Municipio.
+    Cuando el solicitante sea Persona Jurídica, presentará Número de Identificación Fiscal,
+así como el Documento Nacional de Identidad, Pasaporte o Tarjeta de Residencia de la
+persona que la representa y documento que acredite tener poder para actuar en su nombre.
+    Los originales de los documentos mencionados podrán sustituirse por fotocopias de los
+mismos que los interesados o sus representantes deberán aportar en el momento de
+presentación de su solicitud, siempre que sean debidamente cotejados por los registros de
+los órganos en los que se haya presentado la correspondiente solicitud, conforme a lo
+establecido en el artículo 38.4 a) y b) de la Ley 30/1992, de 26 de noviembre, de Régimen
+Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, sin
+perjuicio de la posibilidad del ejercicio de esta función por parte de un Gestor Administrativo
+Colegiado en los términos que se determinen en los acuerdos que puedan establecerse con
+los Colegios de Gestores Administrativos.
+    Las solicitudes presentadas por Organismos o Entidades dependientes de las
+Administraciones Públicas, General del Estado, Autonómica, Provincial o Municipal, serán
+                                          Página 127
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+suscritas por el Jefe del Organismo o Entidad al que pertenezca el vehículo o persona en
+quien delegue, acompañadas de la preceptiva documentación.
+     4.º Tarjeta de inspección técnica que podrá emitirse en soporte papel o en soporte
+electrónico. No obstante lo anterior, las tarjetas de inspección técnica tipo B para vehículos
+de categoría M o N, y tipo BL, deberán estar emitidas de forma obligatoria en soporte
+electrónico.
+     Si el vehículo es de importación, se presentará el documento único administrativo (DUA)
+o documento alternativo, en caso de proceder de un Estado parte del Acuerdo EEE distinto
+de España, salvo que en la tarjeta de inspección técnica conste la diligencia de importación.
+     5.º Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica o justificante de
+su exención, correspondiente al domicilio del solicitante.
+     6.º Autoliquidación del Impuesto Especial sobre Determinados Medios de Transporte o
+justificación de no sujeción o de exención, salvo en los dos casos siguientes:
+     a) Que el vehículo cuya matriculación se solicita figure en la relación de turismos
+comerciales homologados por el Departamento de Gestión Tributaria de la Agencia Estatal
+de Administración Tributaria.
+     b) Los vehículos automóviles matriculados con placas CD, OI, CC o TA, de acuerdo con
+lo establecido en la sección I, "Vehículos en régimen de matrícula diplomática", del anexo
+XVI, "Matriculación especial".
+     7.º Además del documento recogido en el número 6.°, cuando se trate de un medio de
+transporte nuevo adquirido en un Estado parte del Acuerdo EEE distinto de España, el
+interesado deberá presentar uno de los documentos siguientes:
+     a) Certificado del órgano competente de la Administración Tributaria correspondiente al
+domicilio fiscal del interesado, en el que se haga constar la condición de incluido en el censo
+español de sujetos pasivos del Impuesto sobre el Valor Añadido.
+     b) Documento que acredite el pago del impuesto correspondiente a la adquisición
+intracomunitaria del medio de transporte nuevo que se pretende matricular.
+    8.º a) Documentación de matriculación original del vehículo si ha sido matriculado en otro
+Estado.
+    b) Cuando un vehículo anteriormente matriculado en otro Estado miembro de la Unión
+Europea disponga de un permiso de circulación del modelo previsto en la Directiva
+1999/37/CE, y se pretenda matricular en España, las Jefaturas de Tráfico exigirán la entrega
+de la parte I del permiso de circulación, así como de la parte II en el caso de que ésta
+hubiera sido expedida.
+    Las Jefaturas de Tráfico informarán de dicha entrega, dentro de un plazo de dos meses
+que se contarán desde la fecha del trámite, a las autoridades del Estado miembro que hayan
+expedido el permiso y conservarán este documento durante al menos seis meses desde la
+citada fecha. Deberán remitir el permiso a aquellas autoridades sólo en el caso de que éstas
+lo soliciten dentro del plazo de los seis meses antes señalado.
+    Cuando el permiso de circulación esté compuesto de dos partes y no se presente la
+parte II, podrá matricularse el vehículo si previamente se ha obtenido la confirmación, por
+escrito o por vía electrónica, de las autoridades del Estado miembro que lo hubiera expedido,
+de que el solicitante tiene derecho a matricular de nuevo el vehículo.
+    9.º Cuando se trate de vehículos anteriormente matriculados a nombre de otra persona
+en otro Estado parte del Acuerdo EEE, deberá presentarse factura de compra del vehículo
+por el solicitante de la matriculación a un comerciante legalmente establecido en un Estado
+parte del Acuerdo EEE en el que figure el número de IVA del comerciante vendedor, o
+contrato de compraventa entre particulares, acompañados de una traducción al castellano o
+lengua que sea cooficial en el ámbito de la Comunidad Autónoma.
+    10.º En el caso de vehículos usados, documento que acredite el pago del Impuesto
+sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados o justificante de la
+exención o no sujeción del mismo. Si el vendedor es un empresario que actúa en el ejercicio
+de su actividad, podrá ser eximido de la presentación del citado documento.
+    11.º Si se trata de vehículos adquiridos en subasta se presentará, además, el acta de
+adjudicación en subasta con el nombre del adjudicatario, en la que conste el año de
+fabricación, el número de bastidor y fotografías del vehículo de frente y lateral, y/o
+Certificado para Matrícula de Vehículos a Motor o Certificado de Adeudo en el que conste
+                                          Página 128
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+que se adjudica en subasta, el nombre del adjudicatario, año de fabricación, al que figurarán
+adheridos el facsímil del número de bastidor y las fotografías del vehículo de frente y lateral.
+     Si se adjudica el vehículo con fines de venta, el empresario dedicado a la compraventa
+que resulte adjudicatario deberá acreditar el pago del Impuesto sobre Actividades
+Económicas del año en curso, y se aportará factura de venta.
+     12.º Cuando se pretenda la anotación en el Registro de Vehículos de la claúsula de
+arrendamiento con opción de compra o de arrendamiento a largo plazo, se aportará contrato
+de arrendamiento o documento análogo, en el que conste el consentimiento del arrendador y
+del arrendatario para que el vehículo figure inscrito a nombre de éste, con firmas
+reconocidas de ambos o intervenido por Corredor de Comercio, así como justificación de que
+el arrendador es el propietario del vehículo.
+     13.º Cuando se pretenda la anotación en el Registro de Vehículos de una hipoteca
+mobiliaria o una reserva de dominio, se acompañará en el primer caso certificado de su
+inscripción en el Registro de Hipoteca Mobiliaria expedido por el registrador o el permiso de
+circulación del vehículo con la anotación del otorgamiento de la correspondiente escritura de
+constitución, hecha por el notario, y, en el segundo caso, justificante de la presentación del
+contrato en el Registro de Venta a Plazos de Bienes Muebles.
+     14.º Si se trata de vehículos de transporte de viajeros con una capacidad superior a
+nueve plazas, incluida la del conductor, así como de vehículos de transporte de mercancías
+o mixtos con una masa máxima autorizada superior a 6 toneladas y una capacidad de carga
+que exceda de 3,5 toneladas, incluido las cabezas tractoras, se acompañará certificación
+expedida por el órgano competente en materia de Transportes de que, o bien cuenta con el
+correspondiente título habilitante para la realización de alguna actividad de transporte o de
+arrendamiento sin conductor, o bien cumple todas las condiciones para obtener el citado
+título.
+   B) Modelo y contenido del permiso de circulación de los vehículos que son objeto de
+matriculación ordinaria:
+     1. El permiso de circulación será de color verde, de formato UNE A5, de 148 por 210
+milímetros, y estará compuesto de cuatro páginas.
+     El papel utilizado en el permiso de circulación estará protegido contra la falsificación
+utilizando, al menos, dos de las técnicas siguientes:
+     motivos gráficos.
+     marcas de agua. fibrillas fluorescentes. estampaciones fluorescentes.
+    Además, se podrán añadir otras medidas de seguridad.
+    2. El permiso de circulación tendrá los siguientes datos:
+    La mención "REINO DE ESPAÑA".
+    La letra E como signo distintivo del Estado Español. La mención Ministerio del Interior.
+Dirección General de Tráfico. La mención "PERMISO DE CIRCULACIÓN" impresa en
+caracteres grandes. También figurará en caracteres pequeños, después de un espacio
+adecuado, en las demás lenguas de la Comunidad Europea. La mención "COMUNIDAD
+EUROPEA". El número de serie del documento.
+    A-Número de matrícula.
+    B-Fecha de primera matriculación.
+    C.1.1 Apellidos o razón social.
+    C.1.2 Nombre.
+    C.1.3 Domicilio.
+    C.4 c) No está identificado en el permiso de circulación como propietario del vehículo.
+    D.1 Marca.
+    D.2 Tipo/Variante/Versión (si procede).
+    D.3 Denominación comercial.
+    (D.4) Servicio a que se destina.
+    E -Número de identificación.
+    F.1 Masa máxima en carga técnicamente admisible (en kg) (excepto para motocicletas).
+    F.2 Masa máxima en carga admisible del vehículo en circulación en España (en kg).
+    G-Masa del vehículo en servicio con carrocería, y con dispositivo de acoplamiento si se
+trata de un vehículo tractor de categoría distinta a la M1 (en kg).
+                                          Página 129
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   H-Periodo de validez de la matriculación, si no es ilimitado.
+   I-Fecha de matriculación a la que se refiere el presente permiso.
+   (I.1) Fecha de expedición.
+   (I.2) Lugar de expedición.
+   K -Número de homologación (si procede).
+   P.1 Cilindrada (en cm3).
+   P.2 Potencia neta máxima (en kW) (si procede).
+   P.3 Tipo de combustible o de fuente de energía.
+   Q-Relación potencia/peso (en kW/kg) (únicamente para motocicletas).
+   S.1 Número de plazas de asiento, incluido el asiento del conductor.
+   S.2 Número de plazas de pie (en su caso).
+   C) Duplicados y renovaciones del permiso de circulación:
+   De acuerdo con lo dispuesto en el artículo 30, apartado 3 del Reglamento, para la
+expedición de duplicados y renovaciones del permiso o licencia de circulación se exigirán los
+documentos siguientes:
+     1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+     2.º Tasa por el importe legalmente establecido, exceto en los casos de cambio de
+domicilio o sustracción del original del permiso, debidamente acreditada, que están exentos.
+     3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1.° y 3.° de este anexo.
+     4.º Tarjeta censal o certificado de empadronamiento y, si no tiene trascendencia fiscal,
+cualquier otro documento que justifique el cambio de domicilio, si el nuevo domicilio no figura
+en el documento nacional de identidad.
+     5.º Permiso o licencia de circulación, excepto en el caso de duplicado por extravío o
+robo.
+     6.º Tarjeta de inspección técnica de vehículos o certificado de características, con
+reconocimiento en vigor.
+     En caso de duplicado por extravío o sustracción, no será necesaria la presentación de la
+tarjeta de inspección técnica o el certificado de características si existe constancia de que el
+vehículo está al corriente de las inspecciones periódicas.
+     7.º Baja y alta a efectos del Impuesto sobre Vehículos de Tracción Mecánica, en caso de
+duplicado por cambio de domicilio, y justificante del pago de dicho Impuesto, mediante el
+último recibo puesto al cobro, si cambia de localidad.
+     8.º Si se trata de vehículo especial agrícola, documento acreditativo de haber
+comunicado previamente la modificación en el Registro Oficial de Maquinaria Agrícola, en los
+supuestos de renovación del permiso de circulación.
+     9.º Si se trata de un vehículo que ha sido previamente declarado como siniestro total por
+una entidad aseguradora, tras un accidente u otra causa, cuando el vehículo haya sufrido un
+daño importante que pueda afectar a algún elemento de seguridad, documento acreditativo
+de haber superado favorablemente una inspección ITV con fecha posterior a la declaración
+de siniestro total.
+   D) Nueva matrícula por cambio de domicilio:
+    De acuerdo con lo establecido en el artículo 27, apartado 2.b, de este Reglamento, para
+la concesión de una nueva matrícula en caso de cambio de domicilio, se presentará la
+siguiente documentación:
+    1.º Los documentos que se indican en los números 1.°, 2.°, 3.° y 14.° del apartado A de
+este anexo.
+    2.º Tarjeta censal o certificado de empadronamiento, si el nuevo domicilio no figura en el
+documento nacional de identidad.
+    3.º Permiso o licencia de circulación que se pretende renovar.
+    4.º Tarjeta de inspección técnica o certificado de características correspondiente a la
+matrícula anterior.
+    5.º Nueva tarjeta de inspección técnica, tipo A, con sus copias correspondientes, que
+será expedida previa inspección técnica del vehículo, en la que se debe hacer constar:
+                                          Página 130
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+Fecha, cambio de matrícula, matrícula de la que procede, fecha de primera matriculación,
+plazo de validez de la inspección efectuada y firma y sello de la estación.
+    6.º Original y fotocopia del documento acreditativo de haberse abonado el último recibo
+puesto al cobro del Impuesto sobre Vehículos de Tracción Mecánica, o de su exención, así
+como el alta y baja correspondiente a dicho Impuesto.
+    7.º Si se trata de vehículo especial agrícola, documento acreditativo de haber
+comunicado previamente el cambio de domicilio en el Registro Oficial de Maquinaria
+Agrícola.
+    8.º En el caso de que en el Registro de Vehículos conste cualquiera de las anotaciones
+indicadas en los apartados 7 y 8, del artículo 32 de este Reglamento, deberá mantenerse en
+la nueva matrícula asignada al vehículo, sin perjuicio de notificar ésta a la persona
+favorecida por dichas inscripciones.
+   E) Cambio de matrícula por razones de seguridad:
+     1.º La solicitud motivada de autorización de cambio de matrícula por razones de
+seguridad se podrá presentar en cualquiera de los lugares previstos en el artículo 38.4 de la
+Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y
+del Procedimiento Administrativo Común, dirigida a la Secretaría de Estado de Seguridad.
+Cuando la solicitud no se presente en la sede de dicha Secretaría de Estado, el órgano o
+unidad receptora la remitirá a aquélla en el plazo máximo de cinco días naturales.
+     2.º En el plazo máximo de un mes, a contar desde el día siguiente al de la entrada de la
+solicitud en el Registro de la Secretaría de Estado de Seguridad, su titular, previa petición de
+los informes que estime oportunos, dictará resolución.
+     3.º En los supuestos en los que la solicitud proceda de un titular cuyo vehículo esté
+matriculado en el territorio de una Comunidad Autónoma con competencias para la
+protección de personas y bienes y el mantenimiento del orden público, la Secretaría de
+Estado de Seguridad solicitará informe al órgano competente de la misma que lo emitirá en
+el plazo máximo de diez días naturales.
+     4.º Cuando el peticionario sea miembro de un Cuerpo de Seguridad, la solicitud se
+remitirá por su responsable máximo, junto con el informe aludido, a la Secretaria de Estado
+de Seguridad.
+     5.º La solicitud se considerará desestimada por el transcurso del plazo de un mes, a
+contar desde el día siguiente al de la entrada de la solicitud en el Registro de la Secretaría
+de Estado de Seguridad, sin que se hubiere dictado resolución expresa.
+     6.º Las resoluciones otorgando la autorización del cambio de matrícula por razones de
+seguridad, además de ser notificadas al solicitante, serán comunicadas a la Dirección
+General de Tráfico a los efectos oportunos.
+                                         ANEXO XIV
+                     CAMBIO DE TITULARIDAD DE LOS VEHÍCULOS
+
+                                  I. Transmisiones ordinarias
+   1. Transmisiones entre personas que no se dedican a la compraventa de vehículos.
+   A) Obligaciones del transmitente:
+    De acuerdo con lo dispuesto en el artículo 32, apartado 1 de este Reglamento, el
+transmitente de un vehículo deberá, en el plazo de diez días desde la transmisión, comunicar
+ésta a la Jefatura de Tráfico con la documentación que a continuación se relaciona:
+    1.º Una declaración en la que se haga constar las identificaciones y domicilios del
+transmitente y adquirente.
+    En su caso, los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1 y 3 del anexo XIII, sobre la matriculación.
+    2.º Tasa por el importe legalmente establecido.
+    3.º El permiso o licencia de circulación.
+                                          Página 131
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    4.º Documento acreditativo de la transmisión, salvo en el caso de que el vendedor y el
+comprador presenten sus solicitudes de forma conjunta.
+    5.º Original y fotocopia del documento acreditativo de haberse abonado el último recibo
+puesto al cobro del Impuesto sobre Vehículos de Tracción Mecánica, o justificante de su
+exención.
+    6.º Impreso de baja, debidamente cumplimentado, de cambio de titularidad a efectos del
+Impuesto sobre Vehículos de Tracción Mecánica.
+    7.º Si el vehículo que se transmite está afectado por derechos que limitan la facultad de
+disponer del transmitente, de acuerdo con lo dispuesto en el apartado 7 del artículo 32 de
+este Reglamento, deberá presentarse documento que acredite la cancelación del
+impedimento en el Registro correspondiente o en el que conste el consentimiento del
+acreedor o de la persona favorecida por la inscripción.
+    8.º En el caso de tratarse de un vehículo especial agrícola, documento acreditativo de la
+baja en el Registro Oficial de Maquinaria Agrícola.
+   B) Obligaciones del adquirente:
+    De acuerdo con lo dispuesto en el artículo 32, apartado 3 de este Reglamento, el
+adquirente de un vehículo deberá, en el plazo de treinta días desde la fecha de su
+adquisición, solicitar de la Jefatura de Tráfico la renovación del permiso o licencia de
+circulación, presentando los siguientes documentos:
+     1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico, en la que
+se haga constar la identidad y domicilio del transmitente y adquirente.
+     2.º Tasa o tasas por el importe legalmente establecido.
+     3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1 y 3 del anexo XIII, sobre la matriculación.
+     4.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en
+vigor.
+     5.º Original de la autoliquidación del Impuesto sobre Transmisiones Patrimoniales y
+Actos Jurídicos Documentados, o justificante de la exención o no sujeción del mismo, y
+fotocopia.
+     6.º Autoliquidación del Impuesto Especial sobre Determinados Medios de Transporte o
+justificación de no sujeción o de exención en los casos de transmisión de un vehículo antes
+de transcurridos cuatro años desde su primera matriculación definitiva con exención o no
+sujeción.
+     7.º Impreso de alta en el Impuesto sobre Vehículos de Tracción Mecánica.
+     8.º Original y fotocopia del justificante del pago o exención del Impuesto sobre Vehículos
+de Tracción Mecánica, en el caso de que el transmitente no haya cumplido la obligación de
+notificar la transmisión prevista en el artículo 32, apartado 1 de este Reglamento.
+     9.º Documento que acredite la adquisición, salvo en el caso de que el vendedor y el
+comprador presenten sus solicitudes de forma conjunta.
+     En el caso de adquisición por adjudicación judicial o por subasta judicial o administrativa,
+certificado de adjudicación o de subasta.
+     10.º Si se trata de un vehículo especial agrícola, documento acreditativo del alta en el
+Registro Oficial de Maquinaria Agrícola.
+     11.º En el supuesto de que se solicite simultáneamente el cambio de titularidad y una
+nueva matrícula, de acuerdo con lo dispuesto en el artículo 27, apartado 2.a de este
+Reglamento, nueva tarjeta de inspección técnica con sus copias correspondientes, que se
+expedirá previa inspección técnica del vehículo, en la que se debe hacer constar: Fecha,
+cambio de matrícula, matrícula de la que procede, fecha de primera matriculación, plazo de
+validez de la inspección efectuada y firma y sello de la estación.
+     12.º Si se trata de vehículos de transporte de viajeros con una capacidad superior a
+nueve plazas, incluida la del conductor, así como de vehículos de transporte de mercancías
+o mixtos con una masa máxima autorizada superior a 6 toneladas y una capacidad de carga
+que exceda de 3,5 toneladas, incluido las cabezas tractoras, se acompañará certificación
+expedida por el órgano competente en materia de Transportes de que, o bien cuenta con el
+correspondiente título habilitante para la realización de alguna actividad de transporte o de
+                                           Página 132
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+arrendamiento sin conductor, o bien cumple todas las condiciones para obtener el citado
+título.
+   2. Transmisiones en las que intervienen personas que se dedican a la compraventa de
+vehículos.
+    A) Obligaciones del transmitente:
+    De acuerdo con lo dispuesto en el artículo 33, apartado 1 de este Reglamento, el titular
+de un vehículo que lo entregue a un compraventa para su posterior transmisión deberá, en el
+plazo de diez días desde la entrega, solicitar la baja temporal del mismo a la Jefatura de
+Tráfico debiendo acompañar la documentación que a continuación se relaciona:
+     1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico, en la que
+se harán constar la identidad y domicilio del titular del vehículo y del compraventa, así como
+las firmas de ambos.
+     2.º Tasa por el importe legalmente establecido.
+     3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1 y 3 del anexo XIII, sobre la matriculación.
+     4.º El permiso o licencia de circulación.
+     5.º Documento acreditativo de la entrega del vehículo al compraventa.
+     6.º Los documentos indicados en los números 5.º, 6.º, 7.º y 8.º del apartado I.1.A del
+presente anexo.
+    B) Obligaciones del adquirente:
+   De acuerdo con lo dispuesto en el artículo 33, apartado 3 de este Reglamento, el
+adquirente de un vehículo deberá, en el plazo de treinta días desde la fecha de su
+adquisición, solicitar de la Jefatura de Tráfico la inscripción del vehículo a su nombre y la
+renovación del permiso o licencia de circulación, presentando los siguientes documentos:
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico, en la que
+se haga constar la identidad y domicilio del transmitente, compraventa y adquirente
+    2.º Documento que acredite la adquisición del vehículo.
+    3.º Los documentos indicados en los números 2.º, 3.º, 4.º, 6.º, 7.º, 10.º, 11.º y 12.º del
+apartado I.1.B del presente anexo.
+    4.º Original de la autoliquidación del Impuesto sobre Transmisiones Patrimoniales y
+Actos Jurídicos Documentados, o justificante de la exención o no sujeción del mismo, y
+fotocopia.
+    Si el vendedor es un empresario que actúa en el ejercicio de su actividad, podrá ser
+eximido de la presentación del citado documento.
+    3. Transmisiones de vehículos dados de baja temporal por finalización del contrato de
+arrendamiento con opción de compra o de arrendamiento a largo plazo.
+    De acuerdo con lo dispuesto en el artículo 36, apartado 2.b de este Reglamento, el
+adquirente de un vehículo, el arrendatario con opción de compra o el arrendatario a largo
+plazo deberá, en el plazo de treinta días, solicitar de la Jefatura de Tráfico la inscripción del
+vehículo a su nombre y la renovación del permiso o licencia de circulación, presentando los
+siguientes documentos:
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico, en la que
+se haga constar la identidad y domicilio del transmitente, del arrendador y del adquirente o
+arrendatario.
+    2.º Documento que acredite la adquisición del vehículo o contrato de arrendamiento con
+opción de compra o de arrendamiento a largo plazo, o documento análogo en el que conste
+el consentimiento del arrendador y del arrendatario para que el vehículo figure en el Registro
+a nombre de éste, con firmas reconocidas de ambos o intervenido por Corredor de
+Comercio.
+    3.º Los documentos indicados en los números 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 10.º, 11.º y 12.º del
+apartado I.1.B del presente anexo.
+                                            Página 133
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+                            II. Transmisiones por causa de muerte
+   A) Transmisión provisional:
+    De acuerdo con lo dispuesto en el artículo 32, apartado 6 de este Reglamento, la
+persona que tenga a su cargo la custodia y, en su caso, el uso del vehículo mientras se
+adjudica a uno de los herederos, deberá notificar tal circunstancia a la Jefatura de Tráfico,
+dentro de los noventa días siguientes a la defunción del titular registral del vehículo,
+presentando la siguiente documentación:
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico,
+interesando la inscripción provisional a su nombre.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1 y 3 del anexo XIII, sobre matriculación.
+    4.º Certificado de defunción del titular del vehículo, con fotocopia, o Libro de Familia
+donde conste el fallecimiento y fotocopia.
+    5.º Documento que acredite la custodia, posesión o uso del vehículo.
+    6.º Permiso o licencia de circulación del vehículo, en el que se anotará la adjudicación
+provisional.
+    7.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en
+vigor.
+   B) Transmisión definitiva:
+     La persona que resulte adjudicataria definitiva del vehículo deberá solicitar de la Jefatura
+de Tráfico, en el plazo de noventa días, contados desde la fecha del documento que le
+acredite como tal, la expedición a su nombre del nuevo permiso o licencia de circulación. A
+tal efecto presentará, además de los documentos que se indican en el apartado I.1.B de este
+anexo, que estarán firmados por el heredero o herederos, la documentación siguiente:
+    1.º Declaración de herederos, o testamento acompañado de certificado de últimas
+voluntades, o cuaderno particional en que conste la adjudicación del vehículo.
+    2.º Justificación del pago o exención del Impuesto sobre Sucesiones y fotocopia.
+    3.º Permiso o licencia de circulación.
+    4.º Tarjeta de inspección técnica o certificado de características, con reconocimiento en
+vigor.
+    5.º Si se trata de un vehículo especial agrícola, documento acreditativo de baja y alta en
+el Registro Oficial de Maquinaria Agrícola.
+
+                      III. Transmisiones con limitaciones de disposición
+    1.º La anotación en el Registro de Vehículos de la cláusula de arrendamiento con opción
+de compra o de arrendamiento a largo plazo sobre un vehículo se efectuará previa
+presentación del contrato de arrendamiento o documento análogo en el que conste el
+consentimiento del arrendador y del arrendatario para que el vehículo figure en el Registro a
+nombre de éste, con firmas reconocidas de ambos o intervenido por Corredor de Comercio,
+así como justificación de que el arrendador es el propietario del vehículo.
+    2.º La anotación en el Registro de Vehículos de una hipoteca mobiliaria o de una reserva
+de dominio que se constituya sobre un vehículo en el momento de su transmisión, se
+efectuará previa presentación, en el primer caso, del certificado de su inscripción en el
+Registro de Hipoteca Mobiliaria expedido por el Registrador o del permiso de circulación del
+vehículo con la anotación del otorgamiento de la correspondiente escritura de constitución
+hecha por el Notario, y, en el segundo caso, del justificante de la presentación del contrato
+en el Registro de Venta a Plazos de Bienes Muebles.
+
+                      IV. Cancelación de las limitaciones de disposición
+    De acuerdo con lo dispuesto en los artículos 32, apartado 7 y 33, apartado 2 de este
+Reglamento, la cancelación de las limitaciones de disposición se efectuará previa
+presentación de los documentos siguientes:
+
+                                           Página 134
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1.º y 3.º del anexo XIII, sobre la matriculación.
+    4.º En el caso de la hipoteca mobiliaria, comunicación del Registrador en la que figure la
+cancelación de la hipoteca; si se trata de una reserva de dominio, escrito del Registro de
+Venta a Plazos de Bienes Muebles en el que se haga constar la cancelación de la inscripción
+de reserva de dominio; en el caso de arrendamiento con opción de compra o de
+arrendamiento a largo plazo, escrito del arrendador en el que conste su consentimiento para
+la cancelación de la inscripción, con su firma reconocida.
+                                          ANEXO XV
+                     BAJAS Y REHABILITACIÓN DE LOS VEHÍCULOS
+   A) Bajas definitivas.
+    De acuerdo con lo dispuesto en el artículo 35, apartados 1 y 4 de este Reglamento,
+cuando el titular o tercera persona que acredite suficientemente la propiedad de un vehículo
+quiera retirar el mismo de la circulación de forma permanente, o pretenda su traslado a otro
+país donde vaya a ser matriculado, deberá presentar los documentos siguientes:
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1.º y 3.º del anexo XIII, sobre la matriculación.
+    4.º Permiso o licencia de circulación y tarjeta de inspección técnica o certificado de
+características del vehículo. En caso de extravío o sustracción se aportará manifestación
+escrita al efecto, y fotocopia de la denuncia de la sustracción.
+    5.º Original y fotocopia del documento acreditativo de haberse abonado el último recibo
+puesto al cobro del Impuesto sobre Vehículos de Tracción Mecánica, o justificante de su
+exención.
+    6.º Impreso de baja del Impuesto sobre Vehículos de Tracción Mecánica.
+    7.º Si se trata de vehículo especial agrícola, documento acreditativo de la baja en el
+Registro Oficial de Maquinaria Agrícola.
+    8.º De tratarse de un traslado a un Estado que no sea parte del Acuerdo EEE, deberá
+acreditarse que se está preparando la exportación legal del vehículo.
+    9.º En el caso de baja por traslado a otro país de un vehículo que está afectado por
+derechos que limitan la facultad de disposición, documento que acredite la cancelación del
+impedimento o el consentimiento del acreedor o de la persona favorecida por la inscripción.
+    10.º En caso de fallecimiento del titular, si la persona que resulte adjudicataria definitiva
+del vehículo quisiera darlo de baja, aportará, además: la declaración de herederos o
+testamento acompañado de certificado de últimas voluntades o cuaderno particional en el
+que conste la adjudicación del vehículo.
+    11.º Para el traslado a otro país y como justificación de que no se trata de un residuo, se
+exigirá acreditación de haber superado una inspección técnica, en base al Real Decreto
+920/2017, de 23 de octubre, por el que se regula la inspección técnica de vehículos, en los
+30 días previos a la solicitud de la baja por traslado a otro país o de la baja por exportación,
+si dicha inspección no consta ya anotada telemáticamente en el Registro de vehículos, en
+los siguientes casos:
+   A) Vehículos con antigüedad superior a cuatro años desde su fecha de primera
+matriculación.
+   B) Para cualquier vehículo que tras un accidente u otra causa, haya sufrido un daño
+importante que pueda afectar a algún elemento de seguridad.
+   B) Bajas temporales.
+   a) Voluntaria: artículo 36, apartado 1.a) del Reglamento.
+   Se exigirán los documentos indicados en los números 1.º a 7.º, para la baja definitiva.
+                                           Página 135
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     b) Por sustracción: artículo 36, apartado 1.b) del Reglamento.
+     Deberán aportarse los mismos documentos especificados en la letra anterior y, además,
+el justificante y fotocopia de la denuncia de la sustracción.
+     c) Por finalización del contrato de arrendamiento con opción de compra o de
+arrendamiento a largo plazo: artículo 36, apartado 2.b) del Reglamento.
+     Se exigirán los mismos documentos indicados en las letras a) y b) anteriores y, además,
+el acreditativo de la recuperación del vehículo por el arrendador.
+   C) Alta de un vehículo dado de baja temporal.
+     De acuerdo con lo dispuesto en el artículo 37, apartado 2 de este Reglamento, cuando el
+titular de un vehículo dado de baja temporal solicite el alta del mismo, deberá presentar los
+documentos siguientes:
+    1.º Solicitud en impreso modelo oficial que facilitarán las Jefaturas de Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1.º y 3.º del anexo XIII, sobre la matriculación.
+    4.º Impreso de alta del Impuesto sobre Vehículos de Tracción Mecánica, o
+autoliquidación del mismo o justificante de su exención.
+    En el caso de que la tarjeta de inspección técnica o el certificado de características no
+tuviera el reconocimiento en vigor en el momento de solicitarse el alta, deberá someterse el
+vehículo a inspección técnica y, una vez superada la misma, la Jefatura de Tráfico procederá
+a devolver el permiso de circulación al interesado.
+   D) Rehabilitación de los vehículos.
+    De acuerdo con lo dispuesto en el artículo 38 de este Reglamento, el titular o tercera
+persona que acredite suficientemente la propiedad de un vehículo dado de baja definitiva en
+el Registro de Vehículos, podrá obtener de nuevo el permiso o licencia de circulación,
+presentando los siguientes documentos:
+   1.º Solicitud en impreso de modelo oficial que facilitarán las Jefaturas de Tráfico.
+   2.º Tasas por el importe legalmente establecido.
+   3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A, números 1.º y 3.º del anexo XIII, sobre la matriculación.
+    A la vista de esta documentación, la Jefatura de Tráfico dirigirá un oficio al órgano
+competente en materia de industria para que someta al vehículo a una inspección y expida la
+correspondiente tarjeta de inspección técnica o certificado de características. Una vez
+expedido este documento se deberá presentar para la rehabilitación del vehículo:
+     1.º Tarjeta de inspección técnica o certificado de características.
+     2.º Autoliquidación, por triplicado, del Impuesto sobre Vehículos de Tracción Mecánica, o
+justificante de su exención en su caso.
+     3.º En el supuesto de que solicite la rehabilitación tercera persona distinta del titular,
+documento que acredite el pago, la exención o no sujeción del Impuesto sobre
+Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+     Si el vendedor es un empresario que actúa en el ejercicio de su actividad, podrá ser
+eximido de la presentación del citado documento.
+     4.º En el caso de vehículo especial agrícola, documento acreditativo del alta en el
+Registro Oficial de Maquinaria Agrícola.
+                                         ANEXO XVI
+                               MATRICULACIÓN ESPECIAL
+                    I. Vehículos en régimen de matrícula diplomática
+    A) De acuerdo con lo establecido en el artículo 39, apartado 2 de este Reglamento, para
+la matriculación de estos vehículos se acompañarán los siguientes documentos:
+                                          Página 136
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     1.º Solicitud formulada por el Ministerio de Asuntos Exteriores cursada a través de la
+Dirección General de Protocolo, Cancillería y Órdenes, en la que se consignarán los datos
+de identificación, tanto del titular como del vehículo, acompañada de:
+     a) Permiso de circulación del modelo correspondiente, con la matrícula asignada en cada
+caso por el Ministerio de Asuntos Exteriores.
+     b) Tarjeta de inspección técnica del modelo oficial, ficha reducida o certificado expedido
+por el fabricante donde consten las características que figuran en el modelo oficial de tarjeta.
+     c) Documento expedido por la Administración tributaria competente, autorizando el
+régimen diplomático.
+     d) Tasa por el importe legalmente establecido.
+     2.º El cambio de titularidad del vehículo subsistiendo el régimen de matrícula diplomática
+se solicitará por el Ministerio de Asuntos Exteriores quien, en la comunicación que remita a
+la Jefatura Provincial de Tráfico de Madrid autorizando el cambio, hará referencia expresa a
+la autorización expedida por la Administración Tributaria competente.
+     3.º Si el vehículo para el cual se solicita la expedición de uno de estos permisos ha
+tenido asignada previamente matrícula turística u ordinaria, además de los documentos
+relacionados en los párrafos a) y c) del apartado 1.o, se acompañará original del permiso de
+circulación, así como la ficha técnica que se expidió en su día.
+     4.º La terminación del régimen de matrícula diplomática, tanto si se produce o no cambio
+de titularidad, será comunicada a la Jefatura de Tráfico del domicilio del adquirente por el
+Ministerio de Asuntos Exteriores. En dicha comunicación se consignarán los datos de
+identificación del vehículo así como los del titular particular y su domicilio y se acompañará,
+en su caso, el documento expedido por la Administración tributaria competente donde conste
+que el vehículo ha cesado en el régimen diplomático.
+     Deberán aportarse además los siguientes documentos:
+     a) Solicitud de matriculación suscrita por el interesado en el impreso modelo oficial que
+facilitarán las Jefaturas de Tráfico.
+     b) Tasa por el importe legalmente establecido.
+     c) Fotocopia del documento de identificación personal.
+     d) Tarjeta de Inspección Técnica con el reconocimiento periódico en vigor.
+     5.º Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica o justificante de
+su exención.
+     6.º Autoliquidación del Impuesto Especial sobre Determinados Medios de Transporte o
+declaración de no sujeción o de exención del mismo, salvo si el vehículo tuvo con
+anterioridad matrícula ordinaria.
+     7.º Si al tiempo de la terminación del régimen diplomático se produce cambio de
+titularidad, el adquirente particular deberá presentar también solicitud de transferencia, en
+unión de los documentos que le sean exigibles de los reseñados para este trámite en el
+anexo XIV de este Reglamento.
+    B) El permiso de circulación será confeccionado por el Ministerio de Asuntos Exteriores,
+quien asignará al vehículo la matrícula que le corresponda y lo remitirá para su expedición a
+la Jefatura Provincial de Tráfico de Madrid. Una vez concedido el permiso diplomático, esta
+Jefatura asignará al vehículo la matrícula ordinaria que corresponda en ese momento, para
+uso exclusivo de la Administración española, salvo si el vehículo tuvo con anterioridad
+matrícula ordinaria, que será la que ostente si cesa el régimen diplomático.
+    En el permiso de circulación diplomático constará:
+   Matrícula.
+   Fecha de fabricación.
+   Fecha de matriculación.
+   Marca y modelo.
+   Número de bastidor.
+   Datos de identificación del titular. En su caso, cargo que ostenta.
+                                          Página 137
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+                       II. Vehículos en régimen de matrícula turística
+    A) De acuerdo con lo establecido en el artículo 40 de este Reglamento, para la
+matriculación de los vehículos en régimen de matrícula turística se acompañarán los
+siguientes documentos:
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Documento Nacional de Identidad o Documento de Identidad del país de origen, si se
+trata de ciudadanos de la Unión Europea, o Pasaporte o Certificado de Nacionalidad si se
+trata de ciudadanos de terceros países.
+    4.º Autorización del órgano competente de la Administración tributaria en el que se
+reconozca el derecho del solicitante al régimen de matrícula turística, y en el que conste el
+plazo por el que se concede la marca y el número de bastidor del vehículo.
+    5.º Tarjeta de Inspección Técnica y factura de venta.
+    6.º Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica, con justificante
+de su exención.
+    B) Prórroga de la matrícula turística.
+    Deberán acompañarse los siguientes documentos:
+    1.º Solicitud suscrita por el interesado en el modelo oficial que facilitarán las Jefaturas de
+Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Autorización del órgano competente de la Administración tributaria en que constará el
+plazo por el que se prorroga la marca y el número de bastidor del vehículo.
+    4.º Tarjeta de Inspección Técnica con el reconocimiento periódico en vigor.
+    5.º Documento acreditativo del pago del Impuesto sobre Vehículos de Tracción
+Mecánica, o justificante de su exención.
+    6.º Documento expedido por el órgano competente de la Administración Tributaria que
+acredite el pago o exención de los Impuestos correspondientes.
+    C) Pase a matrícula ordinaria.
+    Deberán aportarse los siguientes documentos.
+     1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+     2.º Tasa por el importe legalmente establecido.
+     3.º Tarjeta de Inspección Técnica con el reconocimiento periódico en vigor.
+     4.º Documento expedido por el órgano competente de la Administración Tributaria que
+justifique la exención o el pago del Impuesto sobre el Valor Añadido y, además, si se trata de
+un vehículo procedente de Estados que no sean parte del Acuerdo EEE, deberá acreditar el
+pago o exención de los derechos arancelarios.
+     5.º Documento que acredite la baja del Impuesto sobre Vehículos de Tracción Mecánica
+como matrícula turística.
+     6.º Autoliquidación del Impuesto sobre Vehículos de Tracción Mecánica, o justificante de
+su exención.
+     7.º Autoliquidación del Impuesto Especial sobre Determinados Medios de Transporte o
+declaración de no sujeción o de exención del mismo.
+    D) Permiso de circulación (matrícula turística).
+    En el permiso de circulación figurarán los siguientes datos:
+    A.–Matrícula.
+    B.–Fecha de matriculación.
+    Fecha de primera matriculación.
+    C.–Apellidos del titular.
+    D.–Nombre del titular.
+    E.–Domicilio.
+                                             Página 138
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   Localidad.
+   Provincia.
+   F.–Marca.
+   G.–Serie y número del bastidor.
+   Masa máxima autorizada.
+   Modelo.
+   Número de plazas.
+   Fecha de caducidad.
+    El modelo del permiso de circulación será una cartulina de color gris de formato UNE A6
+de 105 por 148 milímetros.
+                                         ANEXO XVII
+                  AUTORIZACIONES TEMPORALES DE CIRCULACIÓN
+                         I. Permisos temporales para particulares
+    De acuerdo con lo establecido en el artículo 43, apartado 3 de este Reglamento, para la
+concesión de las autorizaciones temporales de circulación reguladas en el mismo se
+presentarán los siguientes documentos:
+   A) Para la circulación de un vehículo cuando se haya adquirido en provincia distinta a
+aquella donde se pretenda matricularlo. Artículo 43, apartado 1.1.1 del Reglamento:
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    2.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A números 1.º y 3.º del anexo XIII, sobre matriculación.
+    3.º Tasa por el importe legalmente establecido.
+    4.º Tarjeta de inspección técnica o certificado de características, con diligencia de
+adjudicación, o factura de venta si no figura dicha diligencia.
+   B) Para la circulación mientras se tramita la matrícula definitiva del vehículo. Artículo 43,
+apartado 1.1.2.1. del Reglamento.
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    2.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A) números 1.º y 3.º del anexo XIII, sobre matriculación.
+    3.º Tasa por el importe legalmente establecido.
+    4.º Además de los documentos indicados anteriormente, deberán presentarse los que se
+especifican a continuación, según los distintos supuestos que puedan plantearse:
+   4.º a) Vehículos adquiridos sin matricular en el extranjero:
+   I. Si el vehículo se ha adquirido en Estado que no sea parte del Acuerdo EEE.
+    – Certificado para Matrícula de Vehículos a Motor o Certificado de Adeudo, con
+fotocopia, así como factura de venta y justificante del pago del Impuesto sobre Actividades
+Económicas del año en curso cuando se haya importado con fines de venta.
+   II. Si el vehículo se ha adquirido en Estado parte del Acuerdo EEE.
+   – Documento que acredite la adquisición del vehículo, con fotocopia.
+   – Documento justificativo de las características técnicas del vehículo.
+   4.º b) Vehículos adquiridos en subasta o por sentencia judicial:
+   – Acta de adjudicación en subasta con el nombre del adjudicatario, en la que conste el
+año de fabricación, el número de bastidor y fotografías del vehículo de frente y lateral o
+Certificado de Aduanas, si es de importación, en el que figure que se adjudica en subasta,
+
+                                          Página 139
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+nombre del adjudicatario y año de fabricación, al que figurarán adheridos el facsímil del
+número de bastidor y las fotografías del vehículo de frente y lateral y fotocopia.
+    – Justificación del pago, la exención o no sujeción del Impuesto sobre Transmisiones
+Patrimoniales y Actos Jurídicos Documentados y fotocopia.
+    Si el adjudicatario es un empresario dedicado a la compraventa de vehículos que actúa
+en el ejercicio de su actividad, podrá ser eximido de la presentación del citado documento.
+    – Si se adjudica el vehículo con fines de venta, el empresario dedicado a la compraventa
+de vehículos adjudicatario, deberá acreditar el pago del Impuesto sobre Actividades
+Económicas del año en curso y se aportará factura de venta.
+    4.º c) Vehículos adquiridos sin carrozar:
+    – Certificado para carrozado, con fotocopia.
+    4.º d) Vehículos adquiridos con matrícula no española:
+    I. Cuando el vehículo esté matriculado en un Estado que no sea parte del Acuerdo EEE.
+    – Certificado para Matrícula de Vehículos a Motor o Certificado de Adeudo y fotocopia y,
+en su caso, factura de venta.
+    – Documentación original del vehículo con fotocopia.
+    II. Cuando el vehículo esté matriculado en un Estado parte del Acuerdo EEE.
+    – Documentación original del vehículo con fotocopia.
+    – Cuando se trate de vehículos matriculados a nombre de otra persona, factura de
+compra del vehículo por el solicitante de la matriculación a un comerciante legalmente
+establecido en un Estado parte del Acuerdo EEE en el que figure el número de IVA del
+comerciante vendedor, o contrato de compraventa entre particulares, acompañados de una
+traducción al castellano o lengua que sea cooficial en el ámbito de la Comunidad Autónoma.
+    – Original de la autoliquidación del Impuesto sobre Transmisiones Patrimoniales y Actos
+Jurídicos Documentados, o justificante de la exención o no sujeción del mismo, y fotocopia.
+    Si el vendedor es un empresario que actúa en el ejercicio de su actividad, podrá ser
+eximido de la presentación del citado documento.
+   Salvo en el caso de vehículos agrícolas, simultáneamente con la solicitud de matrícula
+temporal de sesenta días se presentará:
+     1.º Solicitud de matriculación definitiva en impreso oficial que facilitarán las Jefaturas de
+Tráfico. Para efectuar la matriculación definitiva el sujeto pasivo deberá acreditar el pago del
+Impuesto Especial sobre Determinados Medios de Transporte, o declaración de no sujeción
+o de exención del mismo.
+     2.º Tasa por el importe legalmente establecido.
+     3.º Autoliquidación por triplicado del Impuesto sobre Vehículos de Tracción Mecánica, o
+justificante de su exención.
+    Excepcionalmente, y con la misma matrícula, este permiso temporal de circulación podrá
+tener sucesivas prórrogas de su validez por plazos de sesenta días, cuando se pidan antes
+de expirar su período de vigencia, presentando la siguiente documentación:
+    1.º Solicitud suscrita por el interesado en el impreso oficial que facilitarán las Jefaturas de
+Tráfico.
+    2.º Permiso temporal de circulación del que se solicita la prórroga.
+    3.º Justificación documental de que el vehículo no se ha podido matricular por causas no
+imputables al solicitante.
+    C) Para el traslado del vehículo al extranjero a efectos de su matriculación definitiva.
+Artículo 43, apartado 1.1.2.2 del Reglamento.
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    2.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A números 1.º y 3.º del anexo XIII, sobre matriculación.
+    3.º Tasa por el importe legalmente establecido.
+                                            Página 140
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+   4.º I. Vehículos sin matricular:
+    – Documento que acredite la exportación legal, si se trata de un traslado a un Estado no
+perteneciente al Acuerdo EEE.
+    – Tarjeta de Inspección Técnica o certificado de características con diligencia de
+adjudicación o factura de venta si no figura dicha diligencia.
+   4.º II. Vehículos matriculados:
+    – El titular registral o tercera persona que acredite suficientemente su propiedad deberá
+solicitar previamente la baja definitiva por traslado a otro país, de acuerdo con lo dispuesto
+en el artículo 35, apartado 4 de este Reglamento.
+    – Tarjeta de inspección técnica o certificado de características y permiso de circulación o
+licencia de circulación del vehículo.
+    La documentación original será devuelta al interesado, previa anulación del permiso de
+circulación.
+    En el permiso temporal de circulación figurarán los siguientes datos:
+   Matrícula.
+   Fecha de matriculación.
+   Plazo de validez.
+   Apellidos o razón social del titular.
+   Nombre del titular.
+   Domicilio.
+   Localidad.
+   Provincia.
+   Marca.
+   Serie y número del bastidor.
+   Masa máxima autorizada.
+   Tipo.
+   Modelo.
+   Número de plazas.
+   Servicio a que se destina.
+    El modelo del permiso de circulación será una cartulina de color verde, de formato UNE
+A6, de 105 por 148 milímetros.
+   II. Permisos temporales para uso de empresas o entidades relacionadas con el
+                                     vehículo
+    De acuerdo con lo establecido en los artículos 44, apartado 3 y 48, apartado 3 de este
+Reglamento, para la concesión de los permisos temporales regulados en el mismo se
+presentarán los siguientes documentos:
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico, con fotocopia.
+    2.º Tasa por el importe legalmente establecido.
+    3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A números 1.º y 3.º del anexo XIII, sobre matriculación.
+    4.º Justificante de tener Licencia Municipal de apertura de establecimiento para esta
+actividad y fotocopia.
+    5.º Último recibo de pago del Impuesto sobre Actividades Económicas puesto al cobro y
+fotocopia. En el caso de los Laboratorios Oficiales se presentará documento acreditativo de
+la autorización de su actividad expedido por el órgano competente.
+    En el permiso temporal de circulación figurarán los siguientes datos:
+   Matrícula.
+   Apellidos y nombre o razón social del titular.
+   Domicilio.
+   Localidad.
+                                           Página 141
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   Provincia.
+   Plazo de validez.
+    El modelo del permiso de circulación será una cartulina de color rosa, de formato UNE
+A6, de 105 por 148 milímetros.
+    De acuerdo con lo dispuesto en el artículo 45, apartado 2 de este Reglamento, para el
+reconocimiento de los libros-talonarios donde se integran los boletines de circulación, se
+deberá presentar:
+    1.º Solicitud suscrita por el interesado en el impreso modelo oficial que facilitarán las
+Jefaturas de Tráfico.
+    2.º Tasa por el importe legalmente establecido.
+    El boletín de circulación será de tamaño UNE A6 (105 × 148 mm), de gramaje máximo
+de 60 gr/m2 y en papel de fondo blanco e impresión en negro.
+    En el boletín de circulación figurarán los siguientes datos:
+   Número del permiso temporal de empresa.
+   Número del bastidor del vehículo.
+   Apellidos y nombre o razón social del titular del permiso.
+   Domicilio del titular del permiso.
+   Nombre y apellidos del conductor.
+   Clase y número del permiso para conducir del conductor.
+   Si el objeto del viaje es para pruebas o para transporte del vehículo.
+   El lugar de partida, que será el de regreso en el caso de pruebas, así como el itinerario.
+   El lugar de partida y de destino en el caso de transporte.
+   Plazo de validez del permiso temporal de empresa.
+   Matrícula ordinaria en el caso de un vehículo matriculado.
+   III. Pruebas o ensayos de investigación extraordinarios realizados por
+        fabricantes/representantes legales, carroceros y Laboratorios Oficiales
+    De acuerdo con lo establecido en el artículo 47 de este Reglamento, para la concesión
+de los permisos para pruebas o ensayos de investigación extraordinarios previstos en el
+mismo se presentará la siguiente documentación:
+   1.º Solicitud suscrita por el interesado.
+   2.º Tasa por el importe legalmente establecido.
+   3.º Los documentos que sobre la identidad y representación se especifican en el
+apartado A números 1.º y 3.º del anexo XIII, sobre matriculación.
+   4.º Acreditar estar en posesión previa del permiso temporal de empresa.
+   5.º Justificación de la necesidad de la petición.
+    En el permiso para pruebas o ensayos de investigación extraordinarios figurarán los
+siguientes datos:
+   Número del permiso temporal de empresa.
+   Marca y número del bastidor del vehículo.
+   Apellidos y nombre o razón social del titular del permiso.
+   Domicilio del titular del permiso.
+   El tipo de ensayo a realizar.
+   Itinerario.
+   Horario.
+   Duración.
+   Demás condiciones en que deba desarrollarse.
+                                         Página 142
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   IV. Permisos temporales para vehículos de museos y de colecciones
+                               museográficas
+    De acuerdo con lo establecido en el artículo 48 bis de este Reglamento, para la
+concesión de permisos para vehículos pertenecientes a la colección de los museos y de
+colecciones museográficas, se presentará la siguiente documentación:
+    1.º Solicitud suscrita por la persona interesada en el modelo oficial.
+    2.º Si se trata de persona física, deberá indicar su número del Documento Nacional de
+Identidad o Número de Identidad de Extranjero, así como el consentimiento, en su caso,
+para que sus datos de identidad personal puedan ser consultados mediante el Sistema de
+Verificación de Datos, en los términos establecidos por el Real Decreto 522/2006, de 28 de
+abril, por el que se suprime la aportación de fotocopias de documento de identidad en los
+procedimientos administrativos de la Administración General de Estado y de sus organismos
+públicos.
+    De no constar su consentimiento, deberá acompañar fotocopia del Documento Nacional
+de Identidad o del documento en el que conste el Número de Identidad de Extranjero.
+    Cuando se trate de persona jurídica, deberá presentar su Número de Identificación
+Fiscal, así como el Documento Nacional de Identidad o el documento en el que conste el
+Número de Identidad de Extranjero de la persona que la representa, junto con el documento
+que acredite tener poder para dicha representación.
+    En el caso de que el museo o la colección museográfica estén ubicados en el extranjero
+la persona física o jurídica deberá presentar documento en el que figure su número de
+identificación. Si se trata de persona jurídica además deberá presentar el documento en el
+que conste el número de identificación de la persona que la representa, junto con el
+documento que acredite tener poder para dicha representación.
+    3.º Tasa por el importe legalmente establecido.
+    4.º Documentación acreditativa de que el vehículo pertenece a la colección del museo o
+a la colección museográfica.
+    5.º Justificación de la necesidad de la petición.
+    El permiso de circulación para vehículos pertenecientes a colecciones de museos o de
+colecciones museográficas se ajustará al modelo previsto en el anexo XIII, apartado B),
+punto 1 y contendrá al menos los siguientes datos:
+    Número del permiso temporal.
+    Apellidos y nombre o razón social de la persona titular del permiso.
+    Domicilio de la persona titular del permiso.
+    Fecha de validez.
+    Referencia a que el permiso corresponde a ''PERMISO DE CIRCULACIÓN TEMPORAL
+EMPRESAS.
+    Para que sea válido este documento deberá ir acompañado del boletín de circulación
+correspondiente''.
+   En el Boletín de Circulación figurarán los siguientes datos:
+   Número del permiso temporal de empresa.
+   Marca y número de bastidor del vehículo.
+   Apellidos y nombre o razón social de la persona titular del permiso.
+   Domicilio de la persona titular del permiso.
+   Nombre, apellidos y DNI o NIE de la persona conductora.
+   Itinerario.
+   Horario.
+   Plazo de validez del permiso temporal.
+                                         Página 143
+                             BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                                         ANEXO XVIII
+                                  PLACAS DE MATRÍCULA
+                                 I. Colores e inscripciones
+    Sin perjuicio del color del fondo establecido para cada placa de matrícula en los
+siguientes apartados, se permite la inclusión de diseños geométricos sin significado
+reconocible, siempre que no afecten a las condiciones de retrorreflexión y legibilidad
+necesarias para el correcto funcionamiento de sistemas de captación de imagen de las
+autoridades competentes en materia de tráfico.
+    En el caso mencionado en el párrafo anterior, se deberá garantizar el cumplimiento de
+las placas con las prescripciones de la norma ISO/IEC 30116:2016 “Information technology –
+Automatic identification and data capture techniques– Optical Character Recognition (OCR)
+quality testing”.
+   A) Matrícula ordinaria.
+     a) Vehículos automóviles:
+     El fondo de la placas será retrorreflectante de color blanco y los caracteres irán pintados
+en color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al
+servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será
+retrorreflectante de color azul y los caracteres irán pintados en color blanco mate.
+     En las placas de matrícula de todos los vehículos automóviles, con independencia del
+servicio al que estén destinados, se inscribirán dos grupos de caracteres constituidos por un
+número de cuatro cifras, que irá desde el 0000 al 9999, y de tres letras, empezando por las
+letras BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, y las letras Ñ y
+Q.
+     Además, en la parte izquierda de la placa de matrícula se incluirá, sobre una banda azul
+dispuesta verticalmente, el símbolo de la bandera europea, que constará de 12 estrellas de
+color amarillo, y la sigla distintiva de España representada por la letra E de color blanco, de
+acuerdo con el cuadro 5 del presente anexo.
+     Los automóviles matriculados en España en cuyas placas de matrícula figure la bandera
+europea y la sigla distintiva de España, cuando circulen por los demás países de la Unión
+Europea, no será necesario que lleven en su parte posterior el signo distintivo de la
+nacionalidad española previsto en la señal V-7 del anexo XI de este Reglamento.
+   b) Vehículos especiales:
+     El fondo de las placas será retrorreflectante, de color blanco. Los caracteres estampados
+en relieve irán pintados en color rojo mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres constituidos por la
+letra E, un número de cuatro cifras, que irá desde el 0000 al 9999, y tres letras, empezando
+por las letras BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, con lo
+que se evitan palabras malsonantes o acrósticos especialmente significados, así como las
+letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0, respectivamente, y las
+letras CH y LL, por incompatibilidad con el diseño de las placas de matrícula que no admitiría
+la consignación de cuatro caracteres en el último grupo.
+   c) Remolques y semirremolques:
+     El fondo de las placas será retrorreflectante, de color rojo. Los caracteres estampados en
+relieve irán pintados en color negro mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres constituidos por la
+letra R, un número que irá desde el 0000 al 9999, y tres letras, empezando por las letras
+BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, con lo que se evitan
+palabras malsonantes o acrósticos especialmente significados, así como las letras Ñ y Q por
+ser fácil su confusión con la letra N y el número 0, respectivamente y las letras CH y LL por
+incompatibilidad con el diseño de la placa de matrícula que no admitiría la consignación de
+cuatro caracteres en el último grupo.
+
+                                          Página 144
+                            BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+   d) Ciclomotores y ciclos de motor:
+     El fondo de las placas será retrorreflectante, de color amarillo. Los caracteres
+estampados en relieve irán pintados en color negro mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres constituidos por la
+letra C, un número de cuatro cifras, que irá desde el 0000 al 9999, y tres letras, empezando
+por las letras BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, con lo
+que se evitan palabras malsonantes o acrósticos especialmente significados, así como las
+letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0, respectivamente, y las
+letras CH y LL, por incompatibilidad con el diseño de las placas de matrícula que no admitiría
+la consignación de cuatro caracteres en el último grupo.
+   B) Matrícula especial.
+   a) Matrícula en régimen diplomático:
+   1.º Cuerpo diplomático.
+     Para los vehículos del Cuerpo diplomático, el fondo de las placas será retrorreflectante,
+de color rojo. Los caracteres estampados en relieve irán pintados en color blanco mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres, constituidos por las
+letras CD, seguidas por dos grupos de guarismos. El primero de ellos es un prefijo invariable
+y único para cada Misión diplomática, y el segundo, un número de orden que corresponderá
+a los vehículos propiedad de la Misión o de sus miembros a propuesta de cada Mísión
+Diplomática.
+     La atribución de prefijos se hará siguiendo el orden alfabético establecido en la última
+lista oficial del Cuerpo Diplomático publicada por el Ministerio de Asuntos Exteriores,
+correspondiendo el prefijo -1- al Decanato del Cuerpo Diplomático, y para las Misiones de
+países que acrediten Embajadores con carácter permanente o establezcan relaciones
+diplomáticas con España en el futuro, por orden de antigüedad.
+   2.º Organizaciones internacionales.
+     Para los vehículos de las organizaciones internacionales, el fondo de las placas será
+retrorreflectante, de color azul. Los caracteres estampados en relieve irán pintados en color
+blanco mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres, constituidos por las
+letras OI, seguidos por dos grupos de guarismos. El primero de ellos es un prefijo invariable
+y único para cada organización internacional; el segundo, un número de orden, que
+corresponderá a los vehículos propiedad de la organización internacional o de sus
+miembros, a propuesta de dichas organizaciones.
+     La atribución de prefijos se hará por orden de antigüedad siguiendo una serie correlativa
+a la reservada a las Misiones Diplomáticas.
+   3.º Oficinas consulares y su personal.
+     Para los vehículos de las Oficinas consulares y su personal, el fondo de las placas será
+retrorreflectante, de color verde. Los caracteres estampados en relieve irán pintados en color
+blanco mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres, constituidos por las
+letras CC, seguidas de dos grupos de guarismos. El primero será el prefijo correspondiente a
+la Misión Diplomática de la que dependa la Oficina Consular, según lo establecido en el
+apartado 1.º anterior, y, de no existir tal dependencia, se le atribuirá prefijo al Estado
+correspondiente.
+     Para la fijación del segundo grupo de guarismos se estará igualmente a lo dispuesto en
+el citado apartado 1.º En el caso de que la Oficina Consular no dependa de una Misión
+Diplomática acreditada en España, se realizará a propuesta del Jefe de la Oficina Consular.
+   4.º Personal técnico-administrativo.
+    El fondo de las placas será retrorreflectante, de color amarillo. Los caracteres
+estampados en relieve irán pintados en color negro mate.
+
+                                            Página 145
+                             BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     En las placas de matrícula se inscribirán tres grupos de caracteres, constituidos por las
+letras TA, seguidas de dos grupos de guarismos. El primero, identificativo de la Misión
+Diplomática, Organización Internacional u Oficina Consular, y el segundo, indicativo de un
+número de orden, que corresponderá a los vehículos propiedad del personal técnico-
+administrativo de cada uno de ellos, a propuesta de los mismos.
+   b) Matrícula turística:
+     El fondo de las placas será retrorreflectante, de color blanco. Los caracteres estampados
+en relieve irán pintados en color negro mate.
+     La banda vertical en donde se consignan el mes y el año en que caducan, expresándose
+el primero en caracteres romanos y el segundo en caracteres de tipo árabe, será
+retrorreflectante de color rojo. Los caracteres que en ella se consignan serán adhesivos de
+color blanco mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres. El primero lo
+constituirá la letra T; el segundo, un número, que irá desde el 0000 al 9999; y el tercero, tres
+letras, empezando por las letras BBB y terminando con las letras ZZZ, suprimiéndose las
+cinco vocales, con lo que se evitan palabras malsonantes o acrósticos especialmente
+significados, así como las letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0,
+respectivamente y las letras CH y LL por incompatibilidad con el diseño de la placa de
+matrícula que no admitiría la consignación de cuatro caracteres en el último grupo.
+   c) Matrícula de vehículo histórico:
+     El fondo de las placas será retrorreflectante, de color blanco. Los caracteres estampados
+en relieve irán pintados en color negro mate.
+     En las placas de matrícula se inscribirán tres grupos de caracteres. El primero lo
+constituirá la letra H; el segundo, un número, que irá desde el 0000 al 9999; y el tercero, tres
+letras, empezando por las letras BBB y terminando por las letras ZZZ, suprimiéndose las
+cinco vocales, con lo que se evitan palabras malsonantes o acrósticos especialmente
+significados, así como las letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0,
+respectivamente y las letras CH y LL por incompatibilidad con el diseño de la placa de
+matrícula que no admitiría la consignación de cuatro caracteres en el último grupo.
+   C) Autorizaciones temporales de circulación.
+   a) Permisos temporales para particulares:
+     El fondo de las placas será retrorreflectante, de color verde. Los caracteres estampados
+en relieve irán pintados en color blanco mate.
+     En las placas de matrícula de los vehículos de motor, remolques y semirremolques, se
+inscribirán tres grupos de caracteres. El primero lo constituirá la letra P; el segundo, un
+número, que irá desde el 0000 al 9999; y el tercero, tres letras, empezando por las letras
+BBB y terminando por las letras ZZZ, suprimiéndose las cinco vocales, con lo que se evitan
+palabras malsonantes o acrósticos especialmente significados, así como las letras Ñ y Q, por
+ser fácil su confusión con la letra N y el número 0, respectivamente y las letras CH y LL por
+incompatibilidad con el diseño de la placa de matrícula que no admitiría la consignación de
+cuatro caracteres en el último grupo.
+     En las placas de matrícula de los ciclomotores se inscribirán tres filas de caracteres
+constituidas, la primera, por la letra P y la cifra correspondiente a las unidades de millar de
+un número que irá desde el 0000 al 9999; la segunda, por las tres cifras restantes de este
+número; y la tercera, por tres letras, empezando por las letras BBB y terminando por las
+letras ZZZ, suprimiéndose las cinco vocales, con lo que se evitan palabras malsonantes o
+acrósticos especialmente significados, así como las letras Ñ y Q, por ser fácil su confusión
+con a letra N y el número 0, respectivamente y las letras CH y LL por incompatibilidad con el
+diseño de la placa de matrícula que no admitiría la consignación de cuatro caracteres en el
+último grupo.
+   b) Permisos temporales para empresas:
+     El fondo de las placas será retrorreflectante, de color rojo. Los caracteres estampados en
+relieve irán pintados en color blanco mate.
+                                           Página 146
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+     En las placas de matrícula de los vehículos de motor, remolques semirremolques, se
+inscribirán tres grupos de caracteres. El primero lo constitutiá la letra S, para los vehículos no
+matriculados, o la letra V, para los matriculados; el segundo, un número, que irá desde el
+0000 al 9999; y el tercero, tres letras, empezando por las letras BBB y terminando por las
+letras ZZZ, suprimiéndose las cinco vocales, con lo que se evitan palabras malsonantes o
+acrósticos especialmente significados, así como las letras Ñ y Q, por ser fácil su confusión
+con la letra N y el número 0, respectivamente y las letras CH y LL por incompatibilidad con el
+diseño de la placa de matrícula que no admitiría la consignación de cuatro caracteres en el
+último grupo.
+     La banda vertical en donde se consignen el mes y el año en que caducan, expresándose
+el primero en caracteres romanos y el segundo en caracteres de tipo árabe, será
+retrorreflectante de color blanco. Los caracteres que en ella se consignan serán adhesivos
+de color rojo mate.
+     En las placas de matrícula de los ciclomotores se inscribirán tres filas de caracteres
+constituidas, la primera, por la letra S para los vehículos no matriculados o la letra V para los
+matriculados, y la cifra correspondiente a las unidades de millar de un número que irá desde
+el 0000 al 9999; la segunda, por las tres cifras restantes de este número; y la tercera, por
+tres letras, empezando por las letras BBB y terminando por las letras ZZZ, suprimiéndose las
+cinco vocales, con lo que se evitan palabras malsonantes o acrósticos especialmente
+significados, así como las letras Ñ y Q, por ser fácil su confusión con la letra N y el número 0,
+respectivamente y las letras CH y LL por incompatibilidad con el diseño de la placa de
+matrícula que no admitiría la consignación de cuatro caracteres en el último grupo.
+     La banda en donde se consignen el mes y el año en que caducan, expresándose el
+primero en caracteres romanos y el segundo en caracteres de tipo árabe, será
+retrorreflectante de color blanco. Los caracteres que en ella se consignan serán adhesivos
+de color rojo mate.
+                                II. Contraseñas de las placas
+
+                                     A. Siglas de provincias
+
+                                     Álava               VI
+                                     Albacete            AB
+                                     Alicante            A
+                                     Almería             AL
+                                     Asturias            O
+                                     Ávila               AV
+                                     Badajoz             BA
+                                     Barcelona           B
+                                     Burgos              BU
+                                     Cáceres             CC
+                                     Cádiz               CA
+                                     Cantabria           S
+                                     Castellón           CS
+                                     Ciudad Real         CR
+                                     Córdoba             CO
+                                     A Coruña            C
+                                     Cuenca              CU
+                                     Girona              GI
+                                     Granada             GR
+                                     Guadalajara         GU
+                                     Guipúzcoa           SS
+                                     Huelva              H
+                                     Huesca              HU
+                                     Illes Balears       IB
+                                     Jaén                J
+                                     León                LE
+                                     Lleida              L
+                                     Lugo                LU
+                                     Madrid              M
+                                     Málaga              MA
+                                     Murcia              MU
+
+                                            Página 147
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+                                    Navarra                NA
+                                    Ourense                OU
+                                    Palencia               P
+                                    Las Palmas             GC
+                                    Pontevedra             PO
+                                    La Rioja               LO
+                                    Salamanca              SA
+                                    Santa Cruz de Tenerife TF
+                                    Segovia                SG
+                                    Sevilla                SE
+                                    Soria                  SO
+                                    Tarragona              T
+                                    Teruel                 TE
+                                    Toledo                 TO
+                                    Valencia               V
+                                    Valladolid             VA
+                                    Vizcaya                BI
+                                    Zamora                 ZA
+                                    Zaragoza               Z
+                                    Ceuta                  CE
+                                    Melilla                ML
+B) Contraseñas de los vehículos pertenecientes al Estado y al servicio de los Cuarteles
+                    Generales Militares Internacionales de la OTAN.
+    ET, FN y EA: Para vehículos pertenecientes al Ministerio de Defensa, correspondientes,
+respectivamente al Ejército de Tierra, Armada y Ejército del Aire.
+    MF: Para los del Parque del Ministerio de Fomento.
+    MMA: Para los del Parque del Ministerio de Medio Ambiente.
+    PME: Para los del Parque Móvil del Estado.
+    CNP: Para los de la Dirección General de la Policía y de la Guardia Civil, adscritos al
+ámbito del Cuerpo Nacional de Policía.
+    PGC: Para los de la Dirección General de la Policía y de la Guardia Civil, adscritos al
+ámbito del Cuerpo de la Guardia Civil.
+    En el caso de vehículos especiales, figurarán las contraseñas anteriores y, separadas
+por un guión, las letras VE.
+    FAE: Para los vehículos al servicio de los Cuarteles Generales Militares Internacionales
+de la OTAN matriculados en España.
+                           III. Número y ubicación de las placas
+    1. Los automóviles, excepto las motocicletas y vehículos de tres ruedas deberán llevar
+dos placas de matrícula, de forma plana y rectangular. Una se colocará en la parte delantera
+de manera que su eje vertical esté situado en el plano longitudinal mediano del vehículo; y
+otra, en la parte posterior, que se colocará de manera que su eje vertical esté situado en
+aquel plano, y si no fuese posible, en el lado izquierdo del vehículo.
+    Excepcionalmente, en aquellos automóviles en los que, por construcción, la placa
+delantera no puede ser colocada de manera que su eje vertical esté situado en el plano
+longitudinal mediano del vehículo, ésta se podrá situar en su lado izquierdo o derecho.
+    2. Los ciclomotores, motocicletas, vehículos de tres ruedas y cuatriciclos ligeros y
+pesados llevarán una sola placa en la parte posterior, colocada en posición vertical o casi
+vertical. Los cuatriciclos ligeros y pesados podrán, además, llevar opcionalmente placa de
+matrícula delantera, que será de las mismas características que la placa de matrícula
+trasera.
+    3. Los vehículos especiales agrícolas y de obras y servicios autopropulsados deberán
+llevar una placa de matrícula de forma plana y rectangular situada en la parte posterior y en
+el centro o en su lado izquierdo, colocada en posición vertical o casi vertical y perpendicular
+al plano longitudinal medio del vehículo.
+    4. Los remolques, semirremolques, maquinaria agrícola remolcada y de obras y
+servicios, cuya masa máxima autorizada exceda de 750 kilogramos, deberán ir provistos en
+la parte posterior de su placa de matrícula situada en posición vertical o casi vertical y en el
+                                          Página 148
+                         BOLETÍN OFICIAL DEL ESTADO
+                             LEGISLACIÓN CONSOLIDADA
+
+plano longitudinal mediano del vehículo y, además, en el lado derecho, de otra placa con la
+matrícula del vehículo remolcador.
+    Los restantes remolques, semirremolques, maquinaria agrícola remolcada y de obras y
+servicios, llevarán en el lado izquierdo o en el centro una sola placa posterior, de igual
+contenido que la del vehículo remolcador.
+                                        Página 149
+                                                        BOLETÍN OFICIAL DEL ESTADO
+                                                              LEGISLACIÓN CONSOLIDADA
+
+                                      IV. Dimensiones y especificaciones de las placas y sus caracteres.
+                                                                               Cuadro 1
+
+                             Medidas (mm)         Caracteres (mm)                                    Separación a bordes (mm)                Color     Tolerancia
+                                                                                  Espacio                                                                 entre
+                                                                      Separación                                 Verticales Verticales
+                                                                                   entre                                                               caracteres,
+    TIPO PLACA                                                          entre                                       línea      línea
+                                    Superficie                 Grueso            grupos de                 Entre                                        grupo de
+    MATRÍCULA               Total               Anchura Altura        caracteres            Horizontales           superior  inferior Fondo Caracteres
+                                    reflectante                 trazo            caracteres               líneas                                       caracteres
+                                                                        (mm)
+                                                                                   (mm)                                                                y distancia
+                                                                                                                  Izq. Der. Izq. Der.
+                                                                                                                                                        a bordes
+Ordinaria larga (1)       520 × 110 510 × 100     45      77      10      14         41         11,5         –     62 22      –     – B/A(7)    N/B(7)
+Ordinaria alta (1)        340 × 220 330 × 210     45      77      10      10          -          15         26     80 40 87,5 87,5 B/A(7)       N/B(7)
+Ordinaria larga
+                       340 × 110 330 × 100        30     60      6         8          24         20         –    48    8    –     –    B/A(7)   N/B(7)
+delantera (2)
+Motocicletas ordinaria
+                       220 × 160 210 × 150        30     60      6        10          -          10        10    50   10    50   50      B        N
+(4)
+Motocicletas corta (5)    132 x 96     122 × 86   13     30     3,5                   -           7        12    40    8   31,5 31,5     B        N
+Ordinaria larga con
+siglas de provincia (1)   520 × 110 510 × 110     45     77     10         8          27         11,5       -    48    8    -     -      B        N
+*
+Ordinaria alta con
+siglas de provincia (1)   340 × 220 330 × 210     45     77     10        10          50         15        26    60   20    60   60      B        N
+(3) *
+Ordinaria larga
+delantera con siglas      340 × 110 330 × 100     30     60      6         6          6          20         -    44    4    -     -      B        N
+de provincia (2) *
+Motocicletas ordinaria
+con siglas de             220 × 160 210 × 150     30     60      6                    18         10        10    48    8    50   10      B        N
+provincia (3) (4) *
+Vehículos especiales
+                          340 x10     330 x 100   30     60      6         8          15         20         -    10   10    -     -      B        R
+larga
+Vehículos especiales                                                      10
+                          280 × 200 270 × 190     30     60      6                    40         20        30    25   25    75   75      B        R
+alta                                                                      15
+Remolques y
+                          520 × 110 510 × 100     45     77     10        12          30         11,5       –    15   15    –     –      R        N
+semirremolques larga
+Remolques y                                                                9
+                          340 × 220 330 × 210     45     77     10                    40         15        26    19   19   87,5 87,5     R        N
+semirremolques alta                                                       10
+Ciclomotores alta         100 × 168 90 x 158      13     30     3,5       10          10          22       12    27 27 15,5 15,5        AM        N
+Ciclomotores larga        140 x 120 130 x 110     13     30     3,5       10          10          22       12    27 27 15,5 15,5        AM        N
+Cuatriclos ligeros (6)     210 x 85 200 × 75      13     30     3,5        7          16         22,5       –   14,5 14,5 –  –          AM        N
+Cuatriciclos larga        520 x 110 510 x 110     45     77     10        11          41         11,5       –    62 22    –  –          AM        N
+Vehículo histórico                                                                                                                                       ± 3 mm
+                          100 x 168    90 x 158   13     30     3,5       10          10         22        12    27   27   15,5 15,5     B        N
+ciclomotores
+Cuerpo Diplomático        520 × 110 510 × 100     45     77     10        14                     11,5       –    35   35    –     –      R        B
+Organizaciones                                                                        80
+                          520 × 110 510 × 100     45     77     10        14                     11,5       –    35   35    –     –     AZ        B
+internacionales                                                                       48
+Oficina consular          520 × 110 510 × 100     45     77     10        14                     11,5       –    35   35    –     –      V        B
+Personal técnico-                                                                     80
+                          520 × 110 510 × 100     45     77     10        14                     11,5       –    35   35    –     –     AM        N
+administrativo                                                                        48
+Turística larga           520 × 110 510 × 100     45     77     10        10                     11,5       –    10   40    –     –      B        N
+Turística alta            340 × 220 330 × 210     45     77     10        10          20         15        26    10   45    70   105     B        N
+Vehículo histórico
+                          520 × 110 510 × 100     45     77     10        10          35         11,5       –    15   15    –     –      B        N
+larga
+Vehículo histórico alta   340 × 220 330 × 210     45     77     10        13          36         15        26    15   15   84,5 84,5     B        N
+Vehículo histórico
+                          220 × 160 210 × 150     30     60      6        10          14         10        10     8    8    50   50      B        N
+motocicletas
+Temporal particular                                                                   70
+                          520 × 110 510 × 100     30     60      6        16                     20         –    30   30    –     –      V        B
+larga                                                                                 60
+Temporal particular
+                          280 × 200 270 × 190     30     60      6        16          36         20        30    18   18    74   74      V        B
+alta
+Temporal particular
+                          100 × 168    90 × 158   13     30     3,5       10          10         22        12    27   27   15,5 15,5     V        B
+ciclomotores
+Temporal empresas
+larga (vehículos no       520 × 110 510 × 100     30     60      6        16         57,5        20         –    20   55    –     –      R        B
+matriculados)
+Temporal empresas
+larga (vehículos          520 × 110 510 × 100     30     60      6        16         57,5        20         –    20   55    –     –      R        B
+matriculados)
+Temporal empresas
+alta (vehículos no        280 × 200 270 × 190     30     60      6        12          19         20        30    15   50   60,5 95,5     R        B
+matriculados)
+                                                                               Página 150
+                                                    BOLETÍN OFICIAL DEL ESTADO
+                                                          LEGISLACIÓN CONSOLIDADA
+                       Medidas (mm)           Caracteres (mm)                                   Separación a bordes (mm)              Color       Tolerancia
+                                                                              Espacio                                                                entre
+                                                                  Separación                                Verticales Verticales
+                                                                               entre                                                              caracteres,
+   TIPO PLACA                                                       entre                                      línea     línea
+                                Superficie                 Grueso            grupos de                Entre                                        grupo de
+   MATRÍCULA          Total                 Anchura Altura        caracteres            Horizontales          superior  inferior Fondo Caracteres
+                                reflectante                 trazo            caracteres              líneas                                       caracteres
+                                                                    (mm)
+                                                                               (mm)                                                               y distancia
+                                                                                                             Izq. Der. Izq. Der.
+                                                                                                                                                   a bordes
+Temporal empresas
+alta (vehículos     280 × 200 270 × 190      30      60      6        12         19          20        30    15   50   60,5 95,5   R        B
+matriculados)
+Temporal empresas
+ciclomotores                                                                                 12
+                    100 × 168    90 × 158    13      30     3,5       10         10                    12    27   27   15,5 15,5   R        B
+(vehículos no                                                                                32                                                     ± 3 mm
+matriculados)
+Temporal empresas
+ciclomotores                                                                                 12
+                    100 × 168    90 × 158    13      30     3,5       10         10                    12    27   27   15,5 15,5   R        B
+(vehículos                                                                                   32
+matriculados)
+
+                    (1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos.
+                  (2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no
+              permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos.
+                   (3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter,
+              se procederá a repartir los espacios sobrantes entre ambos lados.
+                   (4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1
+              que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria
+              larga delantera.
+                    (5) Para motocicletas de dos ruedas de las especialidades de trial y enduro.
+                   (6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el
+              emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la
+              placa de ciclomotores.
+                  (7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de
+              matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas,
+              en que el fondo será de color azul y los caracteres, de color blanco mate.
+                   Cuando se indican dos cantidades en los apartados "Separación entre caracteres" y "Separación a bordes
+              horizontales", se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.
+                    Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se
+              refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el
+              segundo y el tercer grupo de caracteres.
+
+                   * Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de
+              septiembre de 2000.
+
+                                                                           Cuadro 2
+
+                                                  1. Modelos de placas de matrícula ordinaria.
+                                                                           Página 151
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 152
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 153
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 154
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 155
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 156
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 157
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 158
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 159
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 160
+                                                 BOLETÍN OFICIAL DEL ESTADO
+                                                       LEGISLACIÓN CONSOLIDADA
+
+                                                                        Cuadro 3
+                                                      Especificaciones de las placas
+
+                                                                                        REBORDE
+      TIPO                              TOLERANCIA              TOLERANCIA                                     RADIOS                                 NÚMERO
+                   CARACTERÍSTICAS                                                     DE LA PLACA
+     PLACA                                 EN LA                   EN LA                                        DE LA        CARACTERES                  DE
+                     ESPECIALES                                                          EN TODO
+   MATRÍCULA                           HOMOLOGACIÓN             FABRICACIÓN                                    PLACA                                MANIPULADOR
+                                                                                      SU CONTORNO
+ORDINARIA LARGA
+ORDINARIA ALTA
+ORDINARIA LARGA
+DELANTERA
+MOTOCICLETAS
+ORDINARIA
+MOTOCICLETA
+CORTA
+VEHÍCULOS
+ESPECIALES LARGA
+VEHÍCULOS
+ESPECIALES ALTA
+REMOLQUES Y
+SEMI-REMOLQUES
+LARGA
+REMOLQUES Y
+SEMI-REMOLQUES                                                                      Reborde plano sin                                            Se troquelará en el
+                                     ±0,5 mm en la placa y en                                                              Embutición en
+ALTA                                                          1 mm en la placa y    cubrir ni pintar con    INTERIOR: 6                          borde izquierdo
+                                     los caracteres                                                                        relieve con una
+CICLOMOTORES                                                  en los caracteres     una anchura de 5 mm     mm ± 1 mm                            de la placa dentro
+                                     Grueso del trazo ± 0,1                                                                altura
+CUATRICICLOS                                                  ± 0,2 mm grueso del   en todo su contorno y   EXTERIOR: 10                         del bordón,
+                                     mm                                                                                    sobre el fondo
+LIGEROS                                                       trazo                 una embutición          mm ± 1 mm                            en un rectángulo
+                                                                                                                           de 0,9 mm +0,3/–0,2
+CUERPO                                                                              de 0,8 ± 0,1 mm                                              de 35 x 5 mm
+DIPLOMÁTICO
+ORGANIZACIONES
+INTERNACIONALES
+OFICINA CONSULAR
+PERSONAL
+TÉCNICO
+ADMINISTRATIVO
+TURÍSTICA LARGA
+                         A
+TURÍSTICA ALTA
+VEHÍCULO
+HISTÓRICO LARGA
+VEHÍCULO
+HISTÓRICO ALTA
+VEHÍCULO
+HISTÓRICO
+MOTOCICLETAS
+                                                                       Página 161
+                                                          BOLETÍN OFICIAL DEL ESTADO
+                                                                LEGISLACIÓN CONSOLIDADA
+                                                                                                 REBORDE
+      TIPO                                     TOLERANCIA               TOLERANCIA                                     RADIOS                                   NÚMERO
+                     CARACTERÍSTICAS                                                            DE LA PLACA
+     PLACA                                        EN LA                    EN LA                                        DE LA           CARACTERES                 DE
+                       ESPECIALES                                                                 EN TODO
+   MATRÍCULA                                  HOMOLOGACIÓN              FABRICACIÓN                                    PLACA                                  MANIPULADOR
+                                                                                               SU CONTORNO
+TEMPORAL
+PARTICULAR
+LARGA
+TEMPORAL
+PARTICULAR ALTA
+TEMPORAL
+PARTICULAR
+CICLOMOTORES
+TEMPORAL
+EMPRESAS
+LARGA
+VEHÍCULOS NO
+MATRICULADOS
+TEMPORAL
+EMPRESAS
+LARGA                                                                                       Reborde plano sin                                              Se troquelará en el
+                                           ±0,5 mm en la placa y en                                                                  Embutición en
+VEHÍCULOS                                                           1 mm en la placa y      cubrir ni pintar con    INTERIOR: 6                            borde izquierdo
+                                           los caracteres                                                                            relieve con una
+MATRICULADOS                                                        en los caracteres       una anchura de 5 mm     mm ± 1 mm                              de la placa dentro
+                                           Grueso del trazo ± 0,1                                                                    altura
+TEMPORAL                                                            ± 0,2 mm grueso del     en todo su contorno y   EXTERIOR: 10                           del bordón,
+                                           mm                                                                                        sobre el fondo
+EMPRESAS ALTA                                                       trazo                   una embutición          mm ± 1 mm                              en un rectángulo
+                                                                                                                                     de 0,9 mm +0,3/–0,2
+VEHÍCULOS NO                                                                                de 0,8 ± 0,1 mm                                                de 35 x 5 mm
+MATRICULADOS
+                              A
+TEMPORAL
+EMPRESAS ALTA
+VEHÍCULOS
+MATRICULADOS
+TEMPORAL
+EMPRESAS
+CICLOMOTORES
+VEHÍCULOS NO
+MATRICULADOS
+TEMPORAL
+EMPRESAS
+CICLOMOTORES
+VEHÍCULOS
+MATRICULADOS
+                                                                                                                                  Matrícula turística
+  Bandas donde se consignan mes y año de caducidad
+                                                                                                                                  Matrícula temporal       30 mm
+                                                                                                                                                                     ANCHURA
+A                                                                                                                                 empresa
+                                                                                                                                                                      BANDA
+  Los caracteres adhesivos serán de color blanco para las placas de matrícula turística y rojo para las placas temporales empresa Matrícula temporal
+                                                                                                                                                           20 mm
+  y de dimensiones 15 x 8 x 2 mm                                                                                                  empresa ciclomotores
+
+                        Valores mínimos del coeficiente de retrorreflexión en las láminas y en el logo
+
+                                                                                         Ángulo de entrada
+                                  Color del producto Ángulo de observación H = 0° V = 5° V = 30°
+                                                                                                    V = 40° V = 45°
+                                                                                  cd · lx-–1 · m-–2
+                                                     0º 12’                  –    70,00 30,00          –     6,00
+                                        Blanco       0º 20’                  –    50,00 25,00          –     3,00
+                                                     1º 30’                  –      5,00       2,00    –     1,00
+                                                     0º 2’                   –    10,00        4,00 14,00      –
+                                         Rojo        0º 33’                  –      7,00       2,50    1,20    –
+                                                     1º 30’                  –      0,60       0,30    0,20    –
+                                                     0º 2’                   –      9,00       3,00    1,00    –
+                                        Verde        0º 33’                  –      7,00       2,30    0,90    –
+                                                     1º 30’                  –      0,60       0,15    0,08    –
+                                                     0º 12’                  –      3,00       1,50    –       –
+                                         Azul        0º 20’                  –      1,50       1,00    –       –
+                                                     1º 30’                  –      0,30       –       –       –
+                                                     0º 12’                  –    40,00 16,00          7,00    –
+                                       Amarillo      0º 20’                  –    28,00 11,00          5,00    –
+                                                     1º 30’                  –      3,00       2,00    1,00    –
+                                                                    Coordenadas cromáticas
+
+                                                      Color       1     2     3     4   Factor de luminancia
+                                                              X 0,355 0,305 0,285 0,335
+                                                   Blanco                                      > 0,35
+                                                              Y 0,355 0,305 0,325 0,375
+                                                                                 Página 162
+     BOLETÍN OFICIAL DEL ESTADO
+          LEGISLACIÓN CONSOLIDADA
+  Color      1     2     3     4   Factor de luminancia
+         X 0,690 0,595 0,569 0,655
+ Rojo                                     > 0,05
+         Y 0,310 0,315 0,341 0,345
+         X 0,007 0,248 0,177 0,026
+ Verde                                    > 0,04
+         Y 0,703 0,409 0,362 0,399
+         X 0,078 0,150 0,210 0,137
+  Azul                                    > 0,01
+         Y 0,171 0,220 0,160 0,038
+         X 0,545 0,487 0,427 0,465
+Amarillo                                  > 0,27
+         Y 0,454 0,423 0,483 0,534
+
+                      Cuadro 4
+                     Página 163
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 164
+BOLETÍN OFICIAL DEL ESTADO
+  LEGISLACIÓN CONSOLIDADA
+         Página 165
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                                            Cuadro 5
+              DIMENSIONES Y COLORES DEL DISTINTIVO COMUNITARIO
+
+                                   (Dimensiones en mm.)
+                                            ANEXO XIX
+       Certificación de vehículos de movilidad personal y otros no homologados
+    Los vehículos que no cuenten con una homologación europea, nacional o individual,
+podrán comercializarse en el mercado español, en particular, los vehículos de movilidad
+personal, en los términos previstos en este anexo.
+    Se recogen las definiciones, los requisitos técnicos y las condiciones exigibles al
+fabricante para la certificación del tipo de vehículo o medio de transporte, los requisitos de
+laboratorios o los servicios técnicos de acreditación independientes, así como la certificación
+general y la certificación extraordinaria.
+    Se regula la evaluación de la conformidad de producción, al objeto de garantizar que los
+vehículos que se introduzcan en el mercado español siguen cumpliendo los requisitos que le
+permitieron obtener la certificación en un momento inicial, y la supresión de la certificación
+en caso de incumplimiento de las condiciones exigidas.
+
+                                       1.    Definiciones
+   A los efectos de este anexo se considera:
+                                            Página 166
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     a) Marca-Fabricante: una persona física o jurídica que fabrica un vehículo o que manda
+diseñar o fabricar un vehículo y que es responsable de todos los aspectos de la certificación
+de un vehículo, así como de garantizar la conformidad de la producción y de las cuestiones
+de vigilancia de mercado relacionadas con el vehículo, y que comercializa con su nombre,
+denominación social o marca comercial.
+     b) Modelo: grupo de vehículos que sean idénticos al menos en los datos recogidos en
+el anverso de la ficha de características generales.
+     c) Versión: grupo de vehículos que sean idénticos en los datos recogidos en la totalidad
+(anverso y reverso) de la ficha de características generales.
+     d) Nombre comercial: nombre con el que una marca designa a un modelo para su
+comercialización.
+     e) Representante de la Marca-Fabricante: toda persona física o jurídica establecida en
+la Unión Europea que está debidamente designada por la Marca-Fabricante para que lo
+represente ante la autoridad de certificación o ante la autoridad de vigilancia de mercado y
+para que actúe en su nombre en los asuntos a los que aplica este anexo y que asume las
+obligaciones del fabricante, en los casos en los que este se encuentre establecido fuera de
+la Unión Europea.
+     f) Fabricante-Productor: una persona física o jurídica que cuenta con el certificado
+ISO 9001, sobre sistema de gestión de calidad, de producción o ensamblaje de vehículos.
+     g) Importador: una persona física o jurídica establecida en la Unión Europea que
+introduce en el mercado un vehículo que ha sido fabricado en un tercer país.
+     h) Distribuidor: una persona física o jurídica de la cadena de suministro, distinta de la
+marca, que comercializa un vehículo.
+     i) Certificado: documento expedido por un tercero competente designado por el
+organismo autónomo Jefatura Central de Tráfico en el que se acredita que el vehículo
+sometido a ensayo cumple las disposiciones administrativas y los requisitos técnicos
+pertinentes.
+     j) Sistema autoequilibrado: sistema auxiliar de control cuya función es mantener el
+equilibrio de un vehículo o estructura.
+     k) Masa en orden de marcha: la masa en orden de marcha de un vehículo se determina
+midiendo la masa del vehículo sin carga listo para su uso normal, incluyendo los líquidos y el
+equipamiento estándar conforme a las especificaciones del fabricante. No incluirá la masa
+del conductor (75 kg), las máquinas o equipos instalados en la zona de la plataforma de
+carga y la masa de la batería.
+     l) Masa Máxima Técnicamente Admisible (MMTA): masa máxima declarada por el
+fabricante teniendo en cuenta sus características de fabricación y sus prestaciones por
+construcción.
+     m) Batería: una batería sellada, que tiene un peso igual o inferior a 25 kg y está
+específicamente diseñada para suministrar energía eléctrica para la tracción de vehículos de
+ruedas que pueden estar alimentados exclusivamente por un motor eléctrico o por una
+combinación de motor y fuerza humana.
+     n) Potencia nominal: potencia máxima durante 30 minutos en el eje de transmisión de
+un motor eléctrico, conforme a lo previsto en el “Reglamento n.º 85 de la Comisión
+Económica de las Naciones Unidas para Europa (CEPE)-Disposiciones uniformes sobre la
+homologación de motores de combustión interna o grupos motopropulsores eléctricos
+destinados a la propulsión de vehículos de motor de las categorías M y N por lo que respecta
+a la medición de la potencia neta y de la potencia máxima durante 30 minutos de los grupos
+motopropulsores eléctricos”.
+     ñ) Comercialización: todo suministro, remunerado o gratuito, de un producto para su
+distribución, consumo o uso en el mercado comunitario en el transcurso de una actividad
+comercial.
+     o) Acreditación: acreditación con arreglo a la definición del artículo 2.10 del
+Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008,
+por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la
+comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93.
+     p) Servicio técnico de evaluación de la conformidad de la producción: servicio técnico
+designado por la autoridad de homologación española (Ministerio de Industria y Turismo)
+                                          Página 167
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+para la realización de actividades de verificación continua, que permitan la homologación de
+vehículos a motor/remolcados y sus componentes, siendo su función principal la realización
+de auditorías de evaluación inicial y conformidad de la producción.
+    q) Evaluación de conformidad de la producción: el proceso por el que se evalúa si se
+satisfacen los requisitos especificados en relación con los vehículos en el procedimiento de
+producción.
+    r) Certificado de verificación periódica de control de la producción: documento expedido
+por un servicio técnico designado a tal efecto, por el que se declara que un vehículo
+fabricado y comercializado se ajusta a las características técnicas de la marca/modelo/
+versión para la que se otorgó el certificado inicialmente.
+    s) Plan de control de la producción: Pauta elaborada por la Marca-Fabricante y
+aprobada por el servicio técnico de evaluación de la conformidad de la producción en función
+de las particularidades de este, con el fin de establecer una serie de controles, ensayos y
+evaluaciones que permitan asegurar que el producto es fabricado cumpliendo con los
+requisitos técnicos establecidos en la legislación.
+    t) Vigilancia del mercado: actividades realizadas y medidas adoptadas por las
+autoridades nacionales para garantizar que los vehículos, sistemas, componentes o
+unidades técnicas independientes que se comercializan cumplen los requisitos establecidos
+en la legislación española y no comportan riesgo alguno para la salud, la seguridad o
+cualquier otro aspecto relacionado con la protección del interés público.
+    u) Número de certificación: código alfanumérico obtenido en el proceso de certificación
+y que seguirá el formato establecido en el correspondiente anexo de características y
+requisitos técnicos del tipo de vehículo concreto.
+    v) Marcaje único: identificativo exterior de los vehículos certificados, según lo descrito
+en el correspondiente anexo de características y requisitos técnicos del tipo de vehículo y
+que deben portar de forma visible como condición previa a la circulación.
+
+                    2.   Requisitos técnicos de los vehículos certificados
+    Los requisitos técnicos que deba cumplir cada tipo de vehículo a certificar previamente a
+su puesta en circulación se definirán en el correspondiente anexo de este reglamento.
+    En concreto, los vehículos de movilidad personal deberán cumplir con los requisitos
+técnicos establecidos en el anexo XXI.
+
+                                3.        Certificación de vehículos
+    El proceso de certificación permite que la Marca-Fabricante del vehículo o cualquier
+representante autorizado por el mismo, o de forma extraordinaria una persona propietaria
+individual de un vehículo, obtengan un certificado de circulación que garantice la seguridad
+de la puesta en circulación. La obtención de esta certificación se realizará mediante un
+proceso de verificación que garantice que cumple con todos los requisitos para poder
+acogerse a esta categoría de vehículos.
+    Esta certificación del vehículo habilita a la Marca-Fabricante a inscribir el número de
+certificado en cada vehículo para ese modelo y versión, así como a utilizar la frase
+“Certificado por la DGT”/“DGT certified” y el logo de la DGT en la promoción de este modelo/
+versión.
+    Los ensayos necesarios para este proceso de certificación se realizarán en un
+laboratorio autorizado designado como organismo competente por parte del organismo
+autónomo Jefatura Central de Tráfico, de acuerdo con el apartado 4 de este anexo.
+
+                                     4.    Certificación ordinaria
+    El proceso para solicitar el número de certificación a un laboratorio acreditado es el
+siguiente:
+    A. Para solicitar la certificación de un vehículo es necesario que la marca se encuentre
+registrada en el organismo autónomo Jefatura Central de Tráfico.
+                                               Página 168
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    Para ello la Marca-Fabricante o cualquier representante autorizado por la misma deberá
+presentar a través de la sede electrónica del organismo autónomo Jefatura Central de
+Tráfico:
+    a) Formulario de solicitud completo.
+    b) Nombre de la marca que se solicita inscribir.
+    c) Justificante del pago de la tasa tipo IV.1.
+    d) Acreditación de disponer de la certificación ISO 9001 de producción o ensamblaje, o
+una certificación equivalente del sistema de gestión de la calidad sobre los procesos de
+fabricación o ensamblaje para cada uno de los fabricantes.
+    e) Declaración responsable de capacidad de inscribir la marca, en su caso.
+    El organismo autónomo Jefatura Central de Tráfico resolverá al respecto informando del
+resultado de la solicitud.
+    B. Para solicitar la certificación del vehículo al laboratorio autorizado por el organismo
+autónomo Jefatura Central de Tráfico.
+   El representante autorizado por el titular de la marca podrá solicitar la certificación de un
+modelo/versión directamente ante un laboratorio autorizado, para lo cual deberá aportar:
+   Documentación de solicitud:
+    a) Confirmación del registro de la marca en el organismo autónomo Jefatura Central de
+Tráfico.
+    b) Dos prototipos de los vehículos.
+    c) Borrador de la ficha de características generales.
+    d) Documentación de comercialización especificada.
+    e) Certificado de evaluación periódica de control de la conformidad de la producción.
+   Documentación acreditativa de requisitos técnicos, en su caso:
+    f) Declaración responsable anti-manipulación.
+    g) Justificación documental del cumplimiento de requisitos técnicos.
+    h) Cualquier otra información y documentación que el servicio técnico (laboratorio
+autorizado) considere que sea necesaria.
+   C.   Resultado del proceso de certificación.
+    El laboratorio autorizado para la certificación será el último responsable de garantizar el
+cumplimiento de todos y cada uno de los requisitos recogidos en el anexo de este
+reglamento que regule las características y requisitos técnicos que debe cumplir el tipo
+concreto de vehículo de que se trate, para lo cual deberá:
+    a) Comprobar, antes de iniciar el proceso de certificación de un modelo de vehículo,
+que la marca y el fabricante correspondiente están registrados en el organismo autónomo
+Jefatura Central de Tráfico.
+    b) Realizar las comprobaciones y ensayos sobre el cumplimiento de todos los
+requisitos recogidos en el correspondiente anexo de características y requisitos técnicos del
+vehículo considerado.
+    c) Basar el cumplimiento de estos requisitos en documentación técnica relevante y
+suficientemente fiable sobre ensayos o comprobaciones realizadas sobre el mismo modelo
+por otros laboratorios.
+    El laboratorio autorizado para la certificación emitirá un informe técnico de las
+comprobaciones y pruebas realizadas, la documentación analizada y el cumplimiento de los
+requisitos, y lo remitirá tanto al solicitante como al organismo autónomo Jefatura Central de
+Tráfico.
+    Cada certificado emitido por un laboratorio autorizado hará corresponder un número de
+certificado con una marca, modelo y versión del vehículo únicas.
+    El envío de los datos relacionados con la certificación y el informe técnico al organismo
+autónomo Jefatura Central de Tráfico por parte del laboratorio autorizado se realizará por
+                                          Página 169
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+medios electrónicos, en la forma que dicho organismo autónomo establezca, y en el plazo
+máximo de una semana desde la fecha de emisión de dicho certificado.
+
+                                5. Certificación extraordinaria
+    La certificación extraordinaria de un vehículo sin certificado podrá ser solicitada por parte
+de la persona propietaria a través de un laboratorio autorizado aportando el vehículo y la
+información técnica que posea del mismo.
+    El laboratorio autorizado para la certificación individual deberá realizar únicamente los
+ensayos que no sean destructivos, y emitirá el informe técnico de las comprobaciones y
+pruebas realizadas y del cumplimiento de los requisitos técnicos, así como un modelo de
+certificado con el resultado (positivo o negativo) de la certificación, y lo remitirá tanto a la
+persona solicitante como al organismo autónomo Jefatura Central de Tráfico.
+    De igual modo, el envío de los datos relacionados con la certificación y el informe técnico
+extraordinario se realizará por medios electrónicos, en la forma que el organismo autónomo
+Jefatura Central de Tráfico establezca, y en el plazo máximo de una semana desde la fecha
+de emisión de dicho certificado.
+
+                   6.   Actualización de vehículos previamente certificados
+    Cualquier actualización o modificación realizada en una marca, modelo y versión de un
+vehículo certificado previamente que suponga la sustitución de componentes por otros de
+características técnicas diferentes, o la alteración con respecto a las especificaciones de la
+ficha técnica, deberá someterse a un nuevo proceso de certificación a través de un
+laboratorio autorizado tal y como se recoge anteriormente, indicando las modificaciones
+realizadas y el número de certificación anterior.
+    El laboratorio valorará qué ensayos deberán ser realizados de nuevo, y emitirá un
+informe técnico de las comprobaciones y pruebas realizadas al vehículo modificado
+generando un nuevo número de certificado.
+
+                               7.   Supresión de la certificación
+    Un certificado podrá ser suprimido por el organismo autónomo Jefatura Central de
+Tráfico en los siguientes supuestos:
+    a) Conocimiento por parte del organismo autónomo Jefatura Central de Tráfico de la
+falsedad o alteración de los documentos o ensayos utilizados para la obtención del
+certificado.
+    b) Falta de comunicación inmediata al organismo autónomo Jefatura Central de Tráfico
+de cualquier cambio en la información de la marca, del fabricante, o de las instalaciones de
+producción, respecto a los de la certificación original.
+    c) Diferencias entre el modelo producido y el certificado según lo establecido en la ficha
+técnica y en el informe técnico de certificación.
+    d) Negativa a facilitar al organismo autónomo Jefatura Central de Tráfico, o cualquier
+entidad que este haya designado, los medios y el acceso a las instalaciones necesarios para
+verificar en cualquier momento que la producción se está realizando de acuerdo con la
+certificación.
+    e) Resultado desfavorable de la evaluación de la conformidad de la producción sin
+respuesta a los requerimientos en el plazo establecido para ello.
+    f) Cualquier otra violación de las disposiciones o incumplimiento de los requisitos que
+han dado lugar al otorgamiento del certificado.
+   Dicha supresión se llevará a cabo mediante resolución del organismo autónomo Jefatura
+Central de Tráfico, que será comunicada al titular del citado certificado.
+   No se permitirá la introducción en el mercado de vehículos conforme a un certificado que
+haya sido suprimido.
+                                           Página 170
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+                          8.   Designación de laboratorio autorizado
+     La designación del laboratorio como organismo competente (laboratorio autorizado para
+la certificación) establecerá los requisitos exigibles a dichos organismos en materia de
+autorización de vehículos. Las funciones de estos laboratorios serán de ámbito nacional. Sus
+informes y resoluciones tendrán también validez nacional.
+     La persona solicitante deberá cumplir los siguientes requisitos y demostrar evidencias de
+ello:
+   8.1   Servicio técnico designado para la homologación de tipo europeo de vehículos.
+     En caso de vehículos de movilidad personal lo será de la categoría L establecida en el
+Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero
+de 2013, relativo a la homologación de los vehículos de dos o tres ruedas y los cuatriciclos, y
+a la vigilancia del mercado de dichos vehículos, por parte de alguna autoridad de
+homologación europea designado para alguna de las siguientes categorías indicadas en su
+artículo 63:
+   a) Categoría A: servicios técnicos que realizan en sus propias instalaciones los
+ensayos previstos en el Reglamento (UE) n.º 168/2013, del Parlamento Europeo y del
+Consejo, de 15 de enero de 2013, y en los actos enumerados en su anexo II.
+   b) Categoría B: servicios técnicos que supervisan los ensayos previstos en el
+Reglamento (UE) n.º 168/2013, del Parlamento Europeo y del Consejo, de 15 de enero
+de 2013, y en los actos enumerados en su anexo II, en aquellos casos en que dichos
+ensayos se realicen en las instalaciones del fabricante o en las instalaciones de un tercero.
+    8.2 Disponer de la competencia técnica y medios materiales y humanos, así como de
+las pistas y equipos de ensayo descritos a continuación:
+   a) Pista de ensayo nivelada con las siguientes características:
+   i. Superficie seca y no deslizante de hormigón o asfalto.
+   ii. Pendiente máxima ≤ 1 %.
+   iii. Coeficiente de asimetría (skewness) ≤ 3 %.
+   b) Equipo para medir la velocidad calibrado con las siguientes características:
+   i. Precisión ± 2 %.
+   ii. Resolución 0,1 km/h.
+    Se deberá disponer de todos los equipamientos y tramos de circuito necesarios para la
+realización de los ensayos descritos y referenciados a lo largo de este anexo, o
+equipamientos y tramos de circuito equivalentes, que permitan garantizar el cumplimiento de
+los requisitos recogidos en el mismo.
+    8.3 Tener experiencia demostrable en sistemas de legislación, reglamentación y
+certificación.
+   Los laboratorios que cumplan los requisitos definidos solicitarán su acreditación ante el
+organismo autónomo Jefatura Central de Tráfico, para lo cual deberán:
+    a) Presentar la solicitud de alta como laboratorio autorizado a través del formulario
+disponible en la sede electrónica del organismo autónomo Jefatura Central de Tráfico.
+    b) Completar la solicitud de designación de laboratorio de certificación.
+    c) Pagar la tasa IV.5.
+    d) Presentar la documentación de designación como servicio técnico para la
+homologación de tipo europeo de vehículos de categoría correspondiente. En caso de
+vehículos de movilidad personal, se corresponderá a la categoría L, para las categorías A o
+B, conforme al artículo 63 del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del
+Consejo, de 15 de enero de 2013.
+    e) Aportar declaración responsable de disponer de todos los medios materiales y
+humanos, y de todos los equipamientos y tramos de circuito necesarios.
+    f) Incluir certificado digital dentro de la Red Sara para la comunicación de los datos al
+organismo autónomo Jefatura Central de Tráfico.
+                                          Página 171
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    La respuesta del organismo autónomo Jefatura Central de Tráfico se mandará al
+laboratorio y, en su caso, se incluirá en el listado de laboratorios autorizados disponible en el
+portal de internet del mencionado organismo autónomo.
+
+                9. Evaluación periódica de la conformidad de la producción
+   9.1   Principios para la evaluación de la conformidad de la producción.
+   Los principios para la realización de la evaluación periódica de conformidad de la
+producción serán los siguientes:
+    a) Comprobar la implantación en el fabricante de vehículos de un sistema de calidad
+que garantice el cumplimiento de un control eficaz de los procesos de fabricación.
+    b) Garantizar el cumplimiento por parte los vehículos producidos de las características
+definidas en el anexo correspondiente de este reglamento para el tipo considerado, así como
+en sus posteriores modificaciones.
+   9.2   Evaluación periódica de la conformidad de la producción.
+    Con el objetivo de garantizar la correspondencia entre las unidades de vehículos
+examinadas por los laboratorios autorizados y los vehículos finalmente fabricados, la Marca-
+Fabricante deberá disponer de un certificado de verificación periódica de control de la
+conformidad de la producción de los vehículos que pretendan certificar.
+    Dicho certificado de verificación periódica de control de la producción será emitido por un
+servicio técnico de evaluación de la conformidad de la producción designado por la Autoridad
+de Homologación Española (Ministerio de Industria y Turismo) para la realización de
+actividades de verificación continua.
+    La evaluación periódica de la conformidad de la producción se definirá por el organismo
+autónomo Jefatura Central de Tráfico.
+   9.3   Obligación de la Marca-Fabricante.
+    Las obligaciones de la Marca-Fabricante respecto a la evaluación de la conformidad son
+las siguientes:
+    a) La Marca-Fabricante conservará la documentación técnica durante un mínimo de
+diez años desde la introducción en el mercado del último vehículo certificado.
+    b) La Marca-Fabricante que modifique un vehículo ya certificado de tal manera que
+cambien las características y requisitos técnicos del mismo, será responsable de solicitar la
+certificación de la nueva versión.
+    c) Cuando se introduzcan vehículos en el mercado, la Marca-Fabricante se asegurará
+de que fueron diseñadas y fabricadas de conformidad con las especificaciones técnicas
+establecidas en el anexo correspondiente de este reglamento.
+    d) La Marca-Fabricante será responsable de que la producción en serie mantenga su
+conformidad con el tipo de certificado.
+    e) La Marca-Fabricante elaborará la documentación técnica necesaria y desarrollará un
+plan de control de la producción cumpliendo los requisitos marcados por el servicio técnico
+de evaluación de la conformidad.
+    f) La Marca-Fabricante será responsable de solicitar con la periodicidad establecida la
+evaluación de la conformidad de la producción ante el servicio técnico de evaluación de la
+conformidad.
+    g) La Marca-Fabricante será responsable de establecer los procedimientos necesarios
+con el fin de conservar la trazabilidad de cada serie de vehículos producidos e importados y
+conocer, en caso de reclamación, los datos relativos a la fabricación de cada modelo y serie
+diferenciado.
+    h) La Marca-Fabricante será responsable ante la autoridad de vigilancia de mercado y
+ante la autoridad de certificación respecto de todos los aspectos relacionados con la
+certificación y de garantizar la conformidad de la producción, independientemente de que
+participen o no directamente en todas las fases de fabricación de un vehículo.
+    i) La Marca-Fabricante será responsable ante las autoridades de vigilancia de mercado
+de la calidad de los vehículos en su estado acabado.
+                                           Página 172
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+     j) La Marca-Fabricante que considere o tenga motivos para creer que un vehículo que
+se haya introducido en el mercado no es conforme con este anexo adoptará las medidas
+correctoras necesarias para que sea conforme, retirarlo del mercado o recuperarlo, en su
+caso. Informarán inmediatamente de ello a las autoridades de vigilancia de mercado,
+facilitando detalles, en particular, sobre la conformidad de la producción y las medidas
+correctoras adoptadas.
+
+                                  10. Vigilancia de mercado
+    Las autoridades de vigilancia de mercado son aquellos órganos administrativos
+responsables de llevar a cabo las actividades y adoptar las medidas con el objetivo de velar
+porque los productos cumplan las disposiciones que sean aplicables y, en cualquier caso, no
+entrañen un riesgo para los intereses públicos protegidos por tales disposiciones.
+    Las autoridades de vigilancia de mercado velarán porque todos los modelos certificados
+comercializados en territorio español cumplan las condiciones dispuestas en el anexo de
+características y requisitos técnicos del tipo de vehículo correspondiente.
+    El organismo autónomo Jefatura Central de Tráfico o la entidad que este haya
+designado, podrán verificar en cualquier momento en el debido ejercicio de sus facultades,
+que las certificaciones de los vehículos emitidas por el laboratorio se están realizando de
+acuerdo con lo establecido en el anexo de características y requisitos técnicos del tipo de
+vehículo correspondiente, para lo cual el laboratorio autorizado deberá facilitar el acceso a
+las instalaciones, así como cualquier documentación o ejemplar de vehículo que sean
+requeridos para la realización de las oportunas comprobaciones.
+
+                                     11.   Incumplimiento
+    En caso del incumplimiento de lo dispuesto en este anexo será de aplicación lo
+siguiente:
+   11.1   Por parte de los laboratorios autorizados:
+   Retirada de la autorización de laboratorio autorizado.
+   11.2   Por parte de la Marca-Fabricante:
+     La falta de actualización de los datos comunicados al organismo autónomo Jefatura
+Central de Tráfico podrá ser una causa de retirada de la certificación si los datos a actualizar
+hacen referencia a la información que deben proporcionar los fabricantes.
+     La falta de conformidad de la producción será una de las posibles causas de retirada de
+la certificación.
+     El organismo autónomo Jefatura Central de Tráfico, a instancias del servicio técnico de
+evaluación de la conformidad de la producción, en el caso de no conformidades de la
+producción no subsanadas, decidirá las correspondientes medidas correctoras pudiendo
+llegar a la retirada temporal de la certificación a partir de la fecha del incumplimiento y hasta
+que no se corrijan las no conformidades y se emita el correspondiente certificado de
+verificación periódica de control de la producción. En casos suficientemente justificados o
+reiterativos, se podrá llegar a la retirada definitiva de la certificación del modelo de vehículo
+correspondiente, así como a instar la retirada de los centros de distribución, comunicaciones
+en prensa, etc.
+     En caso de retirada de la certificación, el organismo autónomo Jefatura Central de
+Tráfico notificará dicha actuación tanto al solicitante de la certificación, como al servicio
+técnico de evaluación de la conformidad de la producción.
+                                           ANEXO XX
+                         Registro de Vehículos Personales Ligeros
+    Los vehículos personales ligeros se inscribirán en el Registro Nacional de Vehículos con
+los datos administrativos y técnicos asociados a los vehículos. En concreto, para cada
+vehículo se consignará, al menos, información sobre identificación de la persona titular
+registral y su domicilio, número de certificado de circulación y características técnicas del
+                                           Página 173
+                           BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+vehículo, fabricante, marca, modelo y laboratorio de certificación, número de identificación y
+datos del seguro obligatorio.
+     Estos datos, junto con los diversos trámites relativos a su primera inscripción, cambio de
+titularidad y baja, constarán en el Registro Nacional de Vehículos, en su sección de Registro
+de Vehículos Personales Ligeros.
+     Del mismo modo se inscribirá el resto de los vehículos de movilidad personal.
+
+                                         1.    Inscripción
+    Las personas titulares deberán solicitar la inscripción del vehículo en el Registro
+Nacional de Vehículos, de forma preferente, a través de la sede electrónica del organismo
+autónomo Jefatura Central de Tráfico. La solicitud podrá presentarse también por los medios
+previstos en el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas. Para la inscripción se acompañarán
+los siguientes documentos:
+    a) Solicitud suscrita por la persona interesada en modelo oficial.
+    b) Tasa por el importe legalmente establecido.
+    c) Si se trata de persona física, deberá indicar su número del Documento Nacional de
+Identidad o Número de Identidad de Extranjero, así como el consentimiento, en su caso,
+para que sus datos de identidad personal puedan ser consultados mediante el Sistema de
+Verificación de Datos, en los términos establecidos por el Real Decreto 522/2006, de 28 de
+abril, por el que se suprime la aportación de fotocopias de documento de identidad en los
+procedimientos administrativos de la Administración General de Estado y de sus organismos
+públicos.
+    De no constar su consentimiento, deberá acompañar fotocopia del Documento Nacional
+de Identidad o del documento en el que conste el Número de Identidad de Extranjero, así
+como acreditar el domicilio con el certificado de empadronamiento del ayuntamiento de
+residencia.
+    Cuando se trate de persona jurídica, deberá presentar su Número de Identificación
+Fiscal, así como el Documento Nacional de Identidad o el documento en el que conste el
+Número de Identidad de Extranjero de la persona que la representa, junto con el documento
+que acredite que ostenta su representación.
+    d) Ficha de características generales emitida por el fabricante conforme al modelo
+incluido en el anexo XXI. En el caso de extravío, sustracción o deterioro de la ficha, el titular
+podrá solicitar un duplicado en la sede electrónica del organismo autónomo Jefatura Central
+de Tráfico.
+    Una vez solicitada la inscripción, el organismo autónomo Jefatura Central de Tráfico
+expedirá electrónicamente el certificado de inscripción digital identificando a la persona titular
+e incluyendo el número de identificación del vehículo con el formato y las condiciones
+establecidos por el mismo. Una vez emitido este certificado de inscripción, la persona titular
+del vehículo podrá solicitar la etiqueta identificativa correspondiente descrita en los
+apartados 4 y 5 de este anexo, ante alguno de los manipuladores de placas habilitados que
+conste dado de alta en el Registro Nacional de Vehículos.
+
+                                   2. Cambio de titularidad
+    Los intervinientes en el cambio de titularidad de un vehículo previamente inscrito y que
+cuente con certificado de circulación en vigor deberán solicitarlo en modelo oficial, en el
+plazo de treinta días, acompañando la documentación indicada en el apartado anterior,
+excepto la ficha de características generales, junto con el número de identificación del
+vehículo y el número de identificación del titular anterior.
+    El organismo autónomo Jefatura Central de Tráfico expedirá electrónicamente un nuevo
+certificado de inscripción a nombre de la nueva persona titular, conservando el número de
+identificación del vehículo.
+                                              Página 174
+                            BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+                                         3.     Baja del vehículo
+    La baja de los vehículos deberá realizarse en un centro autorizado para el tratamiento de
+vehículos al final de su vida útil de acuerdo con la normativa vigente para el resto de los
+vehículos, o en cualquier otro establecimiento conforme se determine en la normativa
+medioambiental aplicable.
+    Estos establecimientos deberán comunicar por medios electrónicos la baja y destrucción
+de estos vehículos al Registro Nacional de Vehículos. En su defecto, será la persona titular
+del vehículo la responsable de comunicar su baja al citado Registro.
+
+                     4.   Certificado de inscripción y etiqueta identificativa
+     El certificado de inscripción incluirá los datos técnicos del vehículo, así como los datos
+relativos a la identificación de la persona titular y el número de identificación asignado al
+vehículo.
+     La etiqueta identificativa mostrará el número de identificación asignado tras la
+inscripción. La etiqueta identificativa se expedirá por los manipuladores de placas de
+matrícula, debidamente habilitados y dados de alta en el Registro Nacional de Vehículos.
+     El número de identificación estará compuesto por un código alfanumérico donde conste
+la letra M, cuatro números y tres letras.
+     El vehículo deberá disponer en la parte trasera de un espacio porta-identificador para
+llevar la etiqueta identificativa bajo la luz trasera, formando un ángulo de 30° con la vertical
+en la dirección de avance. El borde inferior de la etiqueta identificativa no deberá quedar a
+menos de 50 mm del plano del suelo. Las dimensiones mínimas del espacio para pegar la
+etiqueta identificativa deberán ser de 52,8 mm de ancho y 65 mm de alto.
+     El titular deberá colocar la etiqueta identificativa en el porta-identificador destinado a tal
+efecto en el vehículo.
+
+                                    5.        Etiqueta identificativa
+    A. Requisitos y características de la etiqueta identificativa de los vehículos de movilidad
+personal.
+    La etiqueta identificativa deberá cumplir con el diseño y las dimensiones determinadas
+en el punto C.
+    El número de identificación de cada etiqueta identificativa constará de una combinación
+de la letra M, cuatro números y tres letras, de color negro, suprimiéndose las cinco vocales,
+así como las letras Ñ y Q, empezando con la serie M 0001 BBB y acabando en la M 9999
+ZZZ.
+    El número de manipulador se marcará en vertical y en el centro del lateral izquierdo de la
+etiqueta identificativa con caracteres de una altura de 2,5 mm y con una longitud de
+inscripción máxima de 15 mm.
+    B.   Comercialización de etiquetas identificativas.
+     a) El fabricante de placas de matrícula, etiquetas identificativas y otras señales, dado
+de alta en el organismo autónomo Jefatura Central de Tráfico, entregará a su red de
+manipuladores todo el material necesario para su emisión.
+     b) El manipulador debidamente autorizado por el fabricante será el que confeccione
+mediante impresión los distintos elementos que conforman la identificación del vehículo con
+la información facilitada por el organismo autónomo Jefatura Central de Tráfico.
+     Queda prohibida la adhesión o fijación en los vehículos de etiquetas identificativas no
+previstas en esta norma.
+     El organismo autónomo Jefatura Central de Tráfico podrá informar a la autoridad de
+vigilancia de mercado, de la existencia de etiquetas comercializadas en territorio español no
+conformes con las indicaciones de la presente norma.
+    C.   Diseño del adhesivo identificativo.
+    El adhesivo identificativo contendrá información suficiente para identificar unívocamente
+el vehículo.
+                                                 Página 175
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+   El adhesivo identificativo tendrá las siguientes características:
+    a) El adhesivo identificativo dispondrá de una lámina reflectante, un adhesivo de doble
+cara y una lámina de protección, además de marcas de seguridad difractivas y pre-cortes de
+seguridad según se indica en la imagen 1.
+    b) El adhesivo identificativo contendrá en su parte central el número de identificación
+asignado por el organismo autónomo Jefatura Central de Tráfico tras la inscripción en el
+Registro Nacional de Vehículos, en color negro sobre fondo blanco.
+    c) En la parte inferior, bajo un sombreado azul y en letras negras se incluirá el número
+de certificación asignado por el laboratorio autorizado para ese modelo.
+    d) En la parte lateral izquierda, en vertical y en color negro se indicará el número de
+serie del vehículo de movilidad personal, de forma que se pueda relacionar la etiqueta
+identificativa con la placa de marcaje de este.
+    e) En la parte derecha, en vertical y en color negro se imprimirá el número de
+fabricante del adhesivo identificativo seguido del número de manipulador que imprima el
+adhesivo.
+   Muestra:
+   Caracteres:
+                                          Página 176
+                               BOLETÍN OFICIAL DEL ESTADO
+                                    LEGISLACIÓN CONSOLIDADA
+                                                                            »
+                                                ANEXO XXI
+     Características y requisitos técnicos de los vehículos de movilidad personal
+    Constituye el objeto de este anexo la regulación de las características y los requisitos
+técnicos exigibles para la comercialización y puesta en servicio de los vehículos de movilidad
+personal destinados a circular por el espacio público, y el control de la conformidad de la
+producción y vigilancia de mercado.
+
+                     1.   Definición de vehículo de movilidad personal (VMP)
+     Vehículo de una o más ruedas dotado de una única plaza y propulsado exclusivamente
+por motores eléctricos que pueden proporcionar al vehículo una velocidad máxima por
+diseño comprendida entre 6 y 25 km/h. Solo pueden estar equipados con un asiento o sillín
+si están dotados de sistema de autoequilibrado.
+     Los vehículos personales ligeros son una categoría de VMP con una velocidad máxima
+de fabricación entre 6 y 25 km/h, si su peso es inferior a 25 kg, o con una velocidad máxima
+de fabricación entre 6 y 14 km/h, si su peso es superior a 25 kg.
+     Los VMP pueden estar equipados con baterías de hasta 100 VCC y con un cargador
+integrado de hasta 240 VCA de entrada.
+     Los VMP pueden tener diferentes usos, como por ejemplo particular, alquiler o “sharing”,
+servicios públicos, usos turísticos, etc., pero desde un punto de vista técnico, la única
+diferenciación que cabe hacer en cuanto a los requisitos a cumplir por los VMP, es la que se
+refiere a los siguientes tipos:
+   a) VMP para transporte personal.
+   b) VMP para transporte de mercancías u otros servicios.
+   1.1   VMP para transporte personal.
+    Los VMP de transporte personal se caracterizarán con los datos recogidos en la
+siguiente tabla:
+
+                                                        VMP de transporte personal
+         Velocidad máxima.                                    Entre 6 y 25 km/h
+                                        Vehículos sin auto-equilibrado: Vehículos con auto-equilibrado:
+         Potencia nominal por vehículo.
+                                                  ≤ 1 000 W                       ≤ 2 500 W
+         Masa en orden de marcha.                                   < 50 kg
+         Longitud máxima.                                          2 000 mm
+         Altura máxima.                                            1 400 mm
+         Anchura máxima.                                            750 mm
+    Los VMP autoequilibrados deben dedicar, al menos, el 60% de esta potencia al sistema
+de autoequilibrado.
+   1.2   VMP para transporte de mercancías u otros servicios.
+   Los VMP para transporte de mercancías u otros servicios son un tipo de VMP de, al
+menos, 3 ruedas, situándose 2 de ellas en el eje más cercano a la carga, y que disponen de
+una plataforma o cajón habilitado para este uso.
+                                                 Página 177
+                              BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+   Este tipo de vehículos tienen las siguientes características específicas:
+
+                                                VMP para el transporte de mercancías u otros servicios
+   Velocidad máxima.                                              Entre 6 y 25 km/h
+   Potencia nominal por vehículo.                                     ≤ 1 500 W
+   Masa Máxima Técnicamente Admisible (MMTA).                          < 400 kg
+   Longitud máxima.                                                   2 000 mm
+   Altura máxima.                                                     1 800 mm
+   Anchura máxima.                                                    1 000 mm
+   1.3   Exclusiones como VMP.
+   Se excluyen de la definición de los dos puntos anteriores los siguientes vehículos:
+    a) Vehículos diseñados específicamente para circular fuera de las vías públicas o
+vehículos concebidos para competición.
+    b) Vehículos para personas con movilidad reducida.
+    c) Vehículos con una tensión de trabajo mayor a 100 VCC o 240 VCA.
+    d) Vehículos considerados juguetes, siendo tales los que su velocidad máxima no
+sobrepasa los 6 km/h.
+    e) Vehículos diseñados y fabricados para ser utilizados exclusivamente por las Fuerzas
+Armadas.
+    f) Ciclos de pedales con pedaleo asistido (EPAC).
+    g) Aquellos vehículos incluidos dentro del ámbito del Reglamento (UE) n.º 168/2013 del
+Parlamento Europeo y del Consejo, de 15 de enero de 2013.
+
+                        2.    Requisitos técnicos de los VMP certificados
+   2.1   Requisitos técnicos a cumplir por los VMP.
+    Los VMP, tanto los de transporte personal como de transporte de mercancías u otros
+servicios, deben cumplir con los requisitos especificados en este anexo, para lo cual la
+Marca-Fabricante será responsable de obtener el certificado de VMP para cada modelo y
+versión.
+    El organismo autónomo Jefatura Central de Tráfico, junto con los laboratorios
+autorizados, definirá los ensayos a realizar para la verificación de los requisitos técnicos de
+este anexo.
+    En el apartado 4 se detalla la ficha de características generales de cada VMP que se
+emitirá por la Marca-Fabricante, tras dicho proceso de certificación, para cada unidad de
+VMP.
+   2.2   Altura del sillín.
+    Para los VMP con sistema de autoequilibrado que dispongan de sillín, la altura mínima
+del punto R (“punto de referencia de la plaza de asiento”, según se define en el Reglamento
+(UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013), debe ser
+de 540 mm.
+    Con el fin de facilitar la verificación del cumplimiento de este requisito técnico, la
+comprobación se realizará midiendo la altura desde el nivel del suelo a la superficie superior
+del sillín, con este ajustado en su posición más baja, debiendo ser esta superior a los 500
+mm.
+   2.3   Altura del manillar.
+    El VMP certificado debe estar provisto siempre de manillar. La altura del manillar, medida
+desde la parte más baja de la barra de dirección, debe tener un mínimo de 700 mm. Para el
+caso de los vehículos con sillín y autoequilibrado, esta altura mínima podrá reducirse a
+los 500 mm.
+    El sistema de ajuste de la altura del manillar debe disponer de un sistema que impida la
+separación no intencionada de este del cuerpo del VMP durante su utilización.
+   2.4   Control de velocidad máxima.
+
+                                            Página 178
+                          BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+
+    La velocidad máxima por definición de un VMP no debe exceder los 25 km/h.
+    Los VMP deben disponer de un sistema de control de velocidad que garantice que el
+motor deja de impulsar el vehículo al alcanzarse la velocidad máxima del VMP (+-10%), de
+acuerdo con los requisitos recogidos en el apartado 8.2 la norma EN 17128:2020 sobre
+“Vehículos ligeros motorizados para el transporte de personas y mercancías e instalaciones
+relacionadas y no sujetos a homologación para uso en carretera. Vehículos eléctricos ligeros
+personales (PLEV). Requisitos de seguridad y métodos de ensayo”.
+   2.5   Control de potencia.
+    La potencia nominal es la potencia máxima durante 30 minutos en el eje de transmisión
+de un motor eléctrico, conforme a lo previsto en el “Reglamento n.º 85 de la Comisión
+Económica para Europa (CEPE) de las Naciones Unidas” y en la sección 17 del Manual de
+características de los vehículos de movilidad personal, aprobado por Resolución de la
+Dirección General de Tráfico de 12 de enero de 2022.
+   2.6   Sistema de frenado.
+    Todos los VMP deben disponer de dos frenos independientes, pudiendo ser accionados
+desde el mismo actuador.
+    En los VMP para transporte de mercancías u otros servicios, será necesario contar con
+actuadores independientes para cada eje.
+    Los frenos deben cumplir los siguientes requisitos:
+    a) Permiten desacelerar el vehículo hasta detenerse;
+    b) Pueden actuar cuando el vehículo alcanza la velocidad máxima;
+    c) La desaceleración mínima es de 3,5 m/s2;
+    d) y, en caso de fallo de un freno, el otro debe poder ejercer, al menos, el 44% del
+efecto de frenado mínimo exigido (1,54 m/s2 de desaceleración) sin afectar a la trayectoria
+del vehículo.
+    Es obligatorio que los vehículos de más de 2 ruedas dispongan de freno de
+estacionamiento. Este freno de estacionamiento debe cumplir los requisitos establecidos en
+el apartado 15.4.2.6 de la norma EN 17128:2020, incluyendo la obligación de contar con un
+actuador diferente al actuador del freno de servicio.
+    Todos los dispositivos de frenado deben estar protegidos frente a cambio involuntario o
+desajuste de los componentes de servicio durante su uso.
+   2.7   Sistema de estabilización en aparcamiento.
+     Los VMP con menos de 3 ruedas dispondrán de un sistema de estabilización para ser
+utilizado mientras están aparcados, consistente en una “pata de cabra” lateral o un caballete
+central u otro sistema que evite que se caigan al suelo.
+   2.8   Ruedas.
+    Los VMP deben equipar ruedas con diámetro mínimo, incluido el neumático, de 203,2
+mm (8”), y compuestas por un material que permita la adherencia al terreno. En ningún caso
+se permitirá la utilización de neumático liso o tipo slick.
+    La máxima presión de hinchado de los neumáticos (en caso de ser de tipo hinchable)
+debe estar marcada en el propio neumático o en las instrucciones de uso.
+   2.9   Dispositivos de iluminación y retrorreflectantes.
+    Los VMP deben estar equipados de catadióptricos frontal (blanco), en ambos laterales
+(blanco o color amarillo auto) y trasero (rojo) de acuerdo con los requisitos recogidos en el
+apartado 16.1.1 de la norma EN 17128:2020.
+    Asimismo, han de equipar un sistema de iluminación en la parte delantera (blanca) y
+trasera (roja), cumpliendo los requisitos recogidos en el apartado 16.1.2 de la norma
+EN 17128:2020 o homologados según el “Reglamento n.º 50 de la Comisión Económica
+para Europa (CEPE) de las Naciones Unidas. Prescripciones uniformes relativas a la
+homologación de las luces de posición delanteras, las luces de posición traseras, las luces
+de frenado, las luces indicadoras de dirección y los dispositivos de alumbrado de la placa
+                                          Página 179
+                           BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+posterior de matrícula de los vehículos de la categoría L”. El VMP debe disponer, además de
+las opciones de apagada y encendida, de una opción de activación automática de la
+iluminación al encender el motor del vehículo, de tal forma que al ser seleccionada la
+iluminación permanezca siempre encendida mientras se utilice el mismo.
+     También deben incluir la función de luz de freno diferenciada o combinada con la luz
+trasera, con intensidad y distribución de luz de acuerdo con lo establecido por dicha norma.
+     No se permitirá la inclusión adicional de iluminación visible desde la parte delantera o
+trasera del vehículo y que pueda ser confundida o interfiera con la iluminación o retro
+reflectantes obligatorios.
+     Los dispositivos de iluminación y retro reflectantes requeridos para la certificación deben
+estar anclados al vehículo, no siendo válido el montaje de un kit que pueda ser desmontado
+de forma manual.
+     Los VMP para transporte de mercancías u otros servicios deben incluir reflectantes
+laterales de color amarillo auto y traseros de color rojo que cumplan con los requisitos
+establecidos en la norma ISO 6742-2 sobre “Dispositivos de iluminación y retrorreflectantes
+para bicicletas, estableciendo requisitos fotométricos, físicos y de seguridad para asegurar
+visibilidad y seguridad en la vía pública, con varias partes que cubren diferentes aspectos
+como las luces (ISO 6742-1) y los reflectores (ISO 6742-2)”, o homologado según el
+“Reglamento n.º 104 de la Comisión Económica para Europa de las Naciones Unidas
+(CEPE/ONU). Disposiciones uniformes sobre la homologación de los marcados
+retrorreflectantes para vehículos de motor de las categorías M, N y O”, en aristas y vértices
+de la carga, que permitan señalizar y distinguir claramente en situaciones de baja visibilidad
+tanto la altura como la anchura de esta.
+                     Imagen 1: Reflectantes laterales y traseros de carga
+   2.10   Indicadores de dirección.
+    Los VMP para transporte de mercancías u otros servicios deben tener instalados
+obligatoriamente tanto indicadores de dirección delanteros como traseros. Estos indicadores
+de dirección deben estar anclados al vehículo, no siendo válido el montaje de un kit que
+pueda ser desmontado de forma manual.
+    Los indicadores de dirección instalados en la parte frontal y/o en la trasera del vehículo
+deben cumplir con los requerimientos de color de luz emitida recogidos en la norma
+ISO 6742-1 o homologados según el Reglamento n.º 50 de la Comisión Económica para
+Europa (CEPE) de las Naciones Unidas.
+    Los indicadores delanteros o traseros deben estar montados a una altura máxima igual a
+la del propio vehículo, y los indicadores traseros a una altura mínima de 150 mm, y el ángulo
+mínimo de visibilidad geométrica será de 25° respecto del plano horizontal. No se permitirá la
+inclusión de otro tipo de iluminación intermitente que pueda ser confundida o interfiera con la
+iluminación o retro reflectantes obligatorios o con los indicadores de dirección.
+   2.11   Dispositivos sonoros.
+    Todos los VMP deben estar equipados de un avisador acústico integrado en el propio
+vehículo y no dependiente de ningún equipamiento externo (teléfono móvil, etc.). Dicho
+avisador deberá disponer de un actuador fácilmente accesible en el manillar, y cumplir con
+los requisitos establecidos en el apartado 16.2 de la norma EN 17128:2020, a excepción del
+marcaje del actuador.
+                                          Página 180
+                          BOLETÍN OFICIAL DEL ESTADO
+                               LEGISLACIÓN CONSOLIDADA
+
+    Los VMP para transporte de mercancías u otros servicios deben incluir, además,
+obligatoriamente un aviso sonoro de marcha atrás.
+   2.12   Integridad estructural y comportamiento dinámico.
+    La integridad estructural y comportamiento dinámico quedarán demostrados mediante
+los ensayos correspondientes que se determinen.
+   2.13   Requisitos eléctricos.
+    a) Resistencia mecánica: Los componentes eléctricos, incluyendo la batería, deben
+cumplir con los requisitos de diseño general de baterías o conjuntos de baterías que figuren
+en la regulación nacional o internacional de transportes, así como cualquier otra legislación
+aplicable, y han de tener una resistencia mecánica adecuada que se deberá comprobar
+mediante ensayo.
+    b) Cables y conexiones eléctricas: Se deben cumplir los requisitos especificados en el
+apartado 6.3 de la norma EN 17128:2020.
+    c) Resistencia a la humedad: Se deben cumplir los requisitos a este respecto recogidos
+en el aparado 6.4 de la norma EN 17128:2020.
+   2.14   Control de potencia y apagado.
+    En relación con el apagado del sistema de control del vehículo se debe cumplir lo
+establecido en el apartado 6.2 de la norma EN 17128:2020, a excepción del marcaje del
+actuador.
+    Quedan exceptuados del requisito de incluir un botón de apagado/encendido los VMP
+diseñados específicamente para uso compartido o “sharing” que no requerirán, ya que esta
+función se realiza desde la aplicación móvil utilizada para gestionar la activación del
+vehículo.
+    En lo referente al control de potencia y aceleración los VMP deben cumplir los requisitos
+establecidos en los apartados 7.1 y 7.2 de la norma EN 17128:2020.
+    En caso de disponer de un sistema electrónico antirrobo, su activación durante la marcha
+no deberá impedir la utilización normal del freno, ni suponer deceleraciones bruscas
+(mayores de 2 m/s2).
+    Se debe garantizar que el VMP no pueda iniciar la marcha mientras está siendo cargado,
+incluso si el mando del motor es activado.
+   2.15   Indicadores de información.
+     Se exige que los VMP lleven instalado un visualizador integrado en el propio vehículo y
+no dependiente de ningún equipamiento externo (teléfono móvil, etc.), y que indique el nivel
+de batería y la velocidad instantánea, y que sea visible por el conductor de una forma
+sencilla, sin alterar la posición de conductor y sin riesgo para la seguridad vial.
+     En el caso de VMP de uso compartido o “sharing” el requisito anterior se sustituye por el
+de disponer de un soporte integrado fijo para teléfono móvil, cuya ubicación cumpla con los
+criterios anteriores.
+   2.16   Compatibilidad electromagnética.
+   Los vehículos deben cumplir los requisitos establecidos en el apartado 9 de la norma
+EN 17128:2020.
+   2.17   Anti-manipulación.
+    Las medidas anti-manipulación se aplicarán a las modificaciones o manipulaciones que
+los usuarios lleven a cabo en la unidad de control, sistema de transmisión u otras partes del
+sistema de propulsión, utilizando herramientas, equipos u otros elementos.
+    Los fabricantes deberán garantizar a la hora de diseñar el VMP el cumplimiento de los
+requisitos anti-manipulación, detallados en la norma EN 15194:2018 (4.2.17 Medidas anti-
+manipulación), sobre “Ciclos con asistencia eléctrica. Bicicletas con asistencia eléctrica
+(EPAC)”.
+    Se aceptará declaración responsable por parte del fabricante.
+    En cualquier caso, el laboratorio autorizado deberá verificar los siguientes aspectos y
+valorar el riego de manipulación:
+                                         Página 181
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+    a) Comprobación sobre si el velocímetro es o no manipulable: Dificultad de acceso y
+modificación de la placa base.
+    b) Comprobación de que no existe un menú configurable por el usuario en el sistema
+de control en el que se pueda modificar velocidad máxima o potencia.
+    c) Comprobación de que el acceso a la configuración de velocidad máxima o potencia
+en el sistema de control está restringido mediante un acceso autenticado con un nivel de
+seguridad adecuado.
+   2.18   Protección de la batería.
+    Los VMP deben disponer de un módulo de control del batería dotado de sensores de
+temperatura con el objetivo de cortar la alimentación cuando se alcanzan temperaturas
+elevadas.
+    Será exigible el cumplimiento de los requisitos de seguridad descritos en el apartado 11
+de la norma EN 17128:2020, así como los de seguridad del cargador de batería establecidos
+en el apartado 10 de la norma EN 17128:2020. Todos estos ensayos, y en particular los
+relacionados con la norma EN 62133 sobre “Acumuladores alcalinos y otros acumuladores
+con electrolito no ácido. Requisitos de seguridad para acumuladores alcalinos estancos
+portátiles, para uso en aplicaciones portátiles”, deben estar justificados, en su caso, por
+documentación emitida por parte de un laboratorio acreditado.
+    Adicionalmente, y en relación con la información a mostrar sobre la batería, se deberá
+cumplir con los requisitos recogidos en el apartado 19.2.3 de la norma EN 17128:2020.
+   2.19   Sistema de cierre combinado.
+    Los vehículos que dispongan de un sistema de plegado deben de disponer de un
+sistema de cierre combinado con un mínimo de dos niveles de seguridad independientes.
+    El mecanismo de plegado debe cumplir los requisitos establecidos el apartado 14.3 la
+norma EN 17128:2020.
+   2.20   Salientes exteriores.
+   Se deben cumplir los requisitos establecidos en el apartado 13 la norma EN 17128:2020.
+   2.21   Superficies calientes.
+   Se deben cumplir los requisitos establecidos en el apartado 18 la norma EN 17128:2020.
+   2.22   Reposapiés.
+   Se deben cumplir los requisitos establecidos en el apartado 15.1 la norma
+EN 17128:2020.
+   2.23   Información del producto y marcajes.
+    2.23.1 Los VMP tienen que llevar la siguiente información en un marcaje de fábrica
+único, permanente, legible, ubicado de forma claramente visible, y que no permita su
+reutilización en otro vehículo:
+   a)   Velocidad máxima.
+   b)   Número de serie o identificación.
+   c)   Número de certificado.
+   d)   Año de construcción.
+   e)   Marca y modelo.
+   2.23.2 La placa de marcaje se fabricará con material de aluminio aleación 1050 de un
+espesor de 1 ± 0,2 mm. El color del fondo de dicho marcaje será negro mate, y su tamaño
+de 104x30 mm, con una tolerancia de ± 2 mm en las dimensiones de la superficie. Las
+dimensiones de la placa y de los caracteres a inscribir se muestran en las siguientes
+imágenes:
+                                            Página 182
+                            BOLETÍN OFICIAL DEL ESTADO
+                                LEGISLACIÓN CONSOLIDADA
+                                   Imagen 2: Marcaje de VMP
+                            Imagen 3: Tamaños del marcaje de VMP
+    La impresión de los textos de la placa de marcaje será del color de fondo del aluminio y
+se utilizará la técnica del láser. El estilo de letra será Arial negrita, con una altura no superior
+a los 4 mm y con una tolerancia de ± 0,5 mm en la de los caracteres a inscribir. La placa de
+marcaje irá sujeta mediante remaches, no admitiéndose una sujeción mediante tornillos o
+adhesivos.
+    2.23.3 La documentación con la que se comercialice el vehículo debe incluir, entre
+otras:
+    a) Manual de usuario del vehículo.
+    b) Manual de mantenimiento y conservación.
+    c) Especificaciones técnicas del vehículo.
+    d) Avisos claramente visibles:
+    i. Los VMP que circulen por las vías públicas deben cumplir la normativa a tal efecto
+establecida a nivel nacional y local.
+    ii. Se recomienda encarecidamente la utilización del casco para circular en VMP.
+    iii. Está prohibida la manipulación de la unidad de control, del sistema de transmisión u
+otras partes del sistema de propulsión del VMP.
+    e) Ficha de características generales para VMP, según el modelo y contenido de esta
+incluido en el apartado 4 de este anexo.
+    f) Copia del documento de certificado VMP emitido por el laboratorio autorizado, según
+el modelo incluido en el apartado 4 de este anexo.
+
+                                            Página 183
+                           BOLETÍN OFICIAL DEL ESTADO
+                                 LEGISLACIÓN CONSOLIDADA
+
+    En dicha documentación, así como en la caja o información comercial del producto, se
+debe informar claramente que el vehículo pertenece a la categoría de vehículos de movilidad
+personal.
+    Toda la información de producto y marcajes deberán cumplir con los requisitos al
+respecto recogidos en los apartados 19.1, 19.3, 19.4 y 19.5 de la norma EN 17128:2020.
+   2.24   Porta-identificador.
+    El vehículo debe disponer en la parte trasera del mismo de un espacio para llevar una
+identificación o etiqueta de registro, si es posible bajo la luz trasera, formando un ángulo de
+hasta 30° con la vertical en la dirección de avance. El borde inferior de identificación o
+etiqueta de registro no debe quedar a menos de 50 mm del plano del suelo. Las dimensiones
+mínimas del espacio para pegar la identificación o etiqueta deben de ser de 52,8 mm de
+ancho y 65 mm de alto.
+   2.25   Requisitos de carga para VMP para transporte de mercancías y otros servicios.
+    El cajón, compartimento o plataforma de carga debe estar anclado de forma estable y
+segura al chasis del vehículo (sin balanceo), garantizando que el centro de gravedad de este
+quede lo más bajo posible. Cada cajón, compartimento o plataforma de carga debe de estar
+marcado por el fabricante de forma visible con la carga útil máxima permitida. Este cajón no
+debe impedir la visibilidad del conductor, ni la maniobrabilidad o el frenado del vehículo.
+    Para el caso de que la caja de la carga sea móvil, la plataforma en la que se ubica debe
+ser antideslizante, y disponer de mecanismos de fijación o puntos de amarre que eviten su
+desplazamiento, a su vez adecuadamente dimensionados y diseñados para anclar las
+cargas declaradas.
+    Las mercancías derán estar adecuadamente estibadas en el interior de un cajón o
+compartimento cerrado.
+    Los elementos estructurales de los VMP de transporte de mercancías u otros servicios
+deben estar dimensionados y diseñados de acuerdo con su uso, durabilidad prevista y
+cargas declaradas.
+   2.26   Retrovisores.
+    Los VMP para transporte de mercancías u otros servicios deben incluir
+obligatoriamente 2 retrovisores, a izquierda y derecha del vehículo, con el campo de visión
+que se especifica en la reglamentación vigente para los retrovisores de clase L, y con una
+superficie útil cada uno de ellos de, al menos, 75 cm2.
+   2.27   Asistente de marcha atrás.
+    Los VMP para transporte de mercancías u otros servicios deben incluir un modo de
+funcionamiento del vehículo en sentido marcha atrás, para facilitar este tipo de maniobra.
+Este modo de funcionamiento deberá cumplir los requisitos establecidos en el apartado 8.3
+de la norma EN 17128:2020.
+   2.28   Reciprocidad.
+    Los VMP certificados en otro Estado Miembro se considerarán conformes con las
+especificaciones técnicas incluidas en este anexo cuando exista un acuerdo en vigor de
+reconocimiento recíproco de dicha certificación. Sin perjuicio de lo anterior, todos los VMP
+comercializados o puestos en servicio en España deberán cumplir con los requisitos de
+marcaje establecidos en este anexo según se determine en el acuerdo de reciprocidad con
+cada Estado Miembro.
+
+                                  3.   Códigos de certificación
+    Para los VMP el número certificado obtenido, en caso de certificación positiva, seguirá el
+formato LXXXX.
+   L: Letra que identificará al laboratorio autorizado que realiza la certificación.
+   XXXX: Código numérico de 4 dígitos correlativo por laboratorio.
+                                           Página 184
+                                 BOLETÍN OFICIAL DEL ESTADO
+                                      LEGISLACIÓN CONSOLIDADA
+
+    Para los vehículos de movilidad personal que han superado un proceso de homologación
+extraordinario, el número certificado obtenido, en caso de certificación positiva, seguirá el
+formato LUXXXX.
+   L: Letra que identificará al laboratorio autorizado que realiza la certificación.
+   U: Letra fija para indicar que la certificación es de un único VMP.
+   XXXX: Código numérico de 4 dígitos correlativo por laboratorio.
+
+                     4.     Documentación de los vehículos de movilidad personal
+   4.1      Ficha de características técnicas de VMP.
+
+      FICHA DE CARACTERÍSTICAS TÉCNICAS DE VMP (ANVERSO Y REVERSO)
+
+                        FICHA DE CARACTERÍSTICAS TÉCNICAS VMP
+  Fabricante:                                  Modelo:
+  Marca:                                       Nombre comercial del modelo:
+  Núm. de serie/bastidor:                      Versión:
+                                               Número de certificación:
+  ESQUEMA Y DIMENSIONES.
+
+          [esquema del VMP con emplazamiento
+                 del marcaje del fabricante]                           [fotografía del VMP]
+  Dimensiones.
+    − A.–Distancia entre ejes                             −
+    − B.–Longitud total                                   −
+    − C.–Anchura total                                    −
+    − D.–Vía delantera                                    −
+    − E.–Vía Trasera                                      −
+    − Altura total                                        −
+    − Altura del manillar (en su caso)                    −
+  Masas.
+    − Masa en orden de marcha del vehículo (1)            −
+    − M.M.T.A (2)                                         −
+    − M.M.T.A Primer eje (2)                              −
+    − M.M.T.A Segundo eje (2)                             −
+    − Masa de la batería                                  −
+  Otras características.
+    − Numero de ejes y ruedas                             −
+    − Velocidad máxima (km/h)                             −
+    − Potencia nominal (3)                                −
+    − Autoequilibrado                                     −
+    − Tipología (4)                                       −
+      (1) Masa en orden de marcha: masa del vehículo tal y como se define en el artículo 5 del Reglamento
+  (UE) n.º 168/2013.
+      (2)    Masa Máxima Técnicamente Admisible (campo obligatorio).
+      (3) Según el Reglamento n.º 85 de la Comisión Económica para Europa de las Naciones Unidas
+  (UNECE).
+      (4)    Personal (P) / Mercancías o Servicios (M).
+                    FICHA DE CARACTERÍSTICAS TÉCNICAS VMP (Reverso)
+   BASTIDOR.
+   Tipo:
+   Núm. de serie/bastidor:
+   SUSPENSIÓN.
+   Delantera:
+   Trasera:
+   TRANSMISIÓN.
+   Tipo:
+
+                                                   Página 185
+                      BOLETÍN OFICIAL DEL ESTADO
+                          LEGISLACIÓN CONSOLIDADA
+
+MOTOR.
+Marca:
+Tipo:
+Potencia nominal (W):
+Tensión de trabajo:
+Número de serie:
+Asistente marcha atrás:
+MASA.
+Masa en orden de marcha (kg):
+Masa máxima técnicamente admisible (kg):
+Masa de la batería (kg):
+ALUMBRADO Y SEÑALIZACIÓN.
+Luz frontal:
+Luz trasera:
+Luz de freno:
+Reflector frontal:
+Reflectores posteriores:
+Reflectores laterales:
+Indicadores de dirección:
+NEUMÁTICOS.
+Número ruedas primer eje:
+Número ruedas segundo eje:
+Ø rueda primer eje:      Pres.:
+Ø rueda segundo eje:       Pres.:
+Índices mínimos de carga y velocidad.
+Primer eje:      Segundo eje:
+LLANTAS.
+Delanteras:
+Traseras:
+DISPOSITIVO DE FRENADO.
+Breve descripción de instalación:
+Delantero:
+Trasero:
+Combinado:
+Parking:
+BATERÍA.
+Extraíble Si/NO.
+Tensión:
+Modelo:
+Fabricante:
+N.º de celdas:
+Capacidad:
+Autonomía (km):
+VELOCÍMETRO:
+Tipo:
+DISPOSITIVOS SONOROS:
+Tipo:
+Potencia sonora dB(A):
+Aviso marcha atrás:
+CARGA (EN SU CASO):
+Tipo de servicio:
+Superficie plataforma (m2):
+Volumen cajón (litros):
+                                    Página 186
+                               BOLETÍN OFICIAL DEL ESTADO
+                                     LEGISLACIÓN CONSOLIDADA
+
+   Señalización de la carga:
+   Fijación de la carga:
+   VARIOS:
+   Sistema de plegado:
+   Superficie reposapiés:
+   Potencia autoequilibrado:
+   Sillín:      Altura sillín (mm):
+   Conectividad:
+   Firmware actualizable:
+   Versión firmware fábrica:
+   FIRMA Y FECHA DEL FABRICANTE/INGENIERO:
+   4.2   Modelo Certificado de Circulación de VMP.
+
+              MODELOS DE CERTIFICADO DE VMP (ANVERSO Y REVERSO)
+
+                                     LOGO LABORATORIO AUTORIZADO
+     CERTIFICACIÓN DE VMP
+
+     VISTA la solicitud de certificación presentada por la empresa abajo indicada.
+
+     VISTO el informe técnico donde se detallan los ensayos y comprobaciones realizadas, acreditando el
+     cumplimiento de las condiciones técnicas reglamentarias.
+
+     RESULTADO que en la tramitación del expediente se han seguido las normas establecidas en el
+     anexo XXI del Reglamento General de Vehículos.
+
+     Este laboratorio autorizado EXPIDE la certificación solicitada con los datos siguientes:
+   Resultado de la certificación:         POSITIVO ꙱            NEGATIVO ꙱
+   Número de certificación (sólo en caso positivo): LXXXX
+   1. Marca del VMP:
+   2. Nombre y dirección del fabricante:
+   3. En caso necesario, nombre y dirección del solicitante:
+   4. Vehículo presentado para certificación:
+   a. Marca:
+   b. Modelo:
+   c. Nombre comercial del modelo:
+   d. Versión:
+   5. Laboratorio autorizado encargado de los ensayos de certificación:
+   6. Fecha del acta expedida por este laboratorio:
+   7. Número del informe expedido por este laboratorio:
+   8. Lugar:
+   9. Fecha:
+   10. Firma:
+   (Reverso)
+    4.3 Condiciones adicionales y responsabilidades de la persona solicitante de la
+certificación VMP.
+    Cada vehículo individual de la producción en serie debe coincidir exactamente con los
+documentos de aprobación. Los cambios en los productos individuales obligarán a pasar por
+un nuevo proceso de certificación.
+    El organismo autónomo Jefatura Central de Tráfico debe ser informado inmediatamente
+de cualquier cambio en el nombre de la empresa, la dirección y las instalaciones de
+producción.
+
+                                                  Página 187
+                          BOLETÍN OFICIAL DEL ESTADO
+                              LEGISLACIÓN CONSOLIDADA
+
+    Las violaciones de estas disposiciones o el incumplimiento de los requisitos técnicos que
+han dado lugar al otorgamiento del certificado de VMP darán como resultado la revocación
+del certificado de VMP.
+    El organismo autónomo Jefatura Central de Tráfico, o la entidad que este haya
+designado, pueden verificar en cualquier momento en el debido ejercicio de sus facultades,
+que la producción se está realizando de acuerdo con el permiso, para lo cual tanto la
+persona solicitante de la certificación VMP como el fabricante deberán facilitar el acceso a
+las instalaciones, así como suministrar los vehículos de muestra del modelo certificado que
+sean requeridos para la realización de las oportunas comprobaciones.
+    Esta certificación VMP es intransferible, debiéndose realizar, en su caso, los oportunos
+trámites de modificación del titular ante el organismo autónomo Jefatura Central de Tráfico.
+    Cuando el laboratorio autorizado expida una certificación de VMP en la que conste que
+no queda acreditado que se cumplen los requisitos técnicos reglamentarios, la persona
+solicitante de la certificación VMP podrá mostrar su disconformidad ante el laboratorio y, en
+caso de desacuerdo, ante la Subdirección General de Gestión de la Movilidad y Tecnología
+de la Dirección General de Tráfico. Esta Subdirección General requerirá del laboratorio los
+antecedentes y practicará las comprobaciones que correspondan.
+
+   Este documento es de carácter informativo y no tiene valor jurídico.
+                                         Página 188
+
