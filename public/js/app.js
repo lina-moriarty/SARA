@@ -1,16 +1,25 @@
 // === SARA — Quiz App Logic ===
 
+const THEMES = [
+  { id: 'dark', name: 'Oscuro', bg: '#0f172a', fg: '#60a5fa', text: '#e2e8f0' },
+  { id: 'midnight', name: 'Medianoche', bg: '#09090b', fg: '#a78bfa', text: '#fafafa' },
+  { id: 'forest', name: 'Bosque', bg: '#0c1a0e', fg: '#86efac', text: '#dcfce7' },
+  { id: 'dgt', name: 'DGT', bg: '#111827', fg: '#f59e0b', text: '#f9fafb' },
+  { id: 'light', name: 'Claro', bg: '#f8fafc', fg: '#2563eb', text: '#0f172a' },
+];
+
 const App = {
   // State
   quizzes: [],
   currentQuiz: null,
   currentQuestionIndex: 0,
-  mode: 'learning', // 'learning' or 'exam'
-  answers: [], // { selected: number|null, correct: boolean }
-  sources: {}, // loaded source documents
+  mode: 'learning',
+  answers: [],
+  sources: {},
   timer: null,
   startTime: null,
   elapsedSeconds: 0,
+  theme: localStorage.getItem('sara-theme') || 'dark',
 
   // DOM elements
   el: {
@@ -43,16 +52,19 @@ const App = {
     timeTaken: document.getElementById('time-taken'),
     reviewList: document.getElementById('review-list'),
     restartBtn: document.getElementById('restart-btn'),
+    settingsModal: document.getElementById('settings-modal'),
+    themeGrid: document.getElementById('theme-grid'),
   },
 
   // === INIT ===
   async init() {
+    this.applyTheme(this.theme);
+    this.renderThemeGrid();
     this.bindEvents();
     await this.loadQuizList();
   },
 
   bindEvents() {
-    // Mode selector
     document.querySelectorAll('.mode-option').forEach(opt => {
       opt.addEventListener('click', () => {
         document.querySelectorAll('.mode-option').forEach(o => o.classList.remove('selected'));
@@ -65,7 +77,47 @@ const App = {
     this.el.startBtn.addEventListener('click', () => this.startQuiz());
     this.el.nextBtn.addEventListener('click', () => this.nextQuestion());
     this.el.closeSource.addEventListener('click', () => this.el.sourcePanel.classList.add('hidden'));
-    this.el.restartBtn.addEventListener('click', () => this.showScreen('start'));
+    this.el.restartBtn.addEventListener('click', () => this.backToMenu());
+
+    // Close modal on backdrop click
+    document.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
+  },
+
+  // === THEMES ===
+  applyTheme(themeId) {
+    this.theme = themeId;
+    document.documentElement.setAttribute('data-theme', themeId);
+    localStorage.setItem('sara-theme', themeId);
+    // Update active swatch
+    document.querySelectorAll('.theme-swatch').forEach(s => {
+      s.classList.toggle('active', s.dataset.theme === themeId);
+    });
+  },
+
+  renderThemeGrid() {
+    this.el.themeGrid.innerHTML = THEMES.map(t => `
+      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}" 
+           data-theme="${t.id}"
+           style="background: ${t.bg}; color: ${t.fg};"
+           onclick="App.applyTheme('${t.id}')">
+        <span class="theme-swatch-name" style="color: ${t.text}">${t.name}</span>
+        <span class="theme-swatch-preview" style="color: ${t.fg}">Aa</span>
+      </div>
+    `).join('');
+  },
+
+  openSettings() {
+    this.el.settingsModal.classList.remove('hidden');
+  },
+
+  closeSettings() {
+    this.el.settingsModal.classList.add('hidden');
+  },
+
+  // === NAVIGATION ===
+  backToMenu() {
+    if (this.timer) clearInterval(this.timer);
+    this.showScreen('start');
   },
 
   // === QUIZ LIST ===
@@ -126,12 +178,10 @@ const App = {
       correct: false
     }));
 
-    // Start timer
     this.startTime = Date.now();
     this.elapsedSeconds = 0;
     this.timer = setInterval(() => this.updateTimer(), 1000);
 
-    // Show/hide score in learning mode
     if (this.mode === 'learning') {
       this.el.scoreDisplay.classList.remove('hidden');
     } else {
@@ -148,7 +198,6 @@ const App = {
     const total = this.currentQuiz.questions.length;
     const num = this.currentQuestionIndex + 1;
 
-    // Update header
     this.el.questionCounter.textContent = `${num} / ${total}`;
     this.el.progressFill.style.width = `${(num / total) * 100}%`;
     this.el.temaBadge.textContent = `Tema ${q.tema}`;
@@ -161,10 +210,8 @@ const App = {
     };
     this.el.bloqueBadge.textContent = `Bloque ${q.bloque}: ${bloqueNames[q.bloque] || ''}`;
 
-    // Question text
     this.el.questionText.textContent = q.pregunta;
 
-    // Options
     const letters = ['A', 'B', 'C', 'D'];
     this.el.options.innerHTML = q.opciones.map((opt, i) => `
       <div class="option" data-index="${i}">
@@ -173,16 +220,12 @@ const App = {
       </div>
     `).join('');
 
-    // Add click handlers
     document.querySelectorAll('.option').forEach(opt => {
       opt.addEventListener('click', () => this.selectOption(parseInt(opt.dataset.index)));
     });
 
-    // Hide feedback & source
     this.el.feedbackPanel.classList.add('hidden');
     this.el.sourcePanel.classList.add('hidden');
-
-    // Update score display
     this.updateScoreDisplay();
   },
 
@@ -191,7 +234,6 @@ const App = {
     const q = this.currentQuiz.questions[this.currentQuestionIndex];
     const isCorrect = index === q.correcta;
 
-    // Store answer
     this.answers[this.currentQuestionIndex] = {
       selected: index,
       correct: isCorrect
@@ -200,13 +242,8 @@ const App = {
     if (this.mode === 'learning') {
       this.showLearningFeedback(index, q);
     } else {
-      // Exam mode — just highlight selection and move on
-      document.querySelectorAll('.option').forEach(opt => {
-        opt.classList.remove('selected');
-      });
+      document.querySelectorAll('.option').forEach(opt => opt.classList.remove('selected'));
       document.querySelectorAll('.option')[index].classList.add('selected');
-      
-      // Auto-advance after brief delay
       setTimeout(() => this.nextQuestion(), 300);
     }
   },
@@ -215,24 +252,19 @@ const App = {
   showLearningFeedback(selectedIndex, question) {
     const isCorrect = selectedIndex === question.correcta;
 
-    // Disable all options and show correct/incorrect
     document.querySelectorAll('.option').forEach((opt, i) => {
       opt.classList.add('disabled');
-      if (i === question.correcta) {
-        opt.classList.add('correct');
-      }
-      if (i === selectedIndex && !isCorrect) {
-        opt.classList.add('incorrect');
-      }
+      if (i === question.correcta) opt.classList.add('correct');
+      if (i === selectedIndex && !isCorrect) opt.classList.add('incorrect');
     });
 
-    // Show feedback
     this.el.feedbackResult.className = `feedback-result ${isCorrect ? 'correct' : 'incorrect'}`;
-    this.el.feedbackResult.textContent = isCorrect ? '✓ ¡Correcto!' : '✗ Incorrecto';
+    this.el.feedbackResult.textContent = isCorrect ? 'Correcto' : 'Incorrecto';
 
     let explanationHTML = `<p>${question.explicacion}</p>`;
     if (question.fuente) {
-      explanationHTML += `<span class="feedback-source-link" onclick="App.showSource(${this.currentQuestionIndex})">📜 Ver material de referencia</span>`;
+      const lawName = question.fuente.documento || 'Ver fuente';
+      explanationHTML += `<a class="feedback-source-link" onclick="App.showSource(${this.currentQuestionIndex})">${lawName} — ${question.fuente.referencia || 'Ver referencia'}</a>`;
     }
     this.el.feedbackExplanation.innerHTML = explanationHTML;
 
@@ -245,9 +277,24 @@ const App = {
     const q = this.currentQuiz.questions[questionIndex];
     if (!q.fuente) return;
 
-    this.el.sourceRef.textContent = `${q.fuente.documento} — ${q.fuente.referencia}`;
+    // Build source ref with clickable law name
+    const lawName = q.fuente.documento || '';
+    const articleRef = q.fuente.referencia || '';
+    this.el.sourceRef.innerHTML = `
+      <span class="source-ref-law" title="Abrir ley completa">${lawName}</span>
+      <span class="source-ref-article"> — ${articleRef}</span>
+    `;
 
-    // Try to load the source document
+    // Make law name open full text in new tab if URL available
+    const lawLink = this.el.sourceRef.querySelector('.source-ref-law');
+    if (q.fuente.url) {
+      lawLink.addEventListener('click', () => window.open(q.fuente.url, '_blank'));
+    } else if (q.fuente.documentoId) {
+      lawLink.addEventListener('click', () => {
+        window.open(`/sources/text/${q.fuente.documentoId}.md`, '_blank');
+      });
+    }
+
     try {
       if (!this.sources[q.fuente.documentoId]) {
         const res = await fetch(`/api/sources/${q.fuente.documentoId}`);
@@ -258,14 +305,11 @@ const App = {
       const section = source.sections.find(s => s.id === q.fuente.seccionId);
 
       if (section) {
-        // Highlight the relevant paragraph
         let content = section.content;
         if (q.fuente.parrafo) {
           const paragraphs = content.split('\n\n');
           content = paragraphs.map((p, i) => {
-            if (i === q.fuente.parrafo) {
-              return `<span class="highlight">${p}</span>`;
-            }
+            if (i === q.fuente.parrafo) return `<span class="highlight">${p}</span>`;
             return p;
           }).join('\n\n');
         }
@@ -299,7 +343,6 @@ const App = {
     const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
     const unanswered = this.answers.filter(a => a.selected === null).length;
     
-    // Scoring: correct = +1, incorrect = -0.33, unanswered = 0
     const score = Math.max(0, correct - (incorrect * 0.33));
     const maxScore = this.currentQuiz.questions.length;
     const percentage = ((score / maxScore) * 100).toFixed(1);
@@ -310,17 +353,14 @@ const App = {
     this.el.finalScore.textContent = `${percentage}%`;
 
     const passed = percentage >= 50;
-    this.el.passFail.textContent = passed ? '✓ APROBADO' : '✗ SUSPENDIDO';
+    this.el.passFail.textContent = passed ? 'APROBADO' : 'SUSPENDIDO';
     this.el.passFail.className = `pass-fail ${passed ? 'pass' : 'fail'}`;
 
-    // Time
     const mins = Math.floor(this.elapsedSeconds / 60);
     const secs = this.elapsedSeconds % 60;
     this.el.timeTaken.textContent = `Tiempo: ${mins}m ${secs}s`;
 
-    // Build review list
     this.renderReview();
-
     this.showScreen('results');
   },
 
@@ -334,7 +374,7 @@ const App = {
       let statusIcon = '—';
       if (answer.selected !== null) {
         status = answer.correct ? 'correct' : 'incorrect';
-        statusIcon = answer.correct ? '✓' : '✗';
+        statusIcon = answer.correct ? '\u2713' : '\u2717';
       }
 
       const optionsHTML = q.opciones.map((opt, j) => {
@@ -347,7 +387,7 @@ const App = {
 
       const sourceHTML = q.fuente ? `
         <div class="review-source">
-          <div class="review-source-title">📜 ${q.fuente.documento} — ${q.fuente.referencia}</div>
+          <div class="review-source-title">${q.fuente.documento} — ${q.fuente.referencia}</div>
           <div>${q.fuente.texto || ''}</div>
         </div>
       ` : '';
@@ -357,7 +397,7 @@ const App = {
           <div class="review-item-header" onclick="App.toggleReview(${i})">
             <span class="review-status ${status}">${statusIcon}</span>
             <span class="review-question">${i + 1}. ${q.pregunta}</span>
-            <span class="review-toggle">▼</span>
+            <span class="review-toggle">\u25BC</span>
           </div>
           <div class="review-detail">
             <div class="review-options">${optionsHTML}</div>
@@ -390,9 +430,8 @@ const App = {
   updateScoreDisplay() {
     const correct = this.answers.filter(a => a.correct).length;
     const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
-    this.el.scoreDisplay.textContent = `Aciertos: ${correct} | Fallos: ${incorrect}`;
+    this.el.scoreDisplay.textContent = `${correct} bien · ${incorrect} mal`;
   }
 };
 
-// Boot
 document.addEventListener('DOMContentLoaded', () => App.init());
