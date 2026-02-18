@@ -64,12 +64,12 @@ const server = http.createServer((req, res) => {
   const pathname = url.pathname;
 
   // API routes
-  if (pathname === '/api/quizzes' && req.method === 'GET') {
+  if ((pathname === '/api/quizzes' || pathname === '/api/quizzes.json') && req.method === 'GET') {
     return sendJSON(res, getQuizList());
   }
 
   if (pathname.startsWith('/api/quizzes/') && req.method === 'GET') {
-    const id = pathname.split('/')[3];
+    const id = pathname.split('/')[3].replace(/\.json$/, '');
     const filePath = path.join(questionsDir, `${id}.json`);
     try {
       const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
