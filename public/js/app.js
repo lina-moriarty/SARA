@@ -386,9 +386,7 @@ const App = {
     this.el.totalUnanswered.textContent = unanswered;
     this.el.finalScore.textContent = `${percentage}%`;
 
-    const passed = percentage >= 50;
-    this.el.passFail.textContent = passed ? 'APROBADO' : 'SUSPENDIDO';
-    this.el.passFail.className = `pass-fail ${passed ? 'pass' : 'fail'}`;
+    this.el.passFail.style.display = 'none';
 
     const mins = Math.floor(this.elapsedSeconds / 60);
     const secs = this.elapsedSeconds % 60;
@@ -421,7 +419,7 @@ const App = {
 
       const sourceHTML = q.fuente ? `
         <div class="review-source">
-          <div class="review-source-title">${q.fuente.documento} — ${q.fuente.referencia}</div>
+          <a class="feedback-source-link" onclick="App.showSource(${i})">${q.fuente.documento} — ${q.fuente.referencia}</a>
           <div>${q.fuente.texto || ''}</div>
         </div>
       ` : '';
