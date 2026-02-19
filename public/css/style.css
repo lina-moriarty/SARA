@@ -136,7 +136,28 @@ body {
   color: var(--text);
   line-height: 1.6;
   transition: background 0.3s, color 0.3s;
+  min-height: 100vh;
 }
+
+/* Theme backgrounds */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.15;
+  transition: opacity 0.3s;
+}
+
+[data-theme="dark"] body::before { background-image: url('../img/themes/dark.webp'); }
+[data-theme="midnight"] body::before { background-image: url('../img/themes/midnight.webp'); }
+[data-theme="forest"] body::before { background-image: url('../img/themes/forest.webp'); }
+[data-theme="dgt"] body::before { background-image: url('../img/themes/dgt.webp'); }
+[data-theme="mallorca"] body::before { background-image: url('../img/themes/mallorca.webp'); opacity: 0.25; }
+[data-theme="light"] body::before { background-image: url('../img/themes/light.webp'); opacity: 0.2; }
 
 .screen { display: none; min-height: 100vh; }
 .screen.active { display: block; }
