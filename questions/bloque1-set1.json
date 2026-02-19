@@ -18,7 +18,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 1.1",
-        "texto": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político."
+        "texto": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -36,7 +38,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 3.1",
-        "texto": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla."
+        "texto": "El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -54,7 +58,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 17.2",
-        "texto": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial."
+        "texto": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -72,7 +78,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 9.3",
-        "texto": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+        "texto": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -90,7 +98,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 56.1",
-        "texto": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes."
+        "texto": "El Rey es el Jefe del Estado, símbolo de su unidad y permanencia, arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -108,7 +118,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 57.1",
-        "texto": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos."
+        "texto": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -126,7 +138,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 64.1",
-        "texto": "Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso."
+        "texto": "Los actos del Rey serán refrendados por el Presidente del Gobierno y, en su caso, por los Ministros competentes. La propuesta y el nombramiento del Presidente del Gobierno, y la disolución prevista en el artículo 99, serán refrendados por el Presidente del Congreso.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -144,7 +158,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 62",
-        "texto": "Corresponde al Rey: a) Sancionar y promulgar las leyes. b) Convocar y disolver las Cortes Generales y convocar elecciones... i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales."
+        "texto": "Corresponde al Rey: a) Sancionar y promulgar las leyes. b) Convocar y disolver las Cortes Generales y convocar elecciones... i) Ejercer el derecho de gracia con arreglo a la ley, que no podrá autorizar indultos generales.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -162,7 +178,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 68.1",
-        "texto": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley."
+        "texto": "El Congreso se compone de un mínimo de 300 y un máximo de 400 Diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -180,7 +198,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 81.2",
-        "texto": "La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto."
+        "texto": "La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -198,7 +218,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 71.1",
-        "texto": "Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones."
+        "texto": "Los Diputados y Senadores gozarán de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -216,7 +238,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 86.2",
-        "texto": "Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación."
+        "texto": "Los Decretos-leyes deberán ser inmediatamente sometidos a debate y votación de totalidad al Congreso de los Diputados, convocado al efecto si no estuviere reunido, en el plazo de los treinta días siguientes a su promulgación.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -234,7 +258,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 97",
-        "texto": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes."
+        "texto": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -252,7 +278,9 @@
       "fuente": {
         "documento": "Ley 50/1997, del Gobierno",
         "referencia": "Artículo 1.2",
-        "texto": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros."
+        "texto": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros.",
+        "documentoId": "ley-50-1997",
+        "seccionId": "titulo-i"
       }
     },
     {
@@ -270,7 +298,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 113.2",
-        "texto": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno."
+        "texto": "La moción de censura deberá ser propuesta al menos por la décima parte de los Diputados, y habrá de incluir un candidato a la Presidencia del Gobierno.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -288,7 +318,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 117.1",
-        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley."
+        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del poder judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -306,7 +338,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 122.3",
-        "texto": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años."
+        "texto": "El Consejo General del Poder Judicial estará integrado por el Presidente del Tribunal Supremo, que lo presidirá, y por veinte miembros nombrados por el Rey por un período de cinco años.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -324,7 +358,9 @@
       "fuente": {
         "documento": "Ley Orgánica 6/1985, del Poder Judicial",
         "referencia": "Artículo 1",
-        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley."
+        "texto": "La justicia emana del pueblo y se administra en nombre del Rey por Jueces y Magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente a la Constitución y al imperio de la ley.",
+        "documentoId": "lopj",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -342,7 +378,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 137",
-        "texto": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses."
+        "texto": "El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -360,7 +398,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 141.1",
-        "texto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica."
+        "texto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -378,7 +418,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 145.1",
-        "texto": "En ningún caso se admitirá la federación de Comunidades Autónomas."
+        "texto": "En ningún caso se admitirá la federación de Comunidades Autónomas.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -396,7 +438,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 159.1",
-        "texto": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial."
+        "texto": "El Tribunal Constitucional se compone de 12 miembros nombrados por el Rey; de ellos, cuatro a propuesta del Congreso por mayoría de tres quintos de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -414,7 +458,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 159.3",
-        "texto": "Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres."
+        "texto": "Los miembros del Tribunal Constitucional serán designados por un período de nueve años y se renovarán por terceras partes cada tres.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -432,7 +478,9 @@
       "fuente": {
         "documento": "Constitución Española",
         "referencia": "Artículo 93",
-        "texto": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución."
+        "texto": "Mediante ley orgánica se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
       }
     },
     {
@@ -450,7 +498,9 @@
       "fuente": {
         "documento": "Ley Orgánica 6/1985, del Poder Judicial",
         "referencia": "Artículo 4 bis.1",
-        "texto": "Los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea."
+        "texto": "Los Jueces y Tribunales aplicarán el Derecho de la Unión Europea de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea.",
+        "documentoId": "lopj",
+        "seccionId": "titulo-preliminar"
       }
     }
   ]
