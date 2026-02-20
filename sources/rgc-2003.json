@@ -1,0 +1,47 @@
+{
+  "id": "rgc-2003",
+  "title": "Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación",
+  "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23514",
+  "sections": [
+    {
+      "id": "titulo-i-cap-iv-alcohol",
+      "title": "Título I, Capítulo IV — Normas sobre bebidas alcohólicas",
+      "content": "Artículo 20. Tasas de alcohol en sangre y aire espirado. No podrán circular los conductores con tasa de alcohol en sangre superior a 0,5 g/l o aire espirado superior a 0,25 mg/l. Para transporte de mercancías peligrosas, viajeros >9 plazas, escolar, servicio público: 0,3 g/l sangre o 0,15 mg/l aire. Conductores noveles (2 primeros años): 0,3 g/l sangre o 0,15 mg/l aire."
+    },
+    {
+      "id": "titulo-ii-cap-ii-velocidad",
+      "title": "Título II, Capítulo II — Velocidad",
+      "content": "Artículos 48-52. Velocidades máximas fuera de poblado: turismos 120 km/h autopista, 90 km/h convencional. Camiones >3.500 kg: 90/80 km/h. Transporte mercancías peligrosas/escolar: -10 km/h. Velocidades mínimas: 60 km/h autopista. Vías urbanas (Art. 50): 20 km/h plataforma única, 30 km/h un carril, 50 km/h dos o más carriles."
+    },
+    {
+      "id": "titulo-ii-cap-iii-prioridad",
+      "title": "Título II, Capítulo III — Prioridad de paso",
+      "content": "Artículos 56-66. Intersecciones señalizadas: prioridad según señalización. Sin señalizar (Art. 57): ceder paso a vehículos por la derecha. Excepciones: vía pavimentada sobre no pavimentada, raíles, glorietas (dentro tiene prioridad), autopistas/autovías."
+    },
+    {
+      "id": "titulo-ii-cap-vii-adelantamiento",
+      "title": "Título II, Capítulo VII — Adelantamiento",
+      "content": "Artículos 82-89. Norma general: adelantar por la izquierda. Excepciones por la derecha en carriles múltiples delimitados. Antes de adelantar: comprobar espacio, señalizar. Prohibido adelantar en curvas, cambios de rasante sin visibilidad, pasos de peatones, intersecciones."
+    },
+    {
+      "id": "titulo-ii-cap-viii-parada-estacionamiento",
+      "title": "Título II, Capítulo VIII — Parada y estacionamiento",
+      "content": "Artículos 90-94. Distancia mínima al borde opuesto: 3 metros. Prohibido parar en curvas, pasos a nivel/peatones, carriles reservados. Prohibido estacionar en doble fila, sobre aceras, delante de vados, zonas de carga/descarga."
+    },
+    {
+      "id": "titulo-ii-cap-x-alumbrado",
+      "title": "Título II, Capítulo X — Utilización del alumbrado",
+      "content": "Artículos 98-107. Motocicletas: luz de cruce obligatoria de día. Antiniebla trasera solo en condiciones especialmente desfavorables. Deslumbramiento: sustituir largo por corto alcance."
+    },
+    {
+      "id": "titulo-iii-cap-ii-cinturon-casco",
+      "title": "Título III, Capítulo II — Cinturón, casco y restantes elementos de seguridad",
+      "content": "Artículos 116-119. Cinturón obligatorio en vías urbanas e interurbanas. Menores ≤135 cm: SRI obligatorio, asientos traseros salvo excepciones. Casco obligatorio para motocicletas, ciclomotores. Bicicletas: casco obligatorio en interurbanas salvo excepciones."
+    },
+    {
+      "id": "titulo-iv-cap-ii-preferencia-señales",
+      "title": "Título IV, Capítulo II — Preferencia entre señales",
+      "content": "Artículo 133. Orden de preferencia: 1) Agentes, 2) Señalización circunstancial, 3) Semáforos, 4) Señales verticales, 5) Marcas viales. En contradicción entre señales del mismo tipo, prevalece la más restrictiva."
+    }
+  ]
+}

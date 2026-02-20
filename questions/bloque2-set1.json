@@ -1,0 +1,446 @@
+{
+  "title": "Bloque 2: Derecho Administrativo General — Set 1",
+  "description": "25 preguntas sobre procedimiento administrativo, régimen jurídico y jurisdicción contencioso-administrativa (Temas 9-12)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 21.2 de la Ley 39/2015, ¿cuál es el plazo máximo de resolución y notificación de un procedimiento administrativo cuando la norma reguladora no fije plazo?",
+      "opciones": ["Tres meses", "Seis meses", "Un mes", "Dos meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 21.2 de la Ley 39/2015 establece que cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 21.2",
+        "texto": "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento. Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en la normativa comunitaria europea. Cuando las normas reguladoras de los procedimientos no fijen el plazo máximo, éste será de tres meses.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iv-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, ¿quiénes tienen la condición de interesados en el procedimiento administrativo además de quienes lo promuevan como titulares de derechos o intereses legítimos?",
+      "opciones": [
+        "Los que sin haber iniciado el procedimiento tengan derechos que puedan resultar afectados por la decisión",
+        "Cualquier ciudadano español mayor de edad",
+        "Los funcionarios públicos que tramiten el expediente",
+        "Los miembros del órgano colegiado que resuelva"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 4.1.b) de la Ley 39/2015 establece como interesados a los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 4.1.b)",
+        "texto": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 30 de la Ley 39/2015, el cómputo de plazos señalados en días se entiende referido a:",
+      "opciones": ["Días hábiles", "Días naturales", "Días laborables", "Días lectivos"],
+      "correcta": 0,
+      "explicacion": "El artículo 30.2 de la Ley 39/2015 establece que siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 30.2",
+        "texto": "Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que éstos son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-ii-cap-ii"
+      }
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes NO es un supuesto de nulidad de pleno derecho de los actos administrativos según el artículo 47.1 de la Ley 39/2015?",
+      "opciones": [
+        "Los dictados con defecto de forma que no impidan alcanzar su fin",
+        "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
+        "Los que tengan un contenido imposible"
+      ],
+      "correcta": 0,
+      "explicacion": "Los actos dictados con defecto de forma que no impidan alcanzar su fin no son causa de nulidad de pleno derecho. Según el artículo 48.2 de la Ley 39/2015, el defecto de forma solo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículos 47 y 48",
+        "texto": "Son nulos de pleno derecho los actos de las Administraciones Públicas: a) Los que lesionen los derechos y libertades susceptibles de amparo constitucional. b) Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio. c) Los que tengan un contenido imposible.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, ¿cuál es el plazo para interponer recurso de alzada contra actos que no pongan fin a la vía administrativa?",
+      "opciones": ["Un mes si el acto es expreso", "Dos meses si el acto es expreso", "Quince días si el acto es expreso", "Tres meses si el acto es expreso"],
+      "correcta": 0,
+      "explicacion": "El artículo 122.1 de la Ley 39/2015 establece que el plazo para la interposición del recurso de alzada será de un mes si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 122.1",
+        "texto": "El plazo para la interposición del recurso de alzada será de un mes, si el acto fuera expreso. Transcurrido dicho plazo sin haberse interpuesto el recurso, la resolución será firme a todos los efectos.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es el plazo máximo para resolver y notificar el recurso de alzada según la Ley 39/2015?",
+      "opciones": ["Tres meses", "Un mes", "Seis meses", "Dos meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 122.2 de la Ley 39/2015 establece que el plazo máximo para dictar y notificar la resolución del recurso de alzada será de tres meses. Transcurrido este plazo sin resolución expresa, podrá entenderse desestimado el recurso.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 122.2",
+        "texto": "El plazo máximo para dictar y notificar la resolución será de tres meses. Transcurrido este plazo sin que recaiga resolución, se podrá entender desestimado el recurso.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "El recurso potestativo de reposición regulado en la Ley 39/2015 se interpone ante:",
+      "opciones": [
+        "El mismo órgano que dictó el acto",
+        "El superior jerárquico del órgano que dictó el acto",
+        "El Consejo de Estado",
+        "El Tribunal contencioso-administrativo competente"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 123.1 de la Ley 39/2015 establece que los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 123.1",
+        "texto": "Los actos administrativos que pongan fin a la vía administrativa podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso-administrativo.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 125.1 de la Ley 39/2015, ¿cuál es el plazo para interponer el recurso potestativo de reposición si el acto es expreso?",
+      "opciones": ["Un mes", "Dos meses", "Quince días", "Tres meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 124.1 de la Ley 39/2015 establece que el plazo para la interposición del recurso de reposición será de un mes si el acto fuera expreso.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 124.1",
+        "texto": "El plazo para la interposición del recurso de reposición será de un mes, si el acto fuera expreso.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es el plazo para interponer recurso extraordinario de revisión cuando se alegue que el acto se dictó como consecuencia de prevaricación, cohecho, violencia o fraude?",
+      "opciones": [
+        "Tres meses desde el conocimiento de los documentos o desde la sentencia firme",
+        "Un mes desde el conocimiento",
+        "Cuatro años desde la notificación del acto",
+        "Un año desde la notificación del acto"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 125.2 de la Ley 39/2015 establece que cuando se alegue alguna de las causas previstas en los apartados b), c) y d) del artículo 125.1 (entre ellas prevaricación, cohecho, violencia, maquinación fraudulenta o documentos esenciales), el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 125.2",
+        "texto": "En los demás casos, el plazo será de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "¿En qué plazo puede interponerse el recurso extraordinario de revisión cuando se alegue error de hecho que resulte de los propios documentos incorporados al expediente?",
+      "opciones": [
+        "Cuatro años siguientes a la fecha de la notificación de la resolución impugnada",
+        "Un año desde la notificación",
+        "Tres meses desde la notificación",
+        "Dos años desde la notificación"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 125.1.a) de la Ley 39/2015 establece que contra actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión cuando al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente, dentro de los cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 125.1.a)",
+        "texto": "Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias siguientes: a) Que al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente. Se interpondrá dentro de los cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 9.2 de la Ley 40/2015, ¿cuál de las siguientes competencias NO puede ser objeto de delegación?",
+      "opciones": [
+        "La adopción de disposiciones de carácter general",
+        "La firma de resoluciones administrativas",
+        "La tramitación de expedientes disciplinarios",
+        "La concesión de autorizaciones regladas"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 9.2.b) de la Ley 40/2015 establece expresamente que en ningún caso podrán ser objeto de delegación las competencias relativas a la adopción de disposiciones de carácter general.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 9.2.b)",
+        "texto": "En ningún caso podrán ser objeto de delegación las competencias relativas a: b) La adopción de disposiciones de carácter general.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 8.1 de la Ley 40/2015, la competencia administrativa es:",
+      "opciones": [
+        "Irrenunciable",
+        "Renunciable con autorización del superior",
+        "Transferible libremente entre órganos",
+        "Disponible por acuerdo entre Administraciones"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 8.1 de la Ley 40/2015 establece que la competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 8.1",
+        "texto": "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en ésta u otras leyes.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 23.2.b) de la Ley 40/2015, el parentesco de consanguinidad que constituye motivo de abstención alcanza hasta el:",
+      "opciones": ["Cuarto grado", "Segundo grado", "Tercer grado", "Primer grado"],
+      "correcta": 0,
+      "explicacion": "El artículo 23.2.b) de la Ley 40/2015 establece como motivo de abstención tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 23.2.b)",
+        "texto": "Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 23.2.b) de la Ley 40/2015, el parentesco de afinidad que constituye motivo de abstención alcanza hasta el:",
+      "opciones": ["Segundo grado", "Cuarto grado", "Tercer grado", "Primer grado"],
+      "correcta": 0,
+      "explicacion": "El artículo 23.2.b) de la Ley 40/2015 establece como causa de abstención el parentesco de afinidad dentro del segundo grado con cualquiera de los interesados.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 23.2.b)",
+        "texto": "Tener un vínculo matrimonial o situación de hecho asimilable y el parentesco de consanguinidad dentro del cuarto grado o de afinidad dentro del segundo, con cualquiera de los interesados.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 40/2015, ¿la actuación de una autoridad en la que concurran motivos de abstención implica necesariamente la invalidez de los actos en que haya intervenido?",
+      "opciones": [
+        "No, no implicará necesariamente la invalidez de los actos",
+        "Sí, siempre produce la nulidad de pleno derecho",
+        "Sí, siempre produce la anulabilidad del acto",
+        "Solo si se ha formulado recusación previa"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 23.4 de la Ley 40/2015 establece expresamente que la actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 23.4",
+        "texto": "La actuación de autoridades y personal al servicio de las Administraciones Públicas en los que concurran motivos de abstención no implicará, necesariamente, y en todo caso, la invalidez de los actos en que hayan intervenido.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 40/2015, cuando el recusado niega la causa de recusación, ¿en qué plazo resolverá el superior?",
+      "opciones": ["Tres días", "Cinco días", "Diez días", "Un día"],
+      "correcta": 0,
+      "explicacion": "El artículo 24.4 de la Ley 40/2015 establece que si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 24.4",
+        "texto": "Si el recusado niega la causa de recusación, el superior resolverá en el plazo de tres días, previos los informes y comprobaciones que considere oportunos.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5.4 de la Ley 40/2015, ¿qué requisito se exige para la creación de un nuevo órgano administrativo en relación con los existentes?",
+      "opciones": [
+        "No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si no se suprime o restringe la competencia de estos",
+        "Solo se requiere informe favorable del Consejo de Estado",
+        "Basta con la aprobación del titular del departamento",
+        "Se requiere aprobación por ley orgánica"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 5.4 de la Ley 40/2015 establece que no podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de estos.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 5.4",
+        "texto": "No podrán crearse nuevos órganos que supongan duplicación de otros ya existentes si al mismo tiempo no se suprime o restringe debidamente la competencia de estos.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 32.1 de la Ley 40/2015, los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas de toda lesión que sufran en sus bienes y derechos, salvo en los casos de:",
+      "opciones": [
+        "Fuerza mayor o daños que el particular tenga el deber jurídico de soportar",
+        "Caso fortuito exclusivamente",
+        "Funcionamiento normal de los servicios públicos",
+        "Daños causados por personal interino"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 32.1 de la Ley 40/2015 establece que los particulares tendrán derecho a ser indemnizados siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 32.1",
+        "texto": "Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas correspondientes, de toda lesión que sufran en cualquiera de sus bienes y derechos, siempre que la lesión sea consecuencia del funcionamiento normal o anormal de los servicios públicos salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-iv-sec-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 32.2 de la Ley 40/2015, el daño alegado para reclamar responsabilidad patrimonial habrá de ser:",
+      "opciones": [
+        "Efectivo, evaluable económicamente e individualizado",
+        "Efectivo y colectivo",
+        "Evaluable económicamente y genérico",
+        "Individualizado y futuro"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 32.2 de la Ley 40/2015 establece que en todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 32.2",
+        "texto": "En todo caso, el daño alegado habrá de ser efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-iv-sec-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 30.1 de la Ley 40/2015, si las leyes reguladoras de un régimen sancionador no fijan plazos de prescripción, las infracciones muy graves prescribirán a los:",
+      "opciones": ["Tres años", "Cinco años", "Dos años", "Cuatro años"],
+      "correcta": 0,
+      "explicacion": "El artículo 30.1 de la Ley 40/2015 establece que si las leyes no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 30.1",
+        "texto": "Si éstas no fijan plazos de prescripción, las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-iii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 46.1 de la Ley 29/1998, ¿cuál es el plazo para interponer recurso contencioso-administrativo contra un acto expreso que ponga fin a la vía administrativa?",
+      "opciones": ["Dos meses", "Un mes", "Seis meses", "Tres meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 46.1 de la Ley 29/1998 establece que el plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 46.1",
+        "texto": "El plazo para interponer el recurso contencioso-administrativo será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-iv-cap-i-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 46.1 de la Ley 29/1998, cuando el acto administrativo no sea expreso (silencio administrativo), ¿cuál es el plazo para interponer recurso contencioso-administrativo?",
+      "opciones": ["Seis meses", "Dos meses", "Un año", "Tres meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 46.1 de la Ley 29/1998 establece que si el acto no fuera expreso, el plazo será de seis meses y se contará a partir del día siguiente a aquél en que se produzca el acto presunto.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 46.1",
+        "texto": "Si no lo fuera, el plazo será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-iv-cap-i-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 19.1.a) de la Ley 29/1998, están legitimados ante el orden jurisdiccional contencioso-administrativo:",
+      "opciones": [
+        "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo",
+        "Exclusivamente las personas físicas con nacionalidad española",
+        "Solo los funcionarios públicos afectados",
+        "Únicamente las personas jurídicas de derecho público"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 19.1.a) de la Ley 29/1998 establece que están legitimados ante el orden jurisdiccional contencioso-administrativo las personas físicas o jurídicas que ostenten un derecho o interés legítimo.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 19.1.a)",
+        "texto": "Están legitimados ante el orden jurisdiccional contencioso-administrativo: a) Las personas físicas o jurídicas que ostenten un derecho o interés legítimo.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-ii-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 29.1 de la Ley 29/1998, para interponer recurso contencioso-administrativo contra la inactividad de la Administración, ¿en qué plazo debe haber reclamado previamente el interesado sin obtener respuesta?",
+      "opciones": ["Tres meses", "Un mes", "Seis meses", "Dos meses"],
+      "correcta": 0,
+      "explicacion": "El artículo 29.1 de la Ley 29/1998 establece que si en el plazo de tres meses desde la fecha de la reclamación, la Administración no hubiera dado cumplimiento a lo solicitado, los interesados pueden deducir recurso contencioso-administrativo contra la inactividad.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 29.1",
+        "texto": "Si en el plazo de tres meses desde la fecha de la reclamación, la Administración no hubiera dado cumplimiento a lo solicitado o no hubiera llegado a un acuerdo con los interesados, éstos pueden deducir recurso contencioso-administrativo contra la inactividad de la Administración.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 29/1998, en caso de vía de hecho y habiendo formulado requerimiento de cesación, ¿en qué plazo puede interponerse el recurso contencioso-administrativo si la Administración no atiende el requerimiento?",
+      "opciones": [
+        "Diez días siguientes a la presentación del requerimiento",
+        "Veinte días desde el requerimiento",
+        "Un mes desde el requerimiento",
+        "Dos meses desde el requerimiento"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 30 de la Ley 29/1998 establece que en caso de vía de hecho, si la intimación no fuere atendida dentro de los diez días siguientes a la presentación del requerimiento, podrá deducirse directamente recurso contencioso-administrativo.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 30",
+        "texto": "En caso de vía de hecho, el interesado podrá formular requerimiento a la Administración actuante, intimando su cesación. Si dicha intimación no hubiere sido formulada o no fuere atendida dentro de los diez días siguientes a la presentación del requerimiento, podrá deducir directamente recurso contencioso-administrativo.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    }
+  ]
+}
