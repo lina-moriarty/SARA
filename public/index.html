@@ -29,6 +29,34 @@
       <div class="modal-body">
         <h4>Tema visual</h4>
         <div class="theme-grid" id="theme-grid"></div>
+        <div class="setting-row">
+          <label class="setting-label" for="bg-toggle">Fondo con imagen</label>
+          <label class="toggle-switch">
+            <input type="checkbox" id="bg-toggle" onchange="App.toggleBackground(this.checked)">
+            <span class="toggle-slider"></span>
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODE SELECTION MODAL -->
+  <div id="mode-modal" class="modal hidden">
+    <div class="modal-backdrop" onclick="App.closeModeModal()"></div>
+    <div class="modal-content mode-modal-content">
+      <div class="modal-header">
+        <h3 id="mode-modal-title">Modo de estudio</h3>
+        <button class="btn-icon" onclick="App.closeModeModal()">&#x2715;</button>
+      </div>
+      <div class="modal-body mode-modal-body">
+        <button class="btn mode-btn mode-btn-learning" onclick="App.selectModeAndStart('learning')">
+          <span class="mode-btn-title">Aprendizaje</span>
+          <span class="mode-btn-desc">Feedback después de cada pregunta</span>
+        </button>
+        <button class="btn mode-btn mode-btn-exam" onclick="App.selectModeAndStart('exam')">
+          <span class="mode-btn-title">Examen</span>
+          <span class="mode-btn-desc">Resultados al final</span>
+        </button>
       </div>
     </div>
   </div>
@@ -38,7 +66,7 @@
     <div class="container">
       <div class="title-bar">
         <div></div>
-        <button class="btn-icon settings-btn" onclick="App.openSettings()" title="Ajustes">&#x2699;</button>
+        <button class="btn-icon settings-btn" onclick="App.openSettings()" title="Ajustes"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="18" x2="20" y2="18"/><circle cx="8" cy="6" r="2" fill="currentColor"/><circle cx="16" cy="12" r="2" fill="currentColor"/><circle cx="10" cy="18" r="2" fill="currentColor"/></svg></button>
       </div>
       <h1>SARA</h1>
       <p class="subtitle">Sistema de Autoevaluación y Repaso<br>Examinador de Tráfico (DGT)</p>
@@ -50,27 +78,6 @@
         </div>
       </div>
 
-      <div class="mode-selector">
-        <h2>Modo de estudio</h2>
-        <div class="mode-options">
-          <label class="mode-option selected" data-mode="learning">
-            <input type="radio" name="mode" value="learning" checked>
-            <div class="mode-card">
-              <span class="mode-title">Aprendizaje</span>
-              <span class="mode-desc">Feedback después de cada pregunta</span>
-            </div>
-          </label>
-          <label class="mode-option" data-mode="exam">
-            <input type="radio" name="mode" value="exam">
-            <div class="mode-card">
-              <span class="mode-title">Examen</span>
-              <span class="mode-desc">Resultados al final</span>
-            </div>
-          </label>
-        </div>
-      </div>
-
-      <button id="start-btn" class="btn btn-primary" disabled>Comenzar Test</button>
     </div>
   </div>
 
@@ -81,7 +88,7 @@
         <div id="progress-fill" class="progress-fill"></div>
       </div>
       <div class="quiz-info">
-        <a href="#" class="back-link" onclick="App.backToMenu(); return false;">SARA</a>
+        <button class="back-btn" onclick="App.backToMenu()">&#8592; Back</button>
         <div class="quiz-info-right">
           <span id="question-counter">1 / 100</span>
           <span id="score-display" class="score-display hidden"></span>
@@ -157,6 +164,7 @@
     </div>
   </div>
 
+  <script src="js/quiz-logic.js"></script>
   <script src="js/app.js"></script>
 </body>
 </html>
