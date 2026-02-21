@@ -102,6 +102,10 @@ const server = http.createServer((req, res) => {
   sendFile(res, filePath);
 });
 
-server.listen(PORT, () => {
-  console.log(`SARA running on http://localhost:${PORT}`);
-});
+if (require.main === module) {
+  server.listen(PORT, () => {
+    console.log(`SARA running on http://localhost:${PORT}`);
+  });
+}
+
+module.exports = { server, sendJSON, sendFile, getQuizList, MIME_TYPES };
