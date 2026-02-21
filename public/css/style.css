@@ -605,10 +605,23 @@ h1 {
   color: var(--text);
 }
 
-.source-content .highlight {
+.source-article {
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  color: var(--text-secondary);
+  font-size: 0.8rem;
+}
+
+.source-article + .source-article {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--border);
+}
+
+.source-article.highlight {
   background: var(--highlight);
-  padding: 0.1rem 0.25rem;
-  border-radius: 3px;
+  color: var(--text);
+  font-size: 0.85rem;
 }
 
 /* === RESULTS === */

@@ -311,48 +311,59 @@ const App = {
     const q = this.currentQuiz.questions[questionIndex];
     if (!q.fuente) return;
 
+    // Load source data first (needed for URL and content)
+    let source = null;
+    if (q.fuente.documentoId) {
+      try {
+        if (!this.sources[q.fuente.documentoId]) {
+          const res = await fetch(`/api/sources/${q.fuente.documentoId}`);
+          if (!res.ok) throw new Error('Not found');
+          this.sources[q.fuente.documentoId] = await res.json();
+        }
+        source = this.sources[q.fuente.documentoId];
+      } catch (e) {
+        source = null;
+      }
+    }
+
     // Build source ref with clickable law name
     const lawName = q.fuente.documento || '';
     const articleRef = q.fuente.referencia || '';
-    this.el.sourceRef.innerHTML = `
-      <span class="source-ref-law" title="Abrir ley completa">${lawName}</span>
-      <span class="source-ref-article"> — ${articleRef}</span>
-    `;
+    const lawUrl = q.fuente.url || (source && source.url) || '';
+    this.el.sourceRef.innerHTML = lawUrl
+      ? `<a class="source-ref-law" href="${lawUrl}" target="_blank" rel="noopener">${lawName}</a><span class="source-ref-article"> — ${articleRef}</span>`
+      : `<span class="source-ref-law">${lawName}</span><span class="source-ref-article"> — ${articleRef}</span>`;
 
-    // Make law name open full text in new tab if URL available
-    const lawLink = this.el.sourceRef.querySelector('.source-ref-law');
-    if (q.fuente.url) {
-      lawLink.addEventListener('click', () => window.open(q.fuente.url, '_blank'));
-    } else if (q.fuente.documentoId) {
-      lawLink.addEventListener('click', () => {
-        window.open(`/sources/text/${q.fuente.documentoId}.md`, '_blank');
-      });
-    }
-
-    try {
-      if (!this.sources[q.fuente.documentoId]) {
-        const res = await fetch(`/api/sources/${q.fuente.documentoId}`);
-        this.sources[q.fuente.documentoId] = await res.json();
-      }
-
-      const source = this.sources[q.fuente.documentoId];
+    // Render source content
+    if (!source) {
+      this.el.sourceContent.innerHTML = `<p><strong>${q.fuente.referencia || ''}</strong></p><p>${q.fuente.texto || 'Material de referencia no disponible.'}</p>`;
+    } else {
       const section = source.sections.find(s => s.id === q.fuente.seccionId);
 
       if (section) {
-        let content = section.content;
-        if (q.fuente.parrafo) {
-          const paragraphs = content.split('\n\n');
-          content = paragraphs.map((p, i) => {
-            if (i === q.fuente.parrafo) return `<span class="highlight">${p}</span>`;
-            return p;
-          }).join('\n\n');
+        // Parse article number from referencia (e.g. "Artículo 1.2" → "1", "Artículo 17" → "17")
+        const artMatch = (q.fuente.referencia || '').match(/Art[íi]culo\s+(\d+)/i);
+        const artNum = artMatch ? artMatch[1] : null;
+
+        const paragraphs = section.content.split('\n\n');
+        const html = paragraphs.map(p => {
+          const isTarget = artNum && new RegExp(`^Artículo\\s+${artNum}\\b`).test(p);
+          const formatted = p.replace(/\n/g, '<br>');
+          return isTarget
+            ? `<div class="source-article highlight">${formatted}</div>`
+            : `<div class="source-article">${formatted}</div>`;
+        }).join('');
+
+        this.el.sourceContent.innerHTML = html;
+
+        // Scroll to highlighted article
+        const highlighted = this.el.sourceContent.querySelector('.highlight');
+        if (highlighted) {
+          requestAnimationFrame(() => highlighted.scrollIntoView({ block: 'start', behavior: 'smooth' }));
         }
-        this.el.sourceContent.innerHTML = content.replace(/\n\n/g, '<br><br>');
       } else {
         this.el.sourceContent.innerHTML = '<p>Sección no encontrada.</p>';
       }
-    } catch (e) {
-      this.el.sourceContent.innerHTML = `<p><strong>${q.fuente.referencia}</strong></p><p>${q.fuente.texto || 'Material de referencia no disponible.'}</p>`;
     }
 
     this.el.sourcePanel.classList.remove('hidden');
