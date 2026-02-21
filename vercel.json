@@ -1,9 +1,14 @@
 {
   "builds": [
-    { "src": "server.js", "use": "@vercel/node" }
+    {
+      "src": "server.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["questions/**", "sources/*.json", "public/**"]
+      }
+    }
   ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "server.js" },
     { "src": "/(.*)", "dest": "server.js" }
   ]
 }

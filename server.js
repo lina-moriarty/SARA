@@ -108,4 +108,9 @@ if (require.main === module) {
   });
 }
 
-module.exports = { server, sendJSON, sendFile, getQuizList, MIME_TYPES };
+// Default export must be the server for Vercel's @vercel/node
+module.exports = server;
+module.exports.sendJSON = sendJSON;
+module.exports.sendFile = sendFile;
+module.exports.getQuizList = getQuizList;
+module.exports.MIME_TYPES = MIME_TYPES;
