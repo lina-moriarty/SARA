@@ -1,0 +1,506 @@
+{
+  "title": "Bloque 3: Normativa de Tráfico — Set 1",
+  "description": "25 preguntas sobre organización de tráfico, permisos de conducción, autoescuelas y régimen sancionador (Temas 13-21)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 6 del RDL 6/2015, ¿a través de qué organismo ejerce el Ministerio del Interior sus competencias en materia de tráfico?",
+      "opciones": [
+        "El organismo autónomo Jefatura Central de Tráfico",
+        "La Dirección General de Seguridad Vial",
+        "El Consejo Superior de Tráfico y Seguridad Vial",
+        "La Agrupación de Tráfico de la Guardia Civil"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 6.1 del RDL 6/2015 establece que el Ministerio del Interior ejerce las competencias relacionadas en el artículo 5 a través del organismo autónomo Jefatura Central de Tráfico.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 6.1",
+        "texto": "El Ministerio del Interior ejerce las competencias relacionadas en el artículo anterior a través del organismo autónomo Jefatura Central de Tráfico.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "¿Qué órgano es el encargado de la vigilancia del tráfico en vías interurbanas según el artículo 6.2 del RDL 6/2015?",
+      "opciones": [
+        "La Policía Nacional",
+        "La Guardia Civil, especialmente su Agrupación de Tráfico",
+        "Las Policías Locales",
+        "Los Mossos d'Esquadra en todo el territorio nacional"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 6.2 del RDL 6/2015 establece que para la vigilancia del tráfico actuará la Guardia Civil, especialmente su Agrupación de Tráfico, que a estos efectos depende específicamente del organismo autónomo Jefatura Central de Tráfico.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 6.2",
+        "texto": "actuará, en los términos que reglamentariamente se determine, la Guardia Civil, especialmente su Agrupación de Tráfico, que a estos efectos depende específicamente del organismo autónomo Jefatura Central de Tráfico.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 7 del RDL 6/2015, ¿a quién corresponde la regulación, ordenación, gestión y vigilancia del tráfico en las vías urbanas?",
+      "opciones": [
+        "Al Ministerio del Interior",
+        "A la Jefatura Central de Tráfico",
+        "A los municipios, por medio de agentes propios",
+        "A la Delegación del Gobierno en la comunidad autónoma"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 7.a) del RDL 6/2015 atribuye a los municipios la regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 7.a)",
+        "texto": "La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5.a) del RDL 6/2015, ¿a quién corresponde la expedición y revisión de los permisos y licencias para conducir?",
+      "opciones": [
+        "A las comunidades autónomas",
+        "Al Ministerio de Transportes",
+        "Al Ministerio del Interior",
+        "A los ayuntamientos"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 5.a) del RDL 6/2015 atribuye al Ministerio del Interior la expedición y revisión de los permisos y licencias para conducir vehículos a motor y ciclomotores.",
+      "tema": 14,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 5.a)",
+        "texto": "La expedición y revisión de los permisos y licencias para conducir vehículos a motor y ciclomotores y de la autorización especial para conducir vehículos que transporten mercancías peligrosas, con los requisitos sobre conocimientos, aptitudes técnicas y psicofísicas y periodicidad que se determinen reglamentariamente",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "¿Qué edad mínima se requiere para obtener el permiso de conducción de la clase AM según el artículo 4 del RD 818/2009?",
+      "opciones": [
+        "14 años",
+        "15 años",
+        "16 años",
+        "18 años"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el artículo 4 del RD 818/2009, la edad mínima para obtener el permiso de clase AM es de 15 años cumplidos.",
+      "tema": 14,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 4.2",
+        "texto": "AM: Ciclomotores de dos o tres ruedas y cuatriciclos ligeros. Edad: 15 años cumplidos.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 2 del RD 818/2009, ¿quién es competente para expedir los permisos y licencias de conducción?",
+      "opciones": [
+        "Las Delegaciones del Gobierno",
+        "Las Jefaturas Provinciales de Tráfico",
+        "Los Ayuntamientos",
+        "La Dirección General de Tráfico directamente"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 2 del RD 818/2009 establece que los permisos y licencias de conducción serán expedidos por las Jefaturas Provinciales de Tráfico, con excepción de los de Fuerzas Armadas o Guardia Civil.",
+      "tema": 15,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 2",
+        "texto": "Los permisos y licencias de conducción, así como las autorizaciones administrativas que provisionalmente los sustituyan, serán expedidos por las Jefaturas Provinciales de Tráfico, con excepción de los que autorizan a conducir vehículos de las Fuerzas Armadas o de la Dirección General de Policía y de la Guardia Civil.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 12 del RD 818/2009, ¿cuál es el período de vigencia del permiso de conducción de la clase B para menores de 65 años?",
+      "opciones": [
+        "5 años",
+        "10 años",
+        "15 años",
+        "Indefinido"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 12.2 del RD 818/2009 establece que el permiso de las clases restantes (incluido B) y la licencia de conducción tendrán un período de vigencia de diez años mientras su titular no cumpla los sesenta y cinco años.",
+      "tema": 15,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 12.2",
+        "texto": "El permiso de las clases restantes y la licencia de conducción, cualquiera que sea su clase, tendrán un período de vigencia de diez años mientras su titular no cumpla los sesenta y cinco años y de cinco años a partir de esa edad.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 53 del RD 818/2009, ¿cuánto tiempo tiene de vigencia la declaración de aptitud en una prueba de conducción?",
+      "opciones": [
+        "Un año desde la fecha de aptitud",
+        "Dos años desde el día siguiente a la declaración de aptitud",
+        "Seis meses desde la fecha de aptitud",
+        "Tres años desde la declaración de aptitud"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 53.1 del RD 818/2009 establece que la declaración de aptitud en una prueba tendrá un período de vigencia de dos años contado desde el día siguiente a aquél en que el aspirante fue declarado apto.",
+      "tema": 16,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 53.1",
+        "texto": "Las pruebas, tanto las de control de conocimientos como las de control de aptitudes y comportamientos, serán calificadas de apto o no apto. La declaración de aptitud en una prueba tendrá un período de vigencia de dos años contado desde el día siguiente a aquél en que el aspirante fue declarado apto en la prueba.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-III"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 51 del RD 818/2009, ¿a quién corresponde la organización y regulación de las pruebas de aptitud?",
+      "opciones": [
+        "A las autoescuelas",
+        "A los ayuntamientos",
+        "Al organismo autónomo Jefatura Central de Tráfico",
+        "Al Ministerio de Educación"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 51.1 del RD 818/2009 establece que corresponde al organismo autónomo Jefatura Central de Tráfico la organización y regulación de las pruebas de aptitud en cada uno de los centros de examen.",
+      "tema": 16,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 51.1",
+        "texto": "Corresponde al organismo autónomo Jefatura Central de Tráfico la organización y regulación de las pruebas de aptitud en cada uno de los centros de examen.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-III"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 51.2 del RD 818/2009, ¿a cuántas convocatorias da derecho cada solicitud para obtener un permiso de conducción?",
+      "opciones": [
+        "Una convocatoria",
+        "Dos convocatorias",
+        "Tres convocatorias",
+        "Convocatorias ilimitadas durante un año"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 51.2 del RD 818/2009 establece que cada solicitud para obtener permiso o licencia de conducción dará derecho a dos convocatorias para realizar las pruebas.",
+      "tema": 16,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 51.2",
+        "texto": "Cada solicitud para obtener permiso o licencia de conducción, dará derecho a dos convocatorias para realizar las pruebas. Entre convocatorias de un mismo expediente, no deberá mediar más de seis meses, salvo en casos de enfermedad u otros excepcionales debidamente justificados.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-III"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 45 del RD 818/2009, ¿qué permisos comprende el Grupo 2 de conductores a efectos de aptitudes psicofísicas?",
+      "opciones": [
+        "AM, A1, A2, A, B y B+E",
+        "C1, C1+E, C, C+E, D1, D1+E, D y D+E",
+        "Todos los permisos de conducción",
+        "Solo los permisos A y B"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 45.1.b) del RD 818/2009 establece que el Grupo 2 comprende los que sean titulares o soliciten la obtención o prórroga del permiso de conducción de las clases C1, C1+E, C, C+E, D1, D1+E, D o D+E.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 45.1.b)",
+        "texto": "Grupo 2. Comprende los que sean titulares o soliciten la obtención o prórroga del permiso de conducción de las clases C1, C1 + E, C, C + E, D1, D1 + E, D o D + E.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 44 del RD 818/2009, ¿quién practica las pruebas y exploraciones de aptitud psicofísica de los conductores?",
+      "opciones": [
+        "Los médicos de atención primaria",
+        "Los centros de reconocimiento de conductores autorizados",
+        "Los hospitales públicos",
+        "Las autoescuelas"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 44.1 del RD 818/2009 establece que las pruebas y exploraciones serán practicadas por los centros de reconocimiento de conductores autorizados, los cuales emitirán un informe de aptitud psicofísica.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 44.1",
+        "texto": "Las pruebas y exploraciones a que se refiere el párrafo anterior serán practicadas por los centros de reconocimiento de conductores autorizados, los cuales emitirán un informe de aptitud psicofísica.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 45.2 del RD 818/2009, ¿a qué grupo se equiparan los profesionales de la enseñanza de la conducción a efectos de aptitudes psicofísicas?",
+      "opciones": [
+        "Al Grupo 1",
+        "Al Grupo 2",
+        "A un grupo especial independiente",
+        "No se les exige reconocimiento psicofísico"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 45.2 del RD 818/2009 establece que se equipara a los señalados en el grupo 2 a los profesionales de la enseñanza de la conducción.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 45.2",
+        "texto": "Se equipara a los señalados en el grupo 2 a los profesionales de la enseñanza de la conducción, sin perjuicio de las especialidades que se puedan determinar en su reglamentación específica.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 11 del RD 1295/2003, ¿cuáles son los elementos personales mínimos de una autoescuela?",
+      "opciones": [
+        "Un titular, un director y un profesor",
+        "Un titular y dos profesores",
+        "Un director y dos profesores",
+        "Un titular, dos directores y tres profesores"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 11 del RD 1295/2003 establece que toda escuela, sección o sucursal deberá disponer de: un titular con autorización de apertura, un director y un profesor.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 11",
+        "texto": "Toda escuela, sección o sucursal deberá disponer de los siguientes elementos personales mínimos: a) Un titular que cuente con la debida autorización de apertura de la escuela. b) Un director que cumpla con los requisitos establecidos en el artículo 6. c) Un profesor que cumpla con los requisitos establecidos en el artículo 8.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-II-seccion-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 6 del RD 1295/2003, ¿qué se necesita para ejercer funciones directivas en una autoescuela?",
+      "opciones": [
+        "Ser licenciado en Derecho y tener permiso de conducir",
+        "El certificado de aptitud de director de escuelas de conductores o el Título de Técnico Superior en Formación para la movilidad segura y sostenible, y autorización de ejercicio",
+        "Ser profesor de formación vial con 5 años de experiencia",
+        "Un máster en seguridad vial y autorización municipal"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 6.2 del RD 1295/2003 exige haber obtenido el certificado de aptitud de director de escuelas particulares de conductores o el Título de Técnico Superior en Formación para la movilidad segura y sostenible, además de disponer de autorización de ejercicio como director.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 6.2",
+        "texto": "Para ejercer funciones directivas en una escuela o sección es necesario: a) Haber obtenido el correspondiente certificado de aptitud de director de escuelas particulares de conductores o estar en posesión del Título de Técnico Superior en Formación para la movilidad segura y sostenible. b) Disponer de autorización de ejercicio como director.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-II-seccion-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 20 del RD 1295/2003, ¿qué autorización necesita una autoescuela para desarrollar su actividad?",
+      "opciones": [
+        "Una licencia municipal de actividad",
+        "Una autorización de apertura expedida por la Jefatura Provincial de Tráfico",
+        "Un permiso del Ministerio de Educación",
+        "Una concesión administrativa del Gobierno autonómico"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 20.1 del RD 1295/2003 establece que toda escuela necesitará de una autorización de apertura previa para desarrollar su actividad, que se expedirá por la Jefatura Provincial de Tráfico en cuyo territorio radique la Escuela.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 20.1",
+        "texto": "Toda Escuela que vayan a impartir la formación para la obtención del permiso o de la licencia de conducción necesitarán de una autorización de apertura previa para desarrollar su actividad, que se expedirá por la Jefatura Provincial de Tráfico en cuyo territorio radique la Escuela.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-III-seccion-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 74 del RDL 6/2015, ¿en cuántas categorías se clasifican las infracciones de tráfico?",
+      "opciones": [
+        "Dos: graves y muy graves",
+        "Tres: leves, graves y muy graves",
+        "Cuatro: leves, graves, muy graves y gravísimas",
+        "Tres: leves, moderadas y graves"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 74.3 del RDL 6/2015 establece que las infracciones se clasifican en leves, graves y muy graves.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 74.3",
+        "texto": "Las infracciones se clasifican en leves, graves y muy graves.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 80.1 del RDL 6/2015, ¿cuál es la sanción económica para una infracción muy grave de tráfico?",
+      "opciones": [
+        "Multa de 200 euros",
+        "Multa de 300 euros",
+        "Multa de 500 euros",
+        "Multa de 1.000 euros"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 80.1 del RDL 6/2015 establece que las infracciones muy graves serán sancionadas con multa de 500 euros, sin perjuicio de las excepciones previstas para infracciones específicas.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 80.1",
+        "texto": "Las infracciones leves serán sancionadas con multa de hasta 100 euros; las graves, con multa de 200 euros, y las muy graves, con multa de 500 euros.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 80.2.a) del RDL 6/2015, ¿cuál es la sanción por conducir con tasas de alcohol superiores al doble de la permitida?",
+      "opciones": [
+        "Multa de 500 euros",
+        "Multa de 1.000 euros",
+        "Multa de 2.000 euros",
+        "Multa de 3.000 euros"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 80.2.a) del RDL 6/2015 establece que las infracciones del artículo 77.c) y d) serán sancionadas con multa de 1.000 euros, aplicándose al conductor que circule con una tasa que supere el doble de la permitida.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 80.2.a)",
+        "texto": "Las infracciones previstas en el artículo 77. c) y d) serán sancionadas con multa de 1.000 euros. En el supuesto de conducción con tasas de alcohol superiores a las que reglamentariamente se establezcan, esta sanción únicamente se impondrá al conductor que ya hubiera sido sancionado en el año inmediatamente anterior por exceder la tasa de alcohol permitida, así como al que circule con una tasa que supere el doble de la permitida.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 63.1 del RDL 6/2015, ¿cuántos puntos se asignan inicialmente al titular de un permiso de conducción?",
+      "opciones": [
+        "8 puntos",
+        "10 puntos",
+        "12 puntos",
+        "15 puntos"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 63.1 del RDL 6/2015 establece que al titular de un permiso o licencia de conducción se le asignará un crédito inicial de doce puntos.",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 63.1",
+        "texto": "Al titular de un permiso o licencia de conducción se le asignará un crédito inicial de doce puntos.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-IV-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 63.2 del RDL 6/2015, ¿cuántos puntos se asignan a un conductor novel con antigüedad no superior a tres años?",
+      "opciones": [
+        "6 puntos",
+        "8 puntos",
+        "10 puntos",
+        "12 puntos"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 63.2.a) del RDL 6/2015 establece que excepcionalmente se asignará un crédito inicial de ocho puntos al titular de un permiso o licencia con antigüedad no superior a tres años.",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 63.2.a)",
+        "texto": "Excepcionalmente se asignará un crédito inicial de ocho puntos en los siguientes casos: a) Titular de un permiso o licencia de conducción con una antigüedad no superior a tres años, salvo que ya fuera titular de otro permiso de conducción con aquella antigüedad.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-IV-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 65.1 del RDL 6/2015, ¿en qué plazo sin ser sancionado se recupera la totalidad del crédito de puntos?",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Tres años",
+        "Cinco años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 65.1 del RDL 6/2015 establece que transcurridos dos años sin haber sido sancionados en firme por infracciones que lleven aparejada la pérdida de puntos, se recuperará la totalidad del crédito inicial de doce puntos.",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 65.1",
+        "texto": "Transcurridos dos años sin haber sido sancionados en firme en vía administrativa por la comisión de infracciones que lleven aparejada la pérdida de puntos, el titular de un permiso o licencia de conducción afectado por la pérdida parcial de puntos recuperará la totalidad del crédito inicial de doce puntos.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-IV-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 94 del RDL 6/2015, ¿qué reducción se aplica en el procedimiento sancionador abreviado por pago voluntario?",
+      "opciones": [
+        "Reducción del 25% del importe",
+        "Reducción del 30% del importe",
+        "Reducción del 50% del importe",
+        "Reducción del 75% del importe"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 94.a) del RDL 6/2015 establece que una vez realizado el pago voluntario de la multa dentro del plazo de veinte días naturales, se aplica la reducción del 50 por ciento del importe de la sanción.",
+      "tema": 21,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 94.a)",
+        "texto": "Una vez realizado el pago voluntario de la multa, ya sea en el acto de entrega de la denuncia o dentro del plazo de veinte días naturales contados desde el día siguiente al de su notificación, concluirá el procedimiento sancionador con las siguientes consecuencias: a) La reducción del 50 por ciento del importe de la sanción.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-IV"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 112.1 del RDL 6/2015, ¿cuál es el plazo de prescripción de las infracciones graves y muy graves de tráfico?",
+      "opciones": [
+        "Tres meses",
+        "Seis meses",
+        "Un año",
+        "Dos años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 112.1 del RDL 6/2015 establece que el plazo de prescripción será de tres meses para las infracciones leves y de seis meses para las infracciones graves y muy graves.",
+      "tema": 21,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 112.1",
+        "texto": "El plazo de prescripción de las infracciones previstas en esta ley será de tres meses para las infracciones leves y de seis meses para las infracciones graves y muy graves.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-VIII"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 112.3 del RDL 6/2015, ¿en qué plazo se produce la caducidad del procedimiento sancionador de tráfico si no se ha dictado resolución?",
+      "opciones": [
+        "Seis meses desde la incoación",
+        "Un año desde la iniciación del procedimiento",
+        "Dos años desde la iniciación del procedimiento",
+        "Tres meses desde la incoación"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 112.3 del RDL 6/2015 establece que si no se hubiera producido la resolución sancionadora transcurrido un año desde la iniciación del procedimiento, se producirá su caducidad.",
+      "tema": 21,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 112.3",
+        "texto": "Si no se hubiera producido la resolución sancionadora transcurrido un año desde la iniciación del procedimiento, se producirá su caducidad y se procederá al archivo de las actuaciones, a solicitud de cualquier interesado o de oficio por el órgano competente para dictar resolución.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-VIII"
+      }
+    }
+  ]
+}

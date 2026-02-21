@@ -1,0 +1,506 @@
+{
+  "title": "Bloque 2: Derecho Administrativo General — Set 2",
+  "description": "25 preguntas adicionales sobre procedimiento administrativo, régimen jurídico y jurisdicción contencioso-administrativa (Temas 9-12)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 1.1 de la Ley 39/2015, ¿cuál es el objeto de dicha Ley?",
+      "opciones": [
+        "Regular los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común",
+        "Regular exclusivamente el procedimiento sancionador",
+        "Establecer la organización del Gobierno y la Administración General del Estado",
+        "Regular las relaciones entre las Comunidades Autónomas"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 1.1 de la Ley 39/2015 establece que tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 1.1",
+        "texto": "La presente Ley tiene por objeto regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las Administraciones Públicas, incluyendo el sancionador y el de reclamación de responsabilidad de las Administraciones Públicas, así como los principios a los que se ha de ajustar el ejercicio de la iniciativa legislativa y la potestad reglamentaria.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 2.1 de la Ley 39/2015, ¿cuál de los siguientes NO forma parte del sector público al que se aplica la Ley?",
+      "opciones": [
+        "Las empresas privadas que contratan con la Administración",
+        "La Administración General del Estado",
+        "Las Administraciones de las Comunidades Autónomas",
+        "Las Entidades que integran la Administración Local"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 2.1 de la Ley 39/2015 enumera los integrantes del sector público: AGE, Administraciones de las CCAA, Entidades de la Administración Local y el sector público institucional. Las empresas privadas que contratan con la Administración no forman parte del sector público.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 2.1",
+        "texto": "La presente Ley se aplica al sector público, que comprende: a) La Administración General del Estado. b) Las Administraciones de las Comunidades Autónomas. c) Las Entidades que integran la Administración Local. d) El sector público institucional.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 4.1.c) de la Ley 39/2015, ¿quiénes pueden tener la condición de interesados en el procedimiento administrativo aunque no tengan derechos que resulten afectados?",
+      "opciones": [
+        "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados y se personen antes de la resolución definitiva",
+        "Los familiares directos del solicitante",
+        "Cualquier ciudadano que lo solicite por escrito",
+        "Los funcionarios que tramiten el expediente"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 4.1.c) reconoce como interesados a aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 4.1.c)",
+        "texto": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 30.4 de la Ley 39/2015, si el último día del plazo es inhábil, ¿qué ocurre?",
+      "opciones": [
+        "Se entiende prorrogado al primer día hábil siguiente",
+        "El plazo vence ese mismo día inhábil",
+        "Se retrotrae al día hábil anterior",
+        "Se amplía automáticamente en dos días hábiles"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 30.5 de la Ley 39/2015 establece que cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 30.5",
+        "texto": "Cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-ii-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 21.1 de la Ley 39/2015, la Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos. ¿Qué excepción se contempla?",
+      "opciones": [
+        "Los supuestos de terminación del procedimiento por pacto o convenio y los relativos al ejercicio de derechos sometidos únicamente a comunicación previa",
+        "Los procedimientos iniciados de oficio",
+        "Los procedimientos sancionadores",
+        "No existe ninguna excepción"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 21.1 de la Ley 39/2015 obliga a la Administración a dictar resolución expresa y notificarla, con la excepción de los supuestos de terminación del procedimiento por pacto o convenio, así como los procedimientos relativos al ejercicio de derechos sometidos únicamente al deber de declaración responsable o comunicación.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 21.1",
+        "texto": "La Administración está obligada a dictar resolución expresa y a notificarla en todos los procedimientos cualquiera que sea su forma de iniciación. En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento, la resolución consistirá en la declaración de la circunstancia que concurra en cada caso.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iv-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 47.1.e) de la Ley 39/2015, ¿son nulos de pleno derecho los actos dictados prescindiendo total y absolutamente del procedimiento legalmente establecido?",
+      "opciones": [
+        "Sí, es una causa de nulidad de pleno derecho",
+        "No, solo son anulables",
+        "Solo si causan indefensión al interesado",
+        "Solo si son dictados por órgano incompetente"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 47.1.e) de la Ley 39/2015 establece como causa de nulidad de pleno derecho los actos de las Administraciones Públicas dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 47.1.e)",
+        "texto": "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 48.1 de la Ley 39/2015, ¿qué tipo de invalidez tienen los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder?",
+      "opciones": [
+        "Son anulables",
+        "Son nulos de pleno derecho",
+        "Son inexistentes",
+        "No tienen ningún tipo de invalidez"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 48.1 de la Ley 39/2015 establece que son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder.",
+      "tema": 9,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 48.1",
+        "texto": "Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, ¿ante qué órgano se interpone el recurso de alzada?",
+      "opciones": [
+        "Ante el órgano que dictó el acto o ante el competente para resolverlo (superior jerárquico)",
+        "Siempre ante el Consejo de Estado",
+        "Ante el Tribunal contencioso-administrativo competente",
+        "Ante el mismo órgano que dictó el acto, que también lo resuelve"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 121.2 de la Ley 39/2015 establece que el recurso de alzada podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo. Si se interpone ante el órgano que dictó el acto, éste deberá remitirlo al competente en el plazo de diez días.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 121.2",
+        "texto": "El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 123.2 de la Ley 39/2015, ¿es posible interponer recurso de reposición si ya se ha interpuesto recurso contencioso-administrativo?",
+      "opciones": [
+        "No, no podrá interponerse recurso de reposición si ya se ha interpuesto recurso contencioso-administrativo",
+        "Sí, ambos recursos son compatibles simultáneamente",
+        "Sí, pero solo si se desiste del recurso contencioso",
+        "Solo si lo autoriza el juez contencioso-administrativo"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 123.2 de la Ley 39/2015 establece que no se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición, y viceversa, no cabe la interposición simultánea.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 123.2",
+        "texto": "No se podrá interponer recurso contencioso-administrativo hasta que sea resuelto expresamente o se haya producido la desestimación presunta del recurso de reposición interpuesto.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, ¿cuál es el sentido del silencio administrativo cuando transcurre el plazo para resolver el recurso de reposición sin resolución expresa?",
+      "opciones": [
+        "Desestimatorio",
+        "Estimatorio",
+        "Depende de la materia del recurso",
+        "Se entiende inadmitido"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 124.2 de la Ley 39/2015 establece que el plazo máximo para dictar y notificar la resolución del recurso de reposición es de un mes. Transcurrido dicho plazo, podrá entenderse desestimado el recurso.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 124.2",
+        "texto": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes. Transcurrido dicho plazo, podrá entenderse desestimado el recurso.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, ¿cuál es el plazo máximo para dictar y notificar la resolución del recurso de reposición?",
+      "opciones": [
+        "Un mes",
+        "Tres meses",
+        "Dos meses",
+        "Quince días"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 124.2 de la Ley 39/2015 establece que el plazo máximo para dictar y notificar la resolución del recurso de reposición será de un mes.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 124.2",
+        "texto": "El plazo máximo para dictar y notificar la resolución del recurso será de un mes.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 113.3 de la Ley 39/2015, ¿pueden los interesados formular alegaciones en cualquier momento del procedimiento anterior al trámite de audiencia?",
+      "opciones": [
+        "Sí, y aportar documentos u otros elementos de juicio",
+        "No, solo pueden alegar en el trámite de audiencia",
+        "Solo si se lo autoriza expresamente el instructor",
+        "Solo en los cinco primeros días del procedimiento"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 76.1 de la Ley 39/2015 establece que los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 76.1",
+        "texto": "Los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-iv-cap-iv"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 125.1 de la Ley 39/2015, ¿ante qué órgano se interpone el recurso extraordinario de revisión?",
+      "opciones": [
+        "Ante el órgano administrativo que los dictó",
+        "Ante el superior jerárquico",
+        "Ante el Consejo de Estado",
+        "Ante el Tribunal contencioso-administrativo"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 125.1 de la Ley 39/2015 establece que contra los actos firmes en vía administrativa podrá interponerse el recurso extraordinario de revisión ante el órgano administrativo que los dictó, que también será el competente para su resolución.",
+      "tema": 10,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Artículo 125.1",
+        "texto": "Contra los actos firmes en vía administrativa, sólo procederá el recurso extraordinario de revisión cuando concurra alguna de las circunstancias siguientes.",
+        "documentoId": "ley-39-2015",
+        "seccionId": "titulo-v-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 10.1 de la Ley 40/2015, ¿qué es la avocación?",
+      "opciones": [
+        "La asunción por un órgano superior del conocimiento de un asunto cuya resolución corresponde a un órgano dependiente",
+        "La transferencia definitiva de competencias entre Administraciones",
+        "La delegación de firma en un subordinado",
+        "La sustitución temporal de un funcionario por otro de igual rango"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 10.1 de la Ley 40/2015 establece que los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 10.1",
+        "texto": "Los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 10.2 de la Ley 40/2015, contra el acuerdo de avocación:",
+      "opciones": [
+        "No cabrá recurso, aunque podrá impugnarse en el recurso contra la resolución del procedimiento",
+        "Cabrá recurso de alzada en el plazo de un mes",
+        "Cabrá recurso de reposición ante el mismo órgano",
+        "Cabrá recurso contencioso-administrativo directo"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 10.2 de la Ley 40/2015 establece que contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 10.2",
+        "texto": "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que se interponga contra la resolución del procedimiento.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 12.2 de la Ley 40/2015, la delegación de firma:",
+      "opciones": [
+        "No altera la competencia del órgano delegante y no requiere publicación",
+        "Transfiere la competencia al delegado",
+        "Requiere publicación en el BOE para su validez",
+        "Solo puede realizarse entre órganos del mismo nivel jerárquico"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 12.2 de la Ley 40/2015 establece que la delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 12.2",
+        "texto": "La delegación de firma no alterará la competencia del órgano delegante y para su validez no será necesaria su publicación.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 9.5 de la Ley 40/2015, ¿pueden subdelegarse las competencias que se ejercen por delegación?",
+      "opciones": [
+        "No, salvo autorización expresa de una Ley",
+        "Sí, siempre que lo autorice el delegante",
+        "Sí, sin ningún requisito adicional",
+        "Solo si lo autoriza el Consejo de Ministros"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 9.5 de la Ley 40/2015 establece que salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 9.5",
+        "texto": "Salvo autorización expresa de una Ley, no podrán delegarse las competencias que se ejerzan por delegación.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 23.2.d) de la Ley 40/2015, ¿cuál de los siguientes es un motivo de abstención?",
+      "opciones": [
+        "Haber intervenido como perito o como testigo en el procedimiento",
+        "Residir en la misma localidad que el interesado",
+        "Pertenecer al mismo partido político que el interesado",
+        "Haber estudiado en la misma universidad que el interesado"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 23.2.d) de la Ley 40/2015 establece como motivo de abstención haber intervenido como perito o como testigo en el procedimiento de que se trate.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 23.2.d)",
+        "texto": "Haber intervenido como perito o como testigo en el procedimiento de que se trate.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 24.5 de la Ley 40/2015, contra las resoluciones adoptadas en materia de recusación:",
+      "opciones": [
+        "No cabrá recurso",
+        "Cabrá recurso de alzada",
+        "Cabrá recurso de reposición",
+        "Cabrá recurso extraordinario de revisión"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 24.5 de la Ley 40/2015 establece que contra las resoluciones adoptadas en materia de recusación no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 24.5",
+        "texto": "Contra las resoluciones adoptadas en esta materia no cabrá recurso, sin perjuicio de la posibilidad de alegar la recusación al interponer el recurso que proceda contra el acto que ponga fin al procedimiento.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-4"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 6.2 de la Ley 40/2015, el incumplimiento de las instrucciones u órdenes de servicio:",
+      "opciones": [
+        "No afecta por sí solo a la validez de los actos dictados, sin perjuicio de la responsabilidad disciplinaria",
+        "Produce siempre la nulidad del acto dictado",
+        "Produce la anulabilidad del acto dictado",
+        "Exime de responsabilidad al funcionario que desobedeció"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 6.2 de la Ley 40/2015 establece que el incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.",
+      "tema": 11,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 6.2",
+        "texto": "El incumplimiento de las instrucciones u órdenes de servicio no afecta por sí solo a la validez de los actos dictados por los órganos administrativos, sin perjuicio de la responsabilidad disciplinaria en que se pueda incurrir.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-ii-sec-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 2.e) de la Ley 29/1998, ¿qué orden jurisdiccional conoce de la responsabilidad patrimonial de las Administraciones Públicas?",
+      "opciones": [
+        "El orden contencioso-administrativo, con exclusión del civil y social",
+        "El orden civil",
+        "El orden social",
+        "Cualquier orden jurisdiccional, a elección del demandante"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 2.e) de la Ley 29/1998 establece que el orden contencioso-administrativo conocerá de la responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, no pudiendo ser demandadas por este motivo ante los órdenes jurisdiccionales civil o social.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 2.e)",
+        "texto": "La responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o el tipo de relación de que derive, no pudiendo ser demandadas aquellas por este motivo ante los órdenes jurisdiccionales civil o social.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-i-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 6 de la Ley 29/1998, ¿cuál de los siguientes NO es un órgano del orden jurisdiccional contencioso-administrativo?",
+      "opciones": [
+        "Las Audiencias Provinciales",
+        "Los Juzgados de lo Contencioso-administrativo",
+        "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+        "La Sala de lo Contencioso-administrativo del Tribunal Supremo"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 6 de la Ley 29/1998 enumera los órganos del orden contencioso-administrativo: Juzgados de lo Contencioso-administrativo, Juzgados Centrales, Salas de los TSJ, Sala de la Audiencia Nacional y Sala del Tribunal Supremo. Las Audiencias Provinciales pertenecen al orden civil y penal, no al contencioso-administrativo.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 6",
+        "texto": "El orden jurisdiccional contencioso-administrativo se halla integrado por los siguientes órganos: a) Juzgados de lo Contencioso-administrativo. b) Juzgados Centrales de lo Contencioso-administrativo. c) Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia. d) Sala de lo Contencioso-administrativo de la Audiencia Nacional. e) Sala de lo Contencioso-administrativo del Tribunal Supremo.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-i-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 20.a) de la Ley 29/1998, ¿quiénes NO pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública?",
+      "opciones": [
+        "Los órganos de la misma Administración, salvo que una Ley lo autorice expresamente",
+        "Las personas físicas extranjeras",
+        "Las asociaciones legalmente constituidas",
+        "El Ministerio Fiscal"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 20.a) de la Ley 29/1998 establece que no pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 20.a)",
+        "texto": "No pueden interponer recurso contencioso-administrativo contra la actividad de una Administración pública: a) Los órganos de la misma y los miembros de sus órganos colegiados, salvo que una Ley lo autorice expresamente.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-ii-cap-ii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 28 de la Ley 29/1998, ¿es admisible el recurso contencioso-administrativo contra actos que sean reproducción de otros anteriores definitivos y firmes?",
+      "opciones": [
+        "No, ni contra actos confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma",
+        "Sí, siempre que se aleguen nuevos fundamentos de derecho",
+        "Sí, en todo caso",
+        "Solo si han transcurrido más de cinco años desde el acto original"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 28 de la Ley 29/1998 establece que no es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+        "referencia": "Artículo 28",
+        "texto": "No es admisible el recurso contencioso-administrativo respecto de los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma.",
+        "documentoId": "ley-29-1998",
+        "seccionId": "titulo-iii-cap-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 36.1 de la Ley 40/2015, los particulares que sufran daños por el funcionamiento de los servicios públicos deben exigir la indemnización:",
+      "opciones": [
+        "Directamente a la Administración Pública correspondiente",
+        "A la autoridad o funcionario causante del daño personalmente",
+        "Al órgano judicial competente en primera instancia",
+        "A la compañía aseguradora de la Administración"
+      ],
+      "correcta": 0,
+      "explicacion": "El artículo 36.1 de la Ley 40/2015 establece que los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
+      "tema": 12,
+      "bloque": 2,
+      "fuente": {
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Artículo 36.1",
+        "texto": "Los particulares exigirán directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
+        "documentoId": "ley-40-2015",
+        "seccionId": "titulo-preliminar-cap-iv-sec-1"
+      }
+    }
+  ]
+}

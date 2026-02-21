@@ -1,0 +1,506 @@
+{
+  "title": "Bloque 3: Normativa de Tráfico — Set 2",
+  "description": "25 preguntas adicionales sobre organización de tráfico, permisos, autoescuelas y régimen sancionador (Temas 13-21)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 5.c) del RDL 6/2015, ¿a quién corresponde la competencia para gestionar los cursos de sensibilización y reeducación vial?",
+      "opciones": [
+        "A las comunidades autónomas",
+        "Al Ministerio del Interior",
+        "A los ayuntamientos",
+        "Al Ministerio de Educación"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 5.c) del RDL 6/2015 atribuye al Ministerio del Interior la competencia para gestionar las autorizaciones de los centros de formación de conductores, los cursos de sensibilización y reeducación vial, y los centros de reconocimiento de conductores.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 5.c)",
+        "texto": "Corresponde al Ministerio del Interior: c) autorizaciones de centros de formación, cursos de sensibilización y reeducación vial",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 4 del RDL 6/2015, ¿a quién corresponde la competencia sobre la normativa técnica básica que afecte a la seguridad vial?",
+      "opciones": [
+        "A los municipios",
+        "A las comunidades autónomas",
+        "A la Administración General del Estado",
+        "A las diputaciones provinciales"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 4.a) del RDL 6/2015 establece que corresponde a la Administración General del Estado la normativa técnica básica que afecte de manera directa a la seguridad vial.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 4.a)",
+        "texto": "Sin perjuicio de las competencias que tengan asumidas las comunidades autónomas, corresponde a la AGE: a) normativa técnica básica de seguridad vial",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 7 del RDL 6/2015, ¿qué competencia tienen los municipios respecto a la inmovilización de vehículos?",
+      "opciones": [
+        "Solo pueden inmovilizar vehículos en vías interurbanas",
+        "No tienen competencia sobre inmovilización de vehículos",
+        "Pueden inmovilizar y retirar vehículos en las vías urbanas",
+        "Solo pueden retirar vehículos abandonados"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 7.c) del RDL 6/2015 atribuye a los municipios la competencia de inmovilización y retirada de vehículos en las vías urbanas de su titularidad.",
+      "tema": 13,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 7.c)",
+        "texto": "Corresponde a los municipios: c) inmovilización y retirada de vehículos en vías urbanas",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 4.2 del RD 818/2009, ¿qué edad mínima se requiere para obtener el permiso de conducción de la clase A2?",
+      "opciones": [
+        "16 años",
+        "17 años",
+        "18 años",
+        "20 años"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 4.2 del RD 818/2009 establece que la edad mínima para obtener el permiso de clase A2 es de 18 años cumplidos.",
+      "tema": 14,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 4.2",
+        "texto": "A2: Motocicletas con una potencia máxima de 35 kW y una relación potencia/peso máxima de 0,2 kW/kg y no derivadas de un vehículo con más del doble de su potencia. Edad: 18 años cumplidos.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5.1.a) del RD 818/2009, ¿qué requisito previo se exige para obtener el permiso de la clase A?",
+      "opciones": [
+        "Ser titular del permiso de clase B con al menos un año de antigüedad",
+        "Ser titular del permiso de clase A2 con al menos dos años de antigüedad",
+        "Ser titular del permiso de clase A1 con al menos tres años de antigüedad",
+        "No se exige ningún permiso previo"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 5.1.a) del RD 818/2009 establece que el permiso de la clase A sólo podrá expedirse a conductores que ya sean titulares de un permiso en vigor de la clase A2 con, al menos, dos años de antigüedad.",
+      "tema": 14,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 5.1.a)",
+        "texto": "El permiso de la clase A sólo podrá expedirse a conductores que ya sean titulares de un permiso en vigor de la clase A2 con, al menos, dos años de antigüedad.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5.2.a) del RD 818/2009, ¿qué permiso se concede automáticamente al obtener el permiso de la clase A1?",
+      "opciones": [
+        "El permiso de clase B",
+        "El permiso de clase AM",
+        "El permiso de clase A2",
+        "La licencia de conducción"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 5.2.a) del RD 818/2009 establece que la obtención del permiso de la clase A1 implica la concesión del de la clase AM.",
+      "tema": 14,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 5.2.a)",
+        "texto": "La del permiso de la clase A1 implica la concesión del de la clase AM.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 12.1 del RD 818/2009, ¿cuál es el período de vigencia del permiso de conducción de la clase C para menores de 65 años?",
+      "opciones": [
+        "3 años",
+        "5 años",
+        "10 años",
+        "15 años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 12.1 del RD 818/2009 establece que los permisos de las clases C1, C1+E, C, C+E, D1, D1+E, D y D+E tendrán un período de vigencia de cinco años mientras su titular no cumpla los sesenta y cinco años.",
+      "tema": 15,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 12.1",
+        "texto": "C1, C1+E, C, C+E, D1, D1+E, D y D+E: 5 años (<65) / 3 años (≥65).",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 7.1 del RD 818/2009, ¿cuál de los siguientes NO es un requisito para obtener un permiso de conducción?",
+      "opciones": [
+        "Reunir las aptitudes psicofísicas requeridas",
+        "No estar privado por resolución judicial del derecho a conducir",
+        "Tener la residencia en la provincia donde se solicita el permiso",
+        "Ser declarado apto en las pruebas teóricas y prácticas"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 7.1 del RD 818/2009 enumera los requisitos para obtener permiso de conducción: aptitudes psicofísicas, no privación judicial, que haya transcurrido el plazo tras pérdida de puntos, superar las pruebas, etc. No se exige residencia en la provincia concreta de solicitud.",
+      "tema": 15,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 7.1",
+        "texto": "Para obtener un permiso o una licencia de conducción se requerirá: a) acreditar residencia normal o estancia por estudios; b) No estar privado por resolución judicial del derecho a conducir; c) Que haya transcurrido el plazo tras pérdida de puntos; d) Reunir las aptitudes psicofísicas; e) Ser declarado apto en las pruebas.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 10 del RD 818/2009, ¿en qué plazo debe comunicarse cualquier variación de los datos que figuran en el permiso de conducción?",
+      "opciones": [
+        "10 días naturales",
+        "15 días desde que se produzca",
+        "30 días hábiles",
+        "Un mes desde que se produzca"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 10 del RD 818/2009 establece que cualquier variación de los datos del permiso o licencia deberá ser comunicada dentro del plazo de quince días, contados desde la fecha en que se produzca.",
+      "tema": 15,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 10",
+        "texto": "Cualquier variación de los datos que figuran en el permiso o licencia de conducción, así como la del domicilio de su titular, deberá ser comunicada por éste dentro del plazo de quince días, contados desde la fecha en que se produzca, a la Jefatura Provincial de Tráfico.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-I-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 53 del RD 818/2009, ¿en qué orden se realizan las pruebas de aptitud para obtener el permiso de conducción?",
+      "opciones": [
+        "Circulación → Circuito cerrado → Conocimientos",
+        "Conocimientos → Circulación → Circuito cerrado",
+        "Conocimientos → Circuito cerrado → Circulación",
+        "Circuito cerrado → Conocimientos → Circulación"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 53.1 del RD 818/2009 establece que las pruebas son eliminatorias y se realizan en el siguiente orden: conocimientos, circuito cerrado y circulación.",
+      "tema": 16,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 53.1",
+        "texto": "Las pruebas son eliminatorias: conocimientos → circuito cerrado → circulación.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-III"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 51.2 del RD 818/2009, ¿cuánto tiempo máximo puede mediar entre convocatorias de un mismo expediente?",
+      "opciones": [
+        "Tres meses",
+        "Seis meses",
+        "Un año",
+        "Dos años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 51.2 del RD 818/2009 establece que entre convocatorias de un mismo expediente no deberá mediar más de seis meses, salvo en casos de enfermedad u otros excepcionales debidamente justificados.",
+      "tema": 16,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 51.2",
+        "texto": "Entre convocatorias de un mismo expediente, no deberá mediar más de seis meses, salvo en casos de enfermedad u otros excepcionales debidamente justificados.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-III"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 46 del RD 818/2009, ¿qué son los permisos de conducción extraordinarios?",
+      "opciones": [
+        "Permisos que habilitan para conducir vehículos de emergencia",
+        "Permisos sujetos a condiciones restrictivas por enfermedad o deficiencia del titular",
+        "Permisos provisionales expedidos durante la tramitación del permiso ordinario",
+        "Permisos especiales para conductores profesionales"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 46 del RD 818/2009 establece que los permisos extraordinarios son aquellos sujetos a condiciones restrictivas como adaptaciones o restricciones, para personas que padezcan enfermedad o deficiencia orgánica o funcional.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 46",
+        "texto": "Ordinarios: sin adaptaciones. Extraordinarios: sujetos a condiciones restrictivas (adaptaciones, restricciones).",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 45.1.a) del RD 818/2009, ¿qué permisos comprende el Grupo 1 de conductores a efectos de aptitudes psicofísicas?",
+      "opciones": [
+        "C1, C, D1 y D",
+        "AM, A1, A2, A, B y B+E",
+        "Todos los permisos de conducción",
+        "Solo los permisos AM y B"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 45.1.a) del RD 818/2009 establece que el Grupo 1 comprende los que sean titulares o soliciten la obtención o prórroga del permiso de conducción de las clases AM, A1, A2, A, B y B+E.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 45.1.a)",
+        "texto": "Grupo 1. Comprende los que sean titulares o soliciten la obtención o prórroga del permiso de conducción de las clases AM, A1, A2, A, B y B+E.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 44.1 del RD 818/2009, ¿qué documento emiten los centros de reconocimiento de conductores tras las pruebas de aptitud psicofísica?",
+      "opciones": [
+        "Un certificado médico ordinario",
+        "Un informe de aptitud psicofísica",
+        "El propio permiso de conducción",
+        "Una autorización provisional para conducir"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 44.1 del RD 818/2009 establece que los centros de reconocimiento de conductores autorizados emitirán un informe de aptitud psicofísica tras las pruebas y exploraciones.",
+      "tema": 17,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores",
+        "referencia": "Artículo 44.1",
+        "texto": "Las pruebas y exploraciones serán practicadas por los centros de reconocimiento de conductores autorizados, los cuales emitirán un informe de aptitud psicofísica.",
+        "documentoId": "BOE-A-2009-9481",
+        "seccionId": "titulo-II-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 12 del RD 1295/2003, ¿quiénes tienen prohibido prestar servicio en las autoescuelas mientras se encuentren en activo?",
+      "opciones": [
+        "Los funcionarios del Ministerio de Educación",
+        "Los miembros de las Fuerzas Armadas",
+        "El personal de la Jefatura Central de Tráfico, Guardia Civil (Agrupación de Tráfico), Policías Locales y personal docente de Escuelas Oficiales",
+        "Los jueces y magistrados"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 12.1 del RD 1295/2003 establece que el personal de la JCT, la Agrupación de Tráfico de la Guardia Civil, los miembros de las Policías Locales y el personal docente de las Escuelas Oficiales no pueden prestar servicio en autoescuelas mientras estén en activo.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 12.1",
+        "texto": "Mientras se encuentren en activo, el personal al servicio del organismo autónomo Jefatura Central de Tráfico, el personal de la Agrupación de Tráfico de la Guardia Civil, los miembros de las Policías Locales y el personal docente de las Escuelas Oficiales de Conductores no podrán prestar servicio alguno en las escuelas particulares de conductores o sus secciones o sucursales, ser titulares de las mismas, ni formar parte de la entidad o persona jurídica a cuyo nombre figure la autorización de apertura.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-II-seccion-2"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 8 del RD 1295/2003, ¿qué se necesita para ejercer funciones docentes como profesor en una autoescuela?",
+      "opciones": [
+        "Licenciatura en educación vial y permiso de conducir clase C",
+        "Certificado de aptitud de profesor de formación vial o Título de Técnico Superior en Formación para la movilidad segura y sostenible, y autorización de ejercicio",
+        "Máster en seguridad vial y cinco años de experiencia",
+        "Certificado de aptitud de director y tres años como conductor profesional"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 8.2 del RD 1295/2003 exige estar en posesión del certificado de aptitud de profesor de formación vial, de profesor de escuelas particulares de conductores, o del Título de Técnico Superior en Formación para la movilidad segura y sostenible, además de disponer de autorización de ejercicio.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 8.2",
+        "texto": "Para ejercer funciones docentes como profesor en una escuela o sección es necesario: a) Estar en posesión del certificado de aptitud de profesor de formación vial, de profesor de escuelas particulares de conductores o del Título de Técnico Superior en Formación para la movilidad segura y sostenible. b) Disponer de autorización de ejercicio como profesor.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-II-seccion-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 20.2 del RD 1295/2003, ¿cuál es el alcance territorial de la autorización de apertura de una autoescuela?",
+      "opciones": [
+        "Solo es válida en la provincia donde se expide",
+        "Es válida en todo el territorio de la comunidad autónoma",
+        "Es válida en todo el territorio español",
+        "Solo es válida en el municipio donde radique la escuela"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 20.2 del RD 1295/2003 establece que la autorización de apertura tendrá validez en todo el territorio español y habilitará para abrir Secciones o Sucursales con la misma denominación.",
+      "tema": 18,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores",
+        "referencia": "Artículo 20.2",
+        "texto": "Validez en todo el territorio español; habilita para abrir Secciones/Sucursales con misma denominación.",
+        "documentoId": "BOE-A-2003-19801",
+        "seccionId": "capitulo-III-seccion-1"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 76 del RDL 6/2015, ¿cuál de las siguientes conductas constituye una infracción grave?",
+      "opciones": [
+        "Circular en sentido contrario al establecido",
+        "Usar el teléfono móvil sujetándolo con la mano durante la conducción",
+        "Negarse a las pruebas de detección de alcohol",
+        "Participar en carreras ilegales"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 76 del RDL 6/2015 tipifica como infracción grave, entre otras, el uso del teléfono móvil sujetándolo con la mano durante la conducción. Las demás opciones son infracciones muy graves según el artículo 77.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 76",
+        "texto": "Infracciones graves: usar móvil sujetándolo con la mano, usar auriculares, no usar cinturón/casco, no respetar semáforo rojo, etc.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-I"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 80.2.c) del RDL 6/2015, ¿cuál es la sanción por utilizar inhibidores de radar o cinemómetros (artículo 77.h)?",
+      "opciones": [
+        "Multa de 500 euros",
+        "Multa de 1.000 euros",
+        "Multa de 3.000 euros",
+        "Multa de 6.000 euros"
+      ],
+      "correcta": 3,
+      "explicacion": "El artículo 80.2.c) del RDL 6/2015 establece que las infracciones del artículo 77.h) (uso de inhibidores de radar) serán sancionadas con multa de 6.000 euros.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 80.2.c)",
+        "texto": "Art. 77 h) (inhibidores): 6.000 euros.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 81 del RDL 6/2015, ¿en qué porcentaje podrá incrementarse la cuantía de las sanciones atendiendo a la gravedad y antecedentes?",
+      "opciones": [
+        "Un 10%",
+        "Un 20%",
+        "Un 30%",
+        "Un 50%"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 81 del RDL 6/2015 establece que la cuantía de las sanciones podrá incrementarse en un 30% atendiendo a gravedad, antecedentes, reincidencia, peligro potencial y proporcionalidad.",
+      "tema": 19,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 81",
+        "texto": "La cuantía podrá incrementarse en un 30% atendiendo a gravedad, antecedentes, reincidencia, peligro potencial y proporcionalidad.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 63.4 del RDL 6/2015, ¿cuántos puntos como máximo puede alcanzar un conductor mediante bonificación por no ser sancionado?",
+      "opciones": [
+        "12 puntos",
+        "14 puntos",
+        "15 puntos",
+        "16 puntos"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 63.4 del RDL 6/2015 establece una bonificación de hasta 15 puntos por no ser sancionado: 2 puntos los 3 primeros años y 1 punto los 3 siguientes.",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 63.4",
+        "texto": "Bonificación de hasta 15 puntos por no ser sancionado (2 puntos los 3 primeros años, 1 punto los 3 siguientes).",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-IV-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 64.4 del RDL 6/2015, ¿cuál es el máximo de puntos que se pueden perder por acumulación de infracciones en un solo día, como regla general?",
+      "opciones": [
+        "4 puntos",
+        "6 puntos",
+        "8 puntos",
+        "12 puntos"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 64.4 del RDL 6/2015 establece que no se perderán más de 8 puntos por acumulación en un solo día, salvo infracciones muy graves del artículo 77 a), c), d), e), f), g), h) e i).",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 64.4",
+        "texto": "No se perderán más de 8 puntos por acumulación en un solo día, salvo infracciones muy graves del art. 77 a), c), d), e), f), g), h) e i).",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-IV-capitulo-II"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 3 de la Orden INT/914/2024, ¿cuántos puntos permite recuperar el curso de recuperación parcial de puntos?",
+      "opciones": [
+        "Dos puntos",
+        "Cuatro puntos",
+        "Seis puntos",
+        "Ocho puntos"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 3.a) de la Orden INT/914/2024 establece que la realización y superación del curso de recuperación parcial de puntos permitirá la recuperación de cuatro puntos, sin que en ningún caso se puedan recuperar más puntos de los que se hubieran perdido.",
+      "tema": 20,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Orden INT/914/2024, de 2 de septiembre, por la que se regulan los cursos de sensibilización y reeducación vial",
+        "referencia": "Artículo 3.a)",
+        "texto": "De recuperación parcial de puntos. La realización y superación con aprovechamiento de este curso permitirá al titular de la autorización para conducir la recuperación de cuatro puntos, sin que en ningún caso se puedan recuperar más puntos de los que se hubieran perdido.",
+        "documentoId": "BOE-A-2024-17780",
+        "seccionId": "articulo-3"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 95.4 del RDL 6/2015, ¿qué ocurre si el denunciado no presenta alegaciones ni abona la multa en el plazo de 20 días en el procedimiento ordinario?",
+      "opciones": [
+        "Se archiva el expediente",
+        "La denuncia surte efecto de acto resolutorio",
+        "Se remite al juzgado de lo contencioso",
+        "Se aplica automáticamente la reducción del 50%"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 95.4 del RDL 6/2015 establece que si no se presentan alegaciones ni se abona la multa en 20 días, la denuncia surte efecto de acto resolutorio en determinados casos.",
+      "tema": 21,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 95.4",
+        "texto": "Si no alega ni paga en 20 días, la denuncia surte efecto de acto resolutorio en ciertos casos.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-IV"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 112.4 del RDL 6/2015, ¿en qué plazo prescriben las sanciones de multa firmes en materia de tráfico?",
+      "opciones": [
+        "Un año",
+        "Dos años",
+        "Cuatro años",
+        "Cinco años"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 112.4 del RDL 6/2015 establece que las sanciones de multa prescriben a los cuatro años, contados desde el día siguiente a aquel en que adquiera firmeza la sanción.",
+      "tema": 21,
+      "bloque": 3,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Artículo 112.4",
+        "texto": "Prescripción de sanciones de multa: 4 años. Suspensión: 1 año.",
+        "documentoId": "BOE-A-2015-11722",
+        "seccionId": "titulo-V-capitulo-VIII"
+      }
+    }
+  ]
+}
