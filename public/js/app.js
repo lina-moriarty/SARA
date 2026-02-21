@@ -338,18 +338,8 @@ const App = {
     const articleRef = q.fuente.referencia || '';
     const lawUrl = q.fuente.url || (source && source.url) || '';
     this.el.sourceRef.innerHTML = lawUrl
-      ? `<a class="source-ref-law" href="${lawUrl}" target="_blank" rel="noopener">${lawName}</a><span class="source-ref-article"> — ${articleRef}</span>`
+      ? `<a class="source-ref-law" data-url="${lawUrl}" onclick="App.openLawUrl(this.dataset.url)">${lawName}</a><span class="source-ref-article"> — ${articleRef}</span>`
       : `<span class="source-ref-law">${lawName}</span><span class="source-ref-article"> — ${articleRef}</span>`;
-
-    // Make law name open full text in new tab if URL available
-    const lawLink = this.el.sourceRef.querySelector('.source-ref-law');
-    if (q.fuente.url) {
-      lawLink.addEventListener('click', () => window.open(q.fuente.url, '_blank'));
-    } else if (q.fuente.documentoId) {
-      lawLink.addEventListener('click', () => {
-        window.open(`/sources/text/${q.fuente.documentoId}.md`, '_blank');
-      });
-    }
 
     // Render source content
     if (!source) {
@@ -358,25 +348,40 @@ const App = {
       const section = source.sections.find(s => s.id === q.fuente.seccionId);
 
       if (section) {
-        // Parse article number from referencia (e.g. "Artículo 1.2" → "1", "Artículo 17" → "17")
-        const artMatch = (q.fuente.referencia || '').match(/Art[íi]culo\s+(\d+)/i);
+        // Parse article and sub-article from referencia (e.g. "Artículo 1.2" → art "1", sub "2")
+        const artMatch = (q.fuente.referencia || '').match(/Art[íi]culo\s+(\d+)(?:\.(\d+))?/i);
         const artNum = artMatch ? artMatch[1] : null;
+        const subArtNum = artMatch ? artMatch[2] : null;
 
         const paragraphs = section.content.split('\n\n');
         const html = paragraphs.map(p => {
           const isTarget = artNum && new RegExp(`^Artículo\\s+${artNum}\\b`).test(p);
+
+          if (isTarget && subArtNum) {
+            // Show full article, bold only the specific sub-article
+            const lines = p.split('\n');
+            const formatted = lines.map(line => {
+              const isSubTarget = new RegExp(`^${subArtNum}\\.\\s`).test(line);
+              return isSubTarget
+                ? `<strong class="source-sub-highlight" id="source-target">${line}</strong>`
+                : line;
+            }).join('<br>');
+            return `<div class="source-article highlight">${formatted}</div>`;
+          } else if (isTarget) {
+            const formatted = p.replace(/\n/g, '<br>');
+            return `<div class="source-article highlight" id="source-target">${formatted}</div>`;
+          }
+
           const formatted = p.replace(/\n/g, '<br>');
-          return isTarget
-            ? `<div class="source-article highlight">${formatted}</div>`
-            : `<div class="source-article">${formatted}</div>`;
+          return `<div class="source-article">${formatted}</div>`;
         }).join('');
 
         this.el.sourceContent.innerHTML = html;
 
-        // Scroll to highlighted article
-        const highlighted = this.el.sourceContent.querySelector('.highlight');
-        if (highlighted) {
-          requestAnimationFrame(() => highlighted.scrollIntoView({ block: 'start', behavior: 'smooth' }));
+        // Scroll to the target (sub-article or full article)
+        const target = this.el.sourceContent.querySelector('#source-target');
+        if (target) {
+          requestAnimationFrame(() => target.scrollIntoView({ block: 'start', behavior: 'smooth' }));
         }
       } else {
         this.el.sourceContent.innerHTML = '<p>Sección no encontrada.</p>';
@@ -473,6 +478,10 @@ const App = {
   updateScoreDisplay() {
     const { correct, incorrect } = calculateScore(this.answers);
     this.el.scoreDisplay.textContent = `${correct} bien · ${incorrect} mal`;
+  },
+
+  openLawUrl(url) {
+    if (url) window.open(url, '_blank', 'noopener,noreferrer');
   }
 };
 

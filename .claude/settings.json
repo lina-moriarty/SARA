@@ -1,14 +1,11 @@
 {
   "permissions": {
     "allow": [
-<<<<<<< HEAD
-      "Bash(gh api:*)"
-=======
       "Bash(export PATH=\"/usr/local/bin:/opt/homebrew/bin:/usr/bin:$PATH\")",
       "Bash(/usr/bin/grep:*)",
       "Bash(/usr/bin/sed:*)",
-      "Bash(/usr/bin/sort:*)"
->>>>>>> 22b00866b49fa0158302a2edf4b69d725b4e29c8
+      "Bash(/usr/bin/sort:*)",
+      "Bash(gh api:*)"
     ]
   }
 }
