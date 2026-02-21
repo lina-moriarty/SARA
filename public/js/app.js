@@ -16,11 +16,13 @@ const App = {
   currentQuestionIndex: 0,
   mode: 'learning',
   answers: [],
+  pendingQuizIndex: null,
   sources: {},
   timer: null,
   startTime: null,
   elapsedSeconds: 0,
   theme: localStorage.getItem('sara-theme') || 'dark',
+  bgImage: localStorage.getItem('sara-bg-image') === 'true',
 
   // DOM elements
   el: {
@@ -28,7 +30,8 @@ const App = {
     quizScreen: document.getElementById('quiz-screen'),
     resultsScreen: document.getElementById('results-screen'),
     quizList: document.getElementById('quiz-list'),
-    startBtn: document.getElementById('start-btn'),
+    modeModal: document.getElementById('mode-modal'),
+    modeModalTitle: document.getElementById('mode-modal-title'),
     questionCounter: document.getElementById('question-counter'),
     scoreDisplay: document.getElementById('score-display'),
     timerEl: document.getElementById('timer'),
@@ -60,6 +63,7 @@ const App = {
   // === INIT ===
   async init() {
     this.applyTheme(this.theme);
+    this.applyBackground(this.bgImage);
     this.renderThemeGrid();
     this.bindEvents();
     await this.loadQuizList();
@@ -99,22 +103,12 @@ const App = {
   },
 
   bindEvents() {
-    document.querySelectorAll('.mode-option').forEach(opt => {
-      opt.addEventListener('click', () => {
-        document.querySelectorAll('.mode-option').forEach(o => o.classList.remove('selected'));
-        opt.classList.add('selected');
-        opt.querySelector('input').checked = true;
-        this.mode = opt.dataset.mode;
-      });
-    });
-
-    this.el.startBtn.addEventListener('click', () => this.startQuiz());
     this.el.nextBtn.addEventListener('click', () => this.nextQuestion());
     this.el.closeSource.addEventListener('click', () => this.el.sourcePanel.classList.add('hidden'));
     this.el.restartBtn.addEventListener('click', () => this.backToMenu());
 
-    // Close modal on backdrop click
-    document.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
+    // Close settings modal on backdrop click
+    this.el.settingsModal.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
   },
 
   // === THEMES ===
@@ -138,6 +132,18 @@ const App = {
         <span class="theme-swatch-preview" style="color: ${t.fg}">Aa</span>
       </div>
     `).join('');
+  },
+
+  toggleBackground(enabled) {
+    this.bgImage = enabled;
+    localStorage.setItem('sara-bg-image', enabled);
+    this.applyBackground(enabled);
+  },
+
+  applyBackground(enabled) {
+    document.documentElement.classList.toggle('bg-image', enabled);
+    const checkbox = document.getElementById('bg-toggle');
+    if (checkbox) checkbox.checked = enabled;
   },
 
   openSettings() {
@@ -172,31 +178,42 @@ const App = {
     }
 
     this.el.quizList.innerHTML = this.quizzes.map((q, i) => `
-      <label class="quiz-item" data-index="${i}">
-        <input type="radio" name="quiz" value="${i}">
+      <div class="quiz-item" data-index="${i}">
         <div class="quiz-item-info">
           <div class="quiz-item-title">${q.title}</div>
           <div class="quiz-item-meta">${q.questionCount} preguntas · ${q.description || ''}</div>
         </div>
-      </label>
+      </div>
     `).join('');
 
     document.querySelectorAll('.quiz-item').forEach(item => {
       item.addEventListener('click', () => {
-        document.querySelectorAll('.quiz-item').forEach(i => i.classList.remove('selected'));
-        item.classList.add('selected');
-        item.querySelector('input').checked = true;
-        this.el.startBtn.disabled = false;
+        this.pendingQuizIndex = parseInt(item.dataset.index);
+        this.openModeModal();
       });
     });
   },
 
+  // === MODE MODAL ===
+  openModeModal() {
+    this.el.modeModal.classList.remove('hidden');
+  },
+
+  closeModeModal() {
+    this.el.modeModal.classList.add('hidden');
+  },
+
+  selectModeAndStart(mode) {
+    this.mode = mode;
+    this.closeModeModal();
+    this.startQuiz();
+  },
+
   // === START QUIZ ===
   async startQuiz() {
-    const selectedRadio = document.querySelector('input[name="quiz"]:checked');
-    if (!selectedRadio) return;
+    if (this.pendingQuizIndex == null) return;
 
-    const quizMeta = this.quizzes[parseInt(selectedRadio.value)];
+    const quizMeta = this.quizzes[this.pendingQuizIndex];
     
     try {
       const res = await fetch(`/api/quizzes/${quizMeta.id}.json`);
@@ -207,10 +224,7 @@ const App = {
     }
 
     this.currentQuestionIndex = 0;
-    this.answers = new Array(this.currentQuiz.questions.length).fill(null).map(() => ({
-      selected: null,
-      correct: false
-    }));
+    this.answers = initAnswers(this.currentQuiz.questions.length);
 
     this.startTime = Date.now();
     this.elapsedSeconds = 0;
@@ -235,14 +249,7 @@ const App = {
     this.el.questionCounter.textContent = `${num} / ${total}`;
     this.el.progressFill.style.width = `${(num / total) * 100}%`;
     this.el.temaBadge.textContent = `Tema ${q.tema}`;
-
-    const bloqueNames = {
-      1: 'Organización del Estado',
-      2: 'Derecho Administrativo',
-      3: 'Normativa de Tráfico',
-      4: 'Seguridad Vial'
-    };
-    this.el.bloqueBadge.textContent = `Bloque ${q.bloque}: ${bloqueNames[q.bloque] || ''}`;
+    this.el.bloqueBadge.textContent = `Bloque ${q.bloque}: ${getBloqueName(q.bloque)}`;
 
     this.el.questionText.textContent = q.pregunta;
 
@@ -334,6 +341,16 @@ const App = {
       ? `<a class="source-ref-law" href="${lawUrl}" target="_blank" rel="noopener">${lawName}</a><span class="source-ref-article"> — ${articleRef}</span>`
       : `<span class="source-ref-law">${lawName}</span><span class="source-ref-article"> — ${articleRef}</span>`;
 
+    // Make law name open full text in new tab if URL available
+    const lawLink = this.el.sourceRef.querySelector('.source-ref-law');
+    if (q.fuente.url) {
+      lawLink.addEventListener('click', () => window.open(q.fuente.url, '_blank'));
+    } else if (q.fuente.documentoId) {
+      lawLink.addEventListener('click', () => {
+        window.open(`/sources/text/${q.fuente.documentoId}.md`, '_blank');
+      });
+    }
+
     // Render source content
     if (!source) {
       this.el.sourceContent.innerHTML = `<p><strong>${q.fuente.referencia || ''}</strong></p><p>${q.fuente.texto || 'Material de referencia no disponible.'}</p>`;
@@ -384,13 +401,9 @@ const App = {
   finishQuiz() {
     clearInterval(this.timer);
 
-    const correct = this.answers.filter(a => a.correct).length;
-    const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
-    const unanswered = this.answers.filter(a => a.selected === null).length;
-    
-    const score = Math.max(0, correct - (incorrect * 0.33));
+    const { correct, incorrect, unanswered, score } = calculateScore(this.answers);
     const maxScore = this.currentQuiz.questions.length;
-    const percentage = ((score / maxScore) * 100).toFixed(1);
+    const percentage = calculatePercentage(score, maxScore);
 
     this.el.totalCorrect.textContent = correct;
     this.el.totalIncorrect.textContent = incorrect;
@@ -398,10 +411,7 @@ const App = {
     this.el.finalScore.textContent = `${percentage}%`;
 
     this.el.passFail.style.display = 'none';
-
-    const mins = Math.floor(this.elapsedSeconds / 60);
-    const secs = this.elapsedSeconds % 60;
-    this.el.timeTaken.textContent = `Tiempo: ${mins}m ${secs}s`;
+    this.el.timeTaken.textContent = formatTimeTaken(this.elapsedSeconds);
 
     this.renderReview();
     this.showScreen('results');
@@ -413,18 +423,10 @@ const App = {
     
     this.el.reviewList.innerHTML = this.currentQuiz.questions.map((q, i) => {
       const answer = this.answers[i];
-      let status = 'unanswered';
-      let statusIcon = '—';
-      if (answer.selected !== null) {
-        status = answer.correct ? 'correct' : 'incorrect';
-        statusIcon = answer.correct ? '\u2713' : '\u2717';
-      }
+      const { status, icon: statusIcon } = getReviewStatus(answer);
 
       const optionsHTML = q.opciones.map((opt, j) => {
-        let cls = '';
-        if (j === q.correcta && answer.selected === j) cls = 'user-correct';
-        else if (j === answer.selected && !answer.correct) cls = 'user-incorrect';
-        else if (j === q.correcta) cls = 'was-correct';
+        const cls = getReviewOptionClass(j, q.correcta, answer);
         return `<div class="review-option ${cls}">${letters[j]}) ${opt}</div>`;
       }).join('');
 
@@ -465,14 +467,11 @@ const App = {
 
   updateTimer() {
     this.elapsedSeconds = Math.floor((Date.now() - this.startTime) / 1000);
-    const mins = String(Math.floor(this.elapsedSeconds / 60)).padStart(2, '0');
-    const secs = String(this.elapsedSeconds % 60).padStart(2, '0');
-    this.el.timerEl.textContent = `${mins}:${secs}`;
+    this.el.timerEl.textContent = formatTimer(this.elapsedSeconds);
   },
 
   updateScoreDisplay() {
-    const correct = this.answers.filter(a => a.correct).length;
-    const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
+    const { correct, incorrect } = calculateScore(this.answers);
     this.el.scoreDisplay.textContent = `${correct} bien · ${incorrect} mal`;
   }
 };
