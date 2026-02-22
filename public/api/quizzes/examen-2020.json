@@ -1,5 +1,2108 @@
 {
-  "title": "Examen OEP 2020 — Examinador de Tráfico (DGT)",
-  "description": "Preguntas del examen oficial. Próximamente.",
-  "questions": []
+  "title": "Examen OEP 2020 — Acceso Libre",
+  "description": "100 preguntas del examen oficial de acceso libre para el Cuerpo General Administrativo, especialidad Tráfico (DGT). OEP 2020. Respuestas verificadas con la plantilla definitiva oficial. Q85 y Q98 anuladas por el tribunal.",
+  "questions": [
+    {
+      "pregunta": "[Pregunta 1 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 1)",
+      "cuestionarioNum": 1,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 1",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 2 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 2)",
+      "cuestionarioNum": 2,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 2",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 3 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 3)",
+      "cuestionarioNum": 3,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 3",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "¿Cómo se denomina el dispositivo electrónico que controla y mide la cantidad de oxígeno contenido en los gases de escape de un vehículo con motor de combustión interna, cuya información sirve para que la unidad de control electrónico ajuste la mezcla de oxígeno y carburante para que la combustión sea óptima?",
+      "opciones": [
+        "Válvula EGR.",
+        "Catalizador.",
+        "Colector térmico.",
+        "Sonda lambda."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 4)",
+      "cuestionarioNum": 4,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 4",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme a lo dispuesto en la Constitución Española, los Ministros…",
+      "opciones": [
+        "serán nombrados y separados por el Rey con refrendo del Presidente del Congreso.",
+        "serán nombrados y separados por el Rey a propuesta del Presidente del Gobierno.",
+        "serán nombrados y separados por el Rey con refrendo del Presidente de las Cortes.",
+        "serán nombrados y separados por el Presidente del Gobierno."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 5)",
+      "cuestionarioNum": 5,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 5",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Señale la respuesta correcta en relación con los límites de velocidad en vías urbanas y travesías según lo regulado en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación:",
+      "opciones": [
+        "El límite genérico de velocidad será de 30 km/h en vías urbanas que dispongan de plataforma única de calzada y acera, sin perjuicio de que, excepcionalmente, la Autoridad Municipal pueda aumentar la velocidad hasta un máximo de 50 km/h, previa señalización específica.",
+        "En las vías urbanas de un único carril por sentido de circulación los vehículos que transporten mercancías peligrosas circularán como máximo a 40 km/h.",
+        "El límite genérico de velocidad en travesías es de 50 km/h para todo tipo de vehículos, sin perjuicio de que, por acuerdo de la Autoridad Municipal con el titular de la vía, este límite pueda ser rebajado, previa señalización específica.",
+        "El límite genérico de velocidad en autopistas y autovías que transcurren dentro de poblado será de 70 km/h, sin perjuicio de que, por acuerdo de la Autoridad Municipal y el titular de la vía, este límite pueda ampliarse, previa señalización específica y sin rebasar en ningún caso los límites genéricos establecidos para estas vías fuera de poblado."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 6)",
+      "cuestionarioNum": 6,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 6",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 31 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con el funcionamiento de los registros electrónicos, indique la respuesta correcta:",
+      "opciones": [
+        "Permitirá la presentación de documentos todos los días del año durante las veinticuatro horas, salvo los festivos nacionales.",
+        "A los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día inhábil se entenderá realizada en todo caso en la primera hora del primer día hábil siguiente.",
+        "Los documentos presentados en el día inhábil se reputarán posteriores a los que lo fueran el primer día hábil posterior.",
+        "El inicio del cómputo de los plazos que hayan de cumplir las Administraciones Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u Organismo."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 7)",
+      "cuestionarioNum": 7,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 7",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 14 del Tratado de la Unión Europea, los diputados al Parlamento Europeo serán elegidos:",
+      "opciones": [
+        "Por sufragio universal, directo, libre y secreto, para un mandato de cuatro años.",
+        "Por sufragio universal, directo, libre y secreto, para un mandato de cuatro años, no renovable.",
+        "Por sufragio universal, directo, libre y secreto, para un mandato de cinco años, no renovable.",
+        "Por sufragio universal, directo, libre y secreto, para un mandato de cinco años."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 8)",
+      "cuestionarioNum": 8,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 8",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 14 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, ¿qué municipios, además de los territorios insulares, deben adoptar antes de 2023 planes de movilidad urbana sostenible?",
+      "opciones": [
+        "Los de más de 100.000 habitantes, así como los de más de 75.000 habitantes que superen los valores límite de los contaminantes regulados en el Real Decreto 102/2011, relativo a la mejora de la calidad del aire.",
+        "Los de más de 75.000 habitantes, así como los de más de 50.000 habitantes que superen los valores límite de los contaminantes regulados en el Real Decreto 102/2011.",
+        "Los de más de 75.000 habitantes, así como los de más de 30.000 habitantes que superen los valores límite de los contaminantes regulados en el Real Decreto 102/2011.",
+        "Los de más de 50.000 habitantes, así como los de más de 20.000 habitantes que superen los valores límite de los contaminantes regulados en el Real Decreto 102/2011."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 9)",
+      "cuestionarioNum": 9,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 9",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 48 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el permiso por fallecimiento, accidente o enfermedad grave de un familiar dentro del segundo grado de consanguinidad o afinidad es de:",
+      "opciones": [
+        "Tres días hábiles cuando el suceso se produzca en la misma localidad y cinco días hábiles cuando sea en distinta localidad.",
+        "Cinco días hábiles, en todo caso.",
+        "Dos días hábiles cuando el suceso se produzca en la misma localidad y cuatro días hábiles cuando sea en distinta localidad.",
+        "Un día hábil cuando el suceso se produzca en la misma localidad y tres días hábiles cuando sea en distinta localidad."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 10)",
+      "cuestionarioNum": 10,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 10",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo recogido en el Anexo VI del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores:",
+      "opciones": [
+        "En cada una de las pruebas de control de conocimientos específicos, se planteará un mínimo de 30 preguntas y un máximo de 50.",
+        "En la prueba de control de conocimientos común, se planteará un mínimo de 16 preguntas y un máximo de 30.",
+        "En la prueba de control de conocimientos sobre las materias descritas en la normativa reguladora de los cursos de sensibilización y reeducación vial, se planteará un mínimo de 30 preguntas y un máximo de 50.",
+        "En la prueba de control de conocimientos para obtener licencia de conducción, se planteará un mínimo de 16 preguntas y un máximo de 20."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 11)",
+      "cuestionarioNum": 11,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 11",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 12 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 12)",
+      "cuestionarioNum": 12,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 12",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 13 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 13)",
+      "cuestionarioNum": 13,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 13",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 14 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 14)",
+      "cuestionarioNum": 14,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 14",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 15 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 15)",
+      "cuestionarioNum": 15,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 15",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De conformidad con lo recogido en el artículo 135 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, en relación a la aplicación de las señales, indique la opción correcta:",
+      "opciones": [
+        "Toda señal se aplicará a toda la anchura de la calzada que estén autorizados a utilizar los conductores a quienes se dirija esa señal. No obstante, su aplicación podrá limitarse a uno o más carriles, mediante paneles complementarios rectangulares colocados debajo de la señal.",
+        "Toda señal se aplicará a toda la anchura de la calzada que estén autorizados a utilizar los conductores a quienes se dirija esa señal. No obstante, su aplicación podrá limitarse a uno o más carriles, mediante marcas en la calzada.",
+        "Toda señal se aplicará a toda la anchura de la calzada que estén autorizados a utilizar los conductores a quienes se dirija esa señal. No obstante, su aplicación podrá limitarse a uno o más carriles, mediante paneles complementarios rectangulares colocados en la parte superior de la señal.",
+        "Toda señal se aplicará a toda la anchura de la calzada que estén autorizados a utilizar los conductores a quienes se dirija esa señal. No obstante, su aplicación podrá limitarse a uno o más carriles, mediante paneles complementarios circulares colocados en la parte superior de la señal."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 16)",
+      "cuestionarioNum": 16,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 16",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 53 de la Constitución Española, cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección 1ª del Capítulo II ante los Tribunales ordinarios…",
+      "opciones": [
+        "por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. Este último recurso será aplicable a la objeción de conciencia reconocida en el artículo 30.",
+        "por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. Este último recurso no será aplicable a la objeción de conciencia reconocida en el artículo 30.",
+        "por un procedimiento basado en los principios de celeridad y equidad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional.",
+        "por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de inconstitucionalidad. Este último recurso no será aplicable a la objeción de conciencia reconocida en el artículo 30."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 17)",
+      "cuestionarioNum": 17,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 17",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Esta etiqueta de homologación se refiere a:",
+      "opciones": [
+        "La normativa I-Size, e indica que el sistema de retención infantil asociado cumple los requisitos de seguridad establecidos por la Unión Europea.",
+        "La normativa ECE R/44/04, e indica que el sistema de retención infantil asociado cumple los requisitos de seguridad establecidos por la Unión Europea.",
+        "La normativa Isofix, e indica que el sistema de anclaje del vehículo cumple los requisitos de seguridad establecidos por la Unión Europea.",
+        "La normativa airbag, e indica que los airbag del vehículo asociado cumplen los requisitos de seguridad establecidos por la Unión Europea."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 18)",
+      "cuestionarioNum": 18,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 18",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo recogido en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, en relación con las señales de balizamiento, indique cuál de estas opciones es la correcta:",
+      "opciones": [
+        "Las banderitas, conos o dispositivos análogos, son dispositivos de guía que prohíben el paso a través de la línea real o imaginaria que los une.",
+        "Las barreras laterales rígidas, semirrígidas y desplazables, son dispositivos de barrera que indican el borde de la plataforma y protegen frente a salidas de la vía.",
+        "Las balizas planas son dispositivos de guía que refuerzan cualquier medida de seguridad y no puede franquearse la línea, imaginaria o no, que las une.",
+        "Los paneles direccionales provisionales son dispositivos de barrera que prohíben el paso e informan, además, sobre el sentido de la circulación."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 19)",
+      "cuestionarioNum": 19,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 19",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De las siguientes afirmaciones sobre los miembros del Gobierno, señale la incorrecta:",
+      "opciones": [
+        "No podrán desempeñar actividad mercantil alguna.",
+        "Podrán ejercer otras funciones representativas distintas a las propias de su mandato parlamentario.",
+        "No podrán realizar actividad profesional alguna.",
+        "Podrán ejercer las funciones públicas que deriven de su cargo."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 20)",
+      "cuestionarioNum": 20,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 20",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "La señal R-308c indica…",
+      "opciones": [
+        "Estacionamiento prohibido la primera quincena. Prohibición de estacionamiento, en el lado de la calzada en que esté situada la señal, desde las doce horas del día 1 hasta las doce horas del día 16.",
+        "Estacionamiento prohibido la primera quincena. Prohibición de estacionamiento, en el lado de la calzada en que esté situada la señal, desde las ocho horas del día 1 hasta las ocho horas del día 16.",
+        "Estacionamiento prohibido la primera quincena. Prohibición de estacionamiento, en el lado de la calzada en que esté situada la señal, desde las nueve horas del día 1 hasta las nueve horas del día 16.",
+        "Estacionamiento y parada prohibidos la primera quincena. Prohibición de estacionamiento y parada, en el lado de la calzada en que esté situada la señal, desde las nueve horas del día 1 hasta las nueve horas del día 16."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 21)",
+      "cuestionarioNum": 21,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 21",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según la Constitución Española, el Senado es la Cámara de representación:",
+      "opciones": [
+        "Geográfica.",
+        "Territorial.",
+        "Constitucional.",
+        "Proporcional."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 22)",
+      "cuestionarioNum": 22,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 22",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Indique la respuesta correcta en relación con los requisitos generales de los vehículos a utilizar en las pruebas de control de aptitudes y comportamientos, de conformidad con lo regulado en el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores:",
+      "opciones": [
+        "Excepto los tractores agrícolas, los cuatriciclos ligeros y los remolques, los vehículos estarán dotados de dos espejos retrovisores interiores, aunque en los camiones y tractocamiones estos podrán ser suprimidos.",
+        "El compartimento de carga de los remolques, excepto para los remolques agrícolas, consistirá en una caja cerrada cuya anchura y altura serán en todo caso, al menos, iguales a las de la cabina del vehículo tractor.",
+        "Los camiones y los tractocamiones tendrán en la cabina asientos homologados que puedan ser utilizados, al menos, por cinco personas y dotados de las necesarias condiciones de seguridad y comodidad.",
+        "Excepto los tractores agrícolas, los ciclomotores, los cuatriciclos ligeros, los vehículos para personas de movilidad reducida y los vehículos adaptados a las deficiencias de la persona que los vaya a conducir, los vehículos deberán poder alcanzar en llano una velocidad de, al menos, 90 km/h para las motocicletas, 100 km/h para los turismos y 80 km/h para los restantes vehículos y conjuntos de vehículos."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 23)",
+      "cuestionarioNum": 23,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 23",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 16 del Tratado de la Unión Europea, ¿qué Instituciones de la Unión Europea ejercen conjuntamente la función legislativa y la presupuestaria?",
+      "opciones": [
+        "La Comisión Europea y el Consejo Europeo.",
+        "El Consejo Europeo y el Consejo de la Unión Europea.",
+        "El Parlamento Europeo y la Comisión Europea.",
+        "El Consejo y el Parlamento Europeo."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 24)",
+      "cuestionarioNum": 24,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 24",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 80 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, el recorrido hacia atrás, como maniobra complementaria de…",
+      "opciones": [
+        "la detención, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 15 metros ni invadir un cruce de vías.",
+        "la parada, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 15 metros ni invadir un cruce de vías.",
+        "la detención, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 10 metros ni invadir un cruce de vías.",
+        "la parada, el estacionamiento o la incorporación a la circulación, no podrá ser superior a 10 metros ni invadir un cruce de vías."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 25)",
+      "cuestionarioNum": 25,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 25",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el Código Civil Español:",
+      "opciones": [
+        "Las leyes siempre entrarán en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado.",
+        "Las leyes siempre entrarán en vigor a los quince días de su completa publicación en el Boletín Oficial del Estado.",
+        "Las leyes pueden entrar en vigor en cualquier momento aunque no se publique en el Boletín Oficial del Estado.",
+        "Las leyes entrarán en vigor a los veinte días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 26)",
+      "cuestionarioNum": 26,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 26",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 734/2020, de 4 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, la Jefatura Central de Tráfico depende directamente…",
+      "opciones": [
+        "del Ministerio del Interior y cuenta, entre otros órganos, con una Secretaría General que tiene nivel orgánico de subdirección general.",
+        "de la Subsecretaría del Interior y cuenta, entre otros órganos, con una Secretaría General que tiene nivel orgánico de subdirección general.",
+        "de la Subsecretaría del Interior y cuenta, entre otros órganos, con una Secretaría General que tiene nivel orgánico de Unidad General.",
+        "del Ministerio del Interior y cuenta, entre otros órganos, con una Secretaría General que tiene nivel orgánico de Unidad General."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 27)",
+      "cuestionarioNum": 27,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 27",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 117.3 de la Constitución Española, el ejercicio de la potestad jurisdiccional en todo tipo de procesos, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a:",
+      "opciones": [
+        "Juzgados.",
+        "Juzgados y Tribunales determinados por las leyes.",
+        "Juzgados, Tribunales y Ministerio Fiscal.",
+        "Juzgados, Tribunales, Ministerio Fiscal y Tribunal Constitucional."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 28)",
+      "cuestionarioNum": 28,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 28",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En relación con las técnicas de conducción de un vehículo a motor, para una conducción segura y ante cualquier maniobra que se desee realizar, el conductor deberá cumplir las reglas R.S.M. y P.V.O. ¿En cuál de estas dos reglas se recoge el momento en el cual el conductor, tras comprobar que puede realizar una maniobra, advertirá de su intención al resto de usuarios, con tiempo suficiente a fin de que puedan tomar sus precauciones sin apresuramientos?",
+      "opciones": [
+        "En la 1ª regla, mediante la “S” de Señalizar.",
+        "En la 1ª regla, mediante la “M” de Maniobra.",
+        "En la 2ª regla, mediante la “P” de Posición.",
+        "En la 2ª regla, mediante la “O” de Observación."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 29)",
+      "cuestionarioNum": 29,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 29",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En relación con la resolución de acceso a la información regulada en el artículo 20 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, señale la respuesta correcta:",
+      "opciones": [
+        "Deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver sin que sea posible ampliar dicho plazo.",
+        "Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa se entenderá que la solicitud ha sido estimada.",
+        "Las resoluciones dictadas en materia de acceso a la información pública son recurribles directamente ante la Jurisdicción Contencioso-administrativa.",
+        "El incumplimiento reiterado de la obligación de resolver en plazo tendrá la consideración de infracción muy grave."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 30)",
+      "cuestionarioNum": 30,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 30",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "La señal S-33 indica…",
+      "opciones": [
+        "que el carril sobre el que está situada solo puede ser utilizado por ciclos.",
+        "la existencia de una vía exclusiva para ciclos segregada del tráfico motorizado, con trazado independiente de las carreteras.",
+        "la existencia de una vía exclusiva para ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.",
+        "la existencia de una vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 31)",
+      "cuestionarioNum": 31,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 31",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Artículo 39.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá otorgarse eficacia retroactiva a los actos cuando...",
+      "opciones": [
+        "produzcan efectos desfavorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y esta no lesione derechos o intereses legítimos de otras personas.",
+        "produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios no existieran ya en la fecha a que se retrotraiga la eficacia del acto.",
+        "se dicten en sustitución de actos anulados, siempre que los supuestos de hecho necesarios no existieran ya en la fecha a que se retrotraiga la eficacia del acto.",
+        "se dicten en sustitución de actos anulados, siempre que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y esta no lesione derechos o intereses legítimos de otras personas."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 32)",
+      "cuestionarioNum": 32,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 32",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, ¿pueden cruzarse en un puente dos vehículos que necesiten autorización especial para circular?",
+      "opciones": [
+        "Sí, siempre que el ancho de calzada no sea inferior a 6 metros, de suerte que para cada vehículo pueda contarse con un ancho de vía no inferior a 3 metros.",
+        "Sí, siempre que el ancho de calzada no sea inferior a 5 metros, de suerte que para cada vehículo pueda contarse con un ancho de vía no inferior a 2,5 metros.",
+        "Sí, pero es imprescindible que en ambas entradas del puente exista señalización expresa que permita el paso de vehículos con autorización especial para circular.",
+        "No, ya que dicho Real Decreto prohíbe expresamente que dos vehículos que necesiten autorización especial para circular puedan cruzarse en cualquier puente."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 33)",
+      "cuestionarioNum": 33,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 33",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores, la responsabilidad y control de que en las secciones de las escuelas cuenten en todo momento con los elementos personales y materiales mínimos, corresponde al…",
+      "opciones": [
+        "titular de la escuela.",
+        "personal directivo de la escuela.",
+        "personal docente de la sección.",
+        "personal administrativo de la sección."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 34)",
+      "cuestionarioNum": 34,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 34",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según su Preámbulo, ¿quién ratifica la Constitución Española?",
+      "opciones": [
+        "El Gobierno.",
+        "Las Cortes Generales.",
+        "El Tribunal Constitucional.",
+        "El pueblo español."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 35)",
+      "cuestionarioNum": 35,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 35",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "¿Qué indican los paneles 1c y 2c en la señal de la imagen?",
+      "opciones": [
+        "Que el puerto está transitable excepto para los camiones con masa máxima autorizada mayor de 3.500 kilogramos y vehículos articulados. Los turismos y autobuses circularán a una velocidad máxima de 60 km/h.",
+        "Que el puerto está transitable para todos los vehículos, con la única limitación de que las furgonetas y autobuses circulen a una velocidad máxima de 60 km/h.",
+        "Que el puerto está transitable para todos los vehículos si bien existe prohibición de adelantar a camiones y vehículos articulados con masa máxima autorizada mayor de 3.500 kilogramos. Se limita la velocidad máxima de circulación a 60 km/h.",
+        "Que el puerto está transitable excepto para camiones, autobuses y vehículos articulados. Los turismos circularán a una velocidad máxima de 60 km/h."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 36)",
+      "cuestionarioNum": 36,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 36",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 30 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, los sancionados por la comisión de infracciones muy graves previstas en el Título II Buen Gobierno…",
+      "opciones": [
+        "serán amonestados y destituidos del cargo que ocupen salvo que ya hubiesen cesado.",
+        "serán destituidos del cargo que ocupen salvo que ya hubiesen cesado y no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre cinco y diez años.",
+        "serán destituidos del cargo que ocupen salvo que ya hubiesen cesado y no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre diez y quince años.",
+        "no podrán ser nombrados para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre diez y quince años."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 37)",
+      "cuestionarioNum": 37,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 37",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 72 del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, la escuela de la Guardia Civil está facultada para expedir permisos de conducción, teniendo por cada solicitud derecho a 2 convocatorias para realizar las pruebas…",
+      "opciones": [
+        "entre las que, en todo caso, no deberá mediar más de 6 meses.",
+        "entre las que no deberá mediar más de 6 meses, salvo en casos de enfermedad u otros excepcionales debidamente justificados.",
+        "entre las que no deberá mediar más de 1 año, salvo en casos de enfermedad u otros excepcionales debidamente justificados.",
+        "entre las que, en todo caso, no deberá mediar más de 1 año."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 38)",
+      "cuestionarioNum": 38,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 38",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 85 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios de carrera pueden hallarse en alguna de las siguientes situaciones administrativas:",
+      "opciones": [
+        "Suspensión de funciones, servicios especiales o servicio en otras Administraciones Públicas.",
+        "Servicio activo, excedencia o jubilación.",
+        "Servicio activo, cese o servicio en otras Administraciones Públicas.",
+        "Servicios especiales, excedencia o libre designación."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 39)",
+      "cuestionarioNum": 39,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 39",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "El Real Decreto 266/2021, de 13 de abril, por el que se aprueba la concesión directa de ayudas para la ejecución de programas de incentivos ligados a la movilidad eléctrica (MOVES III) en el marco del Plan de Recuperación, Transformación y Resiliencia Europeo, aprueba dos programas de incentivos destinados a promover la movilidad eléctrica. ¿Cómo se denominan dichos programas?",
+      "opciones": [
+        "Programa para el fomento de la adquisición de vehículos eléctricos y programa de apoyo al despliegue de infraestructura de recarga.",
+        "Programa para el fomento de la adquisición de vehículos eléctricos e híbridos enchufables y programa de apoyo a la implantación de medidas de movilidad sostenible.",
+        "Programa para el fomento de la adquisición o renting a largo plazo de vehículos eléctricos y programa de apoyo a la implantación de sistemas de car sharing o de alquiler de bicicletas eléctricas.",
+        "Programa para el fomento de la adquisición de vehículos eléctricos e híbridos enchufables y programa de apoyo a la implantación de contadores inteligentes en estacionamientos colectivos de uso público o privado."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 40)",
+      "cuestionarioNum": 40,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 40",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 734/2020, de 4 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, a la Subdirección General de Gestión de la Movilidad y Tecnología le corresponde, entre otras, la realización de las actuaciones y gestiones necesarias para el ejercicio de las siguientes funciones:",
+      "opciones": [
+        "La elaboración de instrucciones sobre vehículos, el suministro de información sobre el estado del tráfico en tiempo real e incidencias y la comunicación y divulgación relacionada con el tráfico y la seguridad vial.",
+        "El suministro de la información sobre el estado del tráfico en tiempo real e incidencias, la elaboración y gestión de los planes y estrategias en el ámbito del tráfico y la seguridad vial y la comunicación y divulgación relacionada con el tráfico y la seguridad vial.",
+        "La elaboración de instrucciones sobre vehículos, el suministro de información sobre el estado del tráfico en tiempo real e incidencias y la dirección de los Centros de Gestión de Tráfico y del Centro de Tratamiento de Denuncias Automatizadas.",
+        "El suministro de la información sobre el estado del tráfico en tiempo real e incidencias, la planificación, elaboración y divulgación de las estadísticas, indicadores y datos sobre accidentes de tráfico y otras materias incluidas en el ámbito de las competencias del organismo, en coordinación con las demás unidades y la dirección de los Centros de Gestión de Tráfico y del Centro de Tratamiento de Denuncias Automatizadas."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 41)",
+      "cuestionarioNum": 41,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 41",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 21.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo en el que debe notificarse la resolución expresa:",
+      "opciones": [
+        "Será el fijado por la norma reguladora del correspondiente procedimiento, como norma general.",
+        "En ningún caso podrá exceder de seis meses.",
+        "Será siempre de tres meses.",
+        "Será siempre de un mes."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 42)",
+      "cuestionarioNum": 42,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 42",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo recogido en el Anexo V del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, ¿sobre qué otra materia, junto a Normas y señales reguladoras de la circulación, versará la prueba de control de conocimientos específicos que deberán realizar los solicitantes del permiso de conducción de la clase AM?",
+      "opciones": [
+        "Visibilidad de los ciclomotores, triciclos y cuatriciclos ligeros por los demás usuarios de la vía.",
+        "Cuestiones, factores, equipos y elementos de seguridad concernientes al conductor, al vehículo y, en su caso, a la carga transportada.",
+        "Aspectos mecánicos con incidencia en la seguridad vial, prestando especial atención a las luces de emergencia, en su caso, a los niveles de aceite y a la cadena de tracción.",
+        "Factores y cuestiones de seguridad vial concernientes a los conductores."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 43)",
+      "cuestionarioNum": 43,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 43",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "El artículo 5 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, establece que, sin perjuicio de las competencias asumidas por las comunidades autónomas y de las asignadas a la Administración General del Estado, corresponde al Ministerio del Interior…",
+      "opciones": [
+        "la determinación de las drogas que puedan afectar a la conducción, así como de las pruebas para su detección y, en su caso, sus niveles máximos.",
+        "la coordinación de la prestación de la asistencia sanitaria en las vías públicas o de uso público.",
+        "la regulación del transporte de mercancías, especialmente, el de mercancías peligrosas, perecederas y contenedores, de acuerdo con la reglamentación internacional, a los efectos relacionados con la seguridad vial.",
+        "la coordinación de la estadística y la investigación de accidentes de tráfico, así como las estadísticas de inspección técnica de vehículos, en colaboración con otros organismos oficiales y privados, en los términos que reglamentariamente se determine."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 44)",
+      "cuestionarioNum": 44,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 44",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 288 del Tratado de Funcionamiento de la Unión Europea:",
+      "opciones": [
+        "Las directivas obligarán al Estado miembro destinatario en cuanto al resultado que deba conseguirse así como a la forma y a los medios para conseguirlo.",
+        "Las decisiones serán obligatorias en todos sus elementos. Cuando designe destinatarios, solo será obligatoria para estos.",
+        "Los reglamentos no son actos legislativos vinculantes.",
+        "Los dictámenes son instrumentos que permiten a las instituciones hacer declaraciones de manera vinculante, es decir, imponiendo obligaciones legales a quienes se dirigen."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 45)",
+      "cuestionarioNum": 45,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 45",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Cuando el artículo 17 del Reglamento General de Circulación, aprobado por Real Decreto 1428/2003, de 21 de noviembre, establece entre otras cuestiones que “los conductores deberán estar en todo momento en condiciones de controlar sus vehículos o animales”, se está refiriendo al siguiente principio que la Dirección General de Tráfico considera uno de los principios fundamentales o generales que rigen la circulación:",
+      "opciones": [
+        "Principio de la seguridad de la defensa.",
+        "Principio de conducción dirigida.",
+        "Principio de la integridad personal.",
+        "Principio de la seguridad en la conducción."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 46)",
+      "cuestionarioNum": 46,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 46",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "El principio de legalidad penal regulado en el artículo 25.1 de nuestra Constitución implica que:",
+      "opciones": [
+        "Podrá ser sancionada una persona por la comisión de una infracción administrativa, aun cuando no constituya conducta sancionable en el momento de producirse.",
+        "Podrá ser sancionada una persona por la comisión de una falta, aun cuando no constituya infracción penal en el momento de producirse, siempre que sí lo sea al dictarse sentencia.",
+        "Nadie podrá ser condenado o sancionado por acciones u omisiones que en el momento de producirse no constituyan delito según la legislación vigente en aquel momento.",
+        "Todos los ciudadanos y los poderes públicos están sometidos al imperio de la Ley."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 47)",
+      "cuestionarioNum": 47,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 47",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Anexo X del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, el alumbrado interior del habitáculo es obligatorio en los vehículos…",
+      "opciones": [
+        "destinados al servicio público de viajeros y los de alquiler con o sin conductor y opcional, entre otros, en las máquinas automotrices de servicios y en los portadores.",
+        "destinados al servicio público de viajeros y los de alquiler con conductor y opcional, entre otros, en las máquinas automotrices de servicios y en los motocultores.",
+        "destinados al servicio público de viajeros y los de alquiler con o sin conductor y opcional, entre otros, en las máquinas automotrices de servicios y en los tractores agrícolas.",
+        "destinados al servicio público de viajeros y los de alquiler con conductor y opcional, entre otros, en las máquinas automotrices de servicios y en los tractocarros."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 48)",
+      "cuestionarioNum": 48,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 48",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En relación con la caducidad de los procedimientos, el artículo 95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, establece que:",
+      "opciones": [
+        "En los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo, la Administración le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento.",
+        "Podrá acordarse la caducidad por la simple inactividad del interesado en la cumplimentación de trámites, siempre que no sean indispensables para dictar resolución.",
+        "La caducidad producirá por sí sola la prescripción de las acciones del particular o de la Administración.",
+        "La caducidad aplicará siempre, aun en los supuestos en que la cuestión suscitada afecte al interés general."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 49)",
+      "cuestionarioNum": 49,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 49",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores, ¿cuánto tiempo como máximo puede estar una sección de una escuela en suspensión voluntaria de actividades y cuál es el plazo mínimo para solicitarla ante la Jefatura Provincial de Tráfico?",
+      "opciones": [
+        "1 año como máximo y se solicitará como mínimo 5 días antes de su inicio.",
+        "2 años como máximo y se solicitará como mínimo 5 días antes de su inicio.",
+        "1 año como máximo y se solicitará como mínimo 10 días antes de su inicio.",
+        "2 años como máximo y se solicitará como mínimo 10 días antes de su inicio."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 50)",
+      "cuestionarioNum": 50,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 50",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según establece el artículo 139 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, en relación a la responsabilidad de la señalización, indique cuál de estas opciones es la correcta:",
+      "opciones": [
+        "La realización y señalización de las obras que incumpla las instrucciones dictadas tendrá la consideración de infracción leve.",
+        "La realización y señalización de las obras que incumpla las instrucciones dictadas tendrá la consideración de infracción grave.",
+        "La realización y señalización de las obras que incumpla las instrucciones dictadas tendrá la consideración de infracción muy grave.",
+        "La realización y señalización de las obras que incumpla las instrucciones dictadas tendrá la consideración de infracción leve o grave, según el tipo de vía."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 51)",
+      "cuestionarioNum": 51,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 51",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En el mismo grado, de cara a la sucesión a la Corona de España, se preferirá:",
+      "opciones": [
+        "Al varón respecto a la mujer.",
+        "A la línea anterior respecto a la posterior.",
+        "Al grado más próximo respecto al más remoto.",
+        "A la persona de más edad respecto a la de menos."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 52)",
+      "cuestionarioNum": 52,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 52",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 105 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, la autoridad encargada de la gestión del tráfico podrá proceder a la retirada del vehículo de la vía y su depósito cuando el tiempo de su estacionamiento en lugares con limitación horaria rebase…",
+      "opciones": [
+        "el triple del tiempo abonado conforme a lo establecido en la ordenanza municipal, comunicándoselo la Administración al titular del vehículo en el plazo de 24 horas desde la retirada y depósito del mismo.",
+        "el triple del tiempo abonado conforme a lo establecido en la ordenanza municipal, comunicándoselo la Administración al titular del vehículo en el plazo de 12 horas desde la retirada y depósito del mismo.",
+        "el doble del tiempo abonado conforme a lo establecido en la ordenanza municipal, comunicándoselo la Administración al titular del vehículo en el plazo de 24 horas desde la retirada y depósito del mismo.",
+        "el doble del tiempo abonado conforme a lo establecido en la ordenanza municipal, comunicándoselo la Administración al titular del vehículo en el plazo de 12 horas desde la retirada y depósito del mismo."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 53)",
+      "cuestionarioNum": 53,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 53",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo previsto en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, ¿quién fijará las condiciones de utilización y publicará la relación de tramos de la red viaria en los que se habiliten carriles para vehículos de alta ocupación (VAO)?",
+      "opciones": [
+        "El organismo titular de la carretera o, en su caso, la autoridad autonómica o local responsable de la regulación del tráfico, previo informe vinculante del organismo autónomo Jefatura Central de Tráfico.",
+        "El organismo titular de la carretera o, en su caso, la autoridad autonómica o local responsable de la regulación del tráfico, sin necesidad de informe vinculante del organismo autónomo Jefatura Central de Tráfico.",
+        "El organismo autónomo Jefatura Central de Tráfico o, en su caso, el organismo titular de la carretera previo informe vinculante de la autoridad autonómica o local responsable de la regulación del tráfico.",
+        "El organismo autónomo Jefatura Central de Tráfico o, en su caso, la autoridad autonómica o local responsable de la regulación del tráfico, previo informe vinculante del organismo titular de la carretera."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 54)",
+      "cuestionarioNum": 54,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 54",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, ¿qué significa esta señal?",
+      "opciones": [
+        "Carretera autonómica de primer nivel.",
+        "Carretera autonómica de segundo nivel.",
+        "Carretera autonómica de tercer nivel.",
+        "Carretera autonómica de cuarto nivel."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 55)",
+      "cuestionarioNum": 55,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 55",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 147 de la Constitución Española, la reforma de los Estatutos de Autonomía:",
+      "opciones": [
+        "Se ajustará al procedimiento establecido en los mismos y requerirá en todo caso aprobación por las Cortes Generales mediante ley ordinaria.",
+        "Se ajustará al procedimiento establecido en los mismos y requerirá en todo caso aprobación por las Cortes Generales mediante ley orgánica.",
+        "No requiere la aprobación de las Cortes Generales; basta simplemente con la aprobación por parte de la Asamblea Legislativa de la respectiva Comunidad Autónoma.",
+        "Se ajustará al procedimiento establecido en los mismos y requerirá en todo caso aprobación por las Cortes Generales mediante ley ordinaria, y en el caso de las comunidades autónomas de vía especial, requerirá además la celebración de referéndum por mayoría absoluta de cada provincia."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 56)",
+      "cuestionarioNum": 56,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 56",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores, ¿a quién corresponde solicitar la modificación de la autorización de apertura de una escuela y cuál es el plazo contado desde la fecha en que se produjo dicha modificación?",
+      "opciones": [
+        "Al titular de la escuela en el plazo de 15 días naturales.",
+        "Al director de la escuela en el plazo de 15 días hábiles.",
+        "Al titular de la escuela en el plazo de 10 días hábiles.",
+        "Al director de la escuela en el plazo es de 10 días naturales."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 57)",
+      "cuestionarioNum": 57,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 57",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 72 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, la señalización de la maniobra de incorporación a la circulación se deberá advertir mediante señales ópticas que se efectuarán…",
+      "opciones": [
+        "a la iniciación de la maniobra, y, si son luminosas, permanecerán en funcionamiento hasta que termine aquella al igual que para las maniobras de estacionamiento y de desplazamiento lateral del vehículo.",
+        "con antelación suficiente a la iniciación de la maniobra, y, si son luminosas, permanecerán en funcionamiento hasta que termine aquella al igual que para las maniobras de detención y de desplazamiento lateral del vehículo.",
+        "a la iniciación de la maniobra, y, si son luminosas, permanecerán en funcionamiento hasta que termine aquella al igual que para las maniobras de marcha hacia atrás y de desplazamiento lateral del vehículo.",
+        "con antelación suficiente a la iniciación de la maniobra y, si son luminosas, permanecerán en funcionamiento hasta que termine aquella al igual que para las maniobras de parada y de desplazamiento lateral del vehículo."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 58)",
+      "cuestionarioNum": 58,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 58",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 53 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de los siguientes principios es un principio ético de los empleados públicos?",
+      "opciones": [
+        "Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas que vaya más allá de los usos habituales, sociales y de cortesía.",
+        "Administrarán los recursos y bienes públicos con austeridad, y no utilizarán los mismos en provecho propio o de personas allegadas.",
+        "No aceptarán ningún trato de favor o situación que implique privilegio o ventaja injustificada, por parte de personas físicas o entidades privadas.",
+        "Informarán a los ciudadanos sobre aquellas materias o asuntos que tengan derecho a conocer, y facilitarán el ejercicio de sus derechos y el cumplimiento de sus obligaciones."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 59)",
+      "cuestionarioNum": 59,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 59",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 7 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, a los municipios les corresponde…",
+      "opciones": [
+        "la regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas, sin que pueda ser atribuida esta competencia a otra administración.",
+        "la retirada de vehículos en las vías interurbanas y el posterior depósito de estos, en los términos que reglamentariamente se determine.",
+        "autorizar la celebración de pruebas deportivas cuando la totalidad de su recorrido discurra por vías urbanas y travesías.",
+        "la garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 60)",
+      "cuestionarioNum": 60,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 60",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "¿Qué maniobras realizarán los solicitantes de permiso de conducción de la clase AM en la prueba de control de aptitudes y comportamientos en circuito cerrado?",
+      "opciones": [
+        "Las maniobras A y B, salvo que el permiso fuera a estar limitado a la conducción de ciclomotores de tres ruedas y cuatriciclos, en cuyo caso se realizarán las maniobras H e I.",
+        "Las maniobras H e I, salvo que el permiso fuera a estar limitado a la conducción de ciclomotores de tres ruedas y cuatriciclos, en cuyo caso se realizarán las maniobras A y B.",
+        "Las maniobras A, B, H e I, salvo que el permiso fuera a estar limitado a la conducción de ciclomotores de tres ruedas y cuatriciclos, en cuyo caso solo se realizarán las maniobras A y B.",
+        "Las maniobras A, B, H e I, salvo que el permiso fuera a estar limitado a la conducción de ciclomotores de tres ruedas y cuatriciclos, en cuyo caso solo se realizarán las maniobras H e I."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 61)",
+      "cuestionarioNum": 61,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 61",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "La señal P-15a de la imagen indica:",
+      "opciones": [
+        "Peligro por la proximidad de un resalto o badén en la vía o pavimento en mal estado.",
+        "Peligro por la proximidad de un resalto .",
+        "Peligro por la proximidad de un badén en la vía .",
+        "Peligro por pavimento en mal estado."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 62)",
+      "cuestionarioNum": 62,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 62",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 40.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, toda notificación deberá ser cursada dentro del plazo de...",
+      "opciones": [
+        "diez días a partir de la fecha en que el acto haya sido dictado.",
+        "quince días a partir de la fecha en que el acto haya sido dictado.",
+        "veinte días a partir de la fecha en que el acto haya sido dictado.",
+        "treinta días a partir de la fecha en que el acto haya sido dictado."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 63)",
+      "cuestionarioNum": 63,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 63",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 96.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en el plazo de:",
+      "opciones": [
+        "Treinta días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, salvo que reste menos para su tramitación ordinaria.",
+        "Quince días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, salvo que reste menos para su tramitación ordinaria.",
+        "Diez días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, salvo que reste menos para su tramitación ordinaria.",
+        "Un mes, a contar desde el día siguiente al que se notifique al interesado el acuerdo de tramitación simplificada del procedimiento, salvo que reste menos para su tramitación ordinaria."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 64)",
+      "cuestionarioNum": 64,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 64",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo recogido en el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, estarán exentos de realizar la prueba de control de conocimientos específicos correspondiente los que sean titulares de un permiso de conducción en vigor, o hayan superado esta prueba para su obtención, cuando…",
+      "opciones": [
+        "soliciten el permiso de la clase A2 y sean titulares del de la clase A1.",
+        "soliciten el permiso de la clase A1 y sean titulares del de la clase AM.",
+        "soliciten el permiso de la clase C1 y sean titulares del de la clase B.",
+        "soliciten el permiso de la clase A2 y sean titulares del de la clase AM."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 65)",
+      "cuestionarioNum": 65,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 65",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 103.2 de la Constitución Española, los órganos de la Administración General del Estado son creados, regidos y coordinados de acuerdo…",
+      "opciones": [
+        "con el principio de inviolabilidad.",
+        "con el principio de celeridad.",
+        "con la ley.",
+        "con el principio de equidad."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 66)",
+      "cuestionarioNum": 66,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 66",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 30.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que estos...",
+      "opciones": [
+        "son naturales, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+        "son hábiles, incluyéndose en el cómputo los sábados, los domingos y los declarados festivos.",
+        "son hábiles, excluyéndose del cómputo los sábados, los domingos y los declarados festivos.",
+        "son naturales, incluyéndose en el cómputo los sábados, pero no los domingos, ni los declarados festivos."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 67)",
+      "cuestionarioNum": 67,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 67",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En una vía situada fuera de poblado que disponga de arcenes y tres carriles en el sentido de su marcha, ¿por dónde deberá circular el conductor de un vehículo especial cuya masa máxima autorizada sea de 3.500 kilogramos?",
+      "opciones": [
+        "Deberá circular por el carril situado más a su derecha en todo caso.",
+        "Circulará normalmente por el carril situado más a su derecha, pudiendo utilizar el resto de carriles siempre que no entorpezca la marcha de otros vehículos que circulen detrás.",
+        "Deberá circular por el arcén de su derecha siempre que este sea transitable y suficiente y no exista vía o parte de ella que le esté especialmente destinada.",
+        "Circulará normalmente por el carril situado más a su derecha, pudiendo utilizar el inmediato siempre que no entorpezca la marcha de otros vehículos que circulen detrás."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 68)",
+      "cuestionarioNum": 68,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 68",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto 159/2021, de 16 de marzo, por el que se regulan los servicios de auxilio en las vías públicas, ¿de qué tres señales, de las recogidas en el Anexo XI del Reglamento General de Vehículos, deberán ir provistos los vehículos de auxilio en vías públicas?",
+      "opciones": [
+        "De la señal V-1, la señal V-2 y la señal V-24.",
+        "De la señal V-1, la señal V-24 y la señal V-27.",
+        "De la señal V-2, la señal V-23 y la señal V-24.",
+        "De la señal V-4, la señal V-24 y la señal V-27."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 69)",
+      "cuestionarioNum": 69,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 69",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores, la inscripción de una Escuela en el Registro de Centros de Formación se realizará…",
+      "opciones": [
+        "mediante solicitud que se presentará junto con la solicitud de autorización de apertura por parte del titular de la Escuela.",
+        "mediante la solicitud del titular de la Escuela una vez obtenida la autorización de ejercicio en el plazo de 10 días naturales.",
+        "por parte del Jefe Provincial de Tráfico de la provincia donde radique la Escuela en el momento de la presentación de la autorización de ejercicio por parte del titular de la Escuela.",
+        "de oficio con la expedición de la autorización de apertura de la Escuela."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 70)",
+      "cuestionarioNum": 70,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 70",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Los conductores de vehículos prioritarios, ¿pueden dejar de cumplir cualquiera de las normas contenidas en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación?",
+      "opciones": [
+        "Sí, pueden dejar de cumplir cualquiera de dichas normas siempre que lo hagan bajo su exclusiva responsabilidad.",
+        "No, únicamente pueden dejar de cumplir, bajo su exclusiva responsabilidad y a condición de haberse cerciorado de que no ponen en riesgo a ningún usuario de la vía, las normas de los títulos II, III y IV de dicho Reglamento excepto las órdenes y señales de los agentes que son de obligado cumplimiento.",
+        "No, únicamente pueden dejar de cumplir, bajo su exclusiva responsabilidad y a condición de haberse cerciorado de que no ponen en riesgo a ningún usuario de la vía, las normas de los títulos II, III y IV de dicho Reglamento.",
+        "Sí, pueden dejar de cumplir cualquiera de dichas normas siempre que circulen en servicio de urgencia."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 71)",
+      "cuestionarioNum": 71,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 71",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Atendiendo a lo establecido en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, un turismo con remolque de 6,50 metros de longitud y una masa máxima autorizada del conjunto de 3.500 kilogramos que circule en poblado, sin propósito de adelantar, por un paso inferior con dos carriles de circulación para cada sentido, deberá guardar una distancia frontal de seguridad con una separación:",
+      "opciones": [
+        "de, al menos, 50 metros.",
+        "de, al menos, 100 metros.",
+        "de, al menos, 150 metros.",
+        "que le permita detenerse, en caso de frenado brusco, sin colisionar con el vehículo precedente y ser adelantado con seguridad por el vehículo que, en su caso, le siga."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 72)",
+      "cuestionarioNum": 72,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 72",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Los conductores de vehículos prioritarios, cuando circulen en servicio de urgencia, ¿deben utilizar en algún caso la señal luminosa aisladamente?",
+      "opciones": [
+        "Sí, excepcionalmente cuando la omisión de las señales acústicas especiales no entrañe peligro alguno para los demás usuarios.",
+        "No, ya que la señal luminosa no se puede utilizar aislada de la señal acústica especial.",
+        "Sí, normalmente y siempre que el responsable de su utilización lo crea oportuno.",
+        "Sí, exclusivamente cuando circule con el vehículo prioritario dentro de poblado."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 73)",
+      "cuestionarioNum": 73,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 73",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 122.2 de la Constitución Española, el Consejo General del Poder Judicial:",
+      "opciones": [
+        "Está compuesto solo por 20 jueces y magistrados y un Presidente.",
+        "Representa los intereses profesionales de los miembros del Poder Judicial.",
+        "Está legitimado para presentar proyectos de Ley en materia judicial.",
+        "Es el órgano de gobierno del Poder Judicial."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 74)",
+      "cuestionarioNum": 74,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 74",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Si se desea obtener el permiso de la clase C+E usando un tren de carretera, ¿qué requisitos específicos, entre otros, deberá cumplir para ser utilizado en las pruebas de control de aptitudes y comportamientos?",
+      "opciones": [
+        "El remolque deberá tener una longitud, excluida la lanza o el sistema de enganche o acoplamiento, no inferior a 7,5 metros y el conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg, una anchura de, al menos, 2,40 metros y un peso total real mínimo de 15.000 kg.",
+        "El remolque deberá tener una anchura no inferior a 2,40 metros y el conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg, una longitud de, al menos, 14 metros y un peso total real mínimo de 15.000 kg.",
+        "El remolque deberá tener una masa máxima autorizada no inferior a 2.500 kg y el conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg, una anchura de, al menos, 2,40 metros y un peso total real mínimo de 15.000 kg.",
+        "El remolque deberá tener, al menos, 2 metros de ancho y 2 metros de alto y el conjunto deberá tener una masa máxima autorizada no inferior a 21.000 kg, una longitud de, al menos, 14 metros y un peso total real mínimo de 15.000 kg."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 75)",
+      "cuestionarioNum": 75,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 75",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas:",
+      "opciones": [
+        "Podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, sin excepción alguna.",
+        "Podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que reglamentariamente se establezca la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas.",
+        "No podrán modificar el medio elegido para comunicarse con las Administraciones Públicas una vez seleccionado.",
+        "No podrán elegir en ningún momento a través de qué medio se relacionan con las Administraciones Públicas."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 76)",
+      "cuestionarioNum": 76,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 76",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 77 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 77)",
+      "cuestionarioNum": 77,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 77",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 78 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 78)",
+      "cuestionarioNum": 78,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 78",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 79 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 79)",
+      "cuestionarioNum": 79,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 79",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "[Pregunta 80 — texto no disponible (página escaneada sin capa de texto)]",
+      "opciones": [
+        "[Opción A — no disponible]",
+        "[Opción B — no disponible]",
+        "[Opción C — no disponible]",
+        "[Opción D — no disponible]"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 80)",
+      "cuestionarioNum": 80,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 80",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según establece el Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, ¿qué longitud máxima podrá alcanzar un tren de carretera especializado en el transporte de vehículos para que le esté permitido circular?",
+      "opciones": [
+        "15,65 metros, pudiendo alcanzar los 18,75 metros, cuando circule con carga, mediante la utilización de un voladizo o soporte de carga trasero debidamente autorizado.",
+        "18,75 metros, pudiendo alcanzar los 20,55 metros, cuando circule con carga, mediante la utilización de un voladizo o soporte de carga trasero debidamente autorizado.",
+        "18,75 metros, pudiendo alcanzar los 22,75 metros, cuando circule con carga, mediante la utilización de un voladizo o soporte de carga trasero debidamente autorizado.",
+        "18,75 metros, pudiendo rebasar su longitud en hasta 15 centímetros cuando circule con carga y realice un transporte intermodal utilizando para ello contenedores de hasta 55 pies de longitud."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Examen OEP 2020 — Pregunta 81)",
+      "cuestionarioNum": 81,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 81",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 6 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, la situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados, se considera:",
+      "opciones": [
+        "Discriminación indirecta.",
+        "Discriminación directa.",
+        "Discriminación positiva.",
+        "Discriminación negativa."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 82)",
+      "cuestionarioNum": 82,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 82",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, el conductor de bicicleta debe llevar colocada alguna prenda o elemento reflectante cuando sea obligatorio…",
+      "opciones": [
+        "el uso del alumbrado y circule por vía interurbana cuyo incumplimiento se clasifica como infracción grave.",
+        "el uso del casco y circule por vía urbana cuyo incumplimiento se clasifica como infracción leve.",
+        "el uso del alumbrado y circule por vía interurbana cuyo incumplimiento se clasifica como infracción leve.",
+        "el uso del casco y circule por vía urbana cuyo incumplimiento se clasifica como infracción grave."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 83)",
+      "cuestionarioNum": 83,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 83",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En relación con las maniobras a realizar en la prueba de control de aptitudes y comportamientos en circuito cerrado, ¿qué dimensiones ha de tener el espacio libre de obstáculos para que los pasajeros suban y bajen con seguridad en la maniobra L?",
+      "opciones": [
+        "1,20 metros.",
+        "1,30 metros.",
+        "1,50 metros.",
+        "1,70 metros."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 84)",
+      "cuestionarioNum": 84,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 84",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 19 de la Ley 29/1998, de 13 de julio, Reguladora de la Jurisdicción contencioso-administrativa, están legitimados ante el orden jurisdiccional contencioso-administrativo:",
+      "opciones": [
+        "Únicamente las personas físicas que ostenten un derecho o interés legítimo.",
+        "Las corporaciones, asociaciones, sindicatos y grupos y entidades a que se refiere el artículo 18 aun cuando no resulten afectados ni estén legalmente habilitados para la defensa de los derechos e intereses legítimos colectivos.",
+        "El Ministerio Fiscal para intervenir en todos los procesos.",
+        "La persona acosada en los litigios sobre acoso sexual y acoso por razón de sexo."
+      ],
+      "correcta": null,
+      "anulada": true,
+      "puntuacion_nula": true,
+      "motivo_anulacion": "Pregunta anulada según plantilla definitiva oficial OEP 2020",
+      "explicacion": "⚠️ PREGUNTA ANULADA. Respuesta D declarada nula por el tribunal. No computa en la puntuación.",
+      "cuestionarioNum": 85,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 85",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Sin perjuicio de las competencias asumidas por las comunidades autónomas y de las asignadas al Ministerio del Interior, según el artículo 4 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, corresponde a la Administración General del Estado…",
+      "opciones": [
+        "la determinación del cuadro de las enfermedades y discapacidades que inhabilitan para conducir y los requisitos sanitarios mínimos para efectuar los reconocimientos para su detección, así como la inspección, control y, en su caso, suspensión o cierre de los establecimientos dedicados a esta actividad.",
+        "las normas especiales que posibiliten la circulación de vehículos históricos y fomenten la conservación y restauración de los que integran el patrimonio histórico.",
+        "la garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
+        "las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 86)",
+      "cuestionarioNum": 86,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 86",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, ¿pueden circular los ciclomotores en columna de a dos?",
+      "opciones": [
+        "Sí, excepcionalmente, cuando el arcén sea transitable y suficiente y sin invadir la calzada en ningún caso.",
+        "Sí, excepcionalmente, ocupando la parte imprescindible de la calzada cuando el arcén no sea transitable y suficiente.",
+        "No, nunca pueden circular en columna de a dos.",
+        "Sí, como norma general circularán en columna de a dos siempre que la anchura de la calzada lo permita."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 87)",
+      "cuestionarioNum": 87,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 87",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo dispuesto en el artículo 152 de la Constitución Española, en los Estatutos aprobados por el procedimiento del artículo 151, la organización institucional autonómica se basará en:",
+      "opciones": [
+        "Una Asamblea Legislativa, un Consejo de Gobierno y un Presidente.",
+        "Una Asamblea Legislativa, un Delegado del Gobierno, un Consejo de Gobierno y un Presidente.",
+        "Una Asamblea Legislativa, un Consejo de Gobierno, un Presidente y los Presidentes de las Diputaciones Provinciales.",
+        "Una Asamblea Legislativa, un Consejo de Gobierno, un Tribunal Superior de Justicia y un Presidente."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 88)",
+      "cuestionarioNum": 88,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 88",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Dentro de los principios que la Dirección General de Tráfico considera uno de los principios fundamentales o generales que rigen la circulación, se encuentra el de responsabilidad, que implica que el conductor debe:",
+      "opciones": [
+        "Señalizar todo obstáculo o cambio de la normal circulación.",
+        "Prever y evitar, en cuanto sea posible, los comportamientos defectuosos de los demás usuarios para evitar daños.",
+        "Estar en todo momento en condiciones de controlar sus vehículos o animales.",
+        "Cumplir la normativa existente, evitando ser un peligro u obstáculo a los demás usuarios de la vía, adoptando un comportamiento adecuado en cada momento y asumiendo las consecuencias de sus propios actos."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 89)",
+      "cuestionarioNum": 89,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 89",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 47 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho los actos de las Administraciones Públicas…",
+      "opciones": [
+        "que lesionen los derechos y libertades susceptibles de amparo por los Tribunales Superiores de Justicia.",
+        "dictados por órganos competentes por razón de la materia o del territorio.",
+        "que sean constitutivos de infracción penal o se dicten como consecuencia de esta.",
+        "que tengan un contenido posible."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 90)",
+      "cuestionarioNum": 90,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 90",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 3.1 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, son entidades locales territoriales:",
+      "opciones": [
+        "El municipio y la provincia exclusivamente.",
+        "El municipio exclusivamente.",
+        "El municipio, la provincia, la isla en los archipiélagos balear y canario y la entidad de ámbito territorial inferior al municipal.",
+        "El municipio, la provincia y la isla en los archipiélagos balear y canario."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 91)",
+      "cuestionarioNum": 91,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 91",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, la señal S-575 correspondiente a un hito miriamétrico tiene como finalidad…",
+      "opciones": [
+        "recordar a los conductores la imposibilidad de entrar con su vehículo o animal en una zona delimitada de la calzada, salvo si están facultados a circular por el arcén.",
+        "indicar la situación de un parque nacional, monumento o hito histórico cuyo nombre no figura inscrito en la señal.",
+        "indicar el punto kilométrico de una carretera que no es autopista ni autovía cuando aquel es múltiplo de 10. Su color se corresponderá con el de la red de la que forma parte dicha carretera.",
+        "balizar los bordes de las carreteras, principalmente durante las horas nocturnas o de baja visibilidad."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 92)",
+      "cuestionarioNum": 92,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 92",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 35 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos, recursos administrativos y procedimientos de arbitraje y los que declaren su inadmisión:",
+      "opciones": [
+        "Serán motivados, con sucinta referencia de hechos y fundamentos de derecho.",
+        "No serán motivados, con sucinta referencia de hechos y fundamentos de derecho.",
+        "Serán motivados, sin referencia de hechos ni fundamentos de derecho.",
+        "No serán motivados, sin referencia de hechos ni fundamentos de derecho."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 93)",
+      "cuestionarioNum": 93,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 93",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 11.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas solo requerirán a los interesados el uso obligatorio de firma para: (señale la respuesta INCORRECTA)",
+      "opciones": [
+        "Formular solicitudes.",
+        "Interponer recursos.",
+        "Contratar servicios.",
+        "Renunciar a derechos."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 94)",
+      "cuestionarioNum": 94,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 94",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, ¿cuánto podrá sobresalir la carga de un vehículo no destinado exclusivamente al transporte de mercancías?",
+      "opciones": [
+        "Hasta 2 metros por la parte anterior del vehículo y hasta 3 metros por su parte posterior.",
+        "Hasta un 10% y hasta un 15 % de su longitud por de la parte anterior y posterior del vehículo, respectivamente.",
+        "Hasta un 10% de su longitud por la parte posterior del vehículo y hasta un 15% si la carga fuera indivisible.",
+        "Hasta el 50% de la longitud del vehículo, estando obligado a utilizar la señal V-20."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 95)",
+      "cuestionarioNum": 95,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 95",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "En relación con el derecho a adoptar medidas de conflicto colectivo reconocido en el artículo 37 de la Constitución Española, señale la respuesta correcta:",
+      "opciones": [
+        "Se reconoce únicamente a los empresarios.",
+        "Se reconoce únicamente a los trabajadores.",
+        "La ley que regule el ejercicio de este derecho, sin perjuicio de las limitaciones que pueda establecer, incluirá las garantías precisas para asegurar el funcionamiento de los servicios esenciales de la comunidad.",
+        "Su ejercicio no está sujeto a medida limitadora alguna."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 96)",
+      "cuestionarioNum": 96,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 96",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 173 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, la señal V-12 es la que indica que…",
+      "opciones": [
+        "el conductor del vehículo es una persona con discapacidades que reducen su movilidad y que, por tanto, puede beneficiarse de las facilidades que se le otorguen con carácter general o específico.",
+        "el vehículo transporta mercancías peligrosas.",
+        "el vehículo ha quedado inmovilizado en la calzada o que su cargamento se encuentra caído sobre ella.",
+        "el vehículo está efectuando pruebas especiales o ensayos de investigación."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Examen OEP 2020 — Pregunta 97)",
+      "cuestionarioNum": 97,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 97",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 112.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, contra las disposiciones administrativas de carácter general:",
+      "opciones": [
+        "Cabrá recurso de alzada en vía administrativa.",
+        "Cabrá recurso de reposición en vía administrativa.",
+        "Cabrá recurso de alzada o de reposición, según la disposición agote o no la vía administrativa.",
+        "No cabrá recurso en vía administrativa."
+      ],
+      "correcta": null,
+      "anulada": true,
+      "puntuacion_nula": true,
+      "motivo_anulacion": "Pregunta anulada según plantilla definitiva oficial OEP 2020",
+      "explicacion": "⚠️ PREGUNTA ANULADA. Respuesta D declarada nula por el tribunal. No computa en la puntuación.",
+      "cuestionarioNum": 98,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 98",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el artículo 1 del Código Civil, las normas jurídicas contenidas en los tratados internacionales...",
+      "opciones": [
+        "serán siempre de aplicación directa en España.",
+        "serán de aplicación directa en España, aunque no formen parte del ordenamiento interno.",
+        "no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el «Boletín Oficial del Estado».",
+        "serán de aplicación directa en España y no será necesaria su publicación en el «Boletín Oficial del Estado»."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Examen OEP 2020 — Pregunta 99)",
+      "cuestionarioNum": 99,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 99",
+        "documentoId": "examen-2020"
+      }
+    },
+    {
+      "pregunta": "Conforme al contenido del artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la Jefatura Central de Tráfico, como organismo autónomo, es una entidad de derecho público…",
+      "opciones": [
+        "con personalidad jurídica propia, tesorería y patrimonio propios y autonomía en su gestión.",
+        "que, además de gestionar servicios públicos, produce bienes de interés público susceptibles de contraprestación, financiándose con ingresos de mercado y cuya dirección estratégica corresponde a su director general.",
+        "cuya actuación se produce con arreglo al pertinente contrato plurianual de gestión que ha de suscribir por períodos de tiempo no inferiores a cinco años con el titular del departamento ministerial correspondiente.",
+        "que desarrolla actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público no susceptibles de contraprestación."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Examen OEP 2020 — Pregunta 100)",
+      "cuestionarioNum": 100,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2020",
+        "referencia": "Pregunta 100",
+        "documentoId": "examen-2020"
+      }
+    }
+  ]
 }
