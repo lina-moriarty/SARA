@@ -41,8 +41,8 @@ const App = {
     lawsList: document.getElementById('laws-list'),
     lawDetailTitle: document.getElementById('law-detail-title'),
     lawAccordion: document.getElementById('law-accordion'),
-    startBtn: document.getElementById('start-btn'),
-    startExamBtn: document.getElementById('start-exam-btn'),
+    startBtn: null,
+    startExamBtn: null,
     questionCounter: document.getElementById('question-counter'),
     scoreDisplay: document.getElementById('score-display'),
     timerEl: document.getElementById('timer'),
@@ -135,8 +135,7 @@ const App = {
       });
     });
 
-    this.el.startBtn.addEventListener('click', () => this.startQuiz());
-    this.el.startExamBtn.addEventListener('click', () => this.startQuiz());
+    // Start buttons removed — clicking a quiz/exam card starts it directly
     this.el.nextBtn.addEventListener('click', () => this.nextQuestion());
     this.el.closeSource.addEventListener('click', () => this.el.sourcePanel.classList.add('hidden'));
     this.el.restartBtn.addEventListener('click', () => this.backToMenu());
@@ -239,9 +238,7 @@ const App = {
         document.querySelectorAll('[data-source="quizzes"]').forEach(i => i.classList.remove('selected'));
         item.classList.add('selected');
         item.querySelector('input').checked = true;
-        this.el.startBtn.disabled = false;
-        this._selectedQuizSource = 'quizzes';
-        this._selectedQuizIndex = parseInt(item.dataset.index);
+        this.startQuizById(parseInt(item.dataset.index), 'quizzes');
       });
     });
   },
@@ -285,21 +282,19 @@ const App = {
         document.querySelectorAll('[data-source="exams"]').forEach(i => i.classList.remove('selected'));
         item.classList.add('selected');
         item.querySelector('input').checked = true;
-        this.el.startExamBtn.disabled = false;
-        this._selectedQuizSource = 'exams';
-        this._selectedQuizIndex = parseInt(item.dataset.index);
+        this.startQuizById(parseInt(item.dataset.index), 'exams');
       });
     });
   },
 
-  // === START QUIZ (shared by Tab 1 and Tab 2) ===
-  async startQuiz() {
+  // === START QUIZ BY ID (direct from list) ===
+  async startQuizById(index, source) {
     let quizMeta;
-    if (this._selectedQuizSource === 'exams') {
-      quizMeta = this.exams[this._selectedQuizIndex];
+    if (source === 'exams') {
+      quizMeta = this.exams[index];
       this.lastTab = 'examenes';
     } else {
-      quizMeta = this.quizzes[this._selectedQuizIndex];
+      quizMeta = this.quizzes[index];
       this.lastTab = 'bloques';
     }
     if (!quizMeta) return;
@@ -335,6 +330,15 @@ const App = {
 
     this.showScreen('quiz');
     this.renderQuestion();
+  },
+
+  // === START QUIZ (legacy — kept for compatibility) ===
+  async startQuiz() {
+    // Fallback to stored selection if available
+    if (this._selectedQuizSource && this._selectedQuizIndex !== undefined) {
+      return this.startQuizById(this._selectedQuizIndex, this._selectedQuizSource);
+    }
+    alert('Selecciona un test primero.');
   },
 
   // === RENDER QUESTION ===
@@ -527,7 +531,7 @@ const App = {
           <div class="review-item-header" onclick="App.toggleReview(${i})">
             <span class="review-status ${status}">${statusIcon}</span>
             <span class="review-question">${i + 1}. ${q.pregunta}</span>
-            <span class="review-toggle">\u25BC</span>
+            <span class="review-toggle">▶</span>
           </div>
           <div class="review-detail">
             <div class="review-options">${optionsHTML}</div>
@@ -607,23 +611,25 @@ const App = {
           <div class="sub-accordion-item">
             <div class="sub-accordion-header" onclick="App.toggleAccordion('${uid}')">
               <span>${sec.title}</span>
-              <span class="accordion-arrow">▼</span>
+              <span class="accordion-arrow">▶</span>
             </div>
             <div class="sub-accordion-body" id="${uid}">
               <p class="law-empty">Sin contenido disponible.</p>
             </div>
           </div>`;
-        const html = content
+        // Parse markdown bold **text** to <strong>text</strong>
+        let html = content
           .replace(/&/g, '&amp;')
           .replace(/</g, '&lt;')
           .replace(/>/g, '&gt;')
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
           .replace(/\n\n/g, '</p><p>')
           .replace(/\n/g, '<br>');
         return `
           <div class="sub-accordion-item">
             <div class="sub-accordion-header" onclick="App.toggleAccordion('${uid}')">
               <span>${sec.title}</span>
-              <span class="accordion-arrow">▼</span>
+              <span class="accordion-arrow">▶</span>
             </div>
             <div class="sub-accordion-body" id="${uid}"><p>${html}</p></div>
           </div>`;
@@ -635,8 +641,8 @@ const App = {
     this.el.lawAccordion.innerHTML = `
       <div class="main-accordion-item">
         <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('original')}')">
-          <span class="accordion-label">📄 Original</span>
-          <span class="accordion-arrow">▼</span>
+          <span class="accordion-label">Original</span>
+          <span class="accordion-arrow">▶</span>
         </div>
         <div class="main-accordion-body" id="${uid('original')}">
           ${renderSubSections(law.sections, 'original')}
@@ -645,8 +651,8 @@ const App = {
 
       <div class="main-accordion-item">
         <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('resumido')}')">
-          <span class="accordion-label">📝 Resumido</span>
-          <span class="accordion-arrow">▼</span>
+          <span class="accordion-label">Resumido</span>
+          <span class="accordion-arrow">▶</span>
         </div>
         <div class="main-accordion-body" id="${uid('resumido')}">
           ${renderSubSections(law.sections, 'resumido')}
@@ -655,11 +661,11 @@ const App = {
 
       <div class="main-accordion-item">
         <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('esquema')}')">
-          <span class="accordion-label">🗂️ Esquema</span>
-          <span class="accordion-arrow">▼</span>
+          <span class="accordion-label">Esquema</span>
+          <span class="accordion-arrow">▶</span>
         </div>
         <div class="main-accordion-body" id="${uid('esquema')}">
-          <p class="law-empty law-coming-soon">✨ El esquema estará disponible próximamente.</p>
+          <p class="law-empty law-coming-soon">El esquema estará disponible próximamente.</p>
         </div>
       </div>
     `;
