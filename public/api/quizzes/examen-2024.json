@@ -3,6 +3,72 @@
   "description": "100 preguntas del examen oficial de acceso libre para el Cuerpo General Administrativo, especialidad Tráfico (DGT). OEP 2023/2024, celebrado en marzo 2025. Respuestas verificadas con la plantilla definitiva oficial.",
   "questions": [
     {
+      "pregunta": "La señal R-107, representada a continuación, indica prohibición de acceso…",
+      "opciones": [
+        "a toda clase de vehículos destinados al transporte de mercancías si su masa máxima autorizada es superior a la indicada en la señal, entendiéndose como tales los camiones y furgones con mayor masa autorizada que la indicada en la señal. No prohíbe el acceso cuando circulen vacíos.",
+        "a toda clase de vehículos destinados al transporte de mercancías si su masa máxima autorizada es igual o superior a la indicada en la señal, entendiéndose como tales los camiones y furgones con igual o mayor masa autorizada que la indicada en la señal. Prohíbe el acceso aunque circulen vacíos.",
+        "[OPCIÓN TRUNCADA EN EL CUADERNILLO ORIGINAL] autorizada es superior a la indicada en la señal, entendiéndose como tales los camiones y furgones con mayor masa autorizada que la indicada en la señal. Prohíbe el acceso aunque circulen vacíos.",
+        "[OPCIÓN TRUNCADA EN EL CUADERNILLO ORIGINAL] toda clase de vehículos destinados al transporte de mercancías si su masa máxima autorizada es igual o superior a la indicada en la señal, entendiéndose como tales los camiones y furgones con igual o mayor masa autorizada que la indicada en la señal. No prohíbe el acceso cuando circulen vacíos."
+      ],
+      "correcta": null,
+      "anulada": true,
+      "puntuacion_nula": true,
+      "motivo_anulacion": "Error de impresión en el cuadernillo oficial: las opciones C y D aparecían truncadas (les faltaba el comienzo del texto), haciendo imposible su correcta lectura y evaluación. El Tribunal anuló la pregunta al ser impugnable por defecto en la presentación del examen.",
+      "explicacion": "⚠️ PREGUNTA ANULADA — Error de impresión en el cuadernillo oficial: las opciones C y D aparecían truncadas (les faltaba el comienzo del texto), haciendo imposible su correcta lectura y evaluación. El Tribunal anuló la pregunta al ser impugnable por defecto en la presentación del examen.\n\nEsta pregunta no contó en la puntuación del examen oficial y no debe contabilizarse en la puntuación del simulacro.",
+      "cuestionarioNum": 13,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2024",
+        "referencia": "Pregunta 13 (ANULADA)",
+        "documentoId": "examen-2024"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Circulación, la señal S-450 identifica una carretera…",
+      "opciones": [
+        "de primer nivel, que no sea autopista o autovía, de la red autonómica de la comunidad a la que corresponden las siglas de identificación.",
+        "de segundo nivel, que no sea autopista o autovía, de la red autonómica de la comunidad a la que corresponden las siglas de identificación.",
+        "de tercer nivel, que no sea autopista o autovía, de la red autonómica de la comunidad a la que corresponden las siglas de identificación.",
+        "de cuarto nivel, que no sea autopista o autovía, de la red autonómica de la comunidad a la que corresponden las siglas de identificación."
+      ],
+      "correcta": null,
+      "anulada": true,
+      "puntuacion_nula": true,
+      "motivo_anulacion": "La pregunta fue impugnada con éxito al resultar ambigua o incorrecta la clasificación por \"niveles\" de la señal S-450 según el Reglamento General de Circulación vigente. La numeración de la señal (S-450) no corresponde unívocamente a un único nivel de la red viaria autonómica según la normativa aplicable, existiendo interpretaciones contradictorias. El Tribunal estimó la impugnación y anuló la pregunta.",
+      "explicacion": "⚠️ PREGUNTA ANULADA — La pregunta fue impugnada con éxito al resultar ambigua o incorrecta la clasificación por \"niveles\" de la señal S-450 según el Reglamento General de Circulación vigente. La numeración de la señal (S-450) no corresponde unívocamente a un único nivel de la red viaria autonómica según la normativa aplicable, existiendo interpretaciones contradictorias. El Tribunal estimó la impugnación y anuló la pregunta.\n\nEsta pregunta no contó en la puntuación del examen oficial y no debe contabilizarse en la puntuación del simulacro.",
+      "cuestionarioNum": 28,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2024",
+        "referencia": "Pregunta 28 (ANULADA)",
+        "documentoId": "examen-2024"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la Orden General nº 4, de 4 de marzo de 2014, relativa a la Reorganización de la Agrupación de Tráfico de la Guardia Civil, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "A los Sectores les corresponde, entre otras funciones, la coordinación e inspección de los servicios propios de la Agrupación de Tráfico en el ámbito de una Comunidad Autónoma.",
+        "A los Subsectores les corresponde, entre otras funciones, la planificación, ejecución y coordinación de los servicios en el ámbito provincial.",
+        "A los destacamentos les corresponde la ejecución del servicio en la red viaria comprendida en la demarcación que se le asigne.",
+        "A la Jefatura de la Agrupación de Tráfico le corresponde la superior dirección del Área de Sanciones, del Área de Recursos Humanos y del Área de Recursos Materiales."
+      ],
+      "correcta": null,
+      "anulada": true,
+      "puntuacion_nula": true,
+      "motivo_anulacion": "La pregunta fue impugnada al considerar los opositores que la Orden General nº 4 de 4 de marzo de 2014 estaba modificada o derogada en alguno de sus extremos por normativa posterior, haciendo que más de una opción pudiera considerarse \"incorrecta\" según la regulación vigente en el momento del examen. El Tribunal estimó la impugnación y anuló la pregunta.",
+      "explicacion": "⚠️ PREGUNTA ANULADA — La pregunta fue impugnada al considerar los opositores que la Orden General nº 4 de 4 de marzo de 2014 estaba modificada o derogada en alguno de sus extremos por normativa posterior, haciendo que más de una opción pudiera considerarse \"incorrecta\" según la regulación vigente en el momento del examen. El Tribunal estimó la impugnación y anuló la pregunta.\n\nEsta pregunta no contó en la puntuación del examen oficial y no debe contabilizarse en la puntuación del simulacro.",
+      "cuestionarioNum": 73,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2024",
+        "referencia": "Pregunta 73 (ANULADA)",
+        "documentoId": "examen-2024"
+      }
+    },
+    {
       "pregunta": "¿Qué entidad, de las enumeradas a continuación, NO integra el sector público institucional estatal según el artículo 84 de la Ley 40/2015, de Régimen Jurídico del Sector Público?",
       "opciones": [
         "Las autoridades administrativas independientes.",
@@ -1942,5 +2008,10 @@
         "seccionId": ""
       }
     }
+  ],
+  "annulled": [
+    13,
+    28,
+    73
   ]
 }

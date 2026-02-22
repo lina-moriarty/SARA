@@ -1,5 +1,2110 @@
 {
   "title": "Examen OEP 2022 — Examinador de Tráfico (DGT)",
-  "description": "Preguntas del examen oficial. Próximamente.",
-  "questions": []
+  "description": "Preguntas del examen oficial OEP 2022 con respuestas verificadas contra la plantilla definitiva oficial.",
+  "year": "2022",
+  "source": "Plantilla oficial DGT",
+  "totalOriginal": 100,
+  "annulled": [],
+  "questions": [
+    {
+      "pregunta": "Conforme al Plan Mundial para el Decenio de Acción para la Seguridad Vial 2021-2030, elaborado por la Organización Mundial de la Salud y las Comisiones Regionales de las Naciones Unidas, el potencial de la seguridad vial puede ampliarse considerablemente si se considera:",
+      "opciones": [
+        "Como una necesidad que puede contribuir a mejorar la satisfacción de las necesidades sociales, que van desde la equidad de género hasta la sostenibilidad ambiental.",
+        "Como una cuestión independiente, y no como un componente integrado en distintos programas políticos, como los que se ocupan de la salud infantil o de la acción climática.",
+        "Como un derecho humano, convirtiéndola en el centro de los objetivos de empresas y organizaciones internacionales y consiguiendo un menor grado de compromiso de los gobiernos.",
+        "Como un impulsor del desarrollo sostenible, fomentando el uso del transporte público y limitando el acceso a la micromovilidad y al transporte multimodal."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q1)",
+      "cuestionarioNum": 1,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 1",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 21 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, a las trabajadoras por cuenta propia víctimas de violencia de género que cesen en su actividad para hacer efectiva su protección o su derecho a la asistencia social integral, se les suspenderá la obligación de cotización durante un período de:",
+      "opciones": [
+        "Seis meses, que les serán considerados como de cotización efectiva a efectos de las prestaciones de Seguridad Social.",
+        "Doce meses, que les serán considerados como de cotización efectiva a efectos de las prestaciones de Seguridad Social.",
+        "Seis meses, prorrogables por seis meses más por decisión de la autoridad judicial, que les serán considerados como de cotización efectiva a efectos de las prestaciones de Seguridad Social.",
+        "Doce meses, prorrogables por seis meses más por decisión de la autoridad judicial, que les serán considerados como de cotización efectiva a efectos de las prestaciones de Seguridad Social."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q2)",
+      "cuestionarioNum": 2,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 2",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Vehículos, la masa máxima autorizada de un remolque de 3 ejes será de:",
+      "opciones": [
+        "18 toneladas.",
+        "20 toneladas.",
+        "24 toneladas.",
+        "28 toneladas."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q3)",
+      "cuestionarioNum": 3,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 3",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De los siguientes, ¿cuál es el motivo por el que los neumáticos se desgastan más por uno de los laterales?",
+      "opciones": [
+        "Por un exceso de presión.",
+        "Por una falta de presión.",
+        "Por la pérdida de paralelismo entre las ruedas o sus ejes.",
+        "Por un bloqueo de las ruedas en el frenado."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q4)",
+      "cuestionarioNum": 4,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 4",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 16 de la Ley 50/1997, de 27 de noviembre, del Gobierno, los Directores de los Gabinetes del Presidente, de los Vicepresidentes y de los Ministros:",
+      "opciones": [
+        "Serán nombrados y separados por Real Decreto del Consejo de Ministros, aprobado a propuesta del Presidente del Gobierno o del miembro del Gobierno a cuyo Departamento pertenezcan.",
+        "Serán nombrados y separados por el Rey, a propuesta del miembro del Gobierno a cuyo Departamento pertenezcan.",
+        "Serán nombrados por Orden Ministerial, previo conocimiento del Consejo de Ministros.",
+        "Serán nombrados y separados por Real Decreto aprobado en Consejo de Ministros. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q5)",
+      "cuestionarioNum": 5,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 5",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "¿Qué indica la señal de la imagen?",
+      "opciones": [
+        "Peligro por la existencia de un desnivel.",
+        "Peligro por la proximidad de una zona de la calzada cuyo pavimento puede resultar muy deslizante.",
+        "Peligro por la proximidad de un lugar en que hay vehículos que obstruyen la calzada debido a avería, accidente u otras causas.",
+        "Peligro por riesgo de vuelco."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q6)",
+      "cuestionarioNum": 6,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 6",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En relación con las normas generales de comportamiento en la circulación recogidos en el Título I del Reglamento General de Circulación, señale la respuesta correcta:",
+      "opciones": [
+        "A los conductores de caballerías, ganados y vehículos de carga de tracción animal les está prohibido llevarlos corriendo por la vía en las inmediaciones de otros de la misma especie.",
+        "Queda prohibido conducir y utilizar cascos o auriculares conectados a aparatos receptores o reproductores de sonido, excepto durante la correspondiente enseñanza y la realización de las pruebas de aptitud en vías abiertas para la obtención del permiso de conducción de motocicletas de dos ruedas y ciclomotores.",
+        "La superficie acristalada del vehículo deberá permitir, en todo caso, la visibilidad diáfana del conductor sobre toda la vía por la que circule, sin interferencias de láminas o adhesivos; únicamente se podrán colocar los distintivos previstos en la legislación de transportes.",
+        "Los agentes de la autoridad y en el ejercicio de las funciones que tengan encomendadas son los únicos que pueden utilizar durante la conducción, dispositivos de telefonía móvil, siempre y cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q7)",
+      "cuestionarioNum": 7,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 7",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Atendiendo al artículo 11 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las Administraciones Públicas NO requerirán a los interesados el uso obligatorio de firma para:",
+      "opciones": [
+        "Renunciar a derechos.",
+        "Presentar comunicaciones.",
+        "Subsanar solicitudes.",
+        "Desistir de acciones."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q8)",
+      "cuestionarioNum": 8,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 8",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a lo establecido en el Anexo IX del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, señale la respuesta correcta en cuanto a las reglas específicas para los centros que impartan los cursos de sensibilización y reeducación vial:",
+      "opciones": [
+        "Los centros deberán comunicar a través de la aplicación informática del Organismo Autónomo Jefatura Central de Tráfico el listado de alumnos de cada curso con una antelación máxima de 48 horas, con el fin de validar el cumplimiento de los requisitos para realizar el curso.",
+        "Una vez finalizado un curso de sensibilización y reeducación vial, el centro deberá comunicar a la Jefatura Provincial de Tráfico correspondiente a la localidad en la que esté radicado, el resultado obtenido por cada uno de los alumnos participantes en el mismo mediante un certificado firmado por su director.",
+        "Una vez finalizado un curso de sensibilización y reeducación vial, el director del centro expedirá una certificación para cada alumno que sea declarado apto, permitiéndose la falta de asistencia por un tiempo no superior a dos horas.",
+        "En el supuesto de que el resultado del curso de sensibilización y reeducación vial fuera apto, el director del centro expedirá una certificación, con una validez de dos años, que se entregará al titular del permiso o licencia de conducción que lo haya superado. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q9)",
+      "cuestionarioNum": 9,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 9",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En el supuesto previsto en el artículo 99.5 de la Constitución Española de 1978 (CE), ¿quién refrenda la convocatoria de elecciones generales?",
+      "opciones": [
+        "El Presidente del Gobierno.",
+        "El Presidente del Congreso.",
+        "El Presidente de las Cortes Generales.",
+        "Nadie, este acto no requiere refrendo."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q10)",
+      "cuestionarioNum": 10,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 10",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Respecto a los principios que la Dirección General de Tráfico considera fundamentales para regir la circulación, ¿cuál está ligado íntimamente con el principio de confianza en la normalidad del tráfico y, además, hace referencia a una obligación que corresponde al titular de la vía?",
+      "opciones": [
+        "El principio de la seguridad de la defensa o de la conducción defensiva.",
+        "El principio de la integridad personal o aceptación de la fuerza mayor.",
+        "El principio de responsabilidad.",
+        "El principio de señalización."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q11)",
+      "cuestionarioNum": 11,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 11",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Anexo III del Reglamento General de Conductores, a la solicitud de canje de la autorización especial para conducir vehículos que transporten mercancías peligrosas expedida por escuelas y organismos militares se acompañarán, entre otros documentos:",
+      "opciones": [
+        "Permiso de conducción militar de la clase B con, al menos, un año de antigüedad, en el supuesto de que el permiso civil de esta clase que posea no alcance esta antigüedad.",
+        "Autorización especial que se pretende canjear. Si el titular no hubiera cesado en servicio activo, se le retendrá la autorización original una vez cotejada.",
+        "Certificación acreditativa de haber dejado de prestar servicio activo, en todo caso.",
+        "Informe de aptitud psicofísica emitido por un médico militar."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q12)",
+      "cuestionarioNum": 12,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 12",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En vías fuera de poblado y conforme al Reglamento General de Circulación, ¿cuál es la velocidad máxima a la que le está permitido circular al conductor de un vehículo que carece de señalización de frenado?",
+      "opciones": [
+        "25 km/h.",
+        "30 km/h.",
+        "40 km/h.",
+        "45 km/h."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q13)",
+      "cuestionarioNum": 13,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 13",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 13 del Real Decreto 365/1995, de 10 de marzo, por el que se aprueba el Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado, el funcionario declarado en la situación de suspensión firme, que no tenga reservado puesto de trabajo, solicite el reingreso y no se le conceda en el plazo de seis meses contados a partir de la extinción de la responsabilidad penal o disciplinaria, pasará a la situación de:",
+      "opciones": [
+        "Excedencia voluntaria por interés particular.",
+        "Expectativa de destino.",
+        "Excedencia forzosa.",
+        "Suspensión provisional. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q14)",
+      "cuestionarioNum": 14,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 14",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Vehículos en su Anexo XI, la señal de la imagen:",
+      "opciones": [
+        "Identifica el vehículo como servicio de acompañamiento a comitivas.",
+        "Identifica el vehículo como oficial, con posibilidad de ser escoltado a pie.",
+        "Identifica el vehículo con posibilidad de acceso a zonas peatonales.",
+        "Identifica el vehículo como de uso compartido."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q15)",
+      "cuestionarioNum": 15,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 15",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 11 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la información publicada en el Portal de Transparencia se adecuará, entre otros, al principio de accesibilidad, según el cual:",
+      "opciones": [
+        "Se fomentará que la información sea publicada en formatos que permita su reutilización, de acuerdo con lo previsto en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, y en su normativa de desarrollo.",
+        "Se proporcionará información estructurada sobre los documentos y recursos de información con vistas a facilitar la identificación y búsqueda de la información.",
+        "La información publicada será conforme al Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto 4/2010, de 8 enero, así como a las normas técnicas de interoperabilidad.",
+        "Se publicará un organigrama actualizado que identifique a los responsables de los diferentes órganos."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q16)",
+      "cuestionarioNum": 16,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 16",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a los conceptos de seguridad vial utilizados por la Dirección General de Tráfico, en la fase de decisión de un siniestro de tráfico, cuál de las siguientes NO es una maniobra de evasión simple activa:",
+      "opciones": [
+        "Disminuir la velocidad.",
+        "Aumentar la velocidad.",
+        "Girar a la izquierda o a la derecha.",
+        "Hacer destellos con las luces de largo alcance o carretera."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q17)",
+      "cuestionarioNum": 17,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 17",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 106 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, cuando el procedimiento se hubiera iniciado de oficio, se producirá la caducidad del mismo transcurrido el plazo de...",
+      "opciones": [
+        "tres meses desde su inicio sin dictarse resolución.",
+        "seis meses desde su inicio sin dictarse resolución.",
+        "nueve meses desde su inicio sin dictarse resolución.",
+        "doce meses desde su inicio sin dictarse resolución. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q18)",
+      "cuestionarioNum": 18,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 18",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En relación con la promoción de la movilidad sin emisiones, la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, dispone que la Administración General del Estado, las Comunidades Autónomas y las Entidades Locales, en el marco de sus respectivas competencias,…",
+      "opciones": [
+        "adoptarán medidas para alcanzar en el año 2030 un parque de turismos y vehículos comerciales ligeros sin emisiones directas de CO2, de conformidad con lo establecido por la normativa comunitaria.",
+        "adoptarán medidas para alcanzar en el año 2050 un parque de turismos y vehículos comerciales ligeros sin emisiones directas de CO2, de conformidad con lo establecido por la normativa comunitaria.",
+        "adoptarán medidas para alcanzar en el año 2050 un parque de turismos y vehículos comerciales ligeros sin emisiones directas de CO2, con independencia de lo que establezca la normativa comunitaria.",
+        "adoptarán medidas para alcanzar en el año 2050 un parque de turismos, motocicletas y vehículos comerciales ligeros sin emisiones directas de CO2, de conformidad con lo establecido por la normativa comunitaria."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q19)",
+      "cuestionarioNum": 19,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 19",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a la Orden de 18 de junio de 1998 por la que se regulan los cursos de formación para conductores de vehículos que transporten mercancías peligrosas y los centros de formación que podrán impartirlos, ¿a dónde deberá dirigirse la solicitud de apertura y funcionamiento del centro de formación para conductores que transporten mercancías peligrosas?",
+      "opciones": [
+        "A la Dirección General de Tráfico, al ser autorización válida en todo el territorio nacional.",
+        "A la Jefatura Central de Tráfico, al ser autorización válida en todo el territorio nacional.",
+        "A la Jefatura Provincial de Tráfico en cuyo territorio radique el centro.",
+        "Al Ministerio de Fomento, con competencias para autorizaciones de transporte de mercancías por carretera."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q20)",
+      "cuestionarioNum": 20,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 20",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 124 de la Constitución Española de 1978 (CE), el Ministerio Fiscal ejerce sus funciones por medio de órganos propios, conforme a los principios:",
+      "opciones": [
+        "De unidad de actuación e independencia y con sujeción en todo caso a los de legalidad e imparcialidad.",
+        "De unidad de actuación y dependencia jerárquica y con sujeción en todo caso a los de legalidad e imparcialidad.",
+        "De unidad de actuación y dependencia jerárquica y con sujeción en todo caso a los de legalidad y neutralidad.",
+        "De unidad de actuación e independencia y con sujeción en todo caso a los de legalidad y neutralidad."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q21)",
+      "cuestionarioNum": 21,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 21",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "La superación de cursos de conducción segura y eficiente a los que se hace referencia en el anexo VIII del Real Decreto Legislativo 6/2015, siempre que se cumplan los requisitos establecidos y se tenga saldo positivo, compensará con:",
+      "opciones": [
+        "Un punto adicional hasta un máximo de 12 puntos y con una frecuencia máxima de un curso de cada tipo cada año.",
+        "Un punto adicional hasta un máximo de 15 puntos y con una frecuencia máxima de un curso de cada tipo cada dos años.",
+        "Dos puntos adicionales hasta un máximo de 12 puntos y con una frecuencia máxima de un curso de cada tipo cada año.",
+        "Dos puntos adicionales hasta un máximo de 15 puntos y con una frecuencia máxima de un curso de cada tipo cada dos años. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q22)",
+      "cuestionarioNum": 22,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 22",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Conductores y en relación con la formación periódica del personal examinador, ¿cuándo se debe someter este personal a una reevaluación adecuada para poder desempeñar de nuevo su actividad como examinador?",
+      "opciones": [
+        "Cuando el examinador no haya calificado pruebas para una determinada clase de permiso en un período de 24 meses.",
+        "Cuando el examinador no haya calificado pruebas para una determinada clase de permiso en un período de 18 meses.",
+        "Cuando el examinador no haya calificado pruebas para una determinada clase de permiso en un período de 12 meses.",
+        "Cuando el examinador no haya calificado pruebas para una determinada clase de permiso en un período de 6 meses."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q23)",
+      "cuestionarioNum": 23,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 23",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5 de la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿qué función, entre otras, le corresponde al Consejo de Ministros, como órgano colegiado del Gobierno?",
+      "opciones": [
+        "Remitir los Tratados internacionales al Consejo de Estado para su dictamen previo en los términos previstos en los artículos 94 y 96.2 de la Constitución.",
+        "Acordar la negociación y firma de Tratados internacionales, así como su aplicación definitiva.",
+        "Aprobar los proyectos de ley y su remisión al Congreso de los Diputados o, en su caso, al Senado.",
+        "Refrendar, en su caso, los actos del Rey en materia de su competencia."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q24)",
+      "cuestionarioNum": 24,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 24",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a la resolución de Naciones Unidas 60/5. Mejoramiento de la seguridad vial en el mundo, de octubre de 2005, ¿sobre quién recae la responsabilidad de la seguridad vial?",
+      "opciones": [
+        "Sobre toda la sociedad.",
+        "Sobre los conductores de vehículos.",
+        "Sobre las autoridades locales, municipales y nacionales.",
+        "Sobre las comisiones regionales de las Naciones Unidas y sobre la Organización Mundial de la Salud."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q25)",
+      "cuestionarioNum": 25,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 25",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Conductores, en relación con la autorización administrativa que habilita al aspirante para realizar formación práctica y aprendizaje en vías abiertas al tráfico para la obtención del permiso de las clases A1 y A2, señale la respuesta correcta.",
+      "opciones": [
+        "En la autorización, que tendrá un período de vigencia de dos años, constarán, al menos, los datos de la escuela particular de conductores, el aspirante, los profesores y las matrículas de las motocicletas a utilizar, así como las fechas de expedición y vigencia.",
+        "En la autorización, que tendrá un período de vigencia de dos años, constarán, al menos, los datos de la escuela particular de conductores, el aspirante, los profesores, las matrículas de las motocicletas y vehículos de acompañamiento a utilizar, así como las fechas de expedición y vigencia.",
+        "En la autorización, que tendrá un período de vigencia de seis meses, constarán, al menos, los datos de la escuela particular de conductores, el aspirante, los profesores y las matrículas de las motocicletas y vehículos de acompañamiento a utilizar, así como las fechas de expedición y vigencia.",
+        "En la autorización, que tendrá un período de vigencia de dos años, constarán, al menos, los datos de la escuela particular de conductores, el aspirante, los profesores y las matrículas de las motocicletas y vehículos de acompañamiento a utilizar, así como la fecha de expiración de la autorización. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q26)",
+      "cuestionarioNum": 26,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 26",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 18 del Tratado de la Unión Europea, el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad, será:",
+      "opciones": [
+        "Uno de los Vicepresidentes del Consejo.",
+        "Uno de los Vicepresidentes del Consejo Europeo.",
+        "Uno de los Vicepresidentes del Parlamento Europeo.",
+        "Uno de los Vicepresidentes de la Comisión."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q27)",
+      "cuestionarioNum": 27,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 27",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Cuando, para una mayor garantía y a efectos de contraste, un agente de la autoridad someta a un conductor a la práctica de una segunda prueba de detección alcohólica por el aire espirado, de acuerdo con lo estipulado en el Reglamento General de Circulación, ¿cuánto tiempo debe mediar entre la primera y la segunda prueba?",
+      "opciones": [
+        "Un tiempo mínimo de 5 minutos.",
+        "Un tiempo mínimo de 10 minutos.",
+        "Un tiempo mínimo de 15 minutos.",
+        "Un tiempo mínimo de 20 minutos."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q28)",
+      "cuestionarioNum": 28,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 28",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 46 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, el plazo para interponer recurso contencioso- administrativo contra un acto presunto de la Administración:",
+      "opciones": [
+        "Será de dos meses contados desde el mismo día al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa.",
+        "Será de dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa.",
+        "Será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del mismo día a aquél en que, de acuerdo con su normativa específica, se produzca el mismo.",
+        "Será de seis meses y se contará, para el solicitante y otros posibles interesados, a partir del día siguiente a aquél en que, de acuerdo con su normativa específica, se produzca el mismo."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q29)",
+      "cuestionarioNum": 29,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 29",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto 174/2021, por el que se aprueba el título de Técnico Superior en Formación para la movilidad segura y sostenible, señale la respuesta correcta en relación con el módulo 1653 Técnicas de conducción, que contiene la formación necesaria para desempeñar la función de conducir de forma reglamentaria, segura y eficiente turismos y motocicletas de la clase A2.",
+      "opciones": [
+        "La impartición de este módulo deberá realizarse durante el primer curso del ciclo formativo y siempre con carácter previo al módulo 1658 Didáctica de la enseñanza práctica de la conducción.",
+        "La impartición de este módulo deberá realizarse durante el segundo curso del ciclo formativo y siempre tras haber cursado el módulo 1658 Didáctica de la enseñanza práctica de la conducción.",
+        "En este módulo, en lo referido a la conducción de turismos, deben alternarse profesor y alumno a cargo del doble mando del mismo, ejerciendo ambos las funciones de alumno y profesor.",
+        "En este módulo, en el caso de la conducción de motocicletas, solo el profesor circulará en motocicleta, utilizando un intercomunicador para comunicarse con el alumno, que le seguirá desde un turismo dándole instrucciones y actuando como profesor. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q30)",
+      "cuestionarioNum": 30,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 30",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme con el Reglamento General de Circulación, ¿quién ejecutará el cierre al tráfico de una vía objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial, que tiene que cerrarse a la circulación por deficiencias físicas de su infraestructura?",
+      "opciones": [
+        "El cierre de la vía habrá de ser ejecutado, en todo caso, por los agentes de la autoridad responsable de la vigilancia y disciplina del tráfico o del personal dependiente del organismo titular de la vía responsable de la explotación de ésta.",
+        "El cierre de la vía al tráfico será ejecutado exclusivamente por los agentes de la autoridad que tengan encomendada la responsabilidad de la vigilancia y disciplina del tráfico en dicha vía.",
+        "Al tratarse de un cierre por obras de reparación de la vía, el cierre habrá de ser ejecutado, únicamente, por el personal dependiente del organismo titular de la vía responsable de la explotación de ésta.",
+        "El cierre de la vía al tráfico será ejecutado por la autoridad encargada de la regulación y control del tráfico en dicha vía, en todo caso."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q31)",
+      "cuestionarioNum": 31,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 31",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 7 del Real Decreto 33/1986, de 10 de enero, por el que se aprueba el Reglamento de Régimen Disciplinario de los Funcionarios de la Administración del Estado, constituye una falta grave:",
+      "opciones": [
+        "El abandono del servicio.",
+        "La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.",
+        "El abuso de autoridad en el ejercicio del cargo.",
+        "La notoria falta de rendimiento que comporte inhibición en el cumplimiento de las tareas encomendadas."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q32)",
+      "cuestionarioNum": 32,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 32",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 100 del Reglamento General de Circulación, se entiende por vía insuficientemente iluminada aquella en que, con vista normal, en algún punto de su calzada, no se distinga un vehículo pintado de oscuro a…",
+      "opciones": [
+        "50 metros.",
+        "75 metros.",
+        "100 metros.",
+        "150 metros."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q33)",
+      "cuestionarioNum": 33,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 33",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Circulación, las señales de orientación se subdividen en…",
+      "opciones": [
+        "señales de orientaciones generales, señales de carriles, señales de servicio, señales de indicación, paneles complementarios y otras señales.",
+        "señales de dirección, señales de identificación de carreteras, señales de localización, señales de confirmación, paneles complementarios y señales de uso específico en poblado.",
+        "señales de carriles, señales de dirección, señales de identificación de carreteras, señales de localización y señales de confirmación.",
+        "señales de preseñalización, señales de dirección, señales de identificación de carreteras, señales de localización, señales de confirmación y señales de uso específico en poblado. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q34)",
+      "cuestionarioNum": 34,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 34",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Conductores, señale la afirmación correcta en relación con los requisitos que debe cumplir una motocicleta de la clase A2 para ser utilizada en las pruebas de control de aptitudes y comportamientos.",
+      "opciones": [
+        "Si están propulsadas por un motor eléctrico, deberán tener una cilindrada superior a 250 cm3, una potencia neta no inferior a 20 kW ni superior a 35 kW y la relación potencia/peso será, al menos, de 0,15 kW/kg.",
+        "Si están propulsadas por un motor eléctrico, deberán tener una cilindrada al menos de 250 cm3, una potencia neta no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso superior a 0,2 kW/kg.",
+        "Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada superior a 250 cm3, una potencia neta no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg.",
+        "Si están propulsadas por un motor de combustión interna, deberán tener una cilindrada no inferior a 250 cm3, una potencia neta no inferior a 20 kW ni superior a 35 kW y una relación potencia/peso no superior a 0,2 kW/kg."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q35)",
+      "cuestionarioNum": 35,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 35",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 8.1 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿quién podrá acceder a la Carpeta Ciudadana?",
+      "opciones": [
+        "Quien ostente un poder específico previsto en el artículo 6.4.a) de la Ley 40/2015, de 1 de octubre, otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos.",
+        "Quien ostente un poder general previsto en el artículo 6.4.a) de la Ley 40/2015, de 1 de octubre, otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos.",
+        "Quien ostente un poder específico previsto en el artículo 6.4.a) de la Ley 39/2015, de 1 de octubre, otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos.",
+        "Quien ostente un poder general previsto en el artículo 6.4.a) de la Ley 39/2015, de 1 de octubre, otorgado por el interesado e inscrito en el Registro Electrónico de Apoderamientos."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q36)",
+      "cuestionarioNum": 36,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 36",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Dentro de la estructura de la Guardia Civil, respecto a los cometidos de custodia de las vías de comunicación terrestre y la vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas, la Jefatura de la Agrupación de Tráfico de la Guardia Civil depende del:",
+      "opciones": [
+        "Mando de Operaciones.",
+        "Mando de Fronteras y Policía Marítima.",
+        "Mando de Personal.",
+        "Mando de Apoyo."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q37)",
+      "cuestionarioNum": 37,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 37",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Cuando un mismo titular disponga de una licencia para conducir vehículos para personas de movilidad reducida, una licencia para conducir vehículos agrícolas y un permiso de conducción de la clase AM, todos ellos en vigor, conforme al Reglamento General de Conductores, ¿en cuántos documentos constarán?",
+      "opciones": [
+        "En un único documento, en el que constarán tanto el permiso de conducción como las dos licencias.",
+        "En dos documentos: uno para el permiso de conducción y otro en el que constarán las dos licencias.",
+        "En dos documentos: uno para el permiso de conducción y otro para la licencia para conducir vehículos agrícolas; la licencia para conducir vehículos para personas con movilidad reducida pierde su validez al ser titular de un permiso de conducción de la clase AM.",
+        "En tres documentos, uno para cada permiso o licencia de conducción. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q38)",
+      "cuestionarioNum": 38,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 38",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según la Resolución de 12 de enero de 2022, de la Dirección General de Tráfico, por la que se aprueba el Manual de características técnicas de los vehículos de movilidad personal (VMP), los VMP de transporte personal tendrán unas dimensiones máximas de:",
+      "opciones": [
+        "1.400 mm de altura y 750 mm de anchura.",
+        "1.400 mm de altura y 800 mm de anchura.",
+        "1.500 mm de altura y 750 mm de anchura.",
+        "1.500 mm de altura y 800 mm de anchura."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q39)",
+      "cuestionarioNum": 39,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 39",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "El llamado “accidente solitario” es considerado el más característico provocado por la somnolencia como factor de riesgo en la conducción. Entre las características principales de este tipo de accidente se puede citar una de las siguientes:",
+      "opciones": [
+        "Tiene lugar alrededor del amanecer o en las primeras horas de la tarde.",
+        "Normalmente se trata de accidentes de poca gravedad.",
+        "Tiene lugar en vías urbanas y con altas intensidades de circulación.",
+        "Tiene lugar por la noche o en las últimas horas de la tarde."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q40)",
+      "cuestionarioNum": 40,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 40",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 90 de la Constitución Española de 1978 (CE), el plazo de dos meses de que dispone el Senado para vetar o enmendar un proyecto de ley ordinaria u orgánica:",
+      "opciones": [
+        "Se reducirá a 20 días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso.",
+        "Se reducirá a 20 días hábiles en los proyectos declarados urgentes por el Gobierno o por el Congreso.",
+        "Se reducirá a 30 días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso.",
+        "Se reducirá a 30 días hábiles en los proyectos declarados urgentes por el Gobierno o por el Congreso."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q41)",
+      "cuestionarioNum": 41,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 41",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "La señal de la imagen indica…",
+      "opciones": [
+        "estacionamiento prohibido la primera quincena del mes.",
+        "estacionamiento prohibido la segunda quincena del mes.",
+        "estacionamiento prohibido los días impares.",
+        "estacionamiento prohibido los días pares."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q42)",
+      "cuestionarioNum": 42,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 42",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En las calzadas con doble sentido de la circulación y arcenes, cuando la anchura de la plataforma lo permita, la habilitación de un carril adicional circunstancial de circulación supone, entre otras cosas, que…",
+      "opciones": [
+        "mediante la utilización de ambos arcenes, se disponga de dos carriles en cada sentido de circulación y que los vehículos que circulen por los mismos deban utilizar, al menos, el alumbrado de corto alcance o de cruce tanto de día como de noche.",
+        "mediante la utilización de ambos arcenes, se disponga de dos carriles en un sentido de circulación y de uno en el otro y que los vehículos que circulen por los mismos deban utilizar, al menos, el alumbrado de corto alcance o de cruce tanto de día como de noche.",
+        "mediante la utilización de toda la calzada y uno de los arcenes, se disponga de dos carriles en un sentido de circulación y uno en el otro y que los vehículos que circulen por los mismos deban utilizar, al menos, el alumbrado de corto alcance o de cruce tanto de día como de noche.",
+        "mediante la utilización de ambos arcenes, se disponga de dos carriles en un sentido de circulación y de uno en el otro de modo que, a partir de ese momento, en dicha calzada únicamente pueden circular turismos sin remolque y motocicletas, estando la circulación prohibida al resto de vehículos. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q43)",
+      "cuestionarioNum": 43,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 43",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Conductores, ¿cuál de estas actuaciones NO corresponde a las comprobaciones previas que deben realizar los aspirantes en la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general?",
+      "opciones": [
+        "Verificar que el vehículo cuenta con la ITV en vigor.",
+        "Regulación de los espejos retrovisores.",
+        "Comprobar el correcto funcionamiento del cinturón de seguridad.",
+        "Verificar el correcto funcionamiento del limpiaparabrisas."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q44)",
+      "cuestionarioNum": 44,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 44",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "El Reglamento General de Conductores, ¿contempla la posibilidad de regular las condiciones y los requisitos de la licencia de conducción acompañada para realizar el aprendizaje en la conducción?",
+      "opciones": [
+        "Sí; la disposición final tercera establece que el Gobierno podrá regular sus condiciones y requisitos.",
+        "Sí; la disposición adicional tercera establece que las Cortes Generales podrán regular sus condiciones y requisitos.",
+        "No; se contempla en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, pero no en el Reglamento General de Conductores.",
+        "No; se contempla en la Directiva 2006/126/CE, del Parlamento Europeo y del Consejo, de 20 de diciembre, sobre el Permiso de Conducción, pero no en el Reglamento General de Conductores."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q45)",
+      "cuestionarioNum": 45,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 45",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 30 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, ¿qué sanción, de las siguientes, se impondrá al infractor por la comisión de una infracción grave?",
+      "opciones": [
+        "Será destituido del cargo que ocupe salvo que ya hubiese cesado.",
+        "No podrá ser nombrado para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre uno y cinco años.",
+        "No podrá ser nombrado para ocupar ningún puesto de alto cargo o asimilado durante un periodo de entre cinco y diez años.",
+        "La declaración del incumplimiento y su publicación en el «Boletín Oficial del Estado» o diario oficial que corresponda."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q46)",
+      "cuestionarioNum": 46,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 46",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 37 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las resoluciones administrativas de carácter particular…",
+      "opciones": [
+        "no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquellas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general.",
+        "podrán vulnerar lo establecido en una disposición de carácter general, siempre que procedan de un órgano de superior jerarquía al que dictó la disposición general.",
+        "podrán vulnerar lo establecido en una disposición de carácter general, siempre que procedan de un órgano de igual jerarquía al que dictó la disposición general.",
+        "no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquellas procedan de un órgano de igual o superior jerarquía al que dictó la disposición particular. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q47)",
+      "cuestionarioNum": 47,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 47",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, señale la respuesta correcta:",
+      "opciones": [
+        "Las bicicletas y los ciclos no podrán circular por las aceras, pero los vehículos de movilidad personal sí podrán hacerlo como norma general.",
+        "Las bicicletas, los ciclos y los vehículos de movilidad personal deberán circular siempre por los carriles BUS y Taxi en caso de existir estos en la vía por la que circulen.",
+        "Los vehículos de movilidad personal y las bicicletas y ciclos no podrán circular por las aceras en ningún caso.",
+        "Los vehículos de movilidad personal y las bicicletas y ciclos no podrán circular por las aceras, pero reglamentariamente se fijarán las excepciones que se determinen."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q48)",
+      "cuestionarioNum": 48,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 48",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Sin perjuicio de la competencia que pueda corresponder al titular de la vía y conforme a lo establecido por el Reglamento General de Circulación, ¿qué competencia, respecto a la señalización de las vías, corresponde al organismo autónomo Jefatura Central de Tráfico o, en su caso, a la autoridad autonómica o local responsable de la regulación del tráfico?",
+      "opciones": [
+        "La determinación de las clases o tramos de carreteras que deban contar con señalización circunstancial o variable o con otros medios de vigilancia.",
+        "El mantenimiento de la vía en las mejores condiciones posibles de seguridad para la circulación.",
+        "La instalación en la vía de las adecuadas señales y marcas viales, así como su mantenimiento.",
+        "La responsabilidad de la señalización de todas las obras que se realicen en las vías objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q49)",
+      "cuestionarioNum": 49,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 49",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento General de Vehículos, la luz de carretera en un tractor agrícola…",
+      "opciones": [
+        "es obligatoria.",
+        "está prohibida salvo si su anchura es superior a 2,10 metros.",
+        "es obligatoria para los vehículos de velocidad máxima autorizada superior a 25 Km/h y opcional en el resto.",
+        "es opcional."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q50)",
+      "cuestionarioNum": 50,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 50",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 69 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál de estas afirmaciones NO es correcta?",
+      "opciones": [
+        "Las Delegaciones del Gobierno tendrán su sede en la localidad donde radique el Consejo de Gobierno de la Comunidad Autónoma, salvo que el Consejo de Ministros acuerde ubicarla en otra distinta y sin perjuicio de lo que disponga expresamente el Estatuto de Autonomía.",
+        "Las Delegaciones del Gobierno están adscritas orgánica y funcionalmente al Ministerio de Hacienda y Administraciones Públicas.",
+        "En cada una de las provincias de las Comunidades Autónomas pluriprovinciales, existirá un Subdelegado del Gobierno, que estará bajo la inmediata dependencia del Delegado del Gobierno.",
+        "Existirá una Delegación del Gobierno en cada una de las Comunidades Autónomas. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q51)",
+      "cuestionarioNum": 51,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 51",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 160 del Reglamento General de Circulación, la señal de la imagen indica:",
+      "opciones": [
+        "Paso de dos a tres carriles de circulación con especificación de la velocidad mínima en cada uno de ellos.",
+        "Paso de dos a tres carriles de circulación con especificación de la velocidad máxima en cada uno de ellos.",
+        "Carriles reservados para tráfico en función de la velocidad señalizada. Indica que los carriles sobre los que está situada la señal de velocidad mínima solo pueden ser utilizados por los vehículos que circulen a velocidad igual o superior a la indicada.",
+        "Carriles reservados para tráfico en función de la velocidad señalizada. Indica que los carriles sobre los que está situada la señal de velocidad máxima solo pueden ser utilizados por los vehículos que circulen a velocidad igual o inferior a la indicada."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q52)",
+      "cuestionarioNum": 52,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 52",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Señale la respuesta INCORRECTA. Según el artículo 3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tendrán capacidad de obrar ante las Administraciones Públicas:",
+      "opciones": [
+        "Las personas físicas o jurídicas que ostenten capacidad de obrar con arreglo a las normas civiles.",
+        "Los menores de edad no incapacitados para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+        "Los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos que reglamentariamente se determinen.",
+        "Los menores de edad incapacitados para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela, cuando la extensión de la incapacitación no afecte al ejercicio y defensa de los derechos o intereses de que se trate."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q53)",
+      "cuestionarioNum": 53,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 53",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Una aspirante a la obtención del permiso de la clase A1 aprueba tanto la prueba de conocimientos común como la de conocimientos específicos el día que cumple los 18 años. Cinco meses más tarde decide abandonar la formación del permiso A1 y solicita fecha de examen para obtener el permiso B. ¿Qué pruebas y, en su caso, trámites administrativos debería realizar?",
+      "opciones": [
+        "Deberá presentar una nueva solicitud para obtener el permiso de conducción de la clase B, abonando la tasa correspondiente y realizar únicamente la prueba de circulación.",
+        "Deberá presentar una nueva solicitud para obtener el permiso de conducción de la clase B, abonando la tasa correspondiente y realizar tanto la prueba de conocimientos común como la prueba de circulación.",
+        "Como está dentro de los seis meses del periodo de validez de la tasa solamente deberá presentar un escrito a la Jefatura Provincial de Tráfico indicando el cambio en la solicitud de permiso y realizar tanto la prueba de conocimientos común como la prueba de circulación.",
+        "Como está dentro de los seis meses del periodo de validez de la tasa solamente deberá presentar un escrito a la Jefatura Provincial de Tráfico indicando el cambio en la solicitud de permiso y realizar únicamente la prueba de circulación. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q54)",
+      "cuestionarioNum": 54,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 54",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "El permiso de la clase B autoriza la conducción de automóviles impulsados por combustibles alternativos con una masa máxima autorizada (M.M.A.) superior a 3.500 kg. ¿Qué requisitos, entre otros, establece para estos automóviles el Reglamento General de Conductores para que se puedan conducir con dicho permiso?",
+      "opciones": [
+        "Que no podrán estar destinados al transporte de mercancías y su M.M.A. no podrá exceder los 4.250 kg; se podrán conducir dentro del territorio de la Unión Europea cuando el permiso tenga una antigüedad superior a dos años.",
+        "Que no podrán estar destinados al transporte de mercancías, su M.M.A. no podrá exceder los 4.250 kg y podrán llevar un remolque cuya M.M.A. no exceda los 750 kg; se podrán conducir dentro del territorio de la Unión Europea cuando el permiso tenga una antigüedad superior a un año.",
+        "Que estarán destinados al transporte de mercancías y su M.M.A. no podrá exceder los",
+        ""
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q55)",
+      "cuestionarioNum": 55,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 55",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "¿En qué norma se recogen las fuentes del ordenamiento jurídico español?",
+      "opciones": [
+        "En el artículo 1 de la Constitución Española de 1978 (CE).",
+        "En el artículo 1 del Real Decreto de 24 de julio de 1889, por el que se publica el Código Civil.",
+        "En el artículo 1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.",
+        "En el artículo 1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q56)",
+      "cuestionarioNum": 56,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 56",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "El Reglamento General de Circulación establece el límite genérico de velocidad en travesías en 50 km/h para todo tipo de vehículos. Previa señalización específica, este límite podrá…",
+      "opciones": [
+        "ser incrementado por acuerdo de la Autoridad Municipal con el titular de la vía.",
+        "ser rebajado por acuerdo de la Autoridad Municipal con el titular de la vía.",
+        "ser incrementado por la Autoridad Municipal sin necesidad de acuerdo con el titular de la vía.",
+        "ser rebajado por la Autoridad Municipal sin necesidad de acuerdo con el titular de la vía."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q57)",
+      "cuestionarioNum": 57,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 57",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Conductores, ¿los solicitantes de qué permiso de conducción NO realizarán la maniobra I), Estacionamiento y salida del espacio ocupado al estacionar, en la prueba de control de aptitudes y comportamientos en circuito cerrado?",
+      "opciones": [
+        "B+E.",
+        "C1.",
+        "C.",
+        "B. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q58)",
+      "cuestionarioNum": 58,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 58",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Atendiendo al artículo 106 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el órgano competente para la revisión de oficio podrá acordar motivadamente la inadmisión a trámite de las solicitudes formuladas por los interesados:",
+      "opciones": [
+        "Previo Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, siempre y cuando las solicitudes no se basen en alguna de las causas de nulidad del artículo 47.1.",
+        "Cuando carezcan manifiestamente de fundamento.",
+        "Cuando se hubieran inadmitido previamente otras solicitudes sustancialmente iguales.",
+        "Previo Dictamen del Consejo de Estado u órgano consultivo de la Comunidad Autónoma, siempre y cuando las solicitudes no se basen en alguna de las causas de nulidad del artículo 47.2."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q59)",
+      "cuestionarioNum": 59,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 59",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "La Estrategia de Seguridad Vial 2030 parte de la propuesta de que un Sistema Seguro consta de tres componentes: una visión, una serie de principios y un conjunto de herramientas para desarrollar la visión y los principios. El “Principio de falibilidad” se refiere a que…",
+      "opciones": [
+        "el cuerpo humano tiene una capacidad limitada de tolerar la fuerza de un impacto sin que se produzcan lesiones.",
+        "las personas cometen errores que pueden provocar siniestros.",
+        "existe una responsabilidad compartida entre quienes diseñan, construyen, gestionan y usan las carreteras y vehículos, así como quienes proporcionan la respuesta posaccidente.",
+        "todas las partes del sistema deben ser reforzadas para multiplicar sus efectos, de forma que, si una de las partes falla, las personas continúen protegidas."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q60)",
+      "cuestionarioNum": 60,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 60",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 9 del Real Decreto Legislativo 6/2015, ¿cómo se denomina el órgano de cooperación entre la Administración General del Estado y las administraciones de las comunidades autónomas que tengan traspasadas las funciones y servicios en materia de tráfico y circulación de vehículos a motor y que, además, hayan asumido competencias para la protección de personas y bienes y el mantenimiento del orden público?",
+      "opciones": [
+        "El Observatorio Nacional de Tráfico, Seguridad Vial y Movilidad Sostenible.",
+        "El Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible.",
+        "La Conferencia Sectorial de Tráfico, Seguridad Vial y Movilidad Sostenible.",
+        "La Asamblea Sectorial de Tráfico, Seguridad Vial y Movilidad Sostenible."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q61)",
+      "cuestionarioNum": 61,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 61",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "El concepto de seguridad vial utilizado por la Dirección General de Tráfico presenta hasta cuatro niveles en función de las distintas acciones, medidas o actuaciones que se contemplen. En este aspecto, todas aquellas acciones o medidas tendentes a evitar la producción de los accidentes, como las acciones y campañas de control, preventivas e informativas, la educación vial o el mantenimiento adecuado del vehículo, se engloban en el nivel…",
+      "opciones": [
+        "primario.",
+        "secundario.",
+        "terciario.",
+        "cuaternario. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q62)",
+      "cuestionarioNum": 62,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 62",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con lo dispuesto en el Reglamento General de Conductores, las pruebas a realizar para la obtención de la Licencia para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos serán las siguientes:",
+      "opciones": [
+        "Aptitud psicofísica, control de conocimientos común, control de conocimientos específico y control de aptitudes y comportamientos en circulación.",
+        "Aptitud psicofísica, control de conocimientos común, control de conocimientos específico y control de aptitudes y comportamientos en circuito cerrado.",
+        "Aptitud psicofísica, control de conocimientos especifico y control de aptitudes y comportamientos en circuito cerrado.",
+        "Aptitud psicofísica, control de conocimientos común y control de aptitudes y comportamientos en circuito cerrado."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q63)",
+      "cuestionarioNum": 63,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 63",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 7 del Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, señale la respuesta INCORRECTA respecto al Punto de Acceso General electrónico (PAGe):",
+      "opciones": [
+        "El PAGe de cada Administración Pública facilitará el acceso a los servicios, trámites e información de los órganos, organismos públicos y entidades vinculados o dependientes de la Administración Pública correspondiente.",
+        "Las Administraciones Públicas contarán con un Punto de Acceso General electrónico (PAGe).",
+        "El PAGe dispondrá de una sede electrónica, a través de la cual se podrá acceder a todas las sedes electrónicas y sedes asociadas de la Administración Pública correspondiente.",
+        "El PAGe de la Administración General del Estado deberá interoperar con portales web oficiales de la Unión Europea."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q64)",
+      "cuestionarioNum": 64,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 64",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Reglamento de Escuelas Particulares de Conductores, ¿cuál de los siguientes campos NO es preceptivo anotar en el libro de registro?",
+      "opciones": [
+        "Permisos de conducción que posea el alumno que se matricula.",
+        "Fecha de finalización de la enseñanza.",
+        "Resultado final de la formación.",
+        "Número de prácticas realizadas."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q65)",
+      "cuestionarioNum": 65,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 65",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a lo establecido en el artículo 142 del Reglamento General de Circulación y sin perjuicio de las competencias de los titulares de la vía, ¿el contenido de qué señales podrá alterar, en todo momento, el organismo autónomo Jefatura Central de Tráfico o, en su caso, la autoridad autonómica o local responsable de la regulación del tráfico, para adaptarlas a las circunstancias cambiantes del tráfico?",
+      "opciones": [
+        "Las señales de balizamiento.",
+        "Las señales contenidas en los paneles de mensaje variable.",
+        "Tanto las señales de balizamiento como las señales contenidas en los paneles de mensaje variable.",
+        "Todas las señales circunstanciales y de balizamiento."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q66)",
+      "cuestionarioNum": 66,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 66",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En relación con la caducidad, regulada en el artículo 95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, señale la respuesta INCORRECTA:",
+      "opciones": [
+        "Podrá acordarse la caducidad por la inactividad del interesado en la cumplimentación de cualquier trámite que le corresponda llevar a cabo.",
+        "Se producirá la caducidad en los procedimientos iniciados a solicitud del interesado cuando se produzca una paralización imputable al mismo de más de tres meses siempre que la Administración le haya advertido de ello.",
+        "Los procedimientos caducados no interrumpirán el plazo de prescripción.",
+        "Podrá no ser aplicable la caducidad en el supuesto de que la cuestión suscitada afecte al interés general, o fuera conveniente sustanciarla para su definición y esclarecimiento. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q67)",
+      "cuestionarioNum": 67,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 67",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el Anexo III del Reglamento General de Vehículos, los retrovisores de la Clase L están destinados a categorías de vehículos:",
+      "opciones": [
+        "M2, M3, N2, N3, tractores agrícolas y transportes especiales.",
+        "M1 y N1.",
+        "O y R.",
+        "Ciclomotores de dos y tres ruedas, motocicletas, motocicletas con sidecar, vehículos de tres ruedas y cuatriciclos."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q68)",
+      "cuestionarioNum": 68,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 68",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De los sistemas avanzados de ayuda a la conducción o ADAS, el comúnmente denominado RCTA es el sistema de…",
+      "opciones": [
+        "alerta de tráfico cruzado.",
+        "aviso de abandono de carril.",
+        "aviso de frenada de emergencia ante la presencia de peatones en la calzada.",
+        "reconocimiento de señales de circulación."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q69)",
+      "cuestionarioNum": 69,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 69",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "¿De qué fecha es la Orden por la que se crea la Agrupación de Tráfico de la Guardia Civil?",
+      "opciones": [
+        "De 28 de marzo de 1844.",
+        "De 10 de abril de 1845.",
+        "De 26 de agosto de 1959.",
+        "De 13 de marzo de 1986."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q70)",
+      "cuestionarioNum": 70,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 70",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos, ¿se requiere informe previo favorable para la supresión de portales de internet en el ámbito estatal?",
+      "opciones": [
+        "Si, además de una memoria justificativa del órgano de gestión.",
+        "No, el informe previo favorable no es un requisito para la supresión de portales de internet.",
+        "Si, de la Comisión Ministerial de Administración Digital respectiva.",
+        "Si, de la Comisión Ministerial de Valoración Digital."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q71)",
+      "cuestionarioNum": 71,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 71",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Señale la respuesta correcta de acuerdo con lo dispuesto en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial:",
+      "opciones": [
+        "Las conductas referidas a la conducción negligente tendrán la consideración de infracciones graves y las referidas a la conducción temeraria tendrán la consideración de infracciones muy graves.",
+        "Las conductas referidas a la conducción negligente tendrán la consideración de infracciones muy graves y las referidas a la conducción temeraria tendrán la consideración de infracciones graves.",
+        "Las conductas referidas tanto a la conducción negligente como a la conducción temeraria tendrán la consideración de infracciones muy graves.",
+        "Las conductas referidas tanto a la conducción negligente como a la conducción temeraria tendrán la consideración de infracciones graves. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q72)",
+      "cuestionarioNum": 72,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 72",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme a lo establecido en el Reglamento General de Circulación, ¿qué indica un agente de la autoridad responsable del tráfico si mueve su brazo extendido de forma alternativa de arriba abajo?",
+      "opciones": [
+        "Obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo extendido.",
+        "Obliga a disminuir la velocidad de su vehículo a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal y perpendicularmente a dicho brazo.",
+        "Obliga a disminuir la velocidad de su vehículo, hasta su total detención, a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal y perpendicularmente a dicho brazo. La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente.",
+        "Obliga a disminuir la velocidad a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo extendido."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q73)",
+      "cuestionarioNum": 73,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 73",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo entró en vigor el Tratado de Lisboa?",
+      "opciones": [
+        "El 1 de enero de 2007.",
+        "El 31 de diciembre de 2007.",
+        "El 1 de enero de 2009.",
+        "El 31 de diciembre de 2009."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q74)",
+      "cuestionarioNum": 74,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 74",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 18 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Gobierno elaborará un informe periódico sobre el conjunto de sus actuaciones en relación con la efectividad del principio de igualdad entre mujeres y hombres. De este informe se dará cuenta:",
+      "opciones": [
+        "A las Cortes Generales.",
+        "A la Comisión Interministerial de Igualdad entre mujeres y hombres.",
+        "Al Defensor del Pueblo.",
+        "Al Consejo de Estado."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q75)",
+      "cuestionarioNum": 75,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 75",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según las definiciones del Anexo X del Reglamento General de Vehículos, la luz de gálibo está destinada claramente a indicar…",
+      "opciones": [
+        "la altura total del vehículo.",
+        "la longitud total del vehículo.",
+        "tanto la altura como la longitud total del vehículo.",
+        "la anchura total del vehículo."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q76)",
+      "cuestionarioNum": 76,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 76",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 48 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué actos de las Administraciones Públicas son anulables?",
+      "opciones": [
+        "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+        "Los expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+        "Los actos con defecto de forma cuando carezcan de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+        "Las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q77)",
+      "cuestionarioNum": 77,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 77",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Circulación, si existen semáforos o señales verticales de circulación con indicaciones distintas a la derecha y a la izquierda, ¿a cuáles deberán obedecer los conductores que pretendan girar a la izquierda o seguir de frente?",
+      "opciones": [
+        "Los conductores que pretendan seguir de frente obedecerán a los semáforos y señales situados a su derecha y los que pretendan girar a la izquierda a los situados a su izquierda.",
+        "Los conductores que pretendan seguir de frente obedecerán a los semáforos y señales situados a su izquierda y los que pretendan girar a la izquierda a los situados a su derecha.",
+        "Tanto los conductores que pretendan seguir de frente como los que pretendan girar a su izquierda obedecerán a los semáforos y señales situados inmediatamente a su derecha.",
+        "Tanto los conductores que pretendan seguir de frente como los que pretendan girar a su izquierda obedecerán a los semáforos y señales situados inmediatamente a su izquierda."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q78)",
+      "cuestionarioNum": 78,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 78",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al Reglamento General de Conductores, los miembros de las misiones diplomáticas con sede u oficina en España de países no comunitarios, podrán obtener los permisos de conducción españoles siempre que sean titulares de un permiso de conducción equivalente y a condición de reciprocidad…",
+      "opciones": [
+        "tras abonar tasas y sin realizar las correspondientes pruebas de aptitud.",
+        "sin abonar tasas y tras realizar las correspondientes pruebas de aptitud.",
+        "tras abonar tasas y tras realizar las correspondientes pruebas de aptitud.",
+        "sin abonar tasas y sin realizar las correspondientes pruebas de aptitud."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q79)",
+      "cuestionarioNum": 79,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 79",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 30 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, el Estado se organiza territorialmente, a efectos judiciales, en:",
+      "opciones": [
+        "Partidos, Diputaciones Provinciales y Comunidades Autónomas.",
+        "Partidos, Comarcas, Provincias y Comunidades Autónomas.",
+        "Municipios, Partidos, Provincias y Comunidades Autónomas.",
+        "Municipios, Partidos, Comarcas, Provincias y Comunidades Autónomas."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q80)",
+      "cuestionarioNum": 80,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 80",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Un conductor circula con su vehículo de movilidad personal (VMP) por una vía urbana sin hacer uso del casco de protección. ¿Puede ser denunciado por un agente encargado de la vigilancia del tráfico por este hecho?",
+      "opciones": [
+        "Sí, ya que circular con un VMP sin hacer uso del casco de protección es una infracción recogida en el Reglamento General de Circulación y conlleva sanción de 200 euros y detracción de 3 puntos.",
+        "Sí, si así lo prevé la Ordenanza Municipal correspondiente, que es la norma aplicable en este caso concreto.",
+        "Sí, ya que, a falta de regulación nacional, en el caso de este tipo de vehículos que están dentro del ámbito de aplicación del Reglamento (UE) nº 168/2013, circular sin casco de protección conlleva una sanción de 500 euros y la inmediata inmovilización del vehículo.",
+        "No, aunque así lo prevea la Ordenanza Municipal correspondiente, ya que esta se aplicaría con carácter subsidiario al estar estas conductas referidas a la conducción de VMP ya tipificadas en el Reglamento General de Circulación."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q81)",
+      "cuestionarioNum": 81,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 81",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración NO está obligada a dictar resolución expresa y a notificarla:",
+      "opciones": [
+        "En los casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, así como de desaparición sobrevenida del objeto del procedimiento.",
+        "En los supuestos de terminación del procedimiento por pacto o convenio.",
+        "En los procedimientos iniciados de oficio.",
+        "En los procedimientos iniciados a solicitud del interesado. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q82)",
+      "cuestionarioNum": 82,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 82",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el Reglamento General de Circulación, en un paso de peatones señalizado como tal:",
+      "opciones": [
+        "Está prohibido adelantar. No obstante, dicha prohibición no es aplicable si el adelantamiento se realiza detrás de un vehículo que realiza la misma maniobra, cuando las dimensiones del vehículo que la efectúa en primer lugar no impiden la visibilidad de la parte delantera de la vía al conductor del vehículo que le sigue.",
+        "Está prohibido adelantar. No obstante, dicha prohibición no es aplicable si el adelantamiento se realiza a ciclomotores que, por sus reducidas dimensiones, no impidan la visibilidad lateral.",
+        "Está prohibido adelantar. No obstante, dicha prohibición no es aplicable cuando el adelantamiento a cualquier vehículo se realice a una velocidad tan suficientemente reducida que permita detenerse a tiempo si surgiera peligro de atropello.",
+        "Está prohibido adelantar en cualquier situación."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q83)",
+      "cuestionarioNum": 83,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 83",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con lo establecido en el Reglamento General de Conductores en relación con las pruebas de control de conocimientos común y específico para la obtención de un permiso o licencia de conducción, indique la afirmación correcta:",
+      "opciones": [
+        "El número de preguntas planteadas en la prueba de conocimientos para la obtención de la licencia de conducción será de un mínimo de 15 preguntas y un máximo de 30.",
+        "En la calificación de las pruebas de control de conocimientos los errores cometidos no serán superiores al 15 por ciento del total de preguntas planteadas.",
+        "En caso de que, al aplicar el porcentaje de errores en la prueba de conocimientos, el resultado fuera decimal, se aplicará el número entero inmediato inferior.",
+        "El tiempo destinado a la realización de las pruebas de control de conocimientos será de 1 minuto por pregunta, que podrá ser ampliado en casos de necesidades especiales del aspirante debidamente justificados."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q84)",
+      "cuestionarioNum": 84,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 84",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 14 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, los servicios incluidos dentro del Catálogo...",
+      "opciones": [
+        "tendrán carácter provisional.",
+        "tendrán carácter subsidiario.",
+        "tendrán carácter complementario.",
+        "tendrán carácter prioritario."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q85)",
+      "cuestionarioNum": 85,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 85",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según la Orden General número 4, dada en Madrid a 4 de marzo de 2014, para la Reorganización de la Agrupación de Tráfico, la Unidad de la Agrupación de Tráfico de la Guardia Civil denominada Subsector, es la unidad fundamental de…",
+      "opciones": [
+        "mando, planificación, coordinación, inspección y ejecución de los servicios, y de gestión de los recursos humanos, económicos y materiales asignados en el ámbito municipal.",
+        "mando, planificación, coordinación, inspección y ejecución de los servicios, y de gestión de los recursos humanos, económicos y materiales asignados en el ámbito provincial.",
+        "mando, planificación, coordinación, inspección y ejecución de los servicios, y de gestión de los recursos humanos, económicos y materiales asignados en el ámbito de una o más comunidades autónomas.",
+        "ejecución del servicio en una parte de la red viaria comprendida en la demarcación que se le asigne. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q86)",
+      "cuestionarioNum": 86,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 86",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Señalar la respuesta INCORRECTA: Según el artículo 149 de la Constitución Española de 1978 (CE), el Estado tiene competencia exclusiva en materia de:",
+      "opciones": [
+        "Agricultura y ganadería, de acuerdo con la ordenación general de la economía.",
+        "Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.",
+        "Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.",
+        "Legislación sobre propiedad intelectual e industrial."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q87)",
+      "cuestionarioNum": 87,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 87",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 97 de la Constitución Española de 1978 (CE), el Gobierno...",
+      "opciones": [
+        "ejerce la función ejecutiva, pero no la potestad reglamentaria, de acuerdo con la Constitución y las leyes.",
+        "ejerce la potestad reglamentaria, pero no la potestad ejecutiva, de acuerdo con la Constitución y las leyes.",
+        "ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+        "ejerce solo la función ejecutiva de acuerdo con la Constitución y las leyes."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q88)",
+      "cuestionarioNum": 88,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 88",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "La norma por la que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, y en la que se incorpora la educación vial, es:",
+      "opciones": [
+        "El Real Decreto 95/2022, de 1 de febrero.",
+        "El Real Decreto 217/2022, de 29 de marzo.",
+        "El Real Decreto 157/2022, de 1 de marzo.",
+        "La Orden EDU/2/2006 del Ministerio de Educación, de 3 de mayo."
+      ],
+      "correcta": 1,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: B. (Cuestionario Q89)",
+      "cuestionarioNum": 89,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 89",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 16 del Tratado de la Unión Europea, relativo al Consejo, ¿cuáles de las siguientes afirmaciones es CORRECTA?",
+      "opciones": [
+        "Se pronunciará por consenso, excepto cuando los Tratados dispongan otra cosa.",
+        "Sus miembros serán elegidos por sufragio universal directo, libre y secreto, para un mandato de cinco años.",
+        "Sus miembros serán elegidos en razón de su competencia general y de su compromiso europeo, de entre personalidades que ofrezcan plenas garantías de independencia.",
+        "Ejercerá conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria. Ejercerá funciones de definición de políticas y de coordinación, en las condiciones establecidas en los Tratados."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q90)",
+      "cuestionarioNum": 90,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 90",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 161 de la Constitución Española de 1978 (CE), la impugnación por el Gobierno ante el Tribunal Constitucional de las disposiciones y resoluciones adoptadas por las Comunidades Autónomas:",
+      "opciones": [
+        "Producirá la suspensión de la disposición o resolución recurrida, debiendo el Tribunal ratificarla o levantarla en un plazo no superior a un mes.",
+        "Producirá la suspensión de la disposición o resolución recurrida, debiendo el Tribunal ratificarla o levantarla en un plazo no superior a tres meses.",
+        "Producirá la suspensión de la disposición o resolución recurrida, debiendo el Tribunal ratificarla o levantarla en un plazo no superior a cinco meses.",
+        "No produce la suspensión de la disposición o resolución recurrida."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q91)",
+      "cuestionarioNum": 91,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 91",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es el factor más determinante en la resistencia aerodinámica al avance de un vehículo?",
+      "opciones": [
+        "La forma frontal que tenga el vehículo.",
+        "El coeficiente aerodinámico del vehículo.",
+        "La velocidad relativa del vehículo con respecto al viento.",
+        "La densidad del aire. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q92)",
+      "cuestionarioNum": 92,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 92",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 288 del Tratado de Funcionamiento de la Unión Europea (TFUE), entre otros actos jurídicos, para ejercer las competencias de la Unión Europea, las instituciones adoptarán:",
+      "opciones": [
+        "Reglamentos, directivas y decisiones, pero no podrán adoptar dictámenes.",
+        "Reglamentos, directivas, decisiones, dictámenes y acuerdos marco.",
+        "Reglamentos, directivas, decisiones, recomendaciones y acuerdos marco.",
+        "Reglamentos, directivas y decisiones."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q93)",
+      "cuestionarioNum": 93,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 93",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 149 del Reglamento General de Circulación, la señal de la imagen indica:",
+      "opciones": [
+        "Cercanía de un paso a nivel, puente móvil o muelle (lado derecho).",
+        "Proximidad de un paso a nivel, puente móvil o muelle (lado derecho).",
+        "Aproximación a un paso a nivel, puente móvil o muelle (lado derecho).",
+        "Inmediación de un paso a nivel, puente móvil o muelle (lado derecho)."
+      ],
+      "correcta": 0,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: A. (Cuestionario Q94)",
+      "cuestionarioNum": 94,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 94",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 84 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿qué entidad, de las enumeradas a continuación, NO integra el sector público institucional estatal?",
+      "opciones": [
+        "Las autoridades administrativas independientes.",
+        "Los fondos sin personalidad jurídica.",
+        "Los consorcios.",
+        "Las universidades públicas transferidas."
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q95)",
+      "cuestionarioNum": 95,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 95",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo segundo de la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo, éste es elegido por:",
+      "opciones": [
+        "El Presidente del Gobierno.",
+        "El Rey.",
+        "Las Cortes Generales.",
+        "Los Presidentes del Congreso y del Senado."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q96)",
+      "cuestionarioNum": 96,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 96",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "Atendiendo al Capítulo I, del Título III, de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, NO es admisible el recurso contencioso- administrativo respecto de:",
+      "opciones": [
+        "Las actuaciones materiales que constituyan vía de hecho, en los términos establecidos en dicha Ley.",
+        "La inactividad de la Administración.",
+        "Los actos que sean reproducción de otros anteriores definitivos y firmes y los confirmatorios de actos consentidos por no haber sido recurridos en tiempo y forma.",
+        "Los actos que se produzcan en aplicación de disposiciones de carácter general fundados en que las mismas no son conformes a Derecho."
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q97)",
+      "cuestionarioNum": 97,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 97",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 100 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto básico del empleado público, ¿a quién corresponde estudiar y analizar los proyectos de legislación básica en materia de empleo público?",
+      "opciones": [
+        "A la Conferencia Sectorial de Función Pública.",
+        "A la Comisión Superior de Personal.",
+        "A la Comisión de Coordinación del Empleo Público.",
+        "A la Conferencia Superior de Personal. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE"
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q98)",
+      "cuestionarioNum": 98,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 98",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "En el Plan de Medidas Especiales para la Seguridad Vial de las Motocicletas y Ciclomotores 2019-2020, el Área de actuación 1: “Educación y Formación”, incluye tres programas y siete medidas asociadas a los mismos. Una de las medidas del Programa",
+      "opciones": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "correcta": 2,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: C. (Cuestionario Q99)",
+      "cuestionarioNum": 99,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 99",
+        "documentoId": "examen-2022"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 6 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, en el ámbito de la Administración General del Estado, ¿a quién corresponde la evaluación del cumplimiento de los planes y programas anuales y plurianuales en los que se fijen objetivos concretos de las Administraciones Públicas?",
+      "opciones": [
+        "A las inspecciones de seguridad nacional.",
+        "A la Dirección General de Inspección de Calidad.",
+        "A los servicios de inspección de la transparencia.",
+        "A las inspecciones generales de servicios. ESPECIALIDAD DE TRÁFICO – SISTEMA DE ACCESO LIBRE PREGUNTAS SUPLEMENTARIAS DE RESERVA"
+      ],
+      "correcta": 3,
+      "anulada": false,
+      "puntuacion_nula": false,
+      "explicacion": "Respuesta oficial: D. (Cuestionario Q100)",
+      "cuestionarioNum": 100,
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Examen OEP 2022",
+        "referencia": "Pregunta 100",
+        "documentoId": "examen-2022"
+      }
+    }
+  ]
 }
