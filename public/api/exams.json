@@ -1,0 +1,56 @@
+[
+  {
+    "id": "examen-2024",
+    "year": 2024,
+    "title": "Examen OEP 2023/2024",
+    "description": "Acceso libre · Modelo B · 100 preguntas",
+    "questionCount": 100,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
+    "id": "examen-2023",
+    "year": 2023,
+    "title": "Examen OEP 2022/2023",
+    "description": "Acceso libre · Modelo B · 97 preguntas",
+    "questionCount": 97,
+    "verified": false,
+    "note": "Próximamente"
+  },
+  {
+    "id": "examen-2022",
+    "year": 2022,
+    "title": "Examen OEP 2021/2022",
+    "description": "Acceso libre · Modelo B · 99 preguntas",
+    "questionCount": 99,
+    "verified": false,
+    "note": "Próximamente"
+  },
+  {
+    "id": "examen-2020",
+    "year": 2020,
+    "title": "Examen OEP 2019/2020",
+    "description": "Acceso libre · 90 preguntas",
+    "questionCount": 90,
+    "verified": false,
+    "note": "Próximamente"
+  },
+  {
+    "id": "examen-2019",
+    "year": 2019,
+    "title": "Examen OEP 2018/2019",
+    "description": "Acceso libre · 98 preguntas",
+    "questionCount": 98,
+    "verified": false,
+    "note": "Próximamente"
+  },
+  {
+    "id": "examen-2018",
+    "year": 2018,
+    "title": "Examen OEP 2017/2018",
+    "description": "Acceso libre · 98 preguntas",
+    "questionCount": 98,
+    "verified": false,
+    "note": "Próximamente"
+  }
+]

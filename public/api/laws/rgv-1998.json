@@ -1,0 +1,20 @@
+{
+  "id": "rgv-1998",
+  "title": "Real Decreto 2822/1998 — Reglamento General de Vehículos",
+  "sections": [
+    {
+      "id": "titulo-ii-cap-i-homologacion-itv",
+      "title": "Título II, Capítulo I — Homologación e inspección técnica",
+      "original": "Artículo 10. Inspecciones técnicas de vehículos. Los vehículos matriculados deberán someterse a ITV con la periodicidad establecida. La inspección versa sobre seguridad vial, medio ambiente, inscripciones reglamentarias, reformas y certificados de transporte de mercancías peligrosas y perecederas.",
+      "resumido": "**Homologación e Inspección Técnica de Vehículos (ITV):**\n\nLa homologación garantiza que el vehículo cumple los requisitos técnicos de seguridad y medioambientales para circular.\n\n**ITV** (Arts. 10-15 RGV): Inspección periódica obligatoria de los vehículos. El plazo varía según el tipo:\n- Turismos: Primera ITV a los 4 años de matriculación, luego cada 2 años hasta los 10, y anual a partir de entonces.\n- Vehículos de transporte de pasajeros y mercancías peligrosas: anual desde el primer año.\n- Motocicletas: a los 4 años, luego bienal hasta los 10, luego anual.\n\nEl incumplimiento de la ITV es infracción grave. El vehículo puede ser inmovilizado.\n\n**Reformas de importancia** (Art. 18): Modificaciones en el vehículo que afecten a la seguridad requieren autorización previa de la DGT e ITV posterior.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-iv-matriculacion",
+      "title": "Título IV — Autorizaciones de circulación de los vehículos",
+      "original": "Artículos 25-41. Matriculación, documentación, cambios de titularidad, bajas y rehabilitación de vehículos.",
+      "resumido": "**Autorización de circulación y matriculación:**\n\nPara circular por vías públicas, los vehículos deben estar matriculados y llevar placas de identificación. La matrícula es permanente y no cambia con el cambio de propietario.\n\n**Permiso de circulación** (Art. 61 y ss.): Documento que acredita la autorización para circular. Lo expide la DGT. Es específico para cada vehículo y debe llevar el conductor.\n\n**Ficha técnica:** Documento que recoge las características técnicas homologadas del vehículo.\n\n**Transmisión del vehículo:** Debe comunicarse a la Jefatura de Tráfico en 30 días. Hasta la notificación, el titular registral sigue siendo responsable de las infracciones.",
+      "esquema": null
+    }
+  ]
+}

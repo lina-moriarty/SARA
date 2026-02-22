@@ -10,8 +10,9 @@ const THEMES = [
 ];
 
 const App = {
-  // State
+  // === STATE ===
   quizzes: [],
+  exams: [],
   currentQuiz: null,
   currentQuestionIndex: 0,
   mode: 'learning',
@@ -24,11 +25,15 @@ const App = {
   theme: localStorage.getItem('sara-theme') || 'dark',
   bgImage: localStorage.getItem('sara-bg-image') === 'true',
 
-  // DOM elements
+  // === DOM ELEMENTS ===
   el: {
     startScreen: document.getElementById('start-screen'),
+    examsScreen: document.getElementById('exams-screen'),
+    lawsScreen: document.getElementById('laws-screen'),
+    lawDetailScreen: document.getElementById('law-detail-screen'),
     quizScreen: document.getElementById('quiz-screen'),
     resultsScreen: document.getElementById('results-screen'),
+    tabBar: document.getElementById('tab-bar'),
     quizList: document.getElementById('quiz-list'),
     modeModal: document.getElementById('mode-modal'),
     modeModalTitle: document.getElementById('mode-modal-title'),
@@ -66,9 +71,12 @@ const App = {
     this.applyBackground(this.bgImage);
     this.renderThemeGrid();
     this.bindEvents();
-    await this.loadQuizList();
+    await Promise.all([
+      this.loadQuizList(),
+      this.loadExamList(),
+      this.loadLawsList(),
+    ]);
 
-    // Show onboarding on first visit
     const hasVisited = localStorage.getItem('sara-onboarded');
     if (!hasVisited) {
       this.showOnboarding();
@@ -80,13 +88,12 @@ const App = {
     const grid = document.getElementById('onboarding-theme-grid');
     const startBtn = document.getElementById('onboarding-start');
 
-    // Hide start screen, show onboarding
     document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
     onboarding.classList.add('active');
+    this.el.tabBar.classList.add('hidden');
 
-    // Render theme swatches in onboarding grid
     grid.innerHTML = THEMES.map(t => `
-      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}" 
+      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}"
            data-theme="${t.id}"
            style="background: ${t.bg}; color: ${t.fg}; border-color: ${t.fg};"
            onclick="App.applyTheme('${t.id}'); document.querySelectorAll('#onboarding-theme-grid .theme-swatch').forEach(s => s.classList.toggle('active', s.dataset.theme === '${t.id}'));">
@@ -111,12 +118,21 @@ const App = {
     this.el.settingsModal.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
   },
 
+  // === TABS ===
+  switchTab(tab) {
+    this.activeTab = tab;
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.tab === tab);
+    });
+    const screenMap = { bloques: 'start', examenes: 'exams', leyes: 'laws' };
+    this.showScreen(screenMap[tab]);
+  },
+
   // === THEMES ===
   applyTheme(themeId) {
     this.theme = themeId;
     document.documentElement.setAttribute('data-theme', themeId);
     localStorage.setItem('sara-theme', themeId);
-    // Update active swatch
     document.querySelectorAll('.theme-swatch').forEach(s => {
       s.classList.toggle('active', s.dataset.theme === themeId);
     });
@@ -124,7 +140,7 @@ const App = {
 
   renderThemeGrid() {
     this.el.themeGrid.innerHTML = THEMES.map(t => `
-      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}" 
+      <div class="theme-swatch ${t.id === this.theme ? 'active' : ''}"
            data-theme="${t.id}"
            style="background: ${t.bg}; color: ${t.fg};"
            onclick="App.applyTheme('${t.id}')">
@@ -157,10 +173,34 @@ const App = {
   // === NAVIGATION ===
   backToMenu() {
     if (this.timer) clearInterval(this.timer);
-    this.showScreen('start');
+    const screenMap = { bloques: 'start', examenes: 'exams', leyes: 'laws' };
+    this.showScreen(screenMap[this.lastTab] || 'start');
+    // Restore active tab button
+    document.querySelectorAll('.tab-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.tab === this.lastTab);
+    });
+    this.activeTab = this.lastTab;
   },
 
-  // === QUIZ LIST ===
+  backToLaws() {
+    this.showScreen('laws');
+  },
+
+  // === SCREEN MANAGEMENT ===
+  showScreen(name) {
+    document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+    const screenEl = this.el[name + 'Screen'];
+    if (screenEl) screenEl.classList.add('active');
+
+    // Hide tab bar during quiz and results
+    const hideTabBar = ['quiz', 'results'].includes(name);
+    this.el.tabBar.classList.toggle('hidden', hideTabBar);
+
+    // Add bottom padding to tab screens so content isn't hidden under tab bar
+    document.body.classList.toggle('has-tab-bar', !hideTabBar);
+  },
+
+  // === TAB 1: QUIZ LIST ===
   async loadQuizList() {
     try {
       const res = await fetch('/api/quizzes.json');
@@ -176,7 +216,6 @@ const App = {
       this.el.quizList.innerHTML = '<p class="loading">No hay tests disponibles todavía.</p>';
       return;
     }
-
     this.el.quizList.innerHTML = this.quizzes.map((q, i) => `
       <div class="quiz-item" data-index="${i}">
         <div class="quiz-item-info">
@@ -186,7 +225,7 @@ const App = {
       </div>
     `).join('');
 
-    document.querySelectorAll('.quiz-item').forEach(item => {
+    document.querySelectorAll('[data-source="quizzes"]').forEach(item => {
       item.addEventListener('click', () => {
         this.pendingQuizIndex = parseInt(item.dataset.index);
         this.openModeModal();
@@ -220,6 +259,11 @@ const App = {
       this.currentQuiz = await res.json();
     } catch (e) {
       alert('Error cargando el test.');
+      return;
+    }
+
+    if (!this.currentQuiz.questions || this.currentQuiz.questions.length === 0) {
+      alert('Este examen estará disponible próximamente.');
       return;
     }
 
@@ -275,10 +319,7 @@ const App = {
     const q = this.currentQuiz.questions[this.currentQuestionIndex];
     const isCorrect = index === q.correcta;
 
-    this.answers[this.currentQuestionIndex] = {
-      selected: index,
-      correct: isCorrect
-    };
+    this.answers[this.currentQuestionIndex] = { selected: index, correct: isCorrect };
 
     if (this.mode === 'learning') {
       this.showLearningFeedback(index, q);
@@ -308,7 +349,6 @@ const App = {
       explanationHTML += `<a class="feedback-source-link" onclick="App.showSource(${this.currentQuestionIndex})">${lawName} — ${question.fuente.referencia || 'Ver referencia'}</a>`;
     }
     this.el.feedbackExplanation.innerHTML = explanationHTML;
-
     this.el.feedbackPanel.classList.remove('hidden');
     this.updateScoreDisplay();
   },
@@ -414,7 +454,6 @@ const App = {
     this.el.totalIncorrect.textContent = incorrect;
     this.el.totalUnanswered.textContent = unanswered;
     this.el.finalScore.textContent = `${percentage}%`;
-
     this.el.passFail.style.display = 'none';
     this.el.timeTaken.textContent = formatTimeTaken(this.elapsedSeconds);
 
@@ -425,7 +464,6 @@ const App = {
   // === RENDER REVIEW ===
   renderReview() {
     const letters = ['A', 'B', 'C', 'D'];
-    
     this.el.reviewList.innerHTML = this.currentQuiz.questions.map((q, i) => {
       const answer = this.answers[i];
       const { status, icon: statusIcon } = getReviewStatus(answer);
@@ -434,14 +472,12 @@ const App = {
         const cls = getReviewOptionClass(j, q.correcta, answer);
         return `<div class="review-option ${cls}">${letters[j]}) ${opt}</div>`;
       }).join('');
-
       const sourceHTML = q.fuente ? `
         <div class="review-source">
           <a class="feedback-source-link" onclick="App.showSource(${i})">${q.fuente.documento} — ${q.fuente.referencia}</a>
           <div>${q.fuente.texto || ''}</div>
         </div>
       ` : '';
-
       return `
         <div class="review-item" data-index="${i}">
           <div class="review-item-header" onclick="App.toggleReview(${i})">
@@ -464,10 +500,148 @@ const App = {
     item.classList.toggle('expanded');
   },
 
+  // === TAB 3: LAWS BROWSER ===
+  async loadLawsList() {
+    try {
+      const res = await fetch('/api/laws.json');
+      this.laws = await res.json();
+      this.renderLawsList();
+    } catch (e) {
+      this.el.lawsList.innerHTML = '<p class="loading">Error cargando leyes. Refresca la página.</p>';
+    }
+  },
+
+  renderLawsList() {
+    const general = this.laws.filter(l => l.category === 'general');
+    const especifica = this.laws.filter(l => l.category === 'especifica');
+
+    const renderGroup = (laws, title) => `
+      <div class="laws-group">
+        <h2 class="laws-group-title">${title}</h2>
+        ${laws.map(law => `
+          <div class="law-card" onclick="App.openLaw('${law.id}')">
+            <div class="law-card-title">${law.shortTitle}</div>
+            <div class="law-card-desc">${law.title}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+
+    this.el.lawsList.innerHTML =
+      renderGroup(general, 'Parte General') +
+      renderGroup(especifica, 'Parte Específica');
+  },
+
+  async openLaw(id) {
+    this.showScreen('lawDetail');
+
+    if (!this.lawCache[id]) {
+      this.el.lawDetailTitle.textContent = 'Cargando...';
+      this.el.lawAccordion.innerHTML = '<p class="loading">Cargando ley...</p>';
+      try {
+        const res = await fetch(`/api/laws/${id}.json`);
+        this.lawCache[id] = await res.json();
+      } catch (e) {
+        this.el.lawAccordion.innerHTML = '<p class="loading">Error cargando la ley.</p>';
+        return;
+      }
+    }
+
+    this.renderLawDetail(this.lawCache[id]);
+  },
+
+  renderLawDetail(law) {
+    this.el.lawDetailTitle.textContent = law.title;
+    const lawId = law.id;
+
+    const renderSubSections = (sections, field) => {
+      if (!sections || sections.length === 0) return '<p class="law-empty">Sin contenido disponible.</p>';
+      return sections.map((sec, i) => {
+        const uid = `${lawId}-${field}-${i}`;
+        const content = sec[field];
+        if (!content) return `
+          <div class="sub-accordion-item">
+            <div class="sub-accordion-header" onclick="App.toggleAccordion('${uid}')">
+              <span>${sec.title}</span>
+              <span class="accordion-arrow">▼</span>
+            </div>
+            <div class="sub-accordion-body" id="${uid}">
+              <p class="law-empty">Sin contenido disponible.</p>
+            </div>
+          </div>`;
+        const html = content
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/\n\n/g, '</p><p>')
+          .replace(/\n/g, '<br>');
+        return `
+          <div class="sub-accordion-item">
+            <div class="sub-accordion-header" onclick="App.toggleAccordion('${uid}')">
+              <span>${sec.title}</span>
+              <span class="accordion-arrow">▼</span>
+            </div>
+            <div class="sub-accordion-body" id="${uid}"><p>${html}</p></div>
+          </div>`;
+      }).join('');
+    };
+
+    const uid = (suffix) => `${lawId}-${suffix}`;
+
+    this.el.lawAccordion.innerHTML = `
+      <div class="main-accordion-item">
+        <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('original')}')">
+          <span class="accordion-label">📄 Original</span>
+          <span class="accordion-arrow">▼</span>
+        </div>
+        <div class="main-accordion-body" id="${uid('original')}">
+          ${renderSubSections(law.sections, 'original')}
+        </div>
+      </div>
+
+      <div class="main-accordion-item">
+        <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('resumido')}')">
+          <span class="accordion-label">📝 Resumido</span>
+          <span class="accordion-arrow">▼</span>
+        </div>
+        <div class="main-accordion-body" id="${uid('resumido')}">
+          ${renderSubSections(law.sections, 'resumido')}
+        </div>
+      </div>
+
+      <div class="main-accordion-item">
+        <div class="main-accordion-header" onclick="App.toggleAccordion('${uid('esquema')}')">
+          <span class="accordion-label">🗂️ Esquema</span>
+          <span class="accordion-arrow">▼</span>
+        </div>
+        <div class="main-accordion-body" id="${uid('esquema')}">
+          <p class="law-empty law-coming-soon">✨ El esquema estará disponible próximamente.</p>
+        </div>
+      </div>
+    `;
+  },
+
+  toggleAccordion(id) {
+    const body = document.getElementById(id);
+    if (!body) return;
+    const isOpen = body.classList.contains('open');
+    body.classList.toggle('open', !isOpen);
+    // Update arrow
+    const header = body.previousElementSibling;
+    if (header) {
+      const arrow = header.querySelector('.accordion-arrow');
+      if (arrow) arrow.classList.toggle('rotated', !isOpen);
+    }
+  },
+
   // === HELPERS ===
   showScreen(name) {
     document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
-    this.el[name + 'Screen'].classList.add('active');
+    const screenEl = this.el[name + 'Screen'];
+    if (screenEl) screenEl.classList.add('active');
+    const hideTabBar = ['quiz', 'results'].includes(name);
+    this.el.tabBar.classList.toggle('hidden', hideTabBar);
+    document.body.classList.toggle('has-tab-bar', !hideTabBar);
   },
 
   updateTimer() {

@@ -1,0 +1,27 @@
+{
+  "id": "rd-818-2009",
+  "title": "Real Decreto 818/2009 — Reglamento General de Conductores",
+  "sections": [
+    {
+      "id": "titulo-I-capitulo-I",
+      "title": "Título I, Capítulo I. Del permiso y de la licencia de conducción",
+      "original": "Artículo 1. El permiso y la licencia de conducción.\nLa conducción exige haber obtenido previamente el permiso o licencia. Son de otorgamiento y contenido reglados.\n\nArtículo 2. Competencia para expedir los permisos y las licencias de conducción.\nSerán expedidos por las Jefaturas Provinciales de Tráfico, con excepción de los de Fuerzas Armadas o Policía/Guardia Civil.\n\nArtículo 4. Clases de permiso de conducción y edad requerida.\nAM: ciclomotores, 15 años. A1: motos hasta 125cc/11kW, 16 años. A2: motos hasta 35kW, 18 años. A: motocicletas y triciclos, 20 años. B: automóviles hasta 3.500 kg, 18 años. B+E, C1, C, D1, D y sus +E.\n\nArtículo 12. Vigencia del permiso y de la licencia de conducción.\n1. C1, C1+E, C, C+E, D1, D1+E, D y D+E: 5 años (<65) / 3 años (≥65).\n2. Clases restantes y licencias: 10 años (<65) / 5 años (≥65).\n5. Vigencia condicionada a no perder totalmente los puntos.\n6. Subordinada a mantener los requisitos.",
+      "resumido": "**Permisos y licencias de conducción** (Arts. 1-14):\n\nLos permisos se clasifican en:\n- **AM:** Ciclomotores y quads ligeros (16 años)\n- **A1:** Motocicletas hasta 125 cc (16 años)\n- **A2:** Motocicletas hasta 35 kW (18 años)\n- **A:** Toda motocicleta (20 años si procede de A2; 24 años de acceso directo)\n- **B:** Turismos y furgonetas hasta 3.500 kg / 8 plazas (18 años). Es el más común.\n- **C:** Camiones > 3.500 kg (21 años)\n- **D:** Autobuses > 8 plazas (24 años)\n- **BE, CE, DE:** Combinaciones con remolques\n\nEl permiso B habilita para conducir: motocarros, cuadriciclos ligeros, vehículos especiales agrícolas ligeros, y ciclomotores de 2 ruedas con 3 años de antigüedad del B.\n\n**Licencias de conducción:** Para personas con discapacidades o en zonas sin acceso público. Las licencias de tractores y máquinas agrícolas son competencia del MAPA.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-II-capitulo-II",
+      "title": "Título II, Capítulo II. De las pruebas de aptitud psicofísica",
+      "original": "Artículo 44. Personas obligadas a someterse a las pruebas.\n1. Todas las personas que pretendan obtener o prorrogar cualquier permiso o licencia. Las pruebas las practican los centros de reconocimiento de conductores autorizados, que emiten informe de aptitud psicofísica.\n2. Aptitudes psicofísicas: las del anexo IV.\n\nArtículo 45. Grupos de conductores.\n1. a) Grupo 1: AM, A1, A2, A, B, B+E. b) Grupo 2: C1, C1+E, C, C+E, D1, D1+E, D, D+E.\n2. Se equiparan al Grupo 2 los profesionales de la enseñanza de la conducción.\n\nArtículo 46. Permisos y licencias ordinarios y extraordinarios.\nOrdinarios: sin adaptaciones. Extraordinarios: sujetos a condiciones restrictivas (adaptaciones, restricciones).",
+      "resumido": "**Pruebas de aptitud psicofísica** (Arts. 45-59):\n\nTodo conductor debe mantener las condiciones psicofísicas requeridas. Las revisiones médicas son obligatorias para renovar el permiso.\n\n**Centros de reconocimiento de conductores:** Entidades autorizadas para realizar las pruebas. Deben estar homologadas por la DGT.\n\nLas condiciones psicofísicas mínimas incluyen: agudeza visual, campo visual, percepción de profundidad, visión de colores, audición, aparato locomotor, y estado mental. La evaluación se realiza por médicos del centro de reconocimiento.\n\nSi el conductor pierde la aptitud sobrevenidamente (enfermedad, accidente), debe comunicarlo y tiene prohibido conducir.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-II-capitulo-III",
+      "title": "Título II, Capítulo III. De las pruebas de conocimientos, aptitudes y comportamientos",
+      "original": "Artículo 47. Pruebas de control de conocimientos.\nGarantizan conocimiento razonado sobre materias del anexo V.B).1 y 2.\n\nArtículo 51. Organización y regulación de las pruebas de aptitud.\n1. Corresponde al organismo autónomo Jefatura Central de Tráfico.\n2. Cada solicitud da derecho a 2 convocatorias. Entre convocatorias no más de 6 meses.\n\nArtículo 53. Calificación de las pruebas.\n1. Apto o no apto. Vigencia de 2 años desde el día siguiente a la aptitud. Las pruebas son eliminatorias: conocimientos → circuito cerrado → circulación.\n2. El personal examinador debe reunir requisitos del anexo VIII.",
+      "resumido": "**Pruebas de conocimientos y de conducción** (Arts. 60-75):\n\n**Examen teórico:** Tests sobre normativa de tráfico, seguridad vial, mecánica básica y primeros auxilios. Formato de preguntas con varias opciones. Para el permiso B: 30 preguntas, máximo 3 errores.\n\n**Examen práctico de circulación:** Se realiza en vías abiertas al tráfico, evaluando maniobras establecidas en el Anexo V del Reglamento:\n- Maniobra de salida del aparcamiento\n- Maniobra de estacionamiento en batería, cordón y en pendiente\n- Maniobra en espacio reducido (giro en 3 movimientos)\n- Marcha atrás\n- Cambio de dirección\n\n**Centros de examen:** Los exámenes los realiza la DGT, no los autoescuelas. Las autoescuelas preparan a los candidatos pero no evalúan.",
+      "esquema": null
+    }
+  ]
+}
