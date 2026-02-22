@@ -1,0 +1,546 @@
+{
+  "title": "Bloque 1: Organización del Estado — Set 2",
+  "description": "25 preguntas adicionales sobre la Constitución, poderes del Estado, UE y empleo público (Temas 1-8)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 1.2 de la Constitución Española, la soberanía nacional reside en:",
+      "opciones": [
+        "Las Cortes Generales",
+        "El pueblo español, del que emanan los poderes del Estado",
+        "El Rey, como Jefe del Estado",
+        "El Gobierno y las Comunidades Autónomas conjuntamente"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 1.2 CE establece expresamente que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado. No reside en las Cortes (que representan al pueblo), ni en el Rey, ni en el Gobierno.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 1.2",
+        "texto": "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 16 de la Constitución Española, respecto a la libertad ideológica y religiosa, señale la afirmación CORRECTA:",
+      "opciones": [
+        "Los ciudadanos podrán ser obligados a declarar sobre su ideología si lo ordena un juez",
+        "La Iglesia Católica tendrá carácter estatal",
+        "Ninguna confesión tendrá carácter estatal",
+        "La libertad religiosa no tiene limitación alguna en sus manifestaciones"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 16.3 CE establece que ninguna confesión tendrá carácter estatal. El artículo 16.2 dice que nadie podrá ser obligado a declarar sobre su ideología. Y el 16.1 limita las manifestaciones al mantenimiento del orden público.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 16.3",
+        "texto": "Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 18.2 de la Constitución Española, el domicilio es inviolable. Ninguna entrada o registro podrá hacerse sin consentimiento del titular o resolución judicial, salvo en caso de:",
+      "opciones": [
+        "Urgente necesidad",
+        "Flagrante delito",
+        "Orden gubernativa",
+        "Investigación policial"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 18.2 CE establece que el domicilio es inviolable y que ninguna entrada o registro podrá hacerse sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito. No se admiten otras excepciones como urgencia u órdenes gubernativas.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 18.2",
+        "texto": "El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-i"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 54 de la Constitución Española, el Defensor del Pueblo es:",
+      "opciones": [
+        "Un alto comisionado del Gobierno para la defensa de los derechos fundamentales",
+        "Un alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el Título I",
+        "Un miembro del Tribunal Constitucional designado para la protección de derechos",
+        "Un alto comisionado del Consejo General del Poder Judicial"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 54 CE define al Defensor del Pueblo como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en el Título I. No depende del Gobierno ni del CGPJ.",
+      "tema": 1,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 54",
+        "texto": "Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-i"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 57.1 de la Constitución Española, en la sucesión al trono, dentro de la misma línea será preferido:",
+      "opciones": [
+        "El grado más remoto al más próximo",
+        "El grado más próximo al más remoto",
+        "El de mayor edad independientemente del grado",
+        "El designado por las Cortes Generales"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 57.1 CE establece que en la misma línea será preferido el grado más próximo al más remoto. No el más remoto, ni intervienen las Cortes en la designación dentro de la línea sucesoria.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 57.1",
+        "texto": "La sucesión en el trono seguirá el orden regular de primogenitura y representación, siendo preferida siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer, y en el mismo sexo, la persona de más edad a la de menos.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 66.1 de la Constitución Española, las Cortes Generales representan al pueblo español y están formadas por:",
+      "opciones": [
+        "El Congreso de los Diputados, el Senado y el Consejo de Estado",
+        "El Congreso de los Diputados y el Senado",
+        "El Congreso de los Diputados exclusivamente",
+        "El Congreso de los Diputados, el Senado y las Asambleas Legislativas de las CCAA"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 66.1 CE establece que las Cortes Generales están formadas por el Congreso de los Diputados y el Senado. No incluyen el Consejo de Estado ni las Asambleas de las CCAA.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 66.1",
+        "texto": "Las Cortes Generales representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iii"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 69.1 de la Constitución Española, el Senado es:",
+      "opciones": [
+        "La Cámara de representación popular",
+        "La Cámara de representación territorial",
+        "La Cámara de representación institucional",
+        "La Cámara alta de representación provincial"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 69.1 CE define expresamente al Senado como la Cámara de representación territorial.",
+      "tema": 2,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 69.1",
+        "texto": "El Senado es la Cámara de representación territorial.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iii"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 99.5 de la Constitución Española, si transcurrido el plazo de dos meses desde la primera votación de investidura ningún candidato hubiere obtenido la confianza del Congreso:",
+      "opciones": [
+        "Se convocará un referéndum para elegir al Presidente del Gobierno",
+        "El Presidente del Congreso asumirá provisionalmente la Presidencia del Gobierno",
+        "El Rey disolverá ambas Cámaras y convocará nuevas elecciones",
+        "Se celebrará una nueva votación con mayoría simple"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 99.5 CE establece que si en dos meses desde la primera votación de investidura ningún candidato obtiene la confianza, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 99.5",
+        "texto": "Si transcurrido el plazo de dos meses, a partir de la primera votación de investidura, ningún candidato hubiere obtenido la confianza del Congreso, el Rey disolverá ambas Cámaras y convocará nuevas elecciones con el refrendo del Presidente del Congreso.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iv"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 112 de la Constitución Española, la cuestión de confianza se entenderá otorgada cuando vote a favor:",
+      "opciones": [
+        "La mayoría absoluta de los Diputados",
+        "La mayoría de dos tercios de los Diputados",
+        "La mayoría simple de los Diputados",
+        "La mayoría absoluta del Congreso y del Senado"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 112 CE establece que la confianza se entenderá otorgada cuando vote a favor la mayoría simple de los Diputados. A diferencia de la moción de censura, que exige mayoría absoluta.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 112",
+        "texto": "El Presidente del Gobierno, previa deliberación del Consejo de Ministros, puede plantear ante el Congreso de los Diputados la cuestión de confianza sobre su programa o sobre una declaración de política general. La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-v"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 116.2 de la Constitución Española, el estado de alarma será declarado por un plazo máximo de:",
+      "opciones": [
+        "Ocho días",
+        "Quince días",
+        "Treinta días",
+        "Sesenta días"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 116.2 CE establece que el estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 116.2",
+        "texto": "El estado de alarma será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros por un plazo máximo de quince días, dando cuenta al Congreso de los Diputados.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-v"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 2.2.c) de la Ley 50/1997, del Gobierno, corresponde al Presidente del Gobierno:",
+      "opciones": [
+        "Proponer al Rey la disolución del Congreso sin deliberación previa",
+        "Proponer al Rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales",
+        "Disolver directamente las Cortes Generales sin intervención del Rey",
+        "Proponer al Congreso la disolución del Senado"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 2.2.c) de la Ley 50/1997 establece que corresponde al Presidente proponer al Rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales.",
+      "tema": 3,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+        "referencia": "Artículo 2.2.c)",
+        "texto": "Proponer al Rey, previa deliberación del Consejo de Ministros, la disolución del Congreso, del Senado o de las Cortes Generales.",
+        "documentoId": "ley-50-1997",
+        "seccionId": "titulo-i"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 103.1 de la Constitución Española, la Administración Pública actúa de acuerdo con los principios de:",
+      "opciones": [
+        "Eficacia, jerarquía, centralización, concentración y coordinación",
+        "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+        "Eficiencia, jerarquía, descentralización, desconcentración y cooperación",
+        "Eficacia, igualdad, descentralización, desconcentración y coordinación"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 103.1 CE enumera los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. Las opciones incorrectas sustituyen descentralización por centralización, o eficacia por eficiencia, o coordinación por cooperación.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 103.1",
+        "texto": "La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iv"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 107 de la Constitución Española, el Consejo de Estado es:",
+      "opciones": [
+        "El supremo órgano jurisdiccional del Gobierno",
+        "El supremo órgano consultivo del Gobierno",
+        "El supremo órgano de control del Gobierno",
+        "El supremo órgano ejecutivo del Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 107 CE define al Consejo de Estado como el supremo órgano consultivo del Gobierno. No es jurisdiccional, ni de control, ni ejecutivo.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 107",
+        "texto": "El Consejo de Estado es el supremo órgano consultivo del Gobierno. Una ley orgánica regulará su composición y competencia.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iv"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 3.1 de la Ley Orgánica 6/1985, del Poder Judicial, la jurisdicción es:",
+      "opciones": [
+        "Múltiple y se ejerce por los distintos órdenes jurisdiccionales",
+        "Única y se ejerce por los Juzgados y Tribunales previstos en esta Ley",
+        "Compartida entre el Poder Judicial y el Tribunal Constitucional",
+        "Única y se ejerce exclusivamente por el Tribunal Supremo"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 3.1 LOPJ establece que la jurisdicción es única y se ejerce por los Juzgados y Tribunales previstos en esta Ley, sin perjuicio de las potestades jurisdiccionales reconocidas por la Constitución a otros órganos.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial",
+        "referencia": "Artículo 3.1",
+        "texto": "La jurisdicción es única y se ejerce por los Juzgados y Tribunales previstos en esta Ley, sin perjuicio de las potestades jurisdiccionales reconocidas por la Constitución a otros órganos.",
+        "documentoId": "lopj",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 5.1 de la Ley Orgánica 6/1985, del Poder Judicial, los Jueces y Tribunales interpretarán y aplicarán las leyes conforme a la interpretación que resulte de:",
+      "opciones": [
+        "Las resoluciones dictadas por el Tribunal Supremo",
+        "Las resoluciones dictadas por el Tribunal Constitucional en todo tipo de procesos",
+        "La doctrina del Consejo General del Poder Judicial",
+        "Los dictámenes del Consejo de Estado"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 5.1 LOPJ establece que los Jueces y Tribunales interpretarán y aplicarán las leyes según los preceptos y principios constitucionales, conforme a la interpretación que resulte de las resoluciones dictadas por el Tribunal Constitucional en todo tipo de procesos.",
+      "tema": 4,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial",
+        "referencia": "Artículo 5.1",
+        "texto": "La Constitución es la norma suprema del ordenamiento jurídico, y vincula a todos los Jueces y Tribunales, quienes interpretarán y aplicarán las leyes y los reglamentos según los preceptos y principios constitucionales, conforme a la interpretación de los mismos que resulte de las resoluciones dictadas por el Tribunal Constitucional en todo tipo de procesos.",
+        "documentoId": "lopj",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 141.1 de la Constitución Española, la provincia es una entidad local determinada por:",
+      "opciones": [
+        "La agrupación de comarcas y división territorial para el cumplimiento de las actividades del Estado",
+        "La agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado",
+        "La agrupación de municipios para el cumplimiento de las actividades de la Comunidad Autónoma",
+        "La división territorial establecida por las Cortes Generales mediante ley ordinaria"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 141.1 CE define la provincia como entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 141.1",
+        "texto": "La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 140 de la Constitución Española, el gobierno y la administración de los municipios corresponde a:",
+      "opciones": [
+        "Los Alcaldes exclusivamente",
+        "Los Ayuntamientos, integrados por los Alcaldes y los Concejales",
+        "Las Diputaciones Provinciales",
+        "Los Delegados del Gobierno en la provincia"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 140 CE establece que el gobierno y administración de los municipios corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 140",
+        "texto": "La Constitución garantiza la autonomía de los municipios. Estos gozarán de personalidad jurídica plena. Su gobierno y administración corresponde a sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 2 de la Constitución Española, la Constitución se fundamenta en:",
+      "opciones": [
+        "La pluralidad de naciones que integran el Estado español",
+        "La indisoluble unidad de la Nación española, reconociendo el derecho a la autodeterminación de las nacionalidades",
+        "La indisoluble unidad de la Nación española, reconociendo y garantizando el derecho a la autonomía de las nacionalidades y regiones",
+        "La unión voluntaria de las Comunidades Autónomas"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 2 CE se fundamenta en la indisoluble unidad de la Nación española y reconoce y garantiza el derecho a la autonomía (no a la autodeterminación) de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+      "tema": 5,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 2",
+        "texto": "La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-preliminar"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 96.1 de la Constitución Española, los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España:",
+      "opciones": [
+        "Tendrán carácter meramente orientativo para los tribunales",
+        "Formarán parte del ordenamiento interno",
+        "Solo serán aplicables si son desarrollados por ley orgánica",
+        "Prevalecerán sobre la Constitución Española"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 96.1 CE establece que los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno.",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 96.1",
+        "texto": "Los tratados internacionales válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno. Sus disposiciones sólo podrán ser derogadas, modificadas o suspendidas en la forma prevista en los propios tratados o de acuerdo con las normas generales del Derecho internacional.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-iii"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 162.1.a) de la Constitución Española, para interponer recurso de inconstitucionalidad están legitimados, entre otros:",
+      "opciones": [
+        "25 Diputados y 25 Senadores",
+        "50 Diputados y 50 Senadores",
+        "La tercera parte de los Diputados y la tercera parte de los Senadores",
+        "100 Diputados y 100 Senadores"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 162.1.a) CE establece que están legitimados para interponer recurso de inconstitucionalidad, entre otros, 50 Diputados y 50 Senadores, así como el Presidente del Gobierno, el Defensor del Pueblo y los órganos ejecutivos de las CCAA.",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 162.1.a)",
+        "texto": "Están legitimados: a) Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-ix"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 160 de la Constitución Española, el Presidente del Tribunal Constitucional será nombrado por un período de:",
+      "opciones": [
+        "Cinco años",
+        "Nueve años",
+        "Tres años",
+        "Seis años"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 160 CE establece que el Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años.",
+      "tema": 6,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Constitución Española",
+        "referencia": "Artículo 160",
+        "texto": "El Presidente del Tribunal Constitucional será nombrado entre sus miembros por el Rey, a propuesta del mismo Tribunal en pleno y por un período de tres años.",
+        "documentoId": "constitucion-1978",
+        "seccionId": "titulo-ix"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 1.1 de la LO 1/2004, de Medidas de Protección Integral contra la Violencia de Género, esta ley actúa contra la violencia ejercida sobre las mujeres por parte de:",
+      "opciones": [
+        "Cualquier hombre con independencia de su relación con la víctima",
+        "Quienes sean o hayan sido sus cónyuges o estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia",
+        "Exclusivamente quienes sean sus cónyuges y convivan con ellas",
+        "Cualquier persona del entorno familiar o laboral"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 1.1 de la LO 1/2004 define su ámbito como la violencia ejercida por quienes sean o hayan sido cónyuges o estén o hayan estado ligados por relaciones similares de afectividad, aun sin convivencia. No se extiende a cualquier hombre ni se limita a cónyuges convivientes.",
+      "tema": 7,
+      "bloque": 1,
+      "fuente": {
+        "documento": "LO 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+        "referencia": "Artículo 1.1",
+        "texto": "La presente Ley tiene por objeto actuar contra la violencia que, como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre éstas por parte de quienes sean o hayan sido sus cónyuges o de quienes estén o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.",
+        "documentoId": "tema-7",
+        "seccionId": "lo-1-2004"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 24 de la LO 1/2004, la funcionaria víctima de violencia de género tendrá derecho a:",
+      "opciones": [
+        "Únicamente a la excedencia voluntaria por interés particular",
+        "La reducción o reordenación de su tiempo de trabajo, movilidad geográfica y excedencia",
+        "La jubilación anticipada y la reducción de jornada",
+        "La excedencia forzosa y el traslado obligatorio"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 24 de la LO 1/2004 establece que la funcionaria víctima de violencia de género tendrá derecho a la reducción o reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia.",
+      "tema": 7,
+      "bloque": 1,
+      "fuente": {
+        "documento": "LO 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+        "referencia": "Artículo 24",
+        "texto": "La funcionaria víctima de violencia de género tendrá derecho a la reducción o a la reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia.",
+        "documentoId": "tema-7",
+        "seccionId": "lo-1-2004"
+      }
+    },
+    {
+      "pregunta": "De conformidad con el artículo 89.5 del TREBEP (RDL 5/2015), las funcionarias víctimas de violencia de género en situación de excedencia tendrán derecho a la reserva del puesto de trabajo durante:",
+      "opciones": [
+        "Los tres primeros meses",
+        "Los seis primeros meses",
+        "Los doce primeros meses",
+        "Todo el tiempo que dure la excedencia"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 89.5 del TREBEP establece que durante los seis primeros meses de excedencia por violencia de género tendrán derecho a la reserva del puesto de trabajo, siendo computable dicho período a efectos de antigüedad, carrera y derechos de Seguridad Social.",
+      "tema": 7,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 5/2015 (TREBEP)",
+        "referencia": "Artículo 89.5",
+        "texto": "Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de antigüedad, carrera y derechos del régimen de Seguridad Social que sea de aplicación.",
+        "documentoId": "ebep",
+        "seccionId": "titulo-vi"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 8.2 del TREBEP (RDL 5/2015), los empleados públicos se clasifican en:",
+      "opciones": [
+        "Funcionarios de carrera, funcionarios interinos y personal laboral",
+        "Funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual",
+        "Funcionarios de carrera, personal laboral, personal eventual y personal directivo",
+        "Funcionarios de carrera, funcionarios interinos y personal eventual"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 8.2 del TREBEP clasifica a los empleados públicos en: funcionarios de carrera, funcionarios interinos, personal laboral (fijo, indefinido o temporal) y personal eventual. El personal directivo no es una clasificación de empleado público sino una categoría regulada aparte.",
+      "tema": 8,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 5/2015 (TREBEP)",
+        "referencia": "Artículo 8.2",
+        "texto": "Los empleados públicos se clasifican en: a) Funcionarios de carrera. b) Funcionarios interinos. c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal. d) Personal eventual.",
+        "documentoId": "ebep",
+        "seccionId": "titulo-vi"
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 97.1 del TREBEP (RDL 5/2015), las infracciones muy graves prescriben a los:",
+      "opciones": [
+        "Dos años",
+        "Tres años",
+        "Cuatro años",
+        "Cinco años"
+      ],
+      "correcta": 1,
+      "explicacion": "El artículo 97.1 del TREBEP establece que las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses.",
+      "tema": 8,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 5/2015 (TREBEP)",
+        "referencia": "Artículo 97.1",
+        "texto": "Las infracciones muy graves prescribirán a los tres años, las graves a los dos años y las leves a los seis meses; las sanciones impuestas por faltas muy graves prescribirán a los tres años, las impuestas por faltas graves a los dos años y las impuestas por faltas leves al año.",
+        "documentoId": "ebep",
+        "seccionId": "titulo-vi"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 63 del TREBEP (RDL 5/2015), señale cuál de las siguientes NO es causa de pérdida de la condición de funcionario de carrera:",
+      "opciones": [
+        "La renuncia a la condición de funcionario",
+        "La jubilación total del funcionario",
+        "La excedencia voluntaria por interés particular",
+        "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviere carácter firme"
+      ],
+      "correcta": 2,
+      "explicacion": "El artículo 63 del TREBEP enumera como causas de pérdida: renuncia, pérdida de nacionalidad, jubilación total, separación del servicio firme e inhabilitación firme. La excedencia voluntaria es una situación administrativa, no una causa de pérdida de la condición de funcionario.",
+      "tema": 8,
+      "bloque": 1,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 5/2015 (TREBEP)",
+        "referencia": "Artículo 63",
+        "texto": "Son causas de pérdida de la condición de funcionario de carrera: a) La renuncia a la condición de funcionario. b) La pérdida de la nacionalidad. c) La jubilación total del funcionario. d) La sanción disciplinaria de separación del servicio que tuviere carácter firme. e) La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviere carácter firme.",
+        "documentoId": "ebep",
+        "seccionId": "titulo-vi"
+      }
+    }
+  ]
+}

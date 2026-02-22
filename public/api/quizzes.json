@@ -1,14 +1,56 @@
 [
   {
     "id": "bloque1-set1",
-    "title": "Bloque 1: Organización del Estado (Set 1)",
-    "description": "Temas 1-8: Constitución, Corona, Cortes, Gobierno, Poder Judicial, Organización territorial, TC, UE",
+    "title": "Bloque 1 — Set 1",
+    "description": "Organización del Estado · Temas 1–8 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque1-set2",
+    "title": "Bloque 1 — Set 2",
+    "description": "Organización del Estado · Temas 1–8 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque2-set1",
+    "title": "Bloque 2 — Set 1",
+    "description": "Derecho Administrativo · Temas 9–17 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque2-set2",
+    "title": "Bloque 2 — Set 2",
+    "description": "Derecho Administrativo · Temas 9–17 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque3-set1",
+    "title": "Bloque 3 — Set 1",
+    "description": "Normativa de Tráfico · Temas 18–26 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque3-set2",
+    "title": "Bloque 3 — Set 2",
+    "description": "Normativa de Tráfico · Temas 18–26 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque4-set1",
+    "title": "Bloque 4 — Set 1",
+    "description": "Seguridad Vial · Temas 27–35 (25 preguntas)",
+    "questionCount": 25
+  },
+  {
+    "id": "bloque4-set2",
+    "title": "Bloque 4 — Set 2",
+    "description": "Seguridad Vial · Temas 27–35 (25 preguntas)",
     "questionCount": 25
   },
   {
     "id": "demo-bloque1",
-    "title": "Demo — Bloque 1: Organización del Estado",
-    "description": "10 preguntas de prueba (Temas 1-8)",
+    "title": "Demo — Bloque 1",
+    "description": "10 preguntas de prueba",
     "questionCount": 10
   }
 ]

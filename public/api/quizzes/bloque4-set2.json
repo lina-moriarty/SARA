@@ -1,0 +1,381 @@
+{
+  "title": "Bloque 4: Seguridad Vial — Set 2",
+  "description": "25 preguntas adicionales sobre circulación, señalización, seguridad vial y vehículos (Temas 22-35)",
+  "questions": [
+    {
+      "pregunta": "Según el artículo 29 del RGC, ¿por qué lado de la calzada deben circular los vehículos como norma general?",
+      "opciones": ["Por el centro de la calzada", "Por la izquierda", "Por la derecha y lo más cerca posible del borde de la calzada", "Por cualquier lado según la densidad del tráfico"],
+      "correcta": 2,
+      "explicacion": "El artículo 29.1 del RGC establece que, como norma general, los vehículos circularán en todas las vías por la derecha y lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad.",
+      "tema": 22,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 29.1",
+        "texto": "Como norma general, y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, los vehículos circularán en todas las vías [...] por la derecha y lo más cerca posible del borde de la calzada, manteniendo la separación lateral suficiente para realizar el cruce con seguridad.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Qué obligación tiene el conductor respecto a la atención permanente a la conducción según el artículo 18 del RGC?",
+      "opciones": ["Solo debe prestar atención en vías interurbanas", "Debe mantener libertad de movimientos, campo de visión y atención permanente a la conducción", "Basta con mantener las manos en el volante", "Solo debe prestar atención cuando circule a más de 60 km/h"],
+      "correcta": 1,
+      "explicacion": "El artículo 18.1 del RGC establece que el conductor está obligado a mantener su propia libertad de movimientos, el campo necesario de visión y la atención permanente a la conducción, que garanticen su propia seguridad, la del resto de los ocupantes y la de los demás usuarios de la vía.",
+      "tema": 22,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 18.1",
+        "texto": "El conductor de un vehículo está obligado a mantener su propia libertad de movimientos, el campo necesario de visión y la atención permanente a la conducción, que garanticen su propia seguridad, la del resto de los ocupantes del vehículo y la de los demás usuarios de la vía.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Está permitido el uso de teléfono móvil durante la conducción?",
+      "opciones": ["Sí, siempre que se circule a menos de 50 km/h", "Sí, si se utiliza con una sola mano", "No, salvo cuando la comunicación se realice sin emplear las manos ni usar cascos o auriculares", "Sí, si el conductor tiene más de 5 años de experiencia"],
+      "correcta": 2,
+      "explicacion": "El artículo 13.3 de la LTSV prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares.",
+      "tema": 22,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 13.3",
+        "texto": "Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-i-normas"
+      }
+    },
+    {
+      "pregunta": "Según el artículo 2 del RGC, ¿cómo deben comportarse los usuarios de la vía?",
+      "opciones": ["De forma que no superen los límites de velocidad", "De forma que no entorpezcan la circulación ni causen peligro, perjuicios o molestias innecesarias", "Respetando únicamente las señales de tráfico", "De forma que no obstaculicen a los vehículos de emergencia"],
+      "correcta": 1,
+      "explicacion": "El artículo 2 del RGC establece que los usuarios de la vía están obligados a comportarse de forma que no entorpezcan indebidamente la circulación ni causen peligro, perjuicios o molestias innecesarias a las personas, o daños a los bienes.",
+      "tema": 22,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 2",
+        "texto": "Los usuarios de la vía están obligados a comportarse de forma que no entorpezcan indebidamente la circulación ni causen peligro, perjuicios o molestias innecesarias a las personas, o daños a los bienes.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad máxima genérica para turismos en carreteras convencionales fuera de poblado?",
+      "opciones": ["80 km/h", "90 km/h", "100 km/h", "110 km/h"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 48.1.a) del RGC, la velocidad máxima para turismos en carreteras convencionales fuera de poblado es de 90 km/h.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 48.1.a)",
+        "texto": "Turismos, motocicletas, autocaravanas de masa máxima autorizada igual o inferior a 3.500 kg, Pick-up: Carreteras convencionales 90 km/h.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "En vías urbanas con plataforma única de calzada y acera, ¿cuál es el límite genérico de velocidad?",
+      "opciones": ["10 km/h", "20 km/h", "30 km/h", "40 km/h"],
+      "correcta": 1,
+      "explicacion": "El artículo 50.1.a) del RGC establece que el límite de velocidad en vías con plataforma única de calzada y acera es de 20 km/h.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 50.1.a)",
+        "texto": "20 km/h en vías que dispongan de plataforma única de calzada y acera.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿En cuál de los siguientes casos debe el conductor circular a velocidad moderada?",
+      "opciones": ["Al circular por una autopista con buena visibilidad", "Al aproximarse a ciclos circulando y en proximidades de pasos de peatones no regulados", "Solo cuando circule de noche", "Únicamente cuando llueva"],
+      "correcta": 1,
+      "explicacion": "El artículo 46.1.b) del RGC establece que se circulará a velocidad moderada al aproximarse a ciclos circulando, en las intersecciones y proximidades de pasos de peatones no regulados por semáforo o agentes, y al acercarse a centros docentes o lugares con previsible presencia de niños.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 46.1.b)",
+        "texto": "Al aproximarse a ciclos circulando, así como en las intersecciones y en las proximidades de vías de uso exclusivo de ciclos y de los pasos de peatones no regulados por semáforo o agentes de la circulación, así como al acercarse a mercados, centros docentes o a lugares en que sea previsible la presencia de niños.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "En una vía pavimentada que se cruza con otra sin pavimentar y sin señalización, ¿quién tiene preferencia de paso?",
+      "opciones": ["El que circule por la vía sin pavimentar", "El que circule por la vía pavimentada", "El que se aproxime por la derecha, sin importar el pavimento", "El vehículo de mayor tamaño"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 57.1.a) del RGC, los vehículos que circulen por una vía pavimentada tienen preferencia sobre los que procedan de otra sin pavimentar, independientemente de la posición relativa.",
+      "tema": 24,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 57.1.a)",
+        "texto": "En defecto de señal que regule la preferencia de paso [...] los que circulen por una vía pavimentada frente a los que procedan de otra sin pavimentar.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-iii-prioridad"
+      }
+    },
+    {
+      "pregunta": "¿Está prohibido adelantar en un paso para peatones?",
+      "opciones": ["No, se puede adelantar libremente en pasos de peatones", "Solo está prohibido si hay peatones cruzando", "Sí, está prohibido en todo caso en pasos para peatones y en sus proximidades", "Solo si se circula a más de 50 km/h"],
+      "correcta": 2,
+      "explicacion": "El artículo 86.1 del RGC prohíbe adelantar en los pasos para peatones señalizados y en sus proximidades, como medida de protección a los usuarios más vulnerables.",
+      "tema": 25,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 86.1",
+        "texto": "Se prohíbe adelantar [...] en los pasos para peatones señalizados y en sus proximidades.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-vii-adelantamiento"
+      }
+    },
+    {
+      "pregunta": "¿Qué debe hacer el conductor del vehículo que va a ser adelantado?",
+      "opciones": ["Aumentar la velocidad para facilitar la maniobra", "Ceñirse al borde derecho de la calzada y no aumentar la velocidad", "Detenerse completamente", "Señalizar con las luces de emergencia"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 85.3 del RGC, el conductor del vehículo que va a ser adelantado deberá ceñirse al borde derecho de la calzada y no aumentar la velocidad mientras dure la maniobra de adelantamiento.",
+      "tema": 25,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 85.3",
+        "texto": "El conductor del vehículo que va a ser adelantado deberá ceñirse al borde derecho de la calzada [...] no aumentar la velocidad.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-vii-adelantamiento"
+      }
+    },
+    {
+      "pregunta": "¿Está permitido parar o estacionar en un paso de peatones?",
+      "opciones": ["Sí, si es por menos de 2 minutos", "Sí, si el conductor permanece en el vehículo", "No, está prohibido parar y estacionar en los pasos de peatones", "Solo de noche cuando no haya peatones"],
+      "correcta": 2,
+      "explicacion": "El artículo 90.2 del RGC prohíbe la parada en los pasos de peatones. Y el artículo 94.2 prohíbe el estacionamiento en los mismos lugares donde está prohibida la parada.",
+      "tema": 26,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 90.2",
+        "texto": "Queda prohibido parar [...] en los pasos de peatones.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-viii-parada-estacionamiento"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo debe utilizarse obligatoriamente la luz de largo alcance o de carretera?",
+      "opciones": ["Siempre que se circule de noche", "En todas las vías fuera de poblado de noche cuando no se lleve la de corto alcance", "En vías interurbanas suficientemente iluminadas entre el ocaso y la salida del sol, cuando no deslumbre", "Solo en autopistas"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 99 del RGC, la luz de carretera se utilizará en vías interurbanas entre el ocaso y la salida del sol, siempre que la vía no esté suficientemente iluminada y no se produzca deslumbramiento a otros usuarios.",
+      "tema": 27,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 99",
+        "texto": "La luz de carretera se utilizará en vías interurbanas entre el ocaso y la salida del sol.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-x-alumbrado"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo debe un conductor sustituir la luz de largo alcance por la de corto alcance?",
+      "opciones": ["Siempre que circule en poblado", "Cuando pueda producir deslumbramiento a otros usuarios de la vía", "Solo cuando un agente se lo indique", "Únicamente en túneles"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 100.1 del RGC, el conductor debe sustituir la luz de carretera por la de cruce cuando pueda producir deslumbramiento a otros usuarios, especialmente al cruzarse con otros vehículos o al seguirlos.",
+      "tema": 27,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 100.1",
+        "texto": "El conductor deberá sustituir la luz de carretera por la de cruce cuando pueda producir deslumbramiento a otros usuarios de la vía.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-x-alumbrado"
+      }
+    },
+    {
+      "pregunta": "¿Qué forma tiene la señal de advertencia de peligro según el RGC?",
+      "opciones": ["Circular con borde rojo", "Cuadrada con fondo azul", "Triangular con borde rojo y vértice hacia arriba", "Octogonal de fondo rojo"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 134 del RGC, las señales de advertencia de peligro tienen forma triangular, con borde rojo y vértice hacia arriba, sobre fondo blanco.",
+      "tema": 28,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 134",
+        "texto": "Las señales de advertencia de peligro tienen por objeto indicar a los usuarios la proximidad de un peligro [...] tienen forma triangular.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iv-cap-ii-preferencia-señales"
+      }
+    },
+    {
+      "pregunta": "¿Qué significan las marcas viales longitudinales continuas en la calzada?",
+      "opciones": ["Que se puede adelantar con precaución", "Que se puede estacionar junto a ellas", "Que ningún conductor debe atravesarlas ni circular sobre ellas", "Que delimitan una zona de estacionamiento libre"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 140.1 del RGC, una línea longitudinal continua sobre la calzada significa que ningún conductor, con su vehículo o animal, debe atravesarla ni circular sobre ella.",
+      "tema": 28,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 140.1",
+        "texto": "Una línea longitudinal continua sobre la calzada significa que ningún conductor con su vehículo o animal debe atravesarla ni circular sobre ella.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iv-cap-ii-preferencia-señales"
+      }
+    },
+    {
+      "pregunta": "¿Qué paneles rectangulares de color naranja deben llevar los vehículos que transportan mercancías peligrosas?",
+      "opciones": ["Paneles verdes con letras blancas", "Paneles de color naranja con el número de identificación del peligro y la materia", "Paneles azules con el símbolo de peligro", "Paneles rojos con el número ONU"],
+      "correcta": 1,
+      "explicacion": "Los vehículos que transportan mercancías peligrosas deben llevar paneles rectangulares de color naranja, con el número de identificación del peligro en la parte superior y el número de identificación de la materia (número ONU) en la parte inferior, conforme al ADR y la normativa del RGC.",
+      "tema": 29,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 48.1.b) y normativa ADR",
+        "texto": "Los vehículos que transporten mercancías peligrosas deberán llevar paneles rectangulares de color naranja con el número de identificación del peligro y el número de identificación de la materia.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Es obligatorio el uso del cinturón de seguridad en vías urbanas?",
+      "opciones": ["No, solo es obligatorio en vías interurbanas", "Sí, es obligatorio tanto en vías urbanas como interurbanas", "Solo para los pasajeros traseros", "Solo cuando se circule a más de 50 km/h"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 117 del RGC, el uso del cinturón de seguridad es obligatorio para todos los ocupantes del vehículo tanto en vías urbanas como interurbanas.",
+      "tema": 30,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 117",
+        "texto": "Los conductores y pasajeros de vehículos están obligados a utilizar el cinturón de seguridad, tanto en vías urbanas como interurbanas.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iii-cap-ii-cinturon-casco"
+      }
+    },
+    {
+      "pregunta": "¿A partir de qué edad pueden los menores viajar como pasajeros en motocicletas, excepcionalmente?",
+      "opciones": ["A partir de los 5 años", "A partir de los 7 años, si el conductor es padre, madre, tutor o persona autorizada", "A partir de los 10 años", "A partir de los 12 años"],
+      "correcta": 1,
+      "explicacion": "El artículo 13.5 de la LTSV prohíbe circular con menores de 12 años como pasajeros de motocicletas, pero excepcionalmente lo permite a partir de los 7 años cuando el conductor sea el padre, madre, tutor o persona autorizada, con casco homologado y cumpliendo las condiciones de seguridad reglamentarias.",
+      "tema": 30,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 13.5",
+        "texto": "Queda prohibido circular con menores de doce años como pasajeros de ciclomotores o motocicletas [...] Excepcionalmente, se permite esta circulación a partir de los siete años, siempre que los conductores sean el padre, la madre, el tutor o una persona mayor de edad autorizada por ellos, utilicen casco homologado.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-i-normas"
+      }
+    },
+    {
+      "pregunta": "¿Puede un conductor menor de edad circular con alguna tasa de alcohol en sangre?",
+      "opciones": ["Sí, hasta 0,25 mg/l en aire espirado", "Sí, hasta 0,15 mg/l en aire espirado", "No, en ningún caso puede circular con tasa superior a 0 g/l en sangre", "Sí, hasta 0,3 g/l en sangre"],
+      "correcta": 2,
+      "explicacion": "El artículo 14.1 de la LTSV establece que en ningún caso el conductor menor de edad podrá circular con una tasa de alcohol en sangre superior a 0 gramos por litro o de alcohol en aire espirado superior a 0 miligramos por litro.",
+      "tema": 31,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 14.1",
+        "texto": "En ningún caso el conductor menor de edad podrá circular por las vías con una tasa de alcohol en sangre superior a 0 gramos por litro o de alcohol en aire espirado superior a 0 miligramos por litro.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-i-normas"
+      }
+    },
+    {
+      "pregunta": "¿En qué consisten las pruebas de detección de drogas según la Ley de Tráfico?",
+      "opciones": ["En un análisis de sangre obligatorio", "En una prueba salival mediante dispositivo autorizado y posterior análisis de muestra salival", "En un test de orina en el centro médico más cercano", "En un cuestionario verbal realizado por el agente"],
+      "correcta": 1,
+      "explicacion": "El artículo 14.3 de la LTSV establece que las pruebas para la detección de drogas consistirán en una prueba salival mediante un dispositivo autorizado y en un posterior análisis de una muestra salival en cantidad suficiente.",
+      "tema": 31,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 14.3",
+        "texto": "para la detección de la presencia de drogas en el organismo, en una prueba salival mediante un dispositivo autorizado y en un posterior análisis de una muestra salival en cantidad suficiente.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-i-normas"
+      }
+    },
+    {
+      "pregunta": "Según la Ley de Tráfico, ¿quién está obligado a detenerse y prestar auxilio cuando se ve implicado en un accidente?",
+      "opciones": ["Solo el conductor que haya causado el accidente", "Cualquier conductor implicado en el accidente", "Únicamente los conductores profesionales", "Solo los testigos presenciales"],
+      "correcta": 1,
+      "explicacion": "El artículo 51 de la LTSV establece que todo conductor implicado en un accidente de tráfico deberá detenerse, prestar auxilio a las víctimas, colaborar con la autoridad e identificarse, con independencia de quién haya sido el causante.",
+      "tema": 32,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 51",
+        "texto": "Todo conductor implicado en un accidente de tráfico deberá detenerse, prestar auxilio a las víctimas, colaborar con la autoridad e identificarse.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-iii-otras-normas"
+      }
+    },
+    {
+      "pregunta": "¿Qué periodicidad tiene la inspección técnica (ITV) para turismos de uso particular con una antigüedad de entre 4 y 10 años?",
+      "opciones": ["Anual", "Bienal (cada 2 años)", "Cada 3 años", "Cada 5 años"],
+      "correcta": 1,
+      "explicacion": "Según el Reglamento General de Vehículos, los turismos de uso particular deben pasar la ITV cada 2 años cuando tienen una antigüedad de entre 4 y 10 años desde su primera matriculación.",
+      "tema": 33,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 2822/1998, de 23 de diciembre, Reglamento General de Vehículos",
+        "referencia": "Artículo 10 y Anexo I",
+        "texto": "Los turismos de uso particular deberán someterse a inspección técnica con periodicidad bienal a partir del cuarto año de su primera matriculación y hasta los diez años.",
+        "documentoId": "rgv-1998",
+        "seccionId": "titulo-ii-cap-i-homologacion-itv"
+      }
+    },
+    {
+      "pregunta": "¿Qué está prohibido respecto a las emisiones de vehículos según el artículo 7 del RGC?",
+      "opciones": ["Solo se prohíben emisiones de gases en autopistas", "Se prohíbe circular con escape libre y emitir gases, humos o ruido por encima de los límites establecidos", "Solo se prohíbe la emisión de ruido en poblado", "Se prohíbe únicamente circular sin catalizador"],
+      "correcta": 1,
+      "explicacion": "El artículo 7 del RGC prohíbe la circulación de vehículos con niveles de emisión de ruido superiores a los límites establecidos, la emisión de gases o humos en valores superiores a los permitidos, y la circulación con escape libre sin dispositivo silenciador.",
+      "tema": 34,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 7",
+        "texto": "Los vehículos no podrán circular [...] si emiten perturbaciones electromagnéticas, con niveles de emisión de ruido superiores a los límites establecidos [...] tampoco podrán emitir gases o humos en valores superiores a los límites establecidos [...] se prohíbe la circulación de vehículos a motor y ciclomotores con el llamado escape libre.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Qué medida pueden tomar los agentes de la autoridad si un vehículo supera los niveles de gases, humos y ruidos permitidos?",
+      "opciones": ["Únicamente imponer una multa", "Inmovilizar el vehículo", "Retirar el permiso de conducir del titular", "Decomiso del vehículo"],
+      "correcta": 1,
+      "explicacion": "El artículo 7.2 del RGC establece que los agentes de la autoridad podrán inmovilizar el vehículo en el caso de que supere los niveles de gases, humos y ruidos permitidos reglamentariamente.",
+      "tema": 34,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 7.2",
+        "texto": "Los agentes de la autoridad podrán inmovilizar el vehículo en el caso de que supere los niveles de gases, humos y ruidos permitidos reglamentariamente, según el tipo de vehículo.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "Según la Estrategia de Seguridad Vial 2030, ¿cuántas áreas estratégicas se establecen para alcanzar los objetivos del decenio?",
+      "opciones": ["5 áreas estratégicas", "7 áreas estratégicas", "9 áreas estratégicas", "12 áreas estratégicas"],
+      "correcta": 2,
+      "explicacion": "La ESV 2030 establece 9 áreas estratégicas: 1) Personas formadas y capaces, 2) Tolerancia cero con comportamientos de riesgo, 3) Ciudades seguras, 4) Vías seguras, 5) Vehículos seguros y conectados, 6) Respuesta al siniestro efectiva y justa, 7) Datos y conocimiento, 8) Administraciones/empresas/organizaciones seguras, 9) Políticas integradas y cooperación internacional.",
+      "tema": 35,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Capítulo 8 — Las Áreas estratégicas",
+        "texto": "9 áreas: 1) Personas formadas y capaces, 2) Tolerancia cero con comportamientos de riesgo, 3) Ciudades seguras, 4) Vías seguras, 5) Vehículos seguros y conectados, 6) Respuesta al siniestro efectiva y justa, 7) Datos y conocimiento, 8) Administraciones, empresas y organizaciones seguras, 9) Políticas integradas y cooperación internacional.",
+        "documentoId": "esv-2030",
+        "seccionId": "cap-8-areas-estrategicas"
+      }
+    }
+  ]
+}

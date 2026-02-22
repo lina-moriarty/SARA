@@ -1,0 +1,381 @@
+{
+  "title": "Bloque 4: Seguridad Vial — Set 1",
+  "description": "25 preguntas sobre circulación, señalización, seguridad vial y vehículos (Temas 22-35)",
+  "questions": [
+    {
+      "pregunta": "¿Cuál es la velocidad máxima genérica para turismos en autopistas y autovías fuera de poblado, según el Reglamento General de Circulación?",
+      "opciones": ["100 km/h", "110 km/h", "120 km/h", "130 km/h"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 48.1.a) del RGC, la velocidad máxima para turismos, motocicletas y autocaravanas de MMA ≤ 3.500 kg en autopistas y autovías es de 120 km/h.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 48.1.a)",
+        "texto": "Turismos, motocicletas, autocaravanas de masa máxima autorizada igual o inferior a 3.500 kg, Pick-up: Autopista y autovía 120",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "En vías urbanas de un único carril por sentido de circulación, ¿cuál es el límite genérico de velocidad?",
+      "opciones": ["20 km/h", "30 km/h", "40 km/h", "50 km/h"],
+      "correcta": 1,
+      "explicacion": "El artículo 50.1.b) del RGC establece que el límite genérico de velocidad en vías urbanas de un único carril por sentido de circulación es de 30 km/h.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 50.1.b)",
+        "texto": "30 km/h en vías de un único carril por sentido de circulación.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad mínima permitida en autopistas y autovías para vehículos a motor?",
+      "opciones": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 49.1 del RGC, se prohíbe la circulación en autopistas y autovías de vehículos a motor a una velocidad inferior a 60 kilómetros por hora.",
+      "tema": 23,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 49.1",
+        "texto": "se prohíbe la circulación en autopistas y autovías de vehículos a motor a una velocidad inferior a 60 kilómetros por hora",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "En una intersección sin señalizar, ¿a qué vehículos debe ceder el paso un conductor?",
+      "opciones": ["A los que se aproximen por su izquierda", "A los que se aproximen por su derecha", "A los que circulen a mayor velocidad", "A los que transporten mayor número de ocupantes"],
+      "correcta": 1,
+      "explicacion": "El artículo 57.1 del RGC establece que, en defecto de señal que regule la preferencia de paso, el conductor está obligado a ceder el paso a los vehículos que se aproximen por su derecha.",
+      "tema": 24,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 57.1",
+        "texto": "En defecto de señal que regule la preferencia de paso, el conductor está obligado a cederlo a los vehículos que se aproximen por su derecha",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-iii-prioridad"
+      }
+    },
+    {
+      "pregunta": "En las glorietas, ¿quién tiene preferencia de paso?",
+      "opciones": ["Los que pretenden acceder a la glorieta", "Los que se hallen dentro de la vía circular", "Los que circulen por la derecha de la glorieta", "Los vehículos de mayor tamaño"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 57.1.c) del RGC, en las glorietas, los que se hallen dentro de la vía circular tendrán preferencia de paso sobre los que pretendan acceder a aquéllas.",
+      "tema": 24,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 57.1.c)",
+        "texto": "En las glorietas, los que se hallen dentro de la vía circular tendrán preferencia de paso sobre los que pretendan acceder a aquéllas",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-iii-prioridad"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es el conductor que tiene detenido su vehículo en una intersección regulada por semáforo y constituye obstáculo para la circulación, qué debe hacer?",
+      "opciones": ["Esperar a que el semáforo le permita la circulación en su dirección", "Salir de la intersección sin esperar al semáforo, siempre que no entorpezca a los demás", "Dar marcha atrás para despejar la intersección", "Apagar el motor y esperar instrucciones de un agente"],
+      "correcta": 1,
+      "explicacion": "El artículo 59.2 del RGC establece que todo conductor detenido en una intersección regulada por semáforo cuya situación constituya obstáculo deberá salir de aquélla sin esperar a que se permita la circulación en la dirección que se propone tomar, siempre que no entorpezca la marcha de los demás.",
+      "tema": 24,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 59.2",
+        "texto": "Todo conductor que tenga detenido su vehículo en una intersección regulada por semáforo y su situación constituya obstáculo para la circulación deberá salir de aquélla sin esperar a que se permita la circulación en la dirección que se propone tomar, siempre que al hacerlo no entorpezca la marcha de los demás usuarios que avancen en el sentido permitido",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-iii-prioridad"
+      }
+    },
+    {
+      "pregunta": "Como norma general, ¿por qué lado debe efectuarse el adelantamiento?",
+      "opciones": ["Por la derecha", "Por la izquierda", "Por cualquier lado, según las circunstancias", "Solo por el arcén"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 82.1 del RGC, como norma general, el adelantamiento deberá efectuarse por la izquierda.",
+      "tema": 25,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 82.1",
+        "texto": "como norma general, el adelantamiento deberá efectuarse por la izquierda",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-vii-adelantamiento"
+      }
+    },
+    {
+      "pregunta": "¿Qué debe comprobar el conductor antes de iniciar un adelantamiento que requiera desplazamiento lateral?",
+      "opciones": ["Que no hay agentes de tráfico en las proximidades", "Que el carril que pretende utilizar tiene espacio suficiente y visibilidad para completar la maniobra sin peligro", "Que el vehículo adelantado tiene las luces encendidas", "Que la velocidad del vehículo adelantado es inferior a 40 km/h"],
+      "correcta": 1,
+      "explicacion": "El artículo 85.1 del RGC establece que antes de iniciar un adelantamiento, el conductor deberá advertir su propósito con las señales preceptivas y comprobar que en el carril que pretende utilizar existe espacio libre suficiente para que la maniobra no ponga en peligro ni entorpezca a quienes circulen en sentido contrario.",
+      "tema": 25,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 85.1",
+        "texto": "Antes de iniciar un adelantamiento que requiera desplazamiento lateral, el conductor deberá advertir su propósito con las señales preceptivas y comprobar que en el carril que pretende utilizar para el adelantamiento existe espacio libre suficiente",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-vii-adelantamiento"
+      }
+    },
+    {
+      "pregunta": "¿Está permitido estacionar en doble fila?",
+      "opciones": ["Sí, si el conductor permanece en el vehículo", "Sí, siempre que sea por tiempo inferior a 5 minutos", "No, está prohibido en todo caso", "Sí, en vías de único sentido"],
+      "correcta": 2,
+      "explicacion": "El artículo 94.2.g) del RGC prohíbe el estacionamiento en doble fila sin excepciones. Además, el estacionamiento en doble fila sin conductor se considera obstáculo grave según el artículo 91.2.h).",
+      "tema": 26,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 94.2.g)",
+        "texto": "Queda prohibido estacionar en los siguientes casos: [...] g) En doble fila",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-viii-parada-estacionamiento"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la distancia mínima que debe existir entre un vehículo estacionado y el borde opuesto de la calzada para que no se considere que obstaculiza gravemente la circulación?",
+      "opciones": ["2 metros", "3 metros", "4 metros", "5 metros"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 91.2.a) del RGC, se considera parada o estacionamiento que obstaculiza gravemente la circulación cuando la distancia entre el vehículo y el borde opuesto de la calzada sea inferior a tres metros.",
+      "tema": 26,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 91.2.a)",
+        "texto": "Cuando la distancia entre el vehículo y el borde opuesto de la calzada o una marca longitudinal sobre ella que indique prohibición de atravesarla sea inferior a tres metros",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-viii-parada-estacionamiento"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo es obligatorio utilizar la luz de corto alcance o de cruce durante el día?",
+      "opciones": ["Solo en túneles", "Solo cuando llueve", "Para las motocicletas que circulen por cualquier vía", "Solo en autopistas"],
+      "correcta": 2,
+      "explicacion": "El artículo 104.a) del RGC establece que las motocicletas deberán llevar encendida la luz de corto alcance o cruce durante el día cuando circulen por cualquier vía objeto de la legislación sobre tráfico.",
+      "tema": 27,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 104.a)",
+        "texto": "Deberán llevar encendida durante el día la luz de corto alcance o cruce: a) Las motocicletas que circulen por cualquier vía objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-x-alumbrado"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo puede utilizarse la luz antiniebla trasera?",
+      "opciones": ["Siempre que sea de noche", "Solo en condiciones meteorológicas especialmente desfavorables como niebla espesa, lluvia muy intensa o fuerte nevada", "Siempre que se circule por autopista", "En cualquier condición de lluvia ligera"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 106.2 del RGC, la luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+      "tema": 27,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 106.2",
+        "texto": "La luz antiniebla trasera solamente deberá llevarse encendida cuando las condiciones meteorológicas o ambientales sean especialmente desfavorables, como en caso de niebla espesa, lluvia muy intensa, fuerte nevada o nubes densas de polvo o humo.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-x-alumbrado"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es el orden de preferencia entre los distintos tipos de señales de circulación según el RGC?",
+      "opciones": ["Semáforos > Agentes > Señales verticales > Marcas viales", "Agentes > Señalización circunstancial > Semáforos > Señales verticales > Marcas viales", "Señales verticales > Semáforos > Agentes > Marcas viales", "Marcas viales > Señales verticales > Semáforos > Agentes"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 133.1 del RGC, el orden de preferencia es: a) Señales y órdenes de los agentes; b) Señalización circunstancial; c) Semáforos; d) Señales verticales; e) Marcas viales.",
+      "tema": 28,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 133.1",
+        "texto": "El orden de preferencia entre los distintos tipos de señales de circulación es el siguiente: a) Señales y órdenes de los agentes [...] b) Señalización y balizamiento circunstancial [...] c) Semáforos. d) Señales verticales de circulación. e) Marcas viales.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iv-cap-ii-preferencia-señales"
+      }
+    },
+    {
+      "pregunta": "Si las prescripciones de diferentes señales del mismo tipo parecen estar en contradicción entre sí, ¿cuál prevalece?",
+      "opciones": ["La más permisiva", "La más antigua", "La más restrictiva", "La más cercana al conductor"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 133.2 del RGC, si se trata de señales del mismo tipo que parecen estar en contradicción, prevalecerá la más restrictiva.",
+      "tema": 28,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 133.2",
+        "texto": "En el caso de que las prescripciones indicadas por diferentes señales parezcan estar en contradicción entre sí, prevalecerá la preferente, según el orden a que se refiere el apartado anterior, o la más restrictiva, si se trata de señales del mismo tipo.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iv-cap-ii-preferencia-señales"
+      }
+    },
+    {
+      "pregunta": "¿En cuánto se reduce la velocidad máxima para vehículos que transporten mercancías peligrosas respecto a la genérica de su categoría y tipo de vía?",
+      "opciones": ["5 km/h", "10 km/h", "15 km/h", "20 km/h"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 48.1.b) del RGC, para vehículos que realicen transporte escolar y de menores o que transporten mercancías peligrosas, se reducirá en 10 km/h la velocidad máxima fijada en función del tipo de vehículo y la vía.",
+      "tema": 29,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 48.1.b)",
+        "texto": "Para los vehículos que realicen transporte escolar y de menores o que transporten mercancías peligrosas, se reducirá en 10 kilómetros por hora la velocidad máxima fijada en el párrafo a) en función del tipo de vehículo y de la vía por la que circula.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-ii-cap-ii-velocidad"
+      }
+    },
+    {
+      "pregunta": "¿A partir de qué estatura los menores de edad deben utilizar obligatoriamente sistemas de retención infantil en el vehículo?",
+      "opciones": ["Estatura igual o inferior a 120 cm", "Estatura igual o inferior a 135 cm", "Estatura igual o inferior a 140 cm", "Estatura igual o inferior a 150 cm"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 117.1 del RGC, los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil.",
+      "tema": 30,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 117.1",
+        "texto": "los menores de edad de estatura igual o inferior a 135 centímetros deberán utilizar sistemas de retención infantil y situarse en el vehículo de acuerdo con lo dispuesto en los apartados siguientes.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iii-cap-ii-cinturon-casco"
+      }
+    },
+    {
+      "pregunta": "¿Cuándo pueden los menores con sistema de retención infantil ocupar el asiento delantero del vehículo?",
+      "opciones": ["Nunca, siempre deben ir detrás", "Cuando el vehículo no disponga de asientos traseros, cuando todos los traseros estén ocupados por menores, o cuando no sea posible instalar los SRI en asientos traseros", "Solo cuando tengan más de 10 años", "Solo en trayectos inferiores a 50 km"],
+      "correcta": 1,
+      "explicacion": "El artículo 117.3 del RGC establece que excepcionalmente los menores podrán ocupar el asiento delantero: cuando no haya asientos traseros, cuando todos estén ocupados por otros menores, o cuando no sea posible instalar los SRI en dichos asientos.",
+      "tema": 30,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 117.3",
+        "texto": "Excepcionalmente podrán ocupar el asiento delantero [...]: 1.º Cuando el vehículo no disponga de asientos traseros. 2.º Cuando todos los asientos traseros estén ya ocupados por los menores [...]. 3.º Cuando no sea posible instalar en dichos asientos todos los sistemas de retención infantil.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iii-cap-ii-cinturon-casco"
+      }
+    },
+    {
+      "pregunta": "¿Están obligados los conductores de bicicletas a utilizar casco en vías interurbanas?",
+      "opciones": ["No, el casco nunca es obligatorio en bicicletas", "Sí, salvo en rampas ascendentes prolongadas, por razones médicas o en condiciones extremas de calor", "Solo si son menores de edad", "Solo si circulan de noche"],
+      "correcta": 1,
+      "explicacion": "El artículo 118.1 del RGC establece que los conductores de bicicletas estarán obligados a utilizar casco cuando circulen en vías interurbanas, salvo en rampas ascendentes prolongadas, por razones médicas o en condiciones extremas de calor.",
+      "tema": 30,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 118.1",
+        "texto": "Los conductores de bicicletas y, en su caso, los ocupantes estarán obligados a utilizar cascos de protección homologados o certificados según la legislación vigente, cuando circulen en vías interurbanas, salvo en rampas ascendentes prolongadas, o por razones médicas [...], o en condiciones extremas de calor.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-iii-cap-ii-cinturon-casco"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la tasa máxima de alcohol en aire espirado permitida para conductores en general?",
+      "opciones": ["0,15 mg/l", "0,20 mg/l", "0,25 mg/l", "0,30 mg/l"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 20 del RGC, no podrán circular los conductores con una tasa de alcohol en aire espirado superior a 0,25 miligramos por litro.",
+      "tema": 31,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 20",
+        "texto": "No podrán circular [...] los conductores de vehículos ni los conductores de bicicletas con una tasa de alcohol en sangre superior a 0,5 gramos por litro, o de alcohol en aire espirado superior a 0,25 miligramos por litro.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-i-cap-iv-alcohol"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la tasa máxima de alcohol en sangre para conductores de vehículos de transporte de mercancías peligrosas?",
+      "opciones": ["0,1 g/l", "0,3 g/l", "0,5 g/l", "0,0 g/l"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 20 del RGC, los conductores de vehículos destinados al transporte de mercancías peligrosas no podrán conducir con una tasa de alcohol en sangre superior a 0,3 gramos por litro.",
+      "tema": 31,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 20",
+        "texto": "Cuando se trate de vehículos destinados al transporte de mercancías con una masa máxima autorizada superior a 3.500 kilogramos [...] al de mercancías peligrosas [...] los conductores no podrán hacerlo con una tasa de alcohol en sangre superior a 0,3 gramos por litro, o de alcohol en aire espirado superior a 0,15 miligramos por litro.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-i-cap-iv-alcohol"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es la tasa máxima de alcohol en sangre para conductores durante los dos años siguientes a la obtención del permiso de conducir?",
+      "opciones": ["0,5 g/l", "0,3 g/l", "0,15 g/l", "0,0 g/l"],
+      "correcta": 1,
+      "explicacion": "Según el artículo 20 del RGC, los conductores de cualquier vehículo no podrán superar la tasa de alcohol en sangre de 0,3 gramos por litro durante los dos años siguientes a la obtención del permiso o licencia.",
+      "tema": 31,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 1428/2003, de 21 de noviembre, Reglamento General de Circulación",
+        "referencia": "Artículo 20",
+        "texto": "Los conductores de cualquier vehículo no podrán superar la tasa de alcohol en sangre de 0,3 gramos por litro ni de alcohol en aire espirado de 0,15 miligramos por litro durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir.",
+        "documentoId": "rgc-2003",
+        "seccionId": "titulo-i-cap-iv-alcohol"
+      }
+    },
+    {
+      "pregunta": "Según la Ley de Tráfico, ¿qué obligaciones tiene un conductor implicado en un accidente de tráfico?",
+      "opciones": ["Solo avisar a su compañía de seguros en 24 horas", "Detenerse, auxiliar a las víctimas, colaborar con la autoridad e identificarse", "Solo llamar al 112 y seguir su camino", "Avisar únicamente a los servicios de emergencia"],
+      "correcta": 1,
+      "explicacion": "El artículo 51 del texto refundido de la Ley sobre Tráfico establece las obligaciones del conductor en caso de accidente: detenerse, prestar auxilio a las víctimas, colaborar con la autoridad, identificarse y facilitar datos del vehículo y del seguro.",
+      "tema": 32,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, texto refundido de la Ley sobre Tráfico",
+        "referencia": "Artículo 51",
+        "texto": "Artículo 51. Obligaciones en caso de accidente o avería.",
+        "documentoId": "ltsv-2015",
+        "seccionId": "titulo-ii-cap-iii-otras-normas"
+      }
+    },
+    {
+      "pregunta": "¿Sobre qué aspectos versa la inspección técnica de vehículos (ITV)?",
+      "opciones": ["Solo sobre las emisiones contaminantes", "Solo sobre el estado de los neumáticos y frenos", "Sobre seguridad vial, protección del medio ambiente, inscripciones reglamentarias, reformas y, en su caso, certificados de transporte de mercancías peligrosas y perecederas", "Exclusivamente sobre la documentación administrativa del vehículo"],
+      "correcta": 2,
+      "explicacion": "Según el artículo 10.1 del Reglamento General de Vehículos, la inspección técnica versa sobre las condiciones del vehículo relativas a seguridad vial, protección del medio ambiente, inscripciones reglamentarias, reformas y, en su caso, vigencia de certificados para transporte de mercancías peligrosas y perecederas.",
+      "tema": 33,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Real Decreto 2822/1998, de 23 de diciembre, Reglamento General de Vehículos",
+        "referencia": "Artículo 10.1",
+        "texto": "La inspección técnica, una vez comprobada la identificación del vehículo, versará sobre las condiciones del vehículo relativas a seguridad vial, protección del medio ambiente, inscripciones reglamentarias, reformas y, en su caso, vigencia de los certificados para el transporte de mercancías peligrosas y perecederas.",
+        "documentoId": "rgv-1998",
+        "seccionId": "titulo-ii-cap-i-homologacion-itv"
+      }
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo principal de reducción de la siniestralidad de la Estrategia de Seguridad Vial 2030 respecto a las cifras de 2019?",
+      "opciones": ["Reducir un 25% el número de personas fallecidas", "Reducir un 50% el número de personas fallecidas y gravemente heridas", "Reducir un 75% el número de personas fallecidas", "Lograr cero fallecidos en 2030"],
+      "correcta": 1,
+      "explicacion": "La Estrategia de Seguridad Vial 2030 establece como objetivos para 2030: reducir el número de personas fallecidas en un 50% respecto a 2019 (1.755) y reducir el número de personas gravemente heridas en un 50% respecto a 2019 (8.613).",
+      "tema": 35,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Capítulo 7.1 — Objetivos generales de reducción de la siniestralidad",
+        "texto": "En 2030, reducir el número de personas fallecidas en un 50% respecto a 2019 (1.755). En 2030, reducir el número de personas gravemente heridas en un 50% respecto al valor base de 2019 (8.613).",
+        "documentoId": "esv-2030",
+        "seccionId": "cap-7-objetivos"
+      }
+    },
+    {
+      "pregunta": "¿Cuáles son los principios del Sistema Seguro en los que se basa la Estrategia de Seguridad Vial 2030?",
+      "opciones": ["Eficiencia, economía, rapidez y comodidad", "Falibilidad, vulnerabilidad, responsabilidad compartida y enfoque integral", "Prevención, vigilancia, sanción y educación", "Velocidad, infraestructura, vehículo y formación"],
+      "correcta": 1,
+      "explicacion": "La Estrategia de Seguridad Vial 2030 se desarrolla sobre cuatro principios del Sistema Seguro: falibilidad (las personas cometen errores), vulnerabilidad (el cuerpo humano tiene capacidad limitada de tolerar impactos), responsabilidad compartida y enfoque integral o de redundancia.",
+      "tema": 35,
+      "bloque": 4,
+      "fuente": {
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Capítulo 5.3 — Los principios del Sistema Seguro",
+        "texto": "1. Principio de falibilidad: las personas cometen errores que pueden provocar siniestros. 2. Principio de vulnerabilidad: el cuerpo humano tiene una capacidad limitada de tolerar la fuerza de un impacto sin que se produzcan lesiones. 3. Principio de responsabilidad compartida. 4. Principio de enfoque integral o de redundancia.",
+        "documentoId": "esv-2030",
+        "seccionId": "cap-5-sistema-seguro"
+      }
+    }
+  ]
+}

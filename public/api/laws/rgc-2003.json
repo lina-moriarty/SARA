@@ -1,0 +1,62 @@
+{
+  "id": "rgc-2003",
+  "title": "Real Decreto 1428/2003 — Reglamento General de Circulación",
+  "sections": [
+    {
+      "id": "titulo-i-cap-iv-alcohol",
+      "title": "Título I, Capítulo IV — Normas sobre bebidas alcohólicas",
+      "original": "Artículo 20. Tasas de alcohol en sangre y aire espirado. No podrán circular los conductores con tasa de alcohol en sangre superior a 0,5 g/l o aire espirado superior a 0,25 mg/l. Para transporte de mercancías peligrosas, viajeros >9 plazas, escolar, servicio público: 0,3 g/l sangre o 0,15 mg/l aire. Conductores noveles (2 primeros años): 0,3 g/l sangre o 0,15 mg/l aire.",
+      "resumido": "**Alcohol y drogas al volante** (Arts. 20-26 RGC):\n\nTasas máximas de alcoholemia:\n- Conductores en general: 0,25 mg/L en aire espirado / 0,5 g/L en sangre\n- Conductores profesionales (bus, camión, taxi...), noveles (< 2 años de permiso) y motocicletas > 125 cc: **0,15 mg/L / 0,3 g/L**\n\nLas pruebas de detección de alcohol son obligatorias. La negativa equivale a infracción muy grave con pérdida de 6 puntos. Pueden realizarse de oficio o por accidente/infracción.\n\nLa presencia de cualquier droga detectable en sangre es infracción muy grave, independientemente del nivel.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-ii-cap-ii-velocidad",
+      "title": "Título II, Capítulo II — Velocidad",
+      "original": "Artículos 48-52. Velocidades máximas fuera de poblado: turismos 120 km/h autopista, 90 km/h convencional. Camiones >3.500 kg: 90/80 km/h. Transporte mercancías peligrosas/escolar: -10 km/h. Velocidades mínimas: 60 km/h autopista. Vías urbanas (Art. 50): 20 km/h plataforma única, 30 km/h un carril, 50 km/h dos o más carriles.",
+      "resumido": "**Velocidades máximas genéricas** (Art. 48):\n\n| Tipo de vía | Automóviles/motos | Furgonetas/turismos con remolque |\n|---|---|---|\n| Autopistas y autovías | 120 km/h | 90 km/h |\n| Carreteras convencionales | 90 km/h | 70 km/h |\n| Vías urbanas | 50 km/h | 50 km/h |\n| Zona 30 | 30 km/h | 30 km/h |\n\nVelocidades mínimas: la mitad de la máxima en autopistas/autovías.\n\nLos límites pueden reducirse por señalización o condiciones adversas. El conductor debe adaptar siempre la velocidad a las condiciones del tráfico, vía, vehículo y climatología.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-ii-cap-iii-prioridad",
+      "title": "Título II, Capítulo III — Prioridad de paso",
+      "original": "Artículos 56-66. Intersecciones señalizadas: prioridad según señalización. Sin señalizar (Art. 57): ceder paso a vehículos por la derecha. Excepciones: vía pavimentada sobre no pavimentada, raíles, glorietas (dentro tiene prioridad), autopistas/autovías.",
+      "resumido": "**Prioridad de paso** (Arts. 57-72):\n\nRegla general: tienen prioridad los vehículos que circulan por la derecha en intersecciones sin señalizar.\n\nExcepciones (tienen prioridad sobre el tráfico general):\n- Vehículos de servicio urgente (bomberos, ambulancias, policía) con señales acústicas y luminosas en servicio\n- Vehículos de transporte colectivo en parada señalizada\n- El tráfico de la vía principal sobre el de la secundaria\n\n**Incorporación a la circulación:** El vehículo que sale de una vía secundaria, aparcamiento o carril debe ceder el paso a todos.\n\n**Giro a la izquierda:** Debe realizarse desde el carril más a la izquierda. Prohibido en algunos casos concretos.",
+      "esquema": null
+    },
+    {
+      "id": "titulo-ii-cap-vii-adelantamiento",
+      "title": "Título II, Capítulo VII — Adelantamiento",
+      "original": "Artículos 82-89. Norma general: adelantar por la izquierda. Excepciones por la derecha en carriles múltiples delimitados. Antes de adelantar: comprobar espacio, señalizar. Prohibido adelantar en curvas, cambios de rasante sin visibilidad, pasos de peatones, intersecciones.",
+      "resumido": "",
+      "esquema": null
+    },
+    {
+      "id": "titulo-ii-cap-viii-parada-estacionamiento",
+      "title": "Título II, Capítulo VIII — Parada y estacionamiento",
+      "original": "Artículos 90-94. Distancia mínima al borde opuesto: 3 metros. Prohibido parar en curvas, pasos a nivel/peatones, carriles reservados. Prohibido estacionar en doble fila, sobre aceras, delante de vados, zonas de carga/descarga.",
+      "resumido": "",
+      "esquema": null
+    },
+    {
+      "id": "titulo-ii-cap-x-alumbrado",
+      "title": "Título II, Capítulo X — Utilización del alumbrado",
+      "original": "Artículos 98-107. Motocicletas: luz de cruce obligatoria de día. Antiniebla trasera solo en condiciones especialmente desfavorables. Deslumbramiento: sustituir largo por corto alcance.",
+      "resumido": "",
+      "esquema": null
+    },
+    {
+      "id": "titulo-iii-cap-ii-cinturon-casco",
+      "title": "Título III, Capítulo II — Cinturón, casco y restantes elementos de seguridad",
+      "original": "Artículos 116-119. Cinturón obligatorio en vías urbanas e interurbanas. Menores ≤135 cm: SRI obligatorio, asientos traseros salvo excepciones. Casco obligatorio para motocicletas, ciclomotores. Bicicletas: casco obligatorio en interurbanas salvo excepciones.",
+      "resumido": "",
+      "esquema": null
+    },
+    {
+      "id": "titulo-iv-cap-ii-preferencia-señales",
+      "title": "Título IV, Capítulo II — Preferencia entre señales",
+      "original": "Artículo 133. Orden de preferencia: 1) Agentes, 2) Señalización circunstancial, 3) Semáforos, 4) Señales verticales, 5) Marcas viales. En contradicción entre señales del mismo tipo, prevalece la más restrictiva.",
+      "resumido": "",
+      "esquema": null
+    }
+  ]
+}
