@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=\"/usr/local/bin:/opt/homebrew/bin:/usr/bin:$PATH\")",
+      "Bash(/usr/bin/grep:*)",
+      "Bash(/usr/bin/sed:*)",
+      "Bash(/usr/bin/sort:*)",
+      "Bash(gh api:*)"
+    ]
+  }
+}

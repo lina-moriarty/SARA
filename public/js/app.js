@@ -17,15 +17,13 @@ const App = {
   currentQuestionIndex: 0,
   mode: 'learning',
   answers: [],
+  pendingQuizIndex: null,
   sources: {},
   timer: null,
   startTime: null,
   elapsedSeconds: 0,
   theme: localStorage.getItem('sara-theme') || 'dark',
-  activeTab: 'bloques',
-  lastTab: 'bloques',
-  laws: [],
-  lawCache: {},
+  bgImage: localStorage.getItem('sara-bg-image') === 'true',
 
   // === DOM ELEMENTS ===
   el: {
@@ -37,12 +35,8 @@ const App = {
     resultsScreen: document.getElementById('results-screen'),
     tabBar: document.getElementById('tab-bar'),
     quizList: document.getElementById('quiz-list'),
-    examList: document.getElementById('exam-list'),
-    lawsList: document.getElementById('laws-list'),
-    lawDetailTitle: document.getElementById('law-detail-title'),
-    lawAccordion: document.getElementById('law-accordion'),
-    startBtn: null,
-    startExamBtn: null,
+    modeModal: document.getElementById('mode-modal'),
+    modeModalTitle: document.getElementById('mode-modal-title'),
     questionCounter: document.getElementById('question-counter'),
     scoreDisplay: document.getElementById('score-display'),
     timerEl: document.getElementById('timer'),
@@ -74,6 +68,7 @@ const App = {
   // === INIT ===
   async init() {
     this.applyTheme(this.theme);
+    this.applyBackground(this.bgImage);
     this.renderThemeGrid();
     this.bindEvents();
     await Promise.all([
@@ -115,31 +110,12 @@ const App = {
   },
 
   bindEvents() {
-    // Tab 1 mode selector
-    document.querySelectorAll('[data-mode]').forEach(opt => {
-      opt.addEventListener('click', () => {
-        document.querySelectorAll('[data-mode]').forEach(o => o.classList.remove('selected'));
-        opt.classList.add('selected');
-        opt.querySelector('input').checked = true;
-        this.mode = opt.dataset.mode;
-      });
-    });
-
-    // Tab 2 mode selector
-    document.querySelectorAll('[data-mode-exam]').forEach(opt => {
-      opt.addEventListener('click', () => {
-        document.querySelectorAll('[data-mode-exam]').forEach(o => o.classList.remove('selected'));
-        opt.classList.add('selected');
-        opt.querySelector('input').checked = true;
-        this.mode = opt.dataset.modeExam;
-      });
-    });
-
-    // Start buttons removed — clicking a quiz/exam card starts it directly
     this.el.nextBtn.addEventListener('click', () => this.nextQuestion());
     this.el.closeSource.addEventListener('click', () => this.el.sourcePanel.classList.add('hidden'));
     this.el.restartBtn.addEventListener('click', () => this.backToMenu());
-    document.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
+
+    // Close settings modal on backdrop click
+    this.el.settingsModal.querySelector('.modal-backdrop').addEventListener('click', () => this.closeSettings());
   },
 
   // === TABS ===
@@ -174,8 +150,25 @@ const App = {
     `).join('');
   },
 
-  openSettings() { this.el.settingsModal.classList.remove('hidden'); },
-  closeSettings() { this.el.settingsModal.classList.add('hidden'); },
+  toggleBackground(enabled) {
+    this.bgImage = enabled;
+    localStorage.setItem('sara-bg-image', enabled);
+    this.applyBackground(enabled);
+  },
+
+  applyBackground(enabled) {
+    document.documentElement.classList.toggle('bg-image', enabled);
+    const checkbox = document.getElementById('bg-toggle');
+    if (checkbox) checkbox.checked = enabled;
+  },
+
+  openSettings() {
+    this.el.settingsModal.classList.remove('hidden');
+  },
+
+  closeSettings() {
+    this.el.settingsModal.classList.add('hidden');
+  },
 
   // === NAVIGATION ===
   backToMenu() {
@@ -224,81 +217,43 @@ const App = {
       return;
     }
     this.el.quizList.innerHTML = this.quizzes.map((q, i) => `
-      <label class="quiz-item" data-index="${i}" data-source="quizzes">
-        <input type="radio" name="quiz" value="${i}">
+      <div class="quiz-item" data-index="${i}">
         <div class="quiz-item-info">
           <div class="quiz-item-title">${q.title}</div>
           <div class="quiz-item-meta">${q.questionCount} preguntas · ${q.description || ''}</div>
         </div>
-      </label>
+      </div>
     `).join('');
 
     document.querySelectorAll('[data-source="quizzes"]').forEach(item => {
       item.addEventListener('click', () => {
-        document.querySelectorAll('[data-source="quizzes"]').forEach(i => i.classList.remove('selected'));
-        item.classList.add('selected');
-        item.querySelector('input').checked = true;
-        this.startQuizById(parseInt(item.dataset.index), 'quizzes');
+        this.pendingQuizIndex = parseInt(item.dataset.index);
+        this.openModeModal();
       });
     });
   },
 
-  // === TAB 2: EXAM LIST ===
-  async loadExamList() {
-    try {
-      const res = await fetch('/api/exams.json');
-      this.exams = await res.json();
-      this.renderExamList();
-    } catch (e) {
-      this.el.examList.innerHTML = '<p class="loading">Error cargando exámenes. Refresca la página.</p>';
-    }
+  // === MODE MODAL ===
+  openModeModal() {
+    this.el.modeModal.classList.remove('hidden');
   },
 
-  renderExamList() {
-    if (this.exams.length === 0) {
-      this.el.examList.innerHTML = '<p class="loading">No hay exámenes disponibles todavía.</p>';
-      return;
-    }
-    this.el.examList.innerHTML = this.exams.map((e, i) => {
-      const isAvailable = e.verified || false;
-      const comingSoon = !isAvailable;
-      return `
-        <label class="quiz-item ${comingSoon ? 'quiz-item-disabled' : ''}" data-index="${i}" data-source="exams" ${comingSoon ? 'data-disabled="true"' : ''}>
-          <input type="radio" name="exam" value="${i}" ${comingSoon ? 'disabled' : ''}>
-          <div class="quiz-item-info">
-            <div class="quiz-item-title">
-              ${e.title}
-              ${isAvailable ? '<span class="badge-verified">✓ Verificado</span>' : ''}
-            </div>
-            <div class="quiz-item-meta">${e.description}</div>
-            ${comingSoon ? '<div class="quiz-item-soon">Próximamente</div>' : ''}
-          </div>
-        </label>
-      `;
-    }).join('');
-
-    document.querySelectorAll('[data-source="exams"]:not([data-disabled])').forEach(item => {
-      item.addEventListener('click', () => {
-        document.querySelectorAll('[data-source="exams"]').forEach(i => i.classList.remove('selected'));
-        item.classList.add('selected');
-        item.querySelector('input').checked = true;
-        this.startQuizById(parseInt(item.dataset.index), 'exams');
-      });
-    });
+  closeModeModal() {
+    this.el.modeModal.classList.add('hidden');
   },
 
-  // === START QUIZ BY ID (direct from list) ===
-  async startQuizById(index, source) {
-    let quizMeta;
-    if (source === 'exams') {
-      quizMeta = this.exams[index];
-      this.lastTab = 'examenes';
-    } else {
-      quizMeta = this.quizzes[index];
-      this.lastTab = 'bloques';
-    }
-    if (!quizMeta) return;
+  selectModeAndStart(mode) {
+    this.mode = mode;
+    this.closeModeModal();
+    this.startQuiz();
+  },
 
+  // === START QUIZ ===
+  async startQuiz() {
+    if (this.pendingQuizIndex == null) return;
+
+    const quizMeta = this.quizzes[this.pendingQuizIndex];
+    
     try {
       const res = await fetch(`/api/quizzes/${quizMeta.id}.json`);
       this.currentQuiz = await res.json();
@@ -313,10 +268,7 @@ const App = {
     }
 
     this.currentQuestionIndex = 0;
-    this.answers = new Array(this.currentQuiz.questions.length).fill(null).map(() => ({
-      selected: null,
-      correct: false
-    }));
+    this.answers = initAnswers(this.currentQuiz.questions.length);
 
     this.startTime = Date.now();
     this.elapsedSeconds = 0;
@@ -350,14 +302,7 @@ const App = {
     this.el.questionCounter.textContent = `${num} / ${total}`;
     this.el.progressFill.style.width = `${(num / total) * 100}%`;
     this.el.temaBadge.textContent = `Tema ${q.tema}`;
-
-    const bloqueNames = {
-      1: 'Organización del Estado',
-      2: 'Derecho Administrativo',
-      3: 'Normativa de Tráfico',
-      4: 'Seguridad Vial'
-    };
-    this.el.bloqueBadge.textContent = `Bloque ${q.bloque}: ${bloqueNames[q.bloque] || ''}`;
+    this.el.bloqueBadge.textContent = `Bloque ${q.bloque}: ${getBloqueName(q.bloque)}`;
 
     this.el.questionText.textContent = q.pregunta;
 
@@ -422,45 +367,74 @@ const App = {
     const q = this.currentQuiz.questions[questionIndex];
     if (!q.fuente) return;
 
-    const lawName = q.fuente.documento || '';
-    const articleRef = q.fuente.referencia || '';
-    this.el.sourceRef.innerHTML = `
-      <span class="source-ref-law" title="Abrir ley completa">${lawName}</span>
-      <span class="source-ref-article"> — ${articleRef}</span>
-    `;
-
-    const lawLink = this.el.sourceRef.querySelector('.source-ref-law');
-    if (q.fuente.url) {
-      lawLink.addEventListener('click', () => window.open(q.fuente.url, '_blank'));
-    } else if (q.fuente.documentoId) {
-      lawLink.addEventListener('click', () => {
-        window.open(`/sources/text/${q.fuente.documentoId}.md`, '_blank');
-      });
+    // Load source data first (needed for URL and content)
+    let source = null;
+    if (q.fuente.documentoId) {
+      try {
+        if (!this.sources[q.fuente.documentoId]) {
+          const res = await fetch(`/api/sources/${q.fuente.documentoId}`);
+          if (!res.ok) throw new Error('Not found');
+          this.sources[q.fuente.documentoId] = await res.json();
+        }
+        source = this.sources[q.fuente.documentoId];
+      } catch (e) {
+        source = null;
+      }
     }
 
-    try {
-      if (!this.sources[q.fuente.documentoId]) {
-        const res = await fetch(`/api/sources/${q.fuente.documentoId}`);
-        this.sources[q.fuente.documentoId] = await res.json();
-      }
-      const source = this.sources[q.fuente.documentoId];
+    // Build source ref with clickable law name
+    const lawName = q.fuente.documento || '';
+    const articleRef = q.fuente.referencia || '';
+    const lawUrl = q.fuente.url || (source && source.url) || '';
+    this.el.sourceRef.innerHTML = lawUrl
+      ? `<a class="source-ref-law" data-url="${lawUrl}" onclick="App.openLawUrl(this.dataset.url)">${lawName}</a><span class="source-ref-article"> — ${articleRef}</span>`
+      : `<span class="source-ref-law">${lawName}</span><span class="source-ref-article"> — ${articleRef}</span>`;
+
+    // Render source content
+    if (!source) {
+      this.el.sourceContent.innerHTML = `<p><strong>${q.fuente.referencia || ''}</strong></p><p>${q.fuente.texto || 'Material de referencia no disponible.'}</p>`;
+    } else {
       const section = source.sections.find(s => s.id === q.fuente.seccionId);
 
       if (section) {
-        let content = section.content;
-        if (q.fuente.parrafo) {
-          const paragraphs = content.split('\n\n');
-          content = paragraphs.map((p, i) => {
-            if (i === q.fuente.parrafo) return `<span class="highlight">${p}</span>`;
-            return p;
-          }).join('\n\n');
+        // Parse article and sub-article from referencia (e.g. "Artículo 1.2" → art "1", sub "2")
+        const artMatch = (q.fuente.referencia || '').match(/Art[íi]culo\s+(\d+)(?:\.(\d+))?/i);
+        const artNum = artMatch ? artMatch[1] : null;
+        const subArtNum = artMatch ? artMatch[2] : null;
+
+        const paragraphs = section.content.split('\n\n');
+        const html = paragraphs.map(p => {
+          const isTarget = artNum && new RegExp(`^Artículo\\s+${artNum}\\b`).test(p);
+
+          if (isTarget && subArtNum) {
+            // Show full article, bold only the specific sub-article
+            const lines = p.split('\n');
+            const formatted = lines.map(line => {
+              const isSubTarget = new RegExp(`^${subArtNum}\\.\\s`).test(line);
+              return isSubTarget
+                ? `<strong class="source-sub-highlight" id="source-target">${line}</strong>`
+                : line;
+            }).join('<br>');
+            return `<div class="source-article highlight">${formatted}</div>`;
+          } else if (isTarget) {
+            const formatted = p.replace(/\n/g, '<br>');
+            return `<div class="source-article highlight" id="source-target">${formatted}</div>`;
+          }
+
+          const formatted = p.replace(/\n/g, '<br>');
+          return `<div class="source-article">${formatted}</div>`;
+        }).join('');
+
+        this.el.sourceContent.innerHTML = html;
+
+        // Scroll to the target (sub-article or full article)
+        const target = this.el.sourceContent.querySelector('#source-target');
+        if (target) {
+          requestAnimationFrame(() => target.scrollIntoView({ block: 'start', behavior: 'smooth' }));
         }
-        this.el.sourceContent.innerHTML = content.replace(/\n\n/g, '<br><br>');
       } else {
         this.el.sourceContent.innerHTML = '<p>Sección no encontrada.</p>';
       }
-    } catch (e) {
-      this.el.sourceContent.innerHTML = `<p><strong>${q.fuente.referencia}</strong></p><p>${q.fuente.texto || 'Material de referencia no disponible.'}</p>`;
     }
 
     this.el.sourcePanel.classList.remove('hidden');
@@ -481,23 +455,16 @@ const App = {
   finishQuiz() {
     clearInterval(this.timer);
 
-    const correct = this.answers.filter(a => a.correct).length;
-    const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
-    const unanswered = this.answers.filter(a => a.selected === null).length;
-
-    const score = Math.max(0, correct - (incorrect * 0.33));
+    const { correct, incorrect, unanswered, score } = calculateScore(this.answers);
     const maxScore = this.currentQuiz.questions.length;
-    const percentage = ((score / maxScore) * 100).toFixed(1);
+    const percentage = calculatePercentage(score, maxScore);
 
     this.el.totalCorrect.textContent = correct;
     this.el.totalIncorrect.textContent = incorrect;
     this.el.totalUnanswered.textContent = unanswered;
     this.el.finalScore.textContent = `${percentage}%`;
     this.el.passFail.style.display = 'none';
-
-    const mins = Math.floor(this.elapsedSeconds / 60);
-    const secs = this.elapsedSeconds % 60;
-    this.el.timeTaken.textContent = `Tiempo: ${mins}m ${secs}s`;
+    this.el.timeTaken.textContent = formatTimeTaken(this.elapsedSeconds);
 
     this.renderReview();
     this.showScreen('results');
@@ -508,16 +475,10 @@ const App = {
     const letters = ['A', 'B', 'C', 'D'];
     this.el.reviewList.innerHTML = this.currentQuiz.questions.map((q, i) => {
       const answer = this.answers[i];
-      let status = 'unanswered', statusIcon = '—';
-      if (answer.selected !== null) {
-        status = answer.correct ? 'correct' : 'incorrect';
-        statusIcon = answer.correct ? '\u2713' : '\u2717';
-      }
+      const { status, icon: statusIcon } = getReviewStatus(answer);
+
       const optionsHTML = q.opciones.map((opt, j) => {
-        let cls = '';
-        if (j === q.correcta && answer.selected === j) cls = 'user-correct';
-        else if (j === answer.selected && !answer.correct) cls = 'user-incorrect';
-        else if (j === q.correcta) cls = 'was-correct';
+        const cls = getReviewOptionClass(j, q.correcta, answer);
         return `<div class="review-option ${cls}">${letters[j]}) ${opt}</div>`;
       }).join('');
       const sourceHTML = q.fuente ? `
@@ -696,15 +657,16 @@ const App = {
 
   updateTimer() {
     this.elapsedSeconds = Math.floor((Date.now() - this.startTime) / 1000);
-    const mins = String(Math.floor(this.elapsedSeconds / 60)).padStart(2, '0');
-    const secs = String(this.elapsedSeconds % 60).padStart(2, '0');
-    this.el.timerEl.textContent = `${mins}:${secs}`;
+    this.el.timerEl.textContent = formatTimer(this.elapsedSeconds);
   },
 
   updateScoreDisplay() {
-    const correct = this.answers.filter(a => a.correct).length;
-    const incorrect = this.answers.filter(a => a.selected !== null && !a.correct).length;
+    const { correct, incorrect } = calculateScore(this.answers);
     this.el.scoreDisplay.textContent = `${correct} bien · ${incorrect} mal`;
+  },
+
+  openLawUrl(url) {
+    if (url) window.open(url, '_blank', 'noopener,noreferrer');
   }
 };
 
