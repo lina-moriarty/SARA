@@ -79,15 +79,6 @@ const server = http.createServer((req, res) => {
   sendFile(res, filePath);
 });
 
-if (require.main === module) {
-  server.listen(PORT, () => {
-    console.log(`SARA running on http://localhost:${PORT}`);
-  });
-}
-
-// Default export must be the server for Vercel's @vercel/node
-module.exports = server;
-module.exports.sendJSON = sendJSON;
-module.exports.sendFile = sendFile;
-module.exports.getQuizList = getQuizList;
-module.exports.MIME_TYPES = MIME_TYPES;
+server.listen(PORT, () => {
+  console.log(`SARA running on http://localhost:${PORT}`);
+});
