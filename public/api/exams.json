@@ -1,5 +1,50 @@
 [
   {
+    "id": "convocatoria-2023",
+    "year": 2023,
+    "title": "Convocatoria real 2023/2024",
+    "description": "Acceso libre · Modelo A · 103 preguntas",
+    "questionCount": 103,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
+    "id": "convocatoria-2022",
+    "year": 2022,
+    "title": "Convocatoria real 2022",
+    "description": "Acceso libre · Modelo A · 103 preguntas",
+    "questionCount": 103,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
+    "id": "convocatoria-2020",
+    "year": 2020,
+    "title": "Convocatoria real 2020",
+    "description": "Acceso libre · Modelo A · 99 preguntas",
+    "questionCount": 99,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
+    "id": "convocatoria-2019",
+    "year": 2019,
+    "title": "Convocatoria real 2019",
+    "description": "Acceso libre · Modelo A · 110 preguntas",
+    "questionCount": 110,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
+    "id": "convocatoria-2017",
+    "year": 2017,
+    "title": "Convocatoria real 2017",
+    "description": "Acceso libre · Modelo A · 110 preguntas",
+    "questionCount": 110,
+    "verified": true,
+    "note": "Respuestas verificadas con plantilla definitiva oficial"
+  },
+  {
     "id": "examen-2024",
     "year": 2024,
     "title": "Examen OEP 2023/2024",

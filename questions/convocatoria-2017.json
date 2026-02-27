@@ -1,0 +1,2206 @@
+{
+  "title": "Examen Convocatoria Real 2017",
+  "description": "100 preguntas del examen oficial de la convocatoria 2017 para el Cuerpo General Administrativo, especialidad Tráfico (DGT). Respuestas verificadas con la plantilla definitiva oficial.",
+  "questions": [
+    {
+      "pregunta": "Según la Constitución española de 1978, las abdicaciones y renuncias a la Corona, ¿cómo se resolverán?",
+      "opciones": [
+        "Por las Cortes Generales en sesión conjunta de ambas Cámaras.",
+        "Mediante una ley orgánica, si plantean dudas de hecho o de derecho.",
+        "Mediante una ley ordinaria.",
+        "Mediante una ley orgánica."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 1",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Tribunal Constitucional no es competente para conocer…",
+      "opciones": [
+        "del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley.",
+        "de los conflictos de competencia entre el Estado y las comunidades autónomas.",
+        "de los conflictos de competencia entre comunidades autónomas.",
+        "de las causas contra diputados y senadores."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 2",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Respecto de las sentencias del Tribunal Constitucional, indique cuál de las siguientes afirmaciones es correcta:",
+      "opciones": [
+        "Se publicarán en el Boletín Oficial del Estado.",
+        "Cabe el recurso de casación contra ellas.",
+        "Se publicarán sin los votos particulares aunque los hubiera.",
+        "No tienen valor de cosa juzgada."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 3",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 74 de la Constitución española de 1978, las Cámaras se reunirán en sesión conjunta para ejercer:",
+      "opciones": [
+        "Las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+        "Las competencias legislativas que el Título II atribuye expresamente a las Cortes Generales.",
+        "Las competencias no legislativas que el Título III atribuye expresamente a las Cortes Generales.",
+        "Las competencias legislativas que el Título III atribuye expresamente a las Cortes Generales."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 4",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes respuestas es correcta en relación con la gratuidad de la justicia?",
+      "opciones": [
+        "La justicia será gratuita solo para quienes acrediten insuficiencia de recursos para litigar.",
+        "La gratuidad de la justicia no está reconocida en la Constitución española.",
+        "La gratuidad de la justicia en ningún caso estará reconocida por una ley.",
+        "La justicia será gratuita cuando así lo disponga la ley y, en todo caso, respecto de quienes acrediten insuficiencia de recursos para litigar. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 5",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Son órganos de apoyo político y técnico del Presidente del Gobierno, de los Vicepresidentes, de los Ministros y de los Secretarios de Estado…",
+      "opciones": [
+        "las Subsecretarías.",
+        "los Gabinetes.",
+        "las Direcciones Generales.",
+        "las Secretarías Generales Técnicas."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 6",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el artículo 66.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ¿cuál de las siguientes competencias no lo es de los Directores generales?",
+      "opciones": [
+        "Ejercer las competencias atribuidas a la Dirección General y las que le sean desconcentradas o delegadas.",
+        "El asesoramiento en labores de planificación, programación y presupuestación.",
+        "Proponer al ministro o al titular del órgano de que dependa, la resolución que estime procedente sobre los asuntos que afectan al órgano directivo.",
+        "Impulsar y supervisar las actividades que forman parte de la gestión ordinaria del órgano directivo y velar por el buen funcionamiento de los órganos y unidades dependientes y del personal integrado en los mismos."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 7",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el artículo 138 de la Constitución española de 1978, respecto a la organización territorial, el Estado garantiza la realización efectiva del principio de:",
+      "opciones": [
+        "Solidaridad.",
+        "Autonomía.",
+        "Autonomía financiera.",
+        "Corresponsabilidad."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 8",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el artículo 55 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en relación a la estructura de la Administración General del Estado:",
+      "opciones": [
+        "En la organización territorial de la Administración General del Estado son órganos directivos tanto los Delegados del Gobierno en las Comunidades Autónomas, que tendrán rango de Subsecretario, como los Subdelegados del Gobierno en las provincias, los cuales tendrán nivel de Subdirector general.",
+        "Las entidades de derecho público sin personalidad jurídica propia son administraciones públicas.",
+        "En la organización territorial de la Administración General del Estado son órganos directivos tanto los Delegados del Gobierno en las Comunidades Autónomas, que tendrán rango de Secretario General, como los Subdelegados del Gobierno en las provincias, los cuales tendrán nivel de Subdirector general.",
+        "En la organización territorial de la Administración General del Estado son órganos directivos tanto los Delegados del Gobierno en las Comunidades Autónomas, que tendrán rango de Subsecretario, como los Subdelegados del Gobierno en las provincias, los cuales tendrán nivel de Director general. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 9",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En los términos previstos en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los organismos públicos tienen...",
+      "opciones": [
+        "personalidad jurídica única, patrimonio y tesorería ajenos, así como autonomía de gestión.",
+        "personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión.",
+        "personalidad jurídica pública o privada diferenciada, patrimonio y tesorería ajenos, así como autonomía de gestión.",
+        "personalidad jurídica pública o privada diferenciada, patrimonio y tesorería propios, así como autonomía de gestión."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 10",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué artículos de la Constitución española de 1978 recogen las vías de acceso a la autonomía?",
+      "opciones": [
+        "Los artículos 143 y 151.",
+        "Los artículos 148 y 153.",
+        "Los artículos 153 y 151.",
+        "Los artículos 142 y 144."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 11",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+      "opciones": [
+        "Para el ejercicio de sus derechos y obligaciones, las personas físicas están obligadas a relacionarse con las Administraciones Públicas siempre a través de medios electrónicos.",
+        "Las personas físicas podrán elegir en todo momento si se comunican con las Administraciones Públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no, salvo que estén obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas.",
+        "Una vez iniciado el procedimiento, las personas físicas no podrán modificar el medio elegido para comunicarse con las Administraciones Públicas.",
+        "Los empleados de las Administraciones Públicas no están obligados a relacionarse a través de medios electrónicos para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 12",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los miembros de la Comisión Europea deberán renunciar colectivamente a sus cargos cuando el Parlamento Europeo apruebe una moción de censura por…",
+      "opciones": [
+        "la mayoría de los miembros que componen el Parlamento Europeo.",
+        "mayoría de 2/3 de los votos emitidos, que represente, a su vez, la mayoría de los miembros que componen el Parlamento Europeo.",
+        "mayoría de 3/5 de los votos emitidos, que representen, a su vez, la mayoría de los miembros que componen el Parlamento Europeo.",
+        "mayoría de los votos emitidos, que representen, a su vez, la mayoría de los miembros que componen el Parlamento Europeo. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 13",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En la Unión Europea, ¿quién velará por que se apliquen los Tratados y las medidas adoptadas por las instituciones en virtud de estos?",
+      "opciones": [
+        "El Parlamento.",
+        "El Consejo.",
+        "La Comisión.",
+        "El Tribunal de Justicia."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 14",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los sistemas de firma electrónica recogidos en su artículo 9:",
+      "opciones": [
+        "No requieren de un registro previo que permita garantizar la identidad del usuario.",
+        "Pueden ser seleccionados por cada Administración Pública para determinar si solo admite alguno de ellos en su relación con los ciudadanos con ciertos procedimientos o trámites, siempre que se sigan ciertas pautas.",
+        "Han de ser avanzados, excepto los incorporados al DNI, para personas físicas.",
+        "Han de estar basados en la utilización de claves no concertadas."
+      ],
+      "correcta": null,
+      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 15",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el artículo 17 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno:",
+      "opciones": [
+        "Los ciudadanos solo pueden intervenir individualmente en la definición y la aplicación de las políticas públicas.",
+        "El solicitante no está obligado a motivar su solicitud de acceso a la información.",
+        "Los instrumentos de participación y colaboración deben dirigirse a colectivos específicos de ciudadanos.",
+        "Los instrumentos y formas de participación y colaboración ciudadanas solo deben darse a conocer mediante el Portal de la Transparencia."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 16",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según se establece en el artículo 128 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los reglamentos...",
+      "opciones": [
+        "podrán regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.",
+        "podrán modificar la ley que desarrollan, en su caso.",
+        "podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter privado.",
+        "no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 17",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según se establece en el artículo 29.1 de la Constitución española de 1978:",
+      "opciones": [
+        "Todos los españoles tendrán el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley.",
+        "Todos los españoles tendrán exclusivamente el derecho de petición individual, en la forma y con los efectos que determine la ley.",
+        "Los miembros de las Fuerzas o Institutos armados podrán ejercer el derecho de petición colectivamente y con arreglo a lo dispuesto en su legislación específica.",
+        "Los miembros de las Fuerzas o Institutos armados podrán ejercer el derecho de petición colectivamente y con arreglo a lo dispuesto en la Constitución."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 18",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Consejo de Transparencia y Buen Gobierno:",
+      "opciones": [
+        "Es un organismo público adscrito al Ministerio de Hacienda y Función Pública.",
+        "Es un organismo público adscrito al Ministerio de la Presidencia y para las Administraciones Territoriales.",
+        "Depende en el cumplimiento de sus fines por lo dictaminado por el Gobierno.",
+        "Está compuesto por los siguientes órganos: La Comisión de Transparencia y Buen Gobierno y el Presidente del Gobierno."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 19",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Plan de Igualdad en la Administración General del Estado y en los organismos públicos vinculados o dependientes de ella, será evaluado…",
+      "opciones": [
+        "quinquenalmente por el Consejo de Ministros.",
+        "anualmente en el Congreso de los Diputados.",
+        "anualmente por el Consejo de Ministros.",
+        "quinquenalmente por el Tribunal de Cuentas."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 20",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, el Plan Estratégico de Igualdad de Oportunidades que el Gobierno ha de aprobar periódicamente, incluirá medidas para alcanzar el siguiente objetivo:",
+      "opciones": [
+        "Una representación mayoritaria de las mujeres en el ámbito de la Administración General del Estado.",
+        "Facilitar información genérica a las mujeres y hombres sobre los cursos de formación para puestos de responsabilidad.",
+        "La igualdad entre mujeres y hombres y eliminar la discriminación por razón de sexo.",
+        "Realizar acciones formativas y de sensibilización sobre igualdad de trato y oportunidades. TA"
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 21",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia:",
+      "opciones": [
+        "No contempla la creación de un organismo que coordine a las distintas Administraciones Públicas en esta materia.",
+        "Introduce en sus disposiciones adicionales los cambios necesarios en la normativa autonómica y local derivada de la regulación de esta Ley.",
+        "Establece un mínimo nivel de protección, definido y garantizado financieramente por la Administración General del Estado.",
+        "No contempla la participación autonómica en el Sistema para la Autonomía y Atención a la Dependencia."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 22",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, durante la tramitación de un expediente disciplinario y salvo en caso de paralización del procedimiento imputable al interesado, la autoridad que ordenó la incoación del expediente podrá acordar la suspensión provisional de funciones como medida preventiva por un período que no podrá exceder de…",
+      "opciones": [
+        "2 meses.",
+        "4 meses.",
+        "6 meses.",
+        "9 meses."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 23",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, es de aplicación:",
+      "opciones": [
+        "Solo al personal civil al servicio de la Administración del Estado y de sus Organismos Públicos.",
+        "Al personal al servicio de entidades, corporaciones de derecho público, fundaciones y consorcios cuyos presupuestos se doten ordinariamente en más de un 30% con subvenciones u otros ingresos procedentes de las Administraciones Públicas.",
+        "Al personal que desempeñe funciones públicas y no perciba sus retribuciones mediante arancel.",
+        "Al personal civil y militar al servicio de la Administración del Estado y de sus Organismos Públicos."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 24",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El artículo 120.2 del Real Decreto Legislativo 8/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social, indica que se considerarán regímenes especiales de la Seguridad Social los que se encuadren en los grupos siguientes:",
+      "opciones": [
+        "Funcionarios públicos, civiles y militares.",
+        "Profesionales taurinos.",
+        "Trabajadores ferroviarios.",
+        "Trabajadores por cuenta ajena. TA"
+      ],
+      "correcta": null,
+      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 25",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según lo establecido en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, ¿cuál de las siguientes situaciones no es causa de pérdida de la condición de funcionario?",
+      "opciones": [
+        "Estar inmerso en la tramitación de un expediente disciplinario.",
+        "La renuncia voluntaria a la condición de funcionario.",
+        "La pérdida de la nacionalidad.",
+        "La sanción disciplinaria de separación del servicio que tuviere carácter firme."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 26",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el vigente Código Civil español, en defecto de ley aplicable, la costumbre regirá siempre que esta…",
+      "opciones": [
+        "no sea contraria al orden social o al orden público.",
+        "no sea contraria al orden social o al orden público y que resulte probada.",
+        "no sea contraria a la moral o al orden público y que no resulte probada.",
+        "no sea contraria a la moral o al orden público y que resulte probada."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 27",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En el ámbito de la Unión Europea, los Reglamentos…",
+      "opciones": [
+        "tendrán un alcance parcial. No serán obligatorios en todos sus elementos ni directamente aplicables en cada Estado miembro.",
+        "tendrán un alcance general. Serán obligatorio en todos sus elementos y directamente aplicables en cada Estado miembro",
+        "serán obligatorios en todos sus elementos. Cuando designen destinatarios, solo serán obligatorios para estos.",
+        "obligarán al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando, sin embargo, a las autoridades nacionales la elección de la forma y de los medios."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 28",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas sujetos al Derecho Administrativo:",
+      "opciones": [
+        "Se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.",
+        "Se presumirán válidos y producirán efectos desde la fecha en que se publiquen, salvo que en ellos se disponga otra cosa.",
+        "Su eficacia no quedará demorada cuando esté supeditada a su notificación, publicación o aprobación superior.",
+        "Su eficacia quedará demorada cuando no esté supeditada a su notificación, publicación o aprobación superior. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 29",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿qué actos de las Administraciones Públicas son nulos de pleno derecho?",
+      "opciones": [
+        "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+        "Los actos que no lesionen los derechos y libertades susceptibles de amparo constitucional.",
+        "Los actos dictados por órgano manifiestamente incompetente por desviación de poder.",
+        "Los actos que no sean constitutivos de infracción penal o se dicten como consecuencia de esta."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 30",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la competencia para la revisión de oficio de las disposiciones y actos nulos y anulables en el ámbito estatal corresponde…",
+      "opciones": [
+        "al Consejo de Ministros, respecto de sus propios actos y disposiciones y de los actos y disposiciones dictados por los Ministros.",
+        "a los Ministros, respecto de los actos y disposiciones de los Subsecretarios y de los dictados por órganos directivos de su Departamento.",
+        "a los Secretarios de Estado, respecto de los actos y disposiciones dictados por ellos mismos.",
+        "a los máximos órganos rectores de los Organismos Públicos y entidades de derecho público, respecto de los actos y disposiciones dictados por ellos mismos."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 31",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, en materia de terminación del procedimiento administrativo:",
+      "opciones": [
+        "Pondrá fin al procedimiento la renuncia al derecho en que se funde la solicitud, aunque tal renuncia esté prohibida por el ordenamiento jurídico.",
+        "Pondrá fin al procedimiento la renuncia al derecho en que se funde la solicitud, cuando tal renuncia no esté prohibida por el ordenamiento jurídico.",
+        "No pondrá fin al procedimiento el desistimiento.",
+        "No pondrá fin al procedimiento la declaración de caducidad."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 32",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, respecto al Recurso de alzada:",
+      "opciones": [
+        "El plazo para su interposición será de un mes, si el acto fuera expreso; si no fuera expreso, el plazo de interposición será de tres meses.",
+        "El plazo máximo para dictar y notificar la resolución será de tres meses.",
+        "Si no ha recaído resolución expresa, no se podrá entender desestimado el recurso.",
+        "Contra su resolución no cabrá ningún otro recurso administrativo. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 33",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué norma regula e incorpora al ordenamiento jurídico español el permiso y la licencia de conducción por puntos, mediante la modificación del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial?",
+      "opciones": [
+        "La Ley 17/2005, de 19 de julio.",
+        "El Real Decreto Legislativo 6/2005, de 30 de octubre.",
+        "La Directiva 2006/126/CE.",
+        "El Real Decreto 818/2009, de 8 de mayo."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 34",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, los municipios podrán…",
+      "opciones": [
+        "declarar la nulidad o pérdida de vigencia de los permisos y licencias para conducir vehículos a motor y ciclomotores.",
+        "autorizar la celebración de pruebas deportivas cuando la totalidad de su recorrido discurra por vías urbanas y travesías.",
+        "matricular y expedir el permiso de circulación de cuadriciclos ligeros y ciclomotores.",
+        "retirar de las vías urbanas las bicicletas que, estando amarradas, dificulten la circulación de personas."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 35",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El artículo 149 de la Constitución española de 1978…",
+      "opciones": [
+        "reconoce y protege el derecho a los españoles para elegir libremente su residencia y a circular por el territorio nacional.",
+        "contempla la posibilidad de que las comunidades autónomas asuman competencias en materia de tráfico y seguridad vial.",
+        "establece la obligación de ser titular de un permiso de conducción para conducir un vehículo a motor por las vías públicas.",
+        "otorga al estado la competencia exclusiva en materia de tráfico y circulación de vehículos a motor."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 36",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Director General de Tráfico es nombrado por...",
+      "opciones": [
+        "Real Decreto del Consejo de Ministros, a propuesta del titular del Ministerio del Interior o del Presidente del Gobierno.",
+        "Decreto-Ley del Consejo de Ministros, a propuesta del titular del Ministerio del Interior o del Presidente del Gobierno.",
+        "Real Decreto del Consejo de Ministros, a propuesta del Subsecretario del Ministerio del Interior, respetando los principios de igualdad, mérito y capacidad.",
+        "Orden Ministerial del Ministerio del Interior, a propuesta del Presidente del Gobierno. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 37",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De conformidad con el Real Decreto 770/2017, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior, a la Subdirección General de Operaciones y Movilidad de la Dirección General de Tráfico le corresponde la competencia de...",
+      "opciones": [
+        "la comunicación y divulgación relacionada con el tráfico y la seguridad en la circulación vial.",
+        "la coordinación, participación y representación en organismos nacionales e internacionales en materia de seguridad vial y gestión de la movilidad.",
+        "el establecimiento de las directrices para la formación y actuación de los agentes de la autoridad en materia de tráfico y circulación de vehículos, sin perjuicio de las atribuciones de las Corporaciones Locales con cuyos órganos se instrumentará la colaboración necesaria.",
+        "los procesos de consulta y participación, a través del Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible, y la colaboración con agentes sociales y otras Administraciones."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 38",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De conformidad con el Real Decreto 317/2003, por el que se regula la organización y el funcionamiento del Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible, la presidencia de la Comisión Permanente corresponde al....",
+      "opciones": [
+        "Director General de Tráfico.",
+        "Ministro del Interior.",
+        "General Jefe de la Agrupación de Tráfico de la Guardia Civil.",
+        "Subsecretario del Interior."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 39",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La Agrupación de Tráfico de la Guardia Civil se articula en Jefatura de la Agrupación, Unidades operativas de la organización periférica y la Escuela de Tráfico. La Jefatura de la Agrupación está constituida por las siguientes áreas:",
+      "opciones": [
+        "De Operaciones, de Investigación y de Recursos Materiales.",
+        "De Operaciones, de Recursos Humanos y de Recursos Materiales.",
+        "De Operaciones, de Recursos Humanos y de Recursos Financieros.",
+        "De Operaciones, de Recursos Financieros y de Recursos Técnicos."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 40",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Como norma general, los permisos de las clases C1, C1+E, C, C+E, D1, D1+E, D y D+E tendrán un período de vigencia de…",
+      "opciones": [
+        "diez años mientras su titular no cumpla los sesenta y cinco años y de cinco años a partir de esa edad.",
+        "cinco años mientras su titular no cumpla cuarenta y cinco años y de tres años a partir de esa edad.",
+        "cinco años mientras su titular no cumpla sesenta y cinco años y de tres años a partir de esa edad.",
+        "diez años mientras su titular no cumpla los cuarenta y cinco años y de cinco años a partir de esa edad. TA"
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 41",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Si la solicitud de prórroga de vigencia de un permiso de conducción se presentara dos meses antes de su fecha de caducidad…",
+      "opciones": [
+        "no será tramitada ya que el permiso de conducción continúa en vigor.",
+        "el nuevo período de vigencia se computará desde la fecha de caducidad del permiso.",
+        "el nuevo período de vigencia se computará desde la fecha en que se haya presentado la solicitud.",
+        "se considerará como un supuesto excepcional que deberá ser debidamente justificado."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 42",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué clase de permiso de conducción se requiere como mínimo para conducir conjuntos de vehículos acoplados compuestos por un vehículo tractor de los que autoriza a conducir el permiso de la clase B y un remolque cuya masa máxima autorizada exceda de 750 kg, siempre que la masa máxima autorizada del conjunto no exceda de 4.250 kg?",
+      "opciones": [
+        "B+E.",
+        "B pero solo a partir de los 21 años.",
+        "C1+E.",
+        "B."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 43",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con lo establecido en el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, entre convocatorias de un mismo expediente para la obtención de un permiso de conducción no deberá mediar...",
+      "opciones": [
+        "más de tres meses salvo en casos de enfermedad u otros debidamente justificados.",
+        "más de dos años pudiendo ampliarse, excepcionalmente, en casos debidamente justificados.",
+        "más de seis meses salvo en casos de enfermedad u otros debidamente justificados.",
+        "más de dos años improrrogables."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 44",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, el aspirante a la obtención de la licencia para conducir vehículos especiales agrícolas autopropulsados deberá realizar para su obtención, además de una prueba de aptitud psicofísica,…",
+      "opciones": [
+        "la prueba de control de conocimientos específicos y la prueba de control de aptitudes y comportamientos en circuito cerrado.",
+        "la prueba de control de conocimientos específicos y, si no es titular de permiso de conducción de la clase B, las pruebas de control de aptitudes y comportamientos en circuito cerrado y en circulación.",
+        "la prueba de control de conocimientos común, la prueba de control de conocimientos específicos y la prueba de control de aptitudes y comportamientos en circuito cerrado.",
+        "la prueba de control de conocimientos específicos y la prueba de control de aptitudes y comportamientos en circulación. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 45",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los riesgos inherentes a la circulación y a la conducción de los diversos tipos de vehículos y a las diferentes condiciones de visibilidad de sus conductores, es una materia que forma parte del contenido de…",
+      "opciones": [
+        "las pruebas de control de conocimientos específicos a realizar por los solicitantes de todo permiso de conducción.",
+        "las pruebas de control de conocimientos específicos que deben realizar los solicitantes de permiso y licencias de conducción excepto los aspirantes de las clases LCM y LVA.",
+        "las pruebas de control de conocimientos específicos a realizar por los solicitantes de permisos de conducción del Grupo 2.",
+        "la prueba de control de conocimientos común a realizar por los solicitantes de permiso de conducción excepto los aspirantes del permiso de conducción de la clase AM."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 46",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según establece el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, procederá la interrupción y suspensión de las pruebas y la declaración de no apto en la convocatoria de que se trate…",
+      "opciones": [
+        "en el supuesto de que el aspirante no presente la documentación requerida para ser identificado.",
+        "cuando los aspirantes perturben el orden en las pruebas de control de conocimientos o cometan o intenten cometer fraude en su realización.",
+        "cuando el aspirante se niegue a someterse a las pruebas de detección de alcohol o drogas.",
+        "cuando el aspirante carezca del equipo de protección adecuado."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 47",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, el tiempo mínimo de conducción y circulación destinado a la prueba de control de aptitudes y comportamientos en circulación en vías abiertas al tráfico general, salvo que se acuerde la interrupción y la suspensión de las pruebas, no será inferior a 25 minutos para los permisos de las clases...",
+      "opciones": [
+        "A, B y B+E.",
+        "AM, A1, A2 y B+E.",
+        "A1, A2, B y C1.",
+        "A1, A2, B y B+E."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 48",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En la prueba de control de aptitudes y comportamientos en circuito cerrado, ¿qué maniobra consiste en realizar un estacionamiento seguro para cargar o descargar?",
+      "opciones": [
+        "La H.",
+        "La L.",
+        "La M.",
+        "La N. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 49",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En la realización de las pruebas de control de aptitudes y comportamientos para obtener el permiso de conducción de la clase A1, se utilizarán motocicletas de dos ruedas simples sin sidecar que, si están propulsadas por un motor de combustión interna, deberán tener…",
+      "opciones": [
+        "una potencia máxima de 11 kW y una relación potencia/peso no superior a 0,1 kW/kg.",
+        "una potencia máxima de 11 kW y una relación potencia/peso no inferior a 0,8 kW/kg.",
+        "una potencia máxima de 20 kW y una relación potencia/peso no superior a 0,1 kW/kg.",
+        "una potencia máxima de 20 kW y una relación potencia/peso no inferior a 0,8 kW/kg."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 50",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Sin perjuicio de las competencias que tengan asumidas las comunidades autónomas y la Administración General del Estado, la competencia de la concesión de la autorización de apertura de centros de formación de conductores corresponde al Ministerio del Interior según:",
+      "opciones": [
+        "El artículo 5 c) del texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.",
+        "El artículo 41.1 del Reglamento General de Conductores.",
+        "El artículo 1.1 del Reglamento regulador de las escuelas particulares de conductores.",
+        "El artículo 148 de la Constitución Española de 1978."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 51",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Toda escuela particular de conductores autorizada a impartir la enseñanza para la obtención de permiso de conducción de las clases B, C1, C y C+E:",
+      "opciones": [
+        "Deberá acreditar la facultad de utilizar un terreno, con carácter exclusivo o de forma compartida, que permita realizar las prácticas de maniobras o destreza en circuito cerrado y podrá compartir los vehículos de las clases de permiso de conducción C1 y C+E con otra escuela de distinta titularidad.",
+        "Deberá disponer de autorización del municipio en que radique que le permita realizar las prácticas de maniobras o destreza en zonas urbanas y podrá compartir los vehículos para esas clases de permiso de conducción con otra escuela de distinta titularidad.",
+        "Deberá acreditar la facultad de utilizar un terreno, con carácter exclusivo o de forma compartida, que permita realizar las prácticas de maniobras o destreza en circuito cerrado y podrá compartir los vehículos de las clases de permiso de conducción B y C1 con otra escuela de distinta titularidad.",
+        "Deberá disponer de autorización del municipio en que radique que le permita realizar las prácticas de maniobras o destreza en zonas urbanas y no podrá compartir los vehículos para esas clases de permiso de conducción con otra escuela de distinta titularidad."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 52",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Cuando las luces de un semáforo presentan la silueta iluminada de un ciclo, ¿a qué vehículos se refieren sus indicaciones?",
+      "opciones": [
+        "A ciclos y ciclomotores.",
+        "Exclusivamente a los ciclos.",
+        "A todos los vehículos de dos ruedas, con o sin motor.",
+        "Exclusivamente a los ciclomotores. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 53",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el artículo 18 del Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores, los vehículos podrán ser aportados por los propios alumnos en el caso de tractores agrícolas y…",
+      "opciones": [
+        "maquinaria agrícola automotriz, debiendo llevar la placa de identificación con la letra “L” sobre fondo de color azul.",
+        "vehículos adaptados a las deficiencias de la persona que haya de conducirlos, debiendo llevar la placa de identificación con la letra “L” sobre fondo de color rojo.",
+        "maquinaria agrícola automotriz, debiendo llevar la placa de identificación con la letra “L” sobre fondo de color verde.",
+        "vehículos adaptados a las deficiencias de la persona que haya de conducirlos, debiendo llevar la placa de identificación con la letra “L” sobre fondo de color blanco."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 54",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El centro de examen donde la escuela particular de conductores presenta a los alumnos a realizar las pruebas de aptitud se determina por…",
+      "opciones": [
+        "la Jefatura Provincial de Tráfico entre los existentes en la provincia donde radique la escuela y excepcionalmente, mediante comunicación, por la Dirección General de Tráfico entre los existentes en todo el territorio nacional.",
+        "la Jefatura Provincial u Oficina Local de Tráfico entre los existentes en la provincia donde radique la escuela y excepcionalmente, previa solicitud del interesado, mediante autorización por la Dirección General de Tráfico entre los existentes en provincia distinta donde radique.",
+        "la Jefatura Provincial u Oficina Local de Tráfico entre los existentes en la provincia donde radique la escuela y excepcionalmente, mediante comunicación, por la Dirección General de Tráfico entre los existentes en todo el territorio nacional.",
+        "la Jefatura Provincial de Tráfico entre los existentes en la provincia donde radique la escuela y excepcionalmente, previa solicitud del interesado, mediante autorización por la Dirección General de Tráfico entre los existentes en provincia distinta donde radique."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 55",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Excepcionalmente y si existe espacio suficiente para ello, el adelantamiento se efectuará por la derecha y adoptando las máximas precauciones…",
+      "opciones": [
+        "en autopistas y autovías, cuando el conductor del vehículo al que se pretende adelantar circule a velocidad inferior a la máxima permitida.",
+        "cuando el conductor del vehículo al que se pretende adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda.",
+        "cuando la densidad de la circulación sea tal que los vehículos ocupen toda la anchura de la calzada y solo puedan circular a una velocidad que dependa de la velocidad de los vehículos que le preceden en su carril.",
+        "cuando se circule por un carril de aceleración y se avance más rápidamente por este que por los carriles normales de circulación. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 56",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De conformidad con las definiciones contenidas en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, \"una vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques\", es:",
+      "opciones": [
+        "Una acera-bici.",
+        "Un carril-bici protegido.",
+        "Un carril-bici.",
+        "Una senda ciclable."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 57",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En las calzadas con doble sentido de circulación, ¿qué indican las marcas dobles discontinuas que delimitan un carril por ambos lados?",
+      "opciones": [
+        "Un carril reversible.",
+        "Un carril adicional circunstancial de circulación.",
+        "Un carril de aceleración o deceleración.",
+        "Un carril habilitado para ser utilizado en sentido contrario al habitual."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 58",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, ¿cuáles de los siguientes usuarios de la vía tienen la consideración de peatones?",
+      "opciones": [
+        "Las personas que conducen a pie cualquier vehículo de dos ruedas.",
+        "Las personas con discapacidad que circulan al paso en una silla de ruedas, salvo que esté provista de motor.",
+        "Los que empujan un coche de niño.",
+        "Los que conducen un vehículo para personas de movilidad reducida de tara no superior a 350 kilogramos."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 59",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, establece que los ciclos podrán transportar un pasajero, aun cuando por construcción no puedan ser ocupados por más de una persona cuando, entre otras condiciones previstas reglamentariamente,...",
+      "opciones": [
+        "el pasajero sea un menor de hasta 7 años.",
+        "el conductor sea el padre, madre o tutor o persona autorizada por ellos.",
+        "la circulación sea de día y en condiciones que no disminuyan la visibilidad.",
+        "el pasajero se sitúe en lugar intermedio entre el conductor y el manillar. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 60",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, para el cómputo de carriles, a efectos de su utilización...",
+      "opciones": [
+        "se tendrán en cuenta todos los carriles que existan físicamente en la vía, sin exclusión alguna.",
+        "no se tendrán en cuenta los carriles estrechos, entendiéndose por tales los de anchura inferior a 3 metros.",
+        "se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras.",
+        "no se tendrán en cuenta los reservados a determinados vehículos o a ciertas maniobras."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 61",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Dentro de poblado, en calzadas con tres carriles reservados para el mismo sentido, delimitados por marcas longitudinales, el conductor de un automóvil podrá utilizar normalmente, en las condiciones establecidas reglamentariamente,...",
+      "opciones": [
+        "el carril que más convenga a su destino, excepto si se trata de autopistas o autovías.",
+        "el carril situado más a la derecha y el contiguo y en ningún caso el más situado a la izquierda.",
+        "el central y el izquierdo, evitando el carril derecho con el fin de facilitar la incorporación de vehículos por ese lado.",
+        "el carril que más convenga a su destino, incluso si se trata de autopistas o autovías."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 62",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Deberán reducir su velocidad, aminorar la marcha o apartarse cuanto antes al arcén, si resulta practicable, los conductores de vehículos pesados o de grandes dimensiones para dejar paso a los que le siguen…",
+      "opciones": [
+        "cuando circulen por un tramo de vía en el que esté prohibido el adelantamiento y no venga ningún vehículo en sentido contrario.",
+        "cuando la densidad de la circulación en sentido contrario no permita ser adelantado con facilidad y sin peligro.",
+        "siempre que circulen detrás de otro vehículo pesado o de grandes dimensiones.",
+        "cuando circulen por un tramo con sucesión de curvas peligrosas."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 63",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme al Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en zonas señalizadas para uso exclusivo de personas con discapacidad…",
+      "opciones": [
+        "está permitido parar y estacionar siempre que no se obstaculice la circulación.",
+        "está prohibido estacionar pero está permitido parar por tiempo no superior a dos minutos solo para posibilitar la subida y bajada de pasajeros.",
+        "está prohibido parar y estacionar.",
+        "está permitido parar pero no estacionar. TA"
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 64",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, la utilización de los carriles para vehículos con alta ocupación (VAO) está expresamente prohibida a…",
+      "opciones": [
+        "los vehículos de dos ruedas, incluidas las motocicletas.",
+        "los turismos cuando ostenten la señal V-15.",
+        "los vehículos mixtos adaptables.",
+        "los conjuntos de vehículos, incluidos los turismos con remolque."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 65",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los conductores de los vehículos que circulen por un carril habilitado para ser utilizado en sentido contrario al habitual, ¿pueden desplazarse lateralmente invadiendo el carril o carriles destinados al sentido normal de circulación?",
+      "opciones": [
+        "No, como norma general, salvo para adelantar.",
+        "No, ni siquiera para adelantar.",
+        "Sí, cuando hayan sido habilitados por razones de fluidez de la circulación.",
+        "Sí, podrán invadirlo para cambiar de dirección, adelantar, parar o estacionar en ese lado."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 66",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, establece que por autopistas y autovías está siempre prohibida la circulación de...",
+      "opciones": [
+        "vehículos especiales o en régimen de transporte especial.",
+        "bicicletas.",
+        "vehículos de tracción animal.",
+        "vehículos de acompañamiento para el aprendizaje de la conducción."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 67",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Si el conductor de un turismo no tiene propósito de adelantar, ¿en qué tipo de vías debe guardar con el vehículo que circule delante, una separación tal que permita al conductor que circula por detrás adelantarlo con seguridad?",
+      "opciones": [
+        "En poblado.",
+        "En carreteras convencionales con dos carriles para cada sentido de la circulación.",
+        "En autopistas y autovías.",
+        "En carreteras convencionales con un solo carril para cada sentido de la circulación."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 68",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Como norma general, está prohibido adelantar…",
+      "opciones": [
+        "en las plazas de circulación giratoria o glorietas.",
+        "a vehículos de dos ruedas, en las intersecciones y sus proximidades.",
+        "en túneles insuficientemente iluminados con más de un carril para cada sentido de la circulación.",
+        "en los pasos para peatones señalizados como tales. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 69",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué vehículos no podrán circular por vías fuera de poblado a una velocidad superior a 45 kilómetros por hora, excepto en aquellos tramos en los que las circunstancias de la vía permitan desarrollar una velocidad superior?",
+      "opciones": [
+        "Los cuadriciclos ligeros.",
+        "Los ciclomotores de tres ruedas.",
+        "Los ciclomotores de dos ruedas.",
+        "Las bicicletas."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 70",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En vías fuera de poblado, circularán a una velocidad inferior en 10 kilómetros por hora a la velocidad máxima fijada para el tipo de vehículo de que se trate y de la vía por la que circulen, los…",
+      "opciones": [
+        "vehículos que realicen transporte escolar y de menores.",
+        "autobuses en los que viajen pasajeros de pie porque así esté autorizado.",
+        "vehículos especiales que puedan desarrollar una velocidad superior a 60 kilómetros por hora.",
+        "vehículos a los que, por razones de ensayo o experimentación, les haya sido concedido un permiso especial para ensayos."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 71",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 5 del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, será competencia del Ministerio del Interior, sin perjuicio de las que tengan asumidas las comunidades autónomas,…",
+      "opciones": [
+        "la concesión de subvenciones a través del “Programa de Incentivos al Vehículo Eficiente” (PIVE).",
+        "el establecimiento de normas especiales que posibiliten la circulación de vehículos históricos.",
+        "el establecimiento de los requisitos mínimos del régimen de inspecciones técnicas de los vehículos que se empleen para circular por la vía pública.",
+        "el establecimiento de normas relativas a la homologación de tipos de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 72",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según el orden de prioridad entre los distintos tipos de señales recogido en el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, las señales verticales de circulación prevalecen sobre…",
+      "opciones": [
+        "las marcas viales pero no sobre la señalización circunstancial que modifique el régimen normal de utilización de la vía y señales de balizamiento fijo.",
+        "las marcas viales y los semáforos pero no sobre las señales y órdenes de los agentes de circulación.",
+        "las señales de balizamiento fijo pero no sobre los semáforos.",
+        "los semáforos pero no sobre las marcas viales. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 73",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El incumplimiento de las disposiciones previstas en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial en materia de preferencia de paso tiene la consideración de...",
+      "opciones": [
+        "infracción leve.",
+        "infracción grave.",
+        "infracción muy grave.",
+        "infracción leve, grave o muy grave, en función de la peligrosidad ocasionada a otros usuarios de la vía."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 74",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De conformidad con el Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, se entiende por tramos de gran pendiente los que tienen una inclinación mínima del...",
+      "opciones": [
+        "5%.",
+        "6%.",
+        "7%.",
+        "10%."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 75",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme al artículo 2 del Real Decreto Legislativo 8/2004, de 29 de octubre, por el que se aprueba el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, como norma general, ¿quiénes están obligados a suscribir y mantener en vigor un contrato de seguro que cubra, hasta la cuantía de los límites del aseguramiento obligatorio, la responsabilidad civil?",
+      "opciones": [
+        "El conductor habitual del vehículo a motor cuando tenga su residencia habitual en España.",
+        "El propietario de un vehículo a motor que tenga su residencia habitual en España, con independencia del lugar de estacionamiento habitual del vehículo.",
+        "El propietario de un vehículo a motor que tenga su estacionamiento habitual en España.",
+        "El conductor habitual de un vehículo a motor o sus tutores legales en caso de menores de edad o incapacitados."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 76",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué deben hacer los conductores tan pronto perciban la proximidad de un vehículo de policía que indica su presencia con la señal luminosa V-1 aisladamente, omitiendo las señales acústicas especiales?",
+      "opciones": [
+        "Abandonar obligatoriamente la vía lo antes posible, para evitar ser un obstáculo.",
+        "Cederle el paso sin llegar a detenerse y, si las circunstancias lo aconsejan, circular superando la velocidad máxima permitida.",
+        "Seguir circulando normalmente, porque el vehículo de policía no circula en servicio urgente.",
+        "Facilitarle el paso, apartándose normalmente a la derecha o deteniéndose si fuera preciso. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 77",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Un furgón cuya longitud supere los seis metros, ¿debe llevar luz de posición lateral?",
+      "opciones": [
+        "Sí, con carácter obligatorio.",
+        "No, ya que la luz de posición lateral solo se exige a los remolques y semirremolques.",
+        "No, ya que está prohibido.",
+        "Puede llevarla, con carácter opcional."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 78",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Cuando un vehículo cruce un arcén por el que estén circulando peatones que no disponen de zona peatonal, ¿debe el conductor ceder el paso a estos?",
+      "opciones": [
+        "Sí, porque tienen preferencia de paso.",
+        "No, salvo peligro de atropello.",
+        "No, salvo que circulen formando una comitiva organizada, debidamente señalizada.",
+        "Sí, excepto si los peatones se aproximan por su izquierda."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 79",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, establece que las luces antiniebla traseras solo podrán encenderse cuando lo estén también...",
+      "opciones": [
+        "las luces de posición, las de cruce o las de carretera.",
+        "las luces de carretera, las de cruce o las antiniebla delanteras.",
+        "las luces de cruce o las de posición.",
+        "las luces de carretera, las de cruce o la luz de la placa posterior de matrícula."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 80",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según lo preceptuado en el Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, toda motocicleta deberá estar provista de:",
+      "opciones": [
+        "Indicadores de dirección con señal de emergencia.",
+        "Luz antiniebla trasera.",
+        "Catadióptrico trasero no triangular.",
+        "Luz antiniebla delantera."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 81",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La señal de un agente de la autoridad consistente en tener el brazo extendido moviéndolo alternativamente de arriba a abajo obliga a los conductores que se acerquen al agente por el lado correspondiente al brazo que ejecuta la señal y perpendicularmente a dicho brazo, a...",
+      "opciones": [
+        "detenerse.",
+        "aumentar la velocidad.",
+        "reanudar la marcha.",
+        "disminuir la velocidad. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 82",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "¿Qué indica la señal S-34?",
+      "opciones": [
+        "Un lugar donde se puede apartar el vehículo en un túnel, a fin de dejar libre el paso, y que dispone de teléfono de emergencia.",
+        "Un lugar donde se puede apartar el vehículo en la vía, a fin de realizar carga y descarga.",
+        "Un lugar donde se puede apartar el vehículo en un túnel, a fin de dejar libre el paso.",
+        "Un lugar donde se puede apartar el vehículo en la vía, a fin de utilizarse como área de descanso."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 83",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El dispositivo de guía \"baliza cilíndrica\" tiene como finalidad...",
+      "opciones": [
+        "balizar los bordes de las carreteras principalmente durante las horas nocturnas o de baja visibilidad.",
+        "guiar y señalar a los usuarios un peligro puntual, mediante el cual se informa sobre el sentido de circulación.",
+        "indicar el borde de la calzada, los límites de obras de fábrica u otros obstáculos en la vía.",
+        "reforzar cualquier medida de seguridad, y no puede franquearse la línea, imaginaria o no, que las une."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 84",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La señal R-3 indica a los conductores de los vehículos su prioridad…",
+      "opciones": [
+        "en las intersecciones, sobre los vehículos que circulen por otra calzada.",
+        "en un próximo paso estrecho, con relación a los vehículos que circulen en sentido contrario.",
+        "en una calzada con fuerte pendiente ascendente, sobre los vehículos que circulen en sentido descendente.",
+        "en un próximo paso estrecho, con relación a vehículos tales como camiones y furgones independientemente de su masa."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 85",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los remolques que no estén provistos de un sistema que asegure el frenado del remolque en caso de rotura del dispositivo de acoplamiento, deberán estar provistos, además del enganche principal, de un dispositivo de acoplamiento secundario que, en caso de separación del enganche principal pueda, entre otras cosas, asegurar una cierta conducción residual del remolque siempre que su masa máxima autorizada sea…",
+      "opciones": [
+        "menor o igual a 15.000 kg.",
+        "inferior a 15.000 kg.",
+        "superior a 1.500 kg.",
+        "menor o igual a 1.500 kg. TA"
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 86",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La señal R-103 prohíbe…",
+      "opciones": [
+        "el acceso de vehículos de motor y motocicletas de dos ruedas sin sidecar.",
+        "el acceso de vehículos de motor y ciclomotores de dos ruedas.",
+        "el acceso de vehículos de motor excepto motocicletas de dos ruedas sin sidecar.",
+        "el acceso exclusivamente a turismos y motocicletas de dos ruedas."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 87",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De las siguientes señales de balizamiento, son dispositivos de barrera:",
+      "opciones": [
+        "Las barreras laterales.",
+        "Los captafaros de barrera.",
+        "La luz roja fija.",
+        "El panel direccional permanente."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 88",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La señal S-124 indica la situación de una zona de estacionamiento destinada principalmente para los vehículos de los usuarios que realizan una parte de su viaje en vehículo privado y la otra…",
+      "opciones": [
+        "en ferrocarril.",
+        "en autobús.",
+        "en trolebús.",
+        "en ferrocarril inferior."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 89",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "A efectos del servicio al que se destinan los vehículos, que se anota en el permiso de circulación, los vehículos se clasifican…",
+      "opciones": [
+        "con un código numérico de tres cifras.",
+        "con un código alfanumérico de dos letras y dos números.",
+        "con un código alfanumérico de una letra y dos números.",
+        "con un código alfanumérico de dos letras y un número. TA"
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 90",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los elementos de seguridad activa de un vehículo tienen por objeto…",
+      "opciones": [
+        "proteger la integridad física de sus ocupantes cuando se produzca un accidente.",
+        "establecer las prescripciones de los dispositivos antiempotramiento.",
+        "evitar que se produzca un accidente.",
+        "preservar la funcionalidad de la célula de supervivencia."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 91",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El uso excesivo de los frenos que puede provocar el calentamiento de los mismos y, por consiguiente, la pérdida de su eficacia, se denomina…",
+      "opciones": [
+        "braking.",
+        "fading.",
+        "aquaplaning.",
+        "hidroplaning."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 92",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El dispositivo de guía cuya finalidad primordial es balizar los bordes de las carreteras, principalmente durante las horas nocturnas o de baja visibilidad, se denomina...",
+      "opciones": [
+        "captafaro horizontal u ojo de gato.",
+        "captafaro de barrera.",
+        "hito de vértice.",
+        "hito de arista."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 93",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En relación con las técnicas de conducción de un vehículo a motor, en la regla de seguridad P.V.O. la letra \"P\" significa que el conductor…",
+      "opciones": [
+        "observará la posición que adopten los demás usuarios para decidir la forma más correcta de realizar una maniobra.",
+        "se colocará en el lugar adecuado para realizar la maniobra.",
+        "se posicionará correctamente en el interior del vehículo.",
+        "preverá con suficiente anticipación las posibles reacciones de los otros usuarios."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 94",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la clasificación de los accidentes de tráfico por el modo en que se producen, el encuentro violento entre un vehículo en movimiento con otro estacionado o abandonado se considera…",
+      "opciones": [
+        "embestida.",
+        "choque.",
+        "alcance.",
+        "colisión. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 95",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Los neumáticos de invierno se identificarán con las siguientes siglas:",
+      "opciones": [
+        "M+S, MS o M&S.",
+        "TP+MS, TPMS o TP&MS.",
+        "3P+MS, 3PMS o 3P&MS.",
+        "3SWIT."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 96",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El riesgo de sufrir un accidente de tráfico se incrementa cuanto mayor es la velocidad del vehículo, ya que disminuye la capacidad de respuesta del conductor, crece el nivel de exigencia y…",
+      "opciones": [
+        "aumenta la distancia de frenado, aunque disminuye la de reacción.",
+        "aumenta tanto la distancia de frenado como la de reacción.",
+        "aumenta la distancia de reacción, aunque disminuye la de frenado.",
+        "disminuye tanto la distancia de frenado como la de reacción."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 97",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La Estrategia de Seguridad Vial 2011-2020 aborda la velocidad como uno de sus temas clave, desglosándolo en dos objetivos operativos: conseguir comportamientos más seguros y…",
+      "opciones": [
+        "extender progresivamente el control de velocidad por tramos con el fin de incrementar el número de sanciones impuestas.",
+        "promover la instalación de limitadores de velocidad en los tramos más peligrosos de autopistas y autovías.",
+        "promover un diseño seguro en las vías para reducir las situaciones de riesgo por velocidad.",
+        "reducir las velocidades máximas permitidas en todo tipo de vías, especialmente en carreteras convencionales."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 98",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Entre un 90% y un 98% del alcohol ingerido por un conductor…",
+      "opciones": [
+        "se elimina, sin metabolizar, por la orina, el sudor y el aire espirado de los pulmones.",
+        "se metaboliza en un proceso que tiene lugar, principalmente, en el hígado.",
+        "se incorpora a la sangre a través de los intestinos en un proceso denominado metabolización.",
+        "se metaboliza en el estómago y en los intestinos antes de incorporarse a la sangre."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 99",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme a la clasificación de las sustancias psicotrópicas basada en su acción predominante sobre el sistema nervioso central, el cannabis es una sustancia…",
+      "opciones": [
+        "estimulante del sistema nervioso central.",
+        "alucinógena.",
+        "depresora del sistema nervioso central.",
+        "psicoléptica. TA"
+      ],
+      "correcta": null,
+      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2017.",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta 100",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El nombramiento de los miembros de la Casa Real…",
+      "opciones": [
+        "se realiza por Decreto acordado en Consejo de Ministros a propuesta conjunta de los ministerios de la Vicepresidencia y de Hacienda.",
+        "se efectúa libremente por el Rey, tanto respecto a los miembros civiles como a los militares de su Casa.",
+        "se realiza por Decreto acordado en el Consejo de Ministros a propuesta del Rey.",
+        "se lleva a cabo libremente por el Rey respecto a los miembros civiles de su Casa, mientras que los miembros militares de la misma son designados por el Ministerio de Defensa."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 1",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "El principio de responsabilidad que rige en la circulación supone, conforme al artículo 2 del Real Decreto 1428/2003, de 21 de noviembre, por el que se aprueba el Reglamento General de Circulación, que…",
+      "opciones": [
+        "todo partícipe en la circulación rodada tiene derecho a esperar que los demás usuarios de la vía hagan un uso adecuado de la misma.",
+        "los usuarios de la vía están obligados a comportarse de forma que no entorpezcan indebidamente la circulación ni causen peligro, perjuicios o molestias innecesarias a las personas, o daños a los bienes.",
+        "ningún usuario de la vía está obligado a sacrificar su vida o comprometer su integridad corporal cuando realiza un acto lícito.",
+        "el conductor que vaya a realizar una maniobra que implique una variación de su posición en la calzada, ha de advertirlo con la correspondiente señal a los demás conductores y usuarios."
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 2",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "De acuerdo con la Constitución española de 1978, el órgano jurisdiccional superior en todos los órdenes es…",
+      "opciones": [
+        "el Tribunal Supremo, sin excepciones.",
+        "el Tribunal Constitucional, sin excepciones.",
+        "el Consejo General del Poder Judicial, salvo lo dispuesto en materia de garantías constitucionales.",
+        "el Tribunal Supremo, salvo lo dispuesto en materia de garantías constitucionales."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 3",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Como excepción a la norma general aplicable en las intersecciones sin señalizar, en la intersección de una vía pavimentada con otra sin pavimentar, tendrán preferencia de paso...",
+      "opciones": [
+        "los vehículos que circulen por la vía pavimentada.",
+        "los vehículos que circulen por la vía sin pavimentar.",
+        "los vehículos que circulen por la vía más ancha, esté o no pavimentada.",
+        "los vehículos de motor sobre los demás vehículos. TA"
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 4",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Uno de los fines a alcanzar por las medidas recogidas en el artículo 2 de la Ley 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, es…",
+      "opciones": [
+        "respetar la confidencialidad en la recogida y tratamiento de los datos tratados, de acuerdo con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.",
+        "promover la igualdad de oportunidades y la no discriminación en cualquiera de los ámbitos de desarrollo y aplicación de la Ley 1/2004.",
+        "coordinar los recursos e instrumentos de todo tipo de los distintos poderes públicos para asegurar la prevención de los hechos de violencia de género y, en su caso, la sanción adecuada a los culpables de los mismos.",
+        "consagrar derechos de las mujeres víctimas de violencia de género, exigibles ante las administraciones autonómicas, y así asegurar un acceso rápido, transparente y eficaz a los servicios establecidos al efecto."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 5",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "A los efectos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, tendrán capacidad de obrar ante las Administraciones Públicas:",
+      "opciones": [
+        "Los menores de edad para el ejercicio y defensa de sus obligaciones e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+        "Los menores de edad para el ejercicio y defensa de sus obligaciones e intereses cuya actuación no esté permitida por el ordenamiento jurídico con la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+        "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico con la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+        "Los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela."
+      ],
+      "correcta": 3,
+      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 6",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Conforme a las cifras provisionales de la Unión Europea, España registró en el año 2016 una tasa de 39 fallecidos en accidentes de tráfico por millón de habitantes, lo que situó a nuestro país…",
+      "opciones": [
+        "en la parte media del ranking de siniestralidad de la Unión Europea, por delante de países como Reino Unido y Suecia.",
+        "con una tasa de mortalidad por debajo de la media de la Unión Europea, que ese año fue de 51 fallecidos por millón de habitantes.",
+        "entre los países de la Unión Europea con una tasa de mortalidad más elevada, solo superada por los países del este de Europa y por Grecia.",
+        "con una tasa de mortalidad por encima de la media de la Unión Europea, que ese año fue de 34 fallecidos por millón de habitantes. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 7",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "En la fase de conflicto de un accidente de tráfico, se conoce como punto clave el momento en el que…",
+      "opciones": [
+        "se consuma el accidente.",
+        "el conductor inicia la realización de la maniobra evasiva que ha decidido ejecutar.",
+        "el accidente resulta inevitable si el conductor no actúa.",
+        "el conductor debió darse cuenta de la circunstancia anormal que podía terminar en accidente."
+      ],
+      "correcta": 2,
+      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 8",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "Según se establece en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate siempre que…",
+      "opciones": [
+        "se aporte aquélla o se subsane el defecto dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+        "se aporte aquélla o se subsane el defecto dentro del plazo de quince días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+        "se aporte aquélla o se subsane el defecto dentro del plazo de veinte días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+        "se aporte aquélla o se subsane el defecto dentro del plazo de treinta días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran."
+      ],
+      "correcta": 0,
+      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 9",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    },
+    {
+      "pregunta": "La expedición de un permiso o licencia de conducción se solicitará…",
+      "opciones": [
+        "solo de la Jefatura Provincial de Tráfico de la provincia que corresponda al domicilio del interesado.",
+        "de la Jefatura Provincial de Tráfico en la que se desee obtener el mencionado permiso o licencia.",
+        "solo de alguna de las Jefaturas Provinciales de Tráfico que corresponda a la comunidad autónoma del domicilio del interesado.",
+        "de la Jefatura Provincial de Tráfico o de la Oficina Local de Tráfico, si la hubiese, de la provincia que corresponda al domicilio del interesado. TA"
+      ],
+      "correcta": 1,
+      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2017 (pregunta de reserva).",
+      "tema": null,
+      "bloque": null,
+      "fuente": {
+        "documento": "Convocatoria real 2017",
+        "referencia": "Examen convocatoria 2017 (Modelo A), pregunta de reserva 10",
+        "texto": "",
+        "documentoId": "",
+        "seccionId": ""
+      }
+    }
+  ]
+}
