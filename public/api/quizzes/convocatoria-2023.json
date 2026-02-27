@@ -11,12 +11,12 @@
         "se emitirá en un plazo máximo de 15 días hábiles desde la fecha de solicitud, transcurrido el cual se entenderá concedido el permiso para la organización de la prueba."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Anexo II del Reglamento General de Circulación (RD 1428/2003), cuando la competencia para autorizar una prueba deportiva esté atribuida a una comunidad autónoma, el informe de la Jefatura de Tráfico fijará los servicios de vigilancia y tendrá carácter vinculante cuando se oponga a la realización de la prueba, dado que la regulación del tráfico en esas vías compete a la Administración General del Estado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 1",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Anexo II, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -31,12 +31,12 @@
         "La circunscripción electoral en las elecciones al Congreso de los Diputados es la CCAA. Las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por dos Diputados."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 68.1 de la Constitución Española de 1978, la circunscripción electoral para el Congreso de los Diputados es la provincia. El artículo 68.2 CE establece que las poblaciones de Ceuta y Melilla estarán representadas cada una de ellas por un Diputado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 2",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 68.1 y 68.2, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -51,12 +51,12 @@
         "La Dirección General de Tráfico o el órgano autonómico competente convocará cursos y pruebas para la obtención del certificado de aptitud de director de escuelas particulares de conductores, con el fin de garantizar la disponibilidad de profesionales suficientes para la correcta prestación del servicio, al menos con una periodicidad anual."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento de Escuelas Particulares de Conductores, la DGT o el órgano autonómico competente podrá, cuando sea necesario, convocar cursos para la obtención del certificado de aptitud de director de escuelas de conductores. Esta convocatoria es potestativa ('podrá') y condicionada a la necesidad. Para los profesores de formación vial, en cambio, la convocatoria es preceptiva con periodicidad mínima anual.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 3",
+        "documento": "Reglamento de Escuelas Particulares de Conductores (RD 1295/2003)",
+        "referencia": "Reglamento de Escuelas Particulares de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -71,12 +71,12 @@
         "Las personas físicas obligadas a relacionarse a través de medios electrónicos con las Administraciones Públicas para la realización de cualquier trámite de un procedimiento administrativo deberán solicitar la comunicación por este medio al inicio del procedimiento, si bien podrá ser modificado por aquellas en cualquier momento una vez iniciado el mismo."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 3.1 del Real Decreto 203/2021, estarán obligados a relacionarse por medios electrónicos con las Administraciones Públicas, al menos, los sujetos a los que se refiere el artículo 14.2 de la Ley 39/2015 (personas jurídicas, entidades sin personalidad jurídica, profesionales colegiados, empleados públicos, etc.).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 4",
+        "documento": "Reglamento de actuación y funcionamiento del sector público por medios electrónicos (RD 203/2021)",
+        "referencia": "Art. 3.1, RD 203/2021",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -91,12 +91,12 @@
         "Director de centros de formación de mercancías peligrosas."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Real Decreto 174/2021, el entorno profesional del título de Técnico Superior en Movilidad Segura y Sostenible incluye entre otros directores de escuelas de conductores, monitores de conducción segura y directores de centros de formación de mercancías peligrosas. Sin embargo, el 'Psicólogo-Formador de cursos de sensibilización y reeducación vial' no figura expresamente como ocupación en dicho entorno profesional.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 5",
+        "documento": "Real Decreto 174/2021",
+        "referencia": "Entorno profesional del título, RD 174/2021",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -111,12 +111,12 @@
         "La costumbre sólo regirá en defecto de ley aplicable, sin perjuicio de su carácter informador del ordenamiento jurídico."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 1.5 del Código Civil, las normas jurídicas contenidas en los tratados internacionales no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el Boletín Oficial del Estado. La opción A es incorrecta (las fuentes son ley, costumbre y principios generales, no principios constitucionales); la B es incorrecta (los principios generales no requieren ser 'probados'); la D es incorrecta (la costumbre sólo rige en defecto de ley y sí tiene carácter informador).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 6",
+        "documento": "Código Civil (RD de 24 de julio de 1889)",
+        "referencia": "Art. 1.5, Código Civil",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -131,12 +131,12 @@
         "Alzira."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Reus (Tarragona) no dispone de Oficina Local de Tráfico propia; la cobertura en esa provincia la ejerce la Jefatura Provincial de Tráfico de Tarragona. Talavera de la Reina, La Línea de la Concepción y Alzira sí cuentan con Oficina Local de Tráfico.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 7",
+        "documento": "Organización territorial de la Dirección General de Tráfico",
+        "referencia": "Red de Jefaturas y Oficinas Locales de Tráfico, DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -151,12 +151,12 @@
         "22 de enero de 2027."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme a la normativa sobre Vehículos de Movilidad Personal, a partir del 22 de enero de 2027 solo podrán circular los VMP que dispongan del certificado de conformidad VMP expedido por un organismo de control autorizado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 8",
+        "documento": "Normativa sobre Vehículos de Movilidad Personal",
+        "referencia": "Disposiciones transitorias sobre VMP, normativa DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -171,12 +171,12 @@
         "La longitud de los trenes de carretera especializados en el transporte de vehículos, circulando con carga, podrá aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero autorizado para ello."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Anexo IX del Reglamento General de Vehículos, la longitud de los trenes de carretera especializados en transporte de vehículos, circulando con carga, podrá aumentarse hasta un total de 20,55 metros utilizando un voladizo o soporte de carga trasero autorizado para ello.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 9",
+        "documento": "Reglamento General de Vehículos (RD 2822/1998)",
+        "referencia": "Anexo IX, Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -191,12 +191,12 @@
         "Gestionarán, protegerán y conservarán adecuadamente los recursos públicos, que no podrán ser utilizados para actividades que no sean las permitidas por la normativa que sea de aplicación."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. El artículo 26 de la Ley 19/2013 de Transparencia establece entre los principios generales de buen gobierno el de imparcialidad, según el cual los altos cargos deben mantener un criterio independiente y ajeno a todo interés particular. Las demás opciones (reserva, transparencia, gestión adecuada de recursos) corresponden a principios de conducta específicos de las letras b), c) y d) del mismo artículo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 10",
+        "documento": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+        "referencia": "Art. 26, Ley 19/2013",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -211,12 +211,12 @@
         "está basado en el cumplimiento relativo, por parte de los usuarios, de las normas que regulan la circulación."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. El principio de confianza en la normalidad del tráfico, según los conceptos de la DGT, supone que todo partícipe en la circulación que se comporte reglamentariamente tiene derecho a esperar, en expectativa legítima, que los demás usuarios harán un uso adecuado de la vía y cumplirán las normas. No se basa en la certeza absoluta, sino en una expectativa razonable.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 11",
+        "documento": "Conceptos de Seguridad Vial, Dirección General de Tráfico",
+        "referencia": "Principio de confianza en la normalidad del tráfico, DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -231,12 +231,12 @@
         "En la 3ª fase se producen un 75% de los fallecimientos, que ocurren días o semanas después del accidente. Se deben a complicaciones después del tratamiento inicial."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. En la distribución de la mortalidad en accidentes de tráfico, la 2ª fase se denomina 'hora de oro'. En ella se producen aproximadamente el 75% de los fallecimientos; muchos de ellos pueden evitarse con una atención rápida y adecuada, de ahí la importancia crítica de los primeros auxilios y la asistencia sanitaria inmediata.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 12",
+        "documento": "Conceptos de Seguridad Vial, Dirección General de Tráfico",
+        "referencia": "Fases de mortalidad en accidentes de tráfico, DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -251,12 +251,12 @@
         "toda clase de vehículos destinados al transporte de mercancías si su masa máxima autorizada es igual o superior a la indicada en la señal, entendiéndose como tales los camiones y furgones con igual o mayor masa autorizada que la indicada en la señal. No prohíbe el acceso cuando circulen vacíos."
       ],
       "correcta": null,
-      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2023.",
+      "explicacion": "Pregunta anulada en la convocatoria oficial.",
       "tema": null,
       "bloque": null,
       "fuente": {
         "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 13",
+        "referencia": "Pregunta anulada",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -271,12 +271,12 @@
         "Director General."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 74 de la Ley 40/2015 de Régimen Jurídico del Sector Público, los Subdelegados del Gobierno en las Comunidades Autónomas son órganos directivos con rango de Subdirector General. En cambio, los Delegados del Gobierno tienen rango de Secretario de Estado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 14",
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Art. 74, Ley 40/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -291,12 +291,12 @@
         "La Intervención General de la Administración del Estado."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según la Ley 19/2013 de Transparencia, es el Consejo de Transparencia y Buen Gobierno el órgano independiente que tiene como fin garantizar la observancia de las disposiciones de buen gobierno recogidas en dicha ley, así como velar por el cumplimiento de las obligaciones de publicidad activa.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 15",
+        "documento": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+        "referencia": "Art. 33 y ss., Ley 19/2013",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -311,12 +311,12 @@
         "Unidad de Normativa."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Real Decreto 207/2024, de 27 de febrero, que desarrolla la estructura orgánica básica del Ministerio del Interior, el Centro de Tratamiento de Denuncias Automatizadas (CTDA) se encuadra en la Secretaría General de la DGT, con nivel orgánico de subdirección general.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 16",
+        "documento": "Real Decreto 207/2024, de 27 de febrero",
+        "referencia": "RD 207/2024, estructura orgánica básica Ministerio del Interior / DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -331,12 +331,12 @@
         "Los medios de comunicación."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 14 de la Ley Orgánica 1/2004 de Medidas de Protección Integral contra la Violencia de Género, son los medios de comunicación quienes fomentarán la protección y salvaguarda de la igualdad entre hombre y mujer, evitando toda discriminación entre ellos, de acuerdo con los valores constitucionales.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 17",
+        "documento": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+        "referencia": "Art. 14, LO 1/2004",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -351,12 +351,12 @@
         "Peaje, tasa o impuesto."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Real Decreto Legislativo 6/2015, la circulación por autovías puede estar sujeta al pago del correspondiente peaje, tasa o precio público. No se contempla el 'impuesto', el 'tributo' genérico ni el 'arancel' como formas de contraprestación por el uso de autovías.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 18",
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Art. 67, RDL 6/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -371,12 +371,12 @@
         "Computarán a efectos de trienios y de derechos pasivos."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 7 de la Ley 53/1984 de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, los servicios prestados en el segundo puesto o actividad no computarán a efectos de trienios ni de derechos pasivos, pudiendo suspenderse la cotización a este último efecto.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 19",
+        "documento": "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas",
+        "referencia": "Art. 7, Ley 53/1984",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -391,12 +391,12 @@
         "Bachillerato."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Real Decreto 157/2022, de 1 de marzo, que establece la ordenación y enseñanzas mínimas de la Educación Primaria, el objetivo de desarrollar hábitos cotidianos de movilidad activa autónoma saludable y fomentar la educación vial para prevenir accidentes de tráfico corresponde a la etapa de Educación Primaria.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 20",
+        "documento": "Real Decreto 157/2022, de 1 de marzo (enseñanzas mínimas de Educación Primaria)",
+        "referencia": "RD 157/2022, objetivos etapa Educación Primaria",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -411,12 +411,12 @@
         "Su colocación será de carácter voluntario en los vehículos de transporte de mercancías de las categorías N1, N2 y N3 y obligatorio en los vehículos de transporte de residuos urbanos (N2 y N3)."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme a la normativa sobre la señal de advertencia de peligro de ángulo muerto, la identificación del fabricante deberá estar grabada dentro de un rectángulo de 35×5 mm colocado en el centro del borde inferior de la señal.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 21",
+        "documento": "Normativa sobre señales de advertencia de ángulo muerto (Reglamento General de Vehículos)",
+        "referencia": "Señal de advertencia de ángulo muerto, Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -431,12 +431,12 @@
         "100 kilómetros por hora."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, un autobús no dotado de cinturón de seguridad tiene una velocidad máxima de 80 km/h en carretera convencional fuera de poblado sin separación física de sentidos y con arcén inferior a 1,5 metros, frente a los 90 km/h permitidos a autobuses con cinturón.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 22",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. 48 y Anexo IV (tabla de velocidades máximas), Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -451,12 +451,12 @@
         "Como un mínimo del 55 % de los miembros del Consejo que incluya al menos a quince de ellos y represente a Estados miembros que reúnan como mínimo el 65 % de la población de la Unión."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 16.4 del Tratado de la Unión Europea, a partir del 1 de noviembre de 2014 la mayoría cualificada se define como un mínimo del 55% de los miembros del Consejo, que incluya al menos a 15 de ellos y represente a Estados miembros que reúnan como mínimo el 65% de la población de la Unión.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 23",
+        "documento": "Tratado de la Unión Europea",
+        "referencia": "Art. 16.4, Tratado de la Unión Europea",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -471,12 +471,12 @@
         "Temporal."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Circulación, un vehículo en régimen de transporte especial con autorización genérica puede circular a una velocidad máxima de 70 km/h. Las autorizaciones específica y excepcional tienen otras condiciones de velocidad y requisitos adicionales.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 24",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Régimen de transporte especial, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -491,12 +491,12 @@
         "Los supuestos de circulación por la izquierda, en sentido contrario al estipulado, tendrán la consideración de infracciones muy graves."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la C. Según el Reglamento General de Circulación, para un vehículo especial con MMA superior a 3.500 kg, los supuestos de circulación por el carril de la izquierda en sentido contrario al estipulado tienen la consideración de infracciones MUY GRAVES, no 'graves' como señala incorrectamente la opción C. La opción D (muy graves) es la correcta.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 25",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Circulación de vehículos especiales, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -511,12 +511,12 @@
         "Cuando, inmovilizado un vehículo de acuerdo con lo dispuesto en el artículo 104 del Real Decreto Legislativo 6/2015, en el plazo de dos meses no cesasen las causas que motivaron la inmovilización."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 106 del Real Decreto Legislativo 6/2015, la Administración podrá ordenar el traslado a un Centro Autorizado de Tratamiento cuando un vehículo permanezca estacionado por un período superior a un mes en el mismo lugar y presente desperfectos que hagan imposible su desplazamiento por sus propios medios o le falten las placas de matrícula.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 26",
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Art. 106, RDL 6/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -531,12 +531,12 @@
         "transcurridos seis meses desde que la solicitud de suspensión haya tenido entrada en el registro electrónico de la Administración u Organismo competente para decidir sobre la misma, el órgano a quien competa resolver el recurso no ha dictado y notificado resolución expresa al respecto."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 117 de la Ley 39/2015 del Procedimiento Administrativo Común, la ejecución del acto impugnado se entenderá suspendida si transcurrido un mes desde que la solicitud de suspensión tuvo entrada en el registro electrónico del órgano competente, este no ha dictado y notificado resolución expresa al respecto.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 27",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 117, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -551,12 +551,12 @@
         "de cuarto nivel, que no sea autopista o autovía, de la red autonómica de la comunidad a la que corresponden las siglas de identificación."
       ],
       "correcta": null,
-      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2023.",
+      "explicacion": "Pregunta anulada en la convocatoria oficial.",
       "tema": null,
       "bloque": null,
       "fuente": {
         "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 28",
+        "referencia": "Pregunta anulada",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -571,12 +571,12 @@
         "Cinco años."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al ADR (Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera), la formación del conductor tiene una validez de 5 años a partir de la fecha en que superó el examen de formación inicial básica o integral. Transcurrido ese plazo, el conductor deberá realizar la formación de reciclaje correspondiente.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 29",
+        "documento": "ADR (Acuerdo Europeo sobre Transporte Internacional de Mercancías Peligrosas por Carretera)",
+        "referencia": "ADR, período de validez de la formación del conductor",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -591,12 +591,12 @@
         "10 años."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 143.3 de la Constitución Española, en el caso de no prosperar la iniciativa del proceso autonómico, esta solo podrá reiterarse pasados 5 años.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 30",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 143.3, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -611,12 +611,12 @@
         "Preceptivos y vinculantes."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 80 de la Ley 39/2015 del Procedimiento Administrativo Común, salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes. Solo serán preceptivos cuando así lo establezca una norma y solo vinculantes cuando la ley expresamente así lo disponga.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 31",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 80, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -631,12 +631,12 @@
         "La señal V-27 «Triángulo virtual»."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La señal representada en la imagen es la V-27 'Triángulo virtual', regulada en el Reglamento General de Vehículos. Esta señal luminosa sustituye al triángulo de preseñalización de peligro y se activa en caso de emergencia del vehículo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 32",
+        "documento": "Reglamento General de Vehículos (RD 2822/1998)",
+        "referencia": "Señal V-27 (Triángulo virtual), Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -651,12 +651,12 @@
         "Conducir un vehículo de motor o ciclomotor tras haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial será castigado con una multa de seis a doce meses."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 383 del Código Penal, el conductor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de tasas de alcoholemia, será castigado con la pena de prisión de seis meses a un año y privación del derecho a conducir.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 33",
+        "documento": "Código Penal (LO 10/1995)",
+        "referencia": "Art. 383, Código Penal",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -671,12 +671,12 @@
         "La supervisión quinquenal."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Conductores, la supervisión quinquenal incluye, como garantía de calidad, la observación de las pruebas de aptitud de los examinadores por un periodo mínimo acumulativo de al menos media jornada. Esta supervisión se realiza en el período de cinco años.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 34",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Supervisión quinquenal de examinadores, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -691,12 +691,12 @@
         "Mujeres viudas."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la B. Según el artículo 14 de la Ley Orgánica 3/2007 para la igualdad efectiva de mujeres y hombres, los colectivos de especial vulnerabilidad que pueden ser objeto de medidas de acción positiva son: mujeres con discapacidad, mujeres víctimas de violencia de género y mujeres viudas. Las 'mujeres en situación de desempleo' no figuran expresamente en ese listado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 35",
+        "documento": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+        "referencia": "Art. 14, LO 3/2007",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -711,12 +711,12 @@
         "prohíbe el acceso a ciclos, ciclomotores de dos y tres ruedas y cuatriciclos ligeros. Igualmente prohíbe la entrada a vehículos para personas de movilidad reducida"
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La señal R-105 prohíbe el acceso a ciclomotores de dos y tres ruedas y cuatriciclos ligeros, e igualmente prohíbe la entrada a vehículos para personas de movilidad reducida. No prohíbe el acceso a motocicletas ni a bicicletas.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 36",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Señal R-105, Catálogo de señales, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -731,12 +731,12 @@
         "4 días en periodos de tres años."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Conductores, el personal examinador debe realizar una formación periódica mínima de 4 días en periodos de dos años para conservar su condición de examinador.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 37",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Formación periódica de examinadores, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -751,12 +751,12 @@
         "A 15 metros contados desde la parte posterior del vehículo."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Conductores, al comienzo de la maniobra G de la prueba de control y aptitudes en circuito cerrado, el aspirante deberá detener el vehículo a un mínimo de 10 metros del inicio de la curva, contados desde la parte posterior del vehículo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 38",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Maniobra G, prueba en circuito cerrado, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -771,12 +771,12 @@
         "por el Congreso de los Diputados."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 57.5 de la Constitución Española, las abdicaciones y renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión a la Corona se resolverán por una Ley Orgánica.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 39",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 57.5, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -791,12 +791,12 @@
         "Cuando la norma pudiera afectar a la distribución de las competencias entre el Estado y las Comunidades Autónomas, será además necesaria la aprobación del Consejo de Ministros."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Título V de la Ley 50/1997 del Gobierno sobre potestad reglamentaria, la consulta pública deberá realizarse de forma que todos los potenciales destinatarios puedan emitir su opinión, para lo cual se proporcionará un tiempo suficiente que en ningún caso será inferior a quince días naturales.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 40",
+        "documento": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+        "referencia": "Título V (potestad reglamentaria), Ley 50/1997",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -811,12 +811,12 @@
         "El personal al servicio del organismo autónomo Jefatura Central de Tráfico, el personal de la Agrupación de Tráfico de la Guardia Civil, los miembros de las Policías Locales y el personal docente de las Escuelas Oficiales de Conductores."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento de Escuelas Particulares de Conductores, tienen prohibido prestar servicios en las autoescuelas mientras estén en activo: el personal al servicio de la JCT, el personal de la Agrupación de Tráfico de la Guardia Civil (no toda la GC), los miembros de las Policías Locales y el personal docente de las Escuelas Oficiales de Conductores. No se incluye expresamente a la Policía Nacional.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 41",
+        "documento": "Reglamento de Escuelas Particulares de Conductores (RD 1295/2003)",
+        "referencia": "Incompatibilidades en escuelas particulares de conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -831,12 +831,12 @@
         "Los conductores que circulen por dichos carriles deberán llevar encendida, al menos, la luz de largo alcance en sus vehículos tanto de día como de noche, de acuerdo con lo dispuesto en el artículo 104 del Reglamento General de Circulación."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Los carriles reversibles se regulan en el artículo 40 del Reglamento General de Circulación (RD 1428/2003). En ellos, la dirección de circulación puede variar según la hora o las necesidades del tráfico, y su uso está regulado mediante señales específicas o semáforos.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 42",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. 40, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -851,12 +851,12 @@
         "La iniciativa sólo podrá ser planteada por dos terceras partes de los miembros del Congreso, y con la aprobación de la mayoría simple del mismo."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 102.2 de la Constitución Española, la iniciativa de acusación al Presidente del Gobierno por traición o delito contra la seguridad del Estado solo podrá ser planteada por la cuarta parte de los miembros del Congreso, y necesitará la aprobación de la mayoría absoluta del mismo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 43",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 102.2, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -871,12 +871,12 @@
         "Un espacio que permita ser adelantado con seguridad."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, en carreteras convencionales con un carril por sentido donde esté permitido el adelantamiento, los autobuses con una masa máxima autorizada de 5.000 kg (inferior a 12.000 kg) deben mantener una distancia mínima de seguridad de 50 metros con el vehículo precedente cuando no pretendan adelantar.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 44",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. 54, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -891,12 +891,12 @@
         "prohíbe las inmovilizaciones. Salvo indicación en contrario, la prohibición comienza en la vertical de la señal y termina en la intersección más próxima."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La señal R-308 prohíbe el estacionamiento. Salvo indicación en contrario, la prohibición comienza en la vertical de la señal y termina en la intersección más próxima, sin necesidad de una señal R-500 de fin de prohibición para terminar su efecto.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 45",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Señal R-308, Catálogo de señales, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -911,12 +911,12 @@
         "La autocaravana, porque tiene preferencia."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, en pasos estrechos como puentes donde no puedan circular dos vehículos simultáneamente, el vehículo de tracción animal tiene preferencia de paso. Por tanto, la autocaravana deberá ceder el paso y, en su caso, dar marcha atrás.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 46",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. 59, Reglamento General de Circulación (pasos estrechos)",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -931,12 +931,12 @@
         "en el plazo máximo de tres meses desde la recepción de la solicitud por el órgano competente para resolver."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 20 de la Ley 19/2013, la resolución sobre el acceso a la información pública deberá notificarse al solicitante y a los terceros afectados en el plazo máximo de un mes desde la recepción de la solicitud por el órgano competente para resolver.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 47",
+        "documento": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+        "referencia": "Art. 20, Ley 19/2013",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -951,12 +951,12 @@
         "Es un dispositivo de barrera que puede ser rígido, semirrígido y desplazable que indica el borde de la plataforma y protege frente a salidas de la vía."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, un panel direccional provisional es un dispositivo de barrera (no de guía) que prohíbe el paso e informa, además, sobre el sentido de la circulación, utilizado en obras y regulación provisional del tráfico.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 48",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Panel direccional provisional, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -971,12 +971,12 @@
         "cuando la ejecución del acto pudiera afectar a la seguridad del Estado."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 108 de la Ley 39/2015, iniciado el procedimiento de revisión de oficio, el órgano competente para resolver podrá suspender la ejecución del acto cuando la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 49",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 108, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -991,12 +991,12 @@
         "Aquella que tiene por objetivo la reinserción en la sociedad de las personas que han sufrido daños en un siniestro de tráfico."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. En Seguridad Vial, la Seguridad Secundaria engloba los elementos o dispositivos de los vehículos o de la vía que tienen por objetivo evitar o reducir al mínimo las consecuencias sobre ocupantes o terceros cuando ya se ha producido un siniestro de tráfico (por ejemplo, airbags, cinturones de seguridad). La Seguridad Primaria busca evitar el siniestro; la Terciaria busca la recuperación de los heridos.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 50",
+        "documento": "Conceptos de Seguridad Vial, Dirección General de Tráfico",
+        "referencia": "Seguridad Secundaria, DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1011,12 +1011,12 @@
         "En caso de llevar un exceso de presión de los neumáticos, esta deberá reducirse situando el vehículo en un lugar plano y justo después de circular un rato para que los neumáticos se encuentren calientes."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La deriva del neumático es la variación de la trayectoria registrada como consecuencia de la deformación de la cubierta. Se produce cuando las fuerzas laterales deforman el neumático, haciendo que el vehículo se desplace en una dirección distinta a la apuntada por las ruedas directrices.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 51",
+        "documento": "Conceptos de Seguridad Vial / Mecánica del vehículo, DGT",
+        "referencia": "Deriva del neumático, conceptos de seguridad vial y mecánica",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1031,12 +1031,12 @@
         "20 días, se le tendrá por desistido de su solicitud o se le podrá declarar decaído en su derecho al trámite correspondiente."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Real Decreto 203/2021, si el interesado obligado a relacionarse electrónicamente no utiliza dichos medios, el órgano le requerirá la subsanación, advirtiéndole que de no atenderlo en el plazo de 10 días se le tendrá por desistido de su solicitud o decaído en su derecho al trámite correspondiente.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 52",
+        "documento": "Reglamento de actuación y funcionamiento del sector público por medios electrónicos (RD 203/2021)",
+        "referencia": "RD 203/2021, subsanación uso de medios electrónicos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1051,12 +1051,12 @@
         "infracción muy grave, cuando no sea constitutiva de delito."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La conducción negligente está tipificada en el Real Decreto Legislativo 6/2015 como infracción grave cuando no sea constitutiva de delito. El artículo 76 de dicha norma incluye expresamente la conducción negligente entre las infracciones graves.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 53",
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Art. 76, RDL 6/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1071,12 +1071,12 @@
         "los derechos de la Sección 2ª Capítulo II del Título I y los artículos 14 y 30.2."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 53.2 de la Constitución Española, cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y en la Sección 1ª del Capítulo II del Título I ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 54",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 53.2, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1091,12 +1091,12 @@
         "más necesidad tendrá el conductor de utilizar una relación de marchas cortas y mayor anticipación en la aceleración."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme a los conceptos de Seguridad Vial de la DGT, cuando el motor tiene poca potencia o el vehículo va muy cargado, el conductor necesitará usar una relación de marchas más corta (que proporciona más fuerza) y realizar una mayor anticipación en la aceleración para completar el adelantamiento con suficiente rapidez y seguridad.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 55",
+        "documento": "Conceptos de Seguridad Vial, Dirección General de Tráfico",
+        "referencia": "Adelantamiento, fase de preparación, DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1111,12 +1111,12 @@
         "Cuando los interesados promuevan la recusación en cualquier momento de la tramitación de un procedimiento, desde que ésta se plantee hasta que sea resuelta por el superior jerárquico del recusado."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la D. Según el artículo 22 de la Ley 39/2015, la recusación planteada por los interesados NO constituye una causa de suspensión del plazo máximo para resolver el procedimiento. Las causas de suspensión que sí prevé la ley son otras (requerimiento de subsanación, pronunciamiento previo de la UE, procedimiento no finalizado en la UE, etc.).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 56",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 22, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1131,12 +1131,12 @@
         "El personal sanitario está obligado a dar cuenta del resultado de las pruebas al agente de la autoridad que haya trasladado al interesado al centro médico."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al RDL 6/2015 y al Reglamento General de Circulación, el importe de los análisis de contraste de detección alcohólica realizados en un centro médico a petición del conductor deberá ser previamente depositado por el interesado, y con él se atenderá al pago cuando el resultado de la prueba de contraste sea positivo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 57",
+        "documento": "Real Decreto Legislativo 6/2015 / Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Pruebas de contraste de alcoholemia, RDL 6/2015 y RGC",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1151,12 +1151,12 @@
         "siempre es anterior o coincide con el punto de percepción posible (PPP). Es objetivo y no varía en cada persona al no verse influido por la experiencia, reflejos, conocimientos o distracciones."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme a los conceptos de Seguridad Vial de la DGT, el Punto de Percepción Real (PPR) siempre es posterior o coincide con el Punto de Percepción Posible (PPP), ya que el PPP es la posición desde la que un conductor en condiciones ideales ya podría haber percibido el peligro. El PPR es subjetivo y varía según la experiencia, reflejos, conocimientos o distracciones del conductor.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 58",
+        "documento": "Conceptos de Seguridad Vial, Dirección General de Tráfico",
+        "referencia": "Punto de percepción real (PPR) y posible (PPP), DGT",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1171,12 +1171,12 @@
         "El Real Decreto 951/2005, de 29 de julio, por el que se establece el marco general para la mejora de la calidad en la Administración General del Estado."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 1 del Real Decreto 203/2021, el Reglamento tiene por objeto el desarrollo de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en lo referido a la actuación y el funcionamiento electrónico del sector público.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 59",
+        "documento": "Reglamento de actuación y funcionamiento del sector público por medios electrónicos (RD 203/2021)",
+        "referencia": "Art. 1, RD 203/2021",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1191,12 +1191,12 @@
         "La flecha de salida."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, el cebreado NO está incluido dentro de la nomenclatura de 'señales horizontales de circulación'. El cebreado es una marca vial de superficie que delimita zonas prohibidas, pero se clasifica como marca de delimitación o zona prohibida, no como señal horizontal de circulación en sentido estricto.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 60",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Marcas viales, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1211,12 +1211,12 @@
         "Un año a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 125 de la Ley 39/2015, contra los actos firmes en vía administrativa en cuya resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme, el recurso extraordinario de revisión podrá interponerse en el plazo de tres meses a contar desde el conocimiento de los documentos o desde que la sentencia judicial quedó firme.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 61",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 125, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1231,12 +1231,12 @@
         "50 km/h."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación, en las intersecciones debidamente señalizadas en las que la visibilidad de la vía es prácticamente nula, no se deberá exceder la velocidad de 50 km/h.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 62",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. 48, Reglamento General de Circulación (velocidades en condiciones especiales)",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1251,12 +1251,12 @@
         "Un mes desde la publicación de la resolución del concurso en el «Boletín Oficial del Estado”."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 48 del Real Decreto 364/1995, el plazo para la toma de posesión de los puestos obtenidos por concurso de méritos, cuando comporte el reingreso al servicio activo, es de un mes desde la publicación de la resolución del concurso en el Boletín Oficial del Estado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 63",
+        "documento": "Real Decreto 364/1995, de 10 de marzo, Reglamento General de Ingreso del Personal al servicio de la AGE",
+        "referencia": "Art. 48, RD 364/1995",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1271,12 +1271,12 @@
         "Si el vehículo inmovilizado fuese utilizado en régimen de arrendamiento."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 104 del Real Decreto Legislativo 6/2015, la inmovilización se sustituirá por la prohibición de uso del vehículo por el infractor cuando el vehículo inmovilizado fuese utilizado en régimen de arrendamiento (alquiler), para no perjudicar al propietario que es ajeno a la infracción.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 64",
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "Art. 104, RDL 6/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1291,12 +1291,12 @@
         "es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley ordinaria."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 141.1 de la Constitución Española, la provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Cualquier alteración de los límites provinciales habrá de ser aprobada por las Cortes Generales mediante ley orgánica.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 65",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 141.1, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1311,12 +1311,12 @@
         "Técnicas de conducción y lo hayan superado."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme a la normativa del Título de Técnico Superior en Formación para la Movilidad Segura y Sostenible, el profesor especialista podrá acompañar a los alumnos en las pruebas prácticas del permiso de conducción si les ha impartido el módulo profesional de 'Técnicas de conducción' y lo han superado.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 66",
+        "documento": "Real Decreto 174/2021 / Normativa FP Movilidad Segura y Sostenible",
+        "referencia": "RD 174/2021, módulo Técnicas de conducción",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1331,12 +1331,12 @@
         "El número de preguntas planteadas será de 30."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Conductores, para obtener la licencia para conducir vehículos agrícolas, el número mínimo de preguntas planteadas en la prueba de control de conocimientos será de 16 y el máximo de 30.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 67",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Prueba de conocimientos para licencia agrícola, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1351,12 +1351,12 @@
         "Las Secretarías de Estado."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 84 de la Ley 40/2015 de Régimen Jurídico del Sector Público, el sector público institucional estatal integra organismos autónomos, entidades públicas empresariales, autoridades administrativas independientes, fondos sin personalidad jurídica, consorcios, fundaciones y sociedades mercantiles estatales. Las Secretarías de Estado son órganos de la Administración General del Estado, no entidades del sector público institucional.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 68",
+        "documento": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+        "referencia": "Art. 84, Ley 40/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1371,12 +1371,12 @@
         "tres años."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Conductores, los titulares de permisos de conducción expedidos en Estados miembros de la UE no sujetos a un período de vigencia determinado deberán proceder a su renovación (canje) una vez transcurridos dos años desde que establezcan su residencia normal en España.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 69",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Canje de permisos UE sin vigencia determinada, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1391,12 +1391,12 @@
         "Cuatrienal."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según la Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, la Estrategia Estatal para la inclusión social de las personas trans tendrá una duración cuatrienal (cuatro años).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 70",
+        "documento": "Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI",
+        "referencia": "Ley 4/2023, Estrategia Estatal de inclusión social de las personas trans",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1411,12 +1411,12 @@
         "volver a realizar tanto la formación de cualificación inicial como la formación complementaria."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Conductores, si un examinador no ha calificado pruebas para una determinada clase de permiso en un periodo de veinticuatro meses, para poder volver a realizar esa actividad deberá someterse a una reevaluación adecuada, sin necesidad de repetir toda la formación inicial.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 71",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Reevaluación de examinadores, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1431,12 +1431,12 @@
         "Porcentaje de distancia recorrida en carreteras con una calificación de seguridad superior a un umbral predefinido."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La Estrategia de Seguridad Vial 2030 incluye ocho indicadores clave de rendimiento (KPIs). Uno de ellos es el porcentaje de distancia recorrida en carreteras con una calificación de seguridad superior a un umbral predefinido (infraestructura viaria segura). Las demás opciones no corresponden exactamente a los KPIs oficiales de la estrategia.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 72",
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Indicadores clave de rendimiento (KPIs), Estrategia de Seguridad Vial 2030",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1451,12 +1451,12 @@
         "A la Jefatura de la Agrupación de Tráfico le corresponde la superior dirección del Área de Sanciones, del Área de Recursos Humanos y del Área de Recursos Materiales."
       ],
       "correcta": null,
-      "explicacion": "Pregunta anulada. Referencia: Convocatoria 2023.",
+      "explicacion": "Pregunta anulada en la convocatoria oficial.",
       "tema": null,
       "bloque": null,
       "fuente": {
         "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 73",
+        "referencia": "Pregunta anulada",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1471,12 +1471,12 @@
         "20 días o de un plazo superior cuando las circunstancias del caso así lo requieran."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según la Ley 39/2015 del Procedimiento Administrativo Común, la falta o insuficiente acreditación de la representación no impedirá que se tenga por realizado el acto de que se trate, siempre que se aporte aquélla o subsane el defecto dentro del plazo de 10 días o de un plazo superior cuando las circunstancias del caso así lo requieran.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 74",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. sobre representación, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1491,12 +1491,12 @@
         "Llevarán un catadióptrico trasero no triangular los vehículos con anchura de hasta 1.300 mm, a partir de la cual, deberán equipar dos catadióptricos traseros no triangulares."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Vehículos, los vehículos de tres ruedas con anchura de hasta 1.000 mm llevarán un catadióptrico trasero no triangular; a partir de 1.000 mm de anchura, deberán equipar dos catadióptricos traseros no triangulares. Los catadióptricos triangulares están reservados a remolques y semirremolques.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 75",
+        "documento": "Reglamento General de Vehículos (RD 2822/1998)",
+        "referencia": "Catadióptricos traseros en vehículos de tres ruedas, Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1511,12 +1511,12 @@
         "se considerarán interesados en el procedimiento en tanto no haya recaído resolución definitiva."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 4 de la Ley 39/2015, las personas que sin haber iniciado el procedimiento tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte, se considerarán interesados en el procedimiento, sin necesidad de solicitar expresamente esa condición.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 76",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 4, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1531,12 +1531,12 @@
         "por el Director del centro de formación a petición del aspirante."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Conductores (Anexo V.B).3), las fechas de los ejercicios prácticos individuales sobre extinción de incendios para la obtención de la autorización de mercancías peligrosas serán fijadas a petición del Director del centro de formación por la Jefatura Provincial de Tráfico.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 77",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Anexo V.B).3, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1551,12 +1551,12 @@
         "El Gabinete de la Presidencia del Gobierno se regulará por Acuerdo del Consejo de Ministros en el que se determinará, entre otros aspectos, su estructura y funciones. El resto de Gabinetes se regulará por lo dispuesto en la Ley 50/1997."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 10 de la Ley 50/1997 del Gobierno, el Gabinete de la Presidencia del Gobierno se regulará por Real Decreto del Presidente en el que se determinará, entre otros aspectos, su estructura y funciones. El resto de Gabinetes (de vicepresidentes y ministros) se regulará por lo dispuesto en la propia Ley 50/1997.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 78",
+        "documento": "Ley 50/1997, de 27 de noviembre, del Gobierno",
+        "referencia": "Art. 10, Ley 50/1997",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1571,12 +1571,12 @@
         "los túneles cuya longitud sea superior a 200 metros y los pasos inferiores de cualquier longitud."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento General de Circulación (RD 1428/2003), estarán debidamente señalizados los túneles de cualquier longitud y los pasos inferiores cuya longitud sea superior a 200 metros.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 79",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Art. sobre túneles y pasos inferiores, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1591,12 +1591,12 @@
         "Apoyo educativo a la unidad familiar."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la C. Según el artículo 19.2 de la Ley Orgánica 1/2004, la atención multidisciplinar a las víctimas de violencia de género implica: información a las víctimas, atención psicológica, apoyo social, seguimiento de las reclamaciones de sus derechos y apoyo educativo a la unidad familiar. El 'apoyo en las nuevas tecnologías para la mujer víctima' no está incluido expresamente en el artículo 19.2.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 80",
+        "documento": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género",
+        "referencia": "Art. 19.2, LO 1/2004",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1611,12 +1611,12 @@
         "Al Ministerio de Transportes y Movilidad Sostenible."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Real Decreto Legislativo 6/2015, y sin perjuicio de las competencias asumidas por las comunidades autónomas, la competencia para el desarrollo de los requisitos técnicos para la homologación de los vehículos dotados de un sistema de conducción automatizado corresponde al Ministerio de Industria y Turismo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 81",
+        "documento": "Real Decreto Legislativo 6/2015, de 30 de octubre, Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial",
+        "referencia": "RDL 6/2015, competencias en homologación de vehículos con conducción automatizada",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1631,12 +1631,12 @@
         "El Derecho a la seguridad e higiene en el trabajo."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La libertad de cátedra está reconocida en el artículo 20.1.c) de la Constitución Española, dentro de la Sección 1ª del Capítulo II del Título I (derechos fundamentales y libertades públicas). Los derechos a la propiedad privada, al trabajo y a la seguridad e higiene en el trabajo se ubican en la Sección 2ª del mismo capítulo o en el Capítulo III.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 82",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 20.1.c), Constitución Española (Sección 1ª, Capítulo II, Título I)",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1651,12 +1651,12 @@
         "las luces de estacionamiento delanteras y traseras, así como las luces de cruce cuando estén combinadas o recíprocamente incorporadas a dichas luces, estén encendidas como luces de posición."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Reglamento nº 48 de las Naciones Unidas, el requisito de encendido y apagado simultáneo de las luces de posición delanteras y traseras no se aplicará cuando las luces de posición laterales funcionen de manera intermitente al mismo tiempo que los indicadores de dirección.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 83",
+        "documento": "Reglamento nº 48 de las Naciones Unidas sobre instalación de dispositivos de alumbrado y señalización luminosa",
+        "referencia": "Reglamento ONU nº 48, alumbrado y señalización luminosa",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1671,12 +1671,12 @@
         "Todos los VMP deben estar equipados de un avisador acústico; además los VMP destinados al transporte de mercancías u otros servicios deben estar equipados de un aviso sonoro de marcha atrás."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según la Resolución de 12 de enero de 2022 de la DGT por la que se aprueba el Manual de características técnicas de los VMP, todos los VMP deben estar equipados de un avisador acústico (obligatorio); además, los VMP destinados al transporte de mercancías u otros servicios también deben estar equipados (obligatoriamente) de un aviso sonoro de marcha atrás.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 84",
+        "documento": "Resolución de 12 de enero de 2022, DGT (Manual de características técnicas de los VMP)",
+        "referencia": "Resolución DGT 12/01/2022, avisadores acústicos VMP",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1691,12 +1691,12 @@
         "los intereses económicos y comerciales."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la C. Según el artículo 14 de la Ley 19/2013, el derecho de acceso a la información pública podrá limitarse cuando pueda causar perjuicio a la seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención de infracciones penales, derechos y libertades de personas, intereses económicos y comerciales, política económica, secreto profesional, propiedad intelectual o protección del medio ambiente. La 'igualdad efectiva entre mujeres y hombres' NO figura en ese listado de límites.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 85",
+        "documento": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+        "referencia": "Art. 14, Ley 19/2013",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1711,12 +1711,12 @@
         "Cuando la notificación por medios electrónicos sea de carácter obligatorio, o haya sido expresamente elegida por el interesado, se entenderá rechazada cuando hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin que se acceda a su contenido."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la A. Según el artículo 43 de la Ley 39/2015, las notificaciones por medios electrónicos se practicarán mediante comparecencia en la sede electrónica o mediante la dirección electrónica habilitada única (DEHú), pero NO mediante 'dirección de correo electrónico' como señala incorrectamente la opción A.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 86",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 43, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1731,12 +1731,12 @@
         "La eliminación total de los siniestros viales, la llamada “Visión 0”."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. La Estrategia de Seguridad Vial 2030 establece como objetivo general de reducción de la siniestralidad reducir el número de personas fallecidas en un 50% respecto al valor base de 2019, en línea con los objetivos europeos del Decenio de Acción para la Seguridad Vial.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 87",
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Objetivos generales de reducción de siniestralidad, Estrategia de Seguridad Vial 2030",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1751,12 +1751,12 @@
         "en al ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 117.5 de la Constitución Española, una ley regulará el ejercicio de la jurisdicción militar en el ámbito estrictamente castrense y en los supuestos de estado de sitio, de acuerdo con los principios de la Constitución.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 88",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 117.5, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1771,12 +1771,12 @@
         "El principio de personalización y proactividad."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el Real Decreto 203/2021, entre los principios que debe respetar el sector público en sus actuaciones y relaciones electrónicas se encuentra el principio de personalización y proactividad, según el cual la Administración debe anticiparse a las necesidades de los ciudadanos y ofrecerles soluciones adaptadas.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 89",
+        "documento": "Reglamento de actuación y funcionamiento del sector público por medios electrónicos (RD 203/2021)",
+        "referencia": "Art. sobre principios, RD 203/2021",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1791,12 +1791,12 @@
         "Las elecciones tendrán lugar entre los treinta días y sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 68.6 de la Constitución Española, las elecciones tendrán lugar entre los treinta y los sesenta días desde la terminación del mandato. El Congreso electo deberá ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 90",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 68.6, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1811,12 +1811,12 @@
         "Las máquinas automotrices de servicios."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento General de Vehículos, las máquinas automotrices de servicios deberán estar provistas obligatoriamente de señal de emergencia (triángulos de preseñalización o dispositivo equivalente) para poder circular por las vías públicas.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 91",
+        "documento": "Reglamento General de Vehículos (RD 2822/1998)",
+        "referencia": "Señal de emergencia obligatoria, Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1831,12 +1831,12 @@
         "Desistir de derechos."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción INCORRECTA es la D. Según el artículo 11 de la Ley 39/2015, las Administraciones solo requerirán a los interesados el uso de firma para: formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. 'Desistir de derechos' no es una de las causas; la norma distingue entre 'desistir de acciones' (abandonar el procedimiento) y 'renunciar a derechos'.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 92",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 11, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1851,12 +1851,12 @@
         "II."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Conforme al Reglamento nº 44 de las Naciones Unidas sobre sistemas de retención para niños (SRI), los niños con un peso entre 9 y 18 kg deberán utilizar un sistema del Grupo I. El Grupo 0 es para bebés hasta 10 kg, el Grupo 0+ hasta 13 kg, el Grupo I de 9 a 18 kg, el Grupo II de 15 a 25 kg y el Grupo III de 22 a 36 kg.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 93",
+        "documento": "Reglamento nº 44 de las Naciones Unidas (sistemas de retención infantil)",
+        "referencia": "Reglamento ONU nº 44, Grupo I (9-18 kg)",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1871,12 +1871,12 @@
         "Las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 98 del Real Decreto Legislativo 5/2015, texto refundido del EBEP, el funcionario en situación de suspensión provisional tendrá derecho a percibir las retribuciones básicas y, en su caso, las prestaciones familiares por hijo a cargo.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 94",
+        "documento": "Real Decreto Legislativo 5/2015, de 30 de octubre, Estatuto Básico del Empleado Público",
+        "referencia": "Art. 98, RDL 5/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1891,12 +1891,12 @@
         "En el VI."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Las aptitudes psicofísicas requeridas para obtener o prorrogar el permiso o la licencia de conducción se establecen en el Anexo IV del Reglamento General de Conductores (RD 818/2009).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 95",
+        "documento": "Reglamento General de Conductores (RD 818/2009)",
+        "referencia": "Anexo IV, Reglamento General de Conductores",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1911,12 +1911,12 @@
         "La reforma constitucional, una vez aprobada por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los veinte días siguientes a su aprobación, una décima parte de los miembros del Congreso de los Diputados."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 167.3 de la Constitución Española, la reforma constitucional aprobada por las Cortes Generales será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 96",
+        "documento": "Constitución Española de 1978",
+        "referencia": "Art. 167.3, Constitución Española",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1931,12 +1931,12 @@
         "Reducir los tiempos de atención y mejorar la asistencia en caso de siniestro."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Dentro del Área estratégica 'Vías seguras' de la Estrategia de Seguridad Vial 2030, una de las líneas de actuación es evaluar el nivel de seguridad de la red viaria. Las demás opciones pertenecen a otras áreas estratégicas de la estrategia (usuarios seguros, vehículos seguros, respuesta post-siniestro).",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 97",
+        "documento": "Estrategia de Seguridad Vial 2030",
+        "referencia": "Área estratégica 'Vías seguras', Estrategia de Seguridad Vial 2030",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1951,12 +1951,12 @@
         "La suspensión firme de funciones."
       ],
       "correcta": 3,
-      "explicacion": "Respuesta oficial: D. Referencia: Convocatoria 2023.",
+      "explicacion": "La opción que NO es causa de pérdida de la condición de funcionario de carrera es la D. Según el artículo 63 del Real Decreto Legislativo 5/2015 (EBEP), las causas de pérdida de la condición de funcionario son: renuncia, pérdida de la nacionalidad, jubilación total, sanción disciplinaria de separación del servicio firme e inhabilitación absoluta o especial firme para cargo público. La suspensión firme de funciones es una sanción temporal que no implica la pérdida definitiva de la condición de funcionario.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 98",
+        "documento": "Real Decreto Legislativo 5/2015, de 30 de octubre, Estatuto Básico del Empleado Público",
+        "referencia": "Art. 63, RDL 5/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1971,12 +1971,12 @@
         "Deficiencias técnicas leves, deficiencias graves, deficiencias muy graves y deficiencias desfavorables."
       ],
       "correcta": 0,
-      "explicacion": "Respuesta oficial: A. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 10 del Real Decreto 563/2017, las deficiencias detectadas durante las inspecciones técnicas en carretera de vehículos comerciales que circulan en territorio español se clasifican en tres categorías: deficiencias técnicas leves, deficiencias graves y deficiencias peligrosas.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 99",
+        "documento": "Real Decreto 563/2017, de 2 de junio",
+        "referencia": "Art. 10, RD 563/2017",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -1991,12 +1991,12 @@
         "12 meses."
       ],
       "correcta": 1,
-      "explicacion": "Respuesta oficial: B. Referencia: Convocatoria 2023.",
+      "explicacion": "Correcto. Según el artículo 95 de la Ley 39/2015, en los procedimientos iniciados a solicitud del interesado, cuando se produzca la paralización del procedimiento por causa imputable al mismo, el órgano competente le advertirá que, transcurridos tres meses, se producirá la caducidad del procedimiento.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta 100",
+        "documento": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "referencia": "Art. 95, Ley 39/2015",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -2011,12 +2011,12 @@
         "Los conductores de vehículos militares que, por su naturaleza, precisen un sistema de comunicaciones internas, podrán utilizar durante la conducción, cascos o auriculares conectados a aparatos receptores o reproductores de sonido, así como dispositivos de telefonía móvil aun cuando la comunicación se realice empleando las manos, cascos, auriculares o instrumentos similares."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023 (pregunta de reserva).",
+      "explicacion": "La opción INCORRECTA es la C. Según el Anexo III del Reglamento General de Circulación, en el caso de vehículos militares que circulen en convoy, NO todos los vehículos del convoy deberán montar individualmente la señal V-2. El régimen específico de los convoyes militares recogido en la Sección 2ª establece que la señalización del conjunto del convoy tiene un tratamiento diferenciado al de los vehículos de transporte especial individual.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta de reserva 1",
+        "documento": "Reglamento General de Circulación (RD 1428/2003)",
+        "referencia": "Anexo III, Sección 2ª, Reglamento General de Circulación",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -2031,12 +2031,12 @@
         "El Presidente del Tribunal Constitucional, los Presidentes de Sala y el Magistrado más antiguo y más moderno de cada una de ellas."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023 (pregunta de reserva).",
+      "explicacion": "Correcto. Según el artículo 61 de la Ley Orgánica 6/1985 del Poder Judicial, la Sala especial del Tribunal Supremo que conoce de los procesos de declaración de ilegalidad y disolución de partidos políticos estará formada por el Presidente del Tribunal Supremo, los Presidentes de Sala y el Magistrado más antiguo y el más moderno de cada una de las Salas.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta de reserva 2",
+        "documento": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial",
+        "referencia": "Art. 61, Ley Orgánica 6/1985 del Poder Judicial",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
@@ -2051,12 +2051,12 @@
         "Traílla."
       ],
       "correcta": 2,
-      "explicacion": "Respuesta oficial: C. Referencia: Convocatoria 2023 (pregunta de reserva).",
+      "explicacion": "Correcto. Según el Anexo II del Reglamento General de Vehículos, la Mototraílla es el vehículo autopropulsado que arranca, recoge, traslada y extiende tierras. Se diferencia de la traílla (remolcada), de la excavadora y de la niveladora, que realizan otras operaciones diferentes.",
       "tema": null,
       "bloque": null,
       "fuente": {
-        "documento": "Convocatoria real 2023",
-        "referencia": "Examen convocatoria 2023 (Modelo A), pregunta de reserva 3",
+        "documento": "Reglamento General de Vehículos (RD 2822/1998)",
+        "referencia": "Anexo II (clasificación por criterios de utilización), Reglamento General de Vehículos",
         "texto": "",
         "documentoId": "",
         "seccionId": ""
