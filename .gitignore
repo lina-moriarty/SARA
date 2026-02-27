@@ -1,3 +1,7 @@
 .DS_Store
 sources/parte-especifica/BOE-A-2003-23514-RGCIRCULACION.pdf
 .DS_Store
+node_modules/
+package-lock.json
+convocatorias-raw/
+update_explanations_2023.py

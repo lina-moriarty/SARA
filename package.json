@@ -9,5 +9,10 @@
     "test": "node --test 'tests/*.test.js'"
   },
   "author": "lina-moriarty",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.4.624"
+  }
 }
